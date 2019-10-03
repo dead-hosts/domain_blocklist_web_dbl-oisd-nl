@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
         "1570120064": {
             "0000.fls.doubleclick.net": "INACTIVE",
-            "0000000.fls.doubleclick.net": "INACTIVE"
+            "0000000.fls.doubleclick.net": "INACTIVE",
+            "00073.openvpn.f2pool.com": "INACTIVE"
         }
     }
 }
