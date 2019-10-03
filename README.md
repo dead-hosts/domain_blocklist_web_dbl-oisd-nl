@@ -1,9 +1,19 @@
-# About [repository-name]
+# About domain_blocklist_web_dbl-oisd-nl
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/domain_blocklist_web_dbl-oisd-nl.svg?branch=master)](https://travis-ci.org/dead-hosts/domain_blocklist_web_dbl-oisd-nl)
 
 ```
-[description]
+# [dbl.oisd.nl]        ____ ____ __ 
+#   __ __ ____ ____   (    (  _ (  )
+#  /  (  / ___(    \   ) D () _ / (_/\
+# (  O )(\___ \) D (  (____(____\____/
+#  \__(__(____(____/  Domain blocklist
+#
+#  Your #1 blocklist ;)
+#
+#  Info/Issues: https://oisd.nl
+#  Credits: https://credits.oisd.nl
+#  Buy me a beer: https://paypal.me/sjhgvr
 ```
 
 --------------------------------------------------------------------------------
