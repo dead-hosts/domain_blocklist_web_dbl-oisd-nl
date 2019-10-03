@@ -4,6 +4,8 @@
     "days_until_next_test": 3,
     "name": "dead-hosts/domain_blocklist_web_dbl-oisd-nl",
     "own_management": false,
-    "ping": [],
+    "ping": [
+        "@sjhgvr"
+    ],
     "raw_link": "https://dbl.oisd.nl/"
 }
