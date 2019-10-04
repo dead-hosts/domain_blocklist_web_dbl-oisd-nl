@@ -1,10 +1,25 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
         "1570120064": {
+            "0-131.openvpn.f2pool.com": "INACTIVE",
+            "0-2u.com": "INACTIVE",
             "000.fls.doubleclick.net": "INACTIVE",
             "0000.fls.doubleclick.net": "INACTIVE",
             "0000000.fls.doubleclick.net": "INACTIVE",
-            "00073.openvpn.f2pool.com": "INACTIVE"
+            "0006808.com": "INACTIVE",
+            "00073.openvpn.f2pool.com": "INACTIVE",
+            "001.vwoool.com": "INACTIVE",
+            "0048.openvpn.f2pool.com": "INACTIVE",
+            "01.bitdefender.nym2.appnexus.com": "INACTIVE",
+            "010xk.com": "INACTIVE",
+            "013f890e3-amazon.com": "INACTIVE",
+            "014f890e3-amazon.com": "INACTIVE",
+            "021afa8db62344b69f5a1a4e38725000.nrb.footprintdns.com": "INACTIVE",
+            "024dna.cn": "INACTIVE",
+            "05h7omae7rbwbpktx2tk.xsitedleadpages.com": "INACTIVE",
+            "061a1632d773-amazon.com": "INACTIVE",
+            "0793mobile.com": "INACTIVE",
+            "086.openvpn.f2pool.com": "INACTIVE"
         }
     }
 }

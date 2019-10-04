@@ -12,12 +12,12 @@ dns_server:
 - 1.0.0.1
 filter: ''
 generate_complements: false
-generate_hosts: true
+generate_hosts: false
 generate_json: false
 header_printed: false
 hierarchical_sorting: false
 http_codes:
-    active: true
+    active: false
     list:
         potentially_down:
         - 400
@@ -65,7 +65,7 @@ http_codes:
         - 206
     not_found_default: XXX
 iana_whois_server: whois.iana.org
-idna_conversion: true
+idna_conversion: false
 inactive_database: true
 less: false
 links:
@@ -85,8 +85,8 @@ maximal_processes: 20
 mining: false
 multiprocess: false
 no_files: false
-no_special: false
-no_whois: false
+no_special: true
+no_whois: true
 outputs:
     analytic:
         directories:
@@ -182,7 +182,7 @@ status:
         up: ACTIVE
         valid: VALID
 syntax: false
-timeout: 6
+timeout: 3.0
 travis: true
 travis_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
 travis_autosave_final_commit: '[Final/Result][Dead-Hosts::domain_blocklist_web_dbl-oisd-nl]
@@ -193,4 +193,4 @@ unified: false
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
     Chrome/76.0.3809.100 Safari/537.36
 verify_ssl_certificate: false
-whois_database: true
+whois_database: false
