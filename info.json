@@ -2,7 +2,7 @@
     "currently_under_test": true,
     "custom_pyfunceble_config": {
         "timeout": 3.0,
-        "aggressive: false,
+        "aggressive": false,
         "generate_complements": false,
         "generate_hosts": false,
         "generate_json": false,
