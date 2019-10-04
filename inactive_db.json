@@ -3,11 +3,7 @@
         "1570120064": {
             "0-131.openvpn.f2pool.com": "INACTIVE",
             "0-2u.com": "INACTIVE",
-            "000.fls.doubleclick.net": "INACTIVE",
-            "0000.fls.doubleclick.net": "INACTIVE",
-            "0000000.fls.doubleclick.net": "INACTIVE",
             "0006808.com": "INACTIVE",
-            "00073.openvpn.f2pool.com": "INACTIVE",
             "001.vwoool.com": "INACTIVE",
             "0048.openvpn.f2pool.com": "INACTIVE",
             "01.bitdefender.nym2.appnexus.com": "INACTIVE",
@@ -33,6 +29,15 @@
             "101websupport.com": "INACTIVE",
             "10394jdh.website": "INACTIVE",
             "1055.ic-live.com": "INACTIVE"
+        },
+        "1570209696": {
+            "00073.openvpn.f2pool.com": "INACTIVE",
+            "10.creativecdn.com": "INACTIVE",
+            "109.cypanel.com": "INACTIVE",
+            "10click.ir": "INACTIVE",
+            "10cloudtech-trends.info": "INACTIVE",
+            "10thcnn.com": "INACTIVE",
+            "1100.adsina.allyes.com": "INACTIVE"
         }
     }
 }
