@@ -949,14 +949,10 @@
             "adpop.live": "INACTIVE",
             "adpop.xyz": "INACTIVE",
             "adproxy-as-us-west.fyber.com": "INACTIVE",
-            "adproxy-eu-west.fyber.com": "INACTIVE",
-            "adproxy-us-east.fyber.com": "INACTIVE",
-            "adproxy-us-west.fyber.com": "INACTIVE",
             "adquatrobarras.com.br": "INACTIVE",
             "adqziwedi.bigdoggi.biz": "INACTIVE",
             "adrank.celtra.com": "INACTIVE",
             "adrenalastblog.com": "INACTIVE",
-            "adrevservice.com": "INACTIVE",
             "ads-accu.aws.amobee.com": "INACTIVE",
             "ads-afp.aws.amobee.com": "INACTIVE",
             "ads-au-dev.onelouder.com": "INACTIVE",
@@ -1068,10 +1064,6 @@
             "ads.wip.digitalriver.com": "INACTIVE",
             "ads.xilu.com": "INACTIVE",
             "ads.zone-media.com": "INACTIVE",
-            "ads1.issuepoll.co.kr": "INACTIVE",
-            "ads1.planisys.net": "INACTIVE",
-            "ads1.qadabra.com": "INACTIVE",
-            "ads19.adcolony.com": "INACTIVE",
             "ads2.ad-center.com": "INACTIVE",
             "ads2.dnevnik.si": "INACTIVE",
             "ads2.mysanantonio.com": "INACTIVE",
@@ -111557,6 +111549,1748 @@
         },
         "1571407539": {
             "ad.priel.co.kr": "INACTIVE"
+        },
+        "1571408289": {
+            "ad.primead.jp": "INACTIVE"
+        },
+        "1571408290": {
+            "adprime.us-east-1.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1571408291": {
+            "ad.prismamediadigital.com": "INACTIVE",
+            "adprime.us-west-2.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1571408292": {
+            "adpriv.nikkei.com": "INACTIVE"
+        },
+        "1571408294": {
+            "adprofessmedia.go2cloud.org": "INACTIVE"
+        },
+        "1571408296": {
+            "ad.profiwin.de": "INACTIVE"
+        },
+        "1571408297": {
+            "adpro.futurenet.club": "INACTIVE"
+        },
+        "1571408298": {
+            "ad.propellerads.com": "INACTIVE"
+        },
+        "1571408299": {
+            "adpro.pro.cn": "INACTIVE"
+        },
+        "1571408306": {
+            "adprovider.de": "INACTIVE"
+        },
+        "1571408311": {
+            "adprovider.maru.jp": "INACTIVE"
+        },
+        "1571408312": {
+            "adproxy.autohome.com.cn": "INACTIVE"
+        },
+        "1571408313": {
+            "adproxy-eu-west.fyber.com": "INACTIVE"
+        },
+        "1571408314": {
+            "ad.proxy.sh": "INACTIVE",
+            "adproxy-us-east.fyber.com": "INACTIVE"
+        },
+        "1571408315": {
+            "adproxy-us-west.fyber.com": "INACTIVE"
+        },
+        "1571408316": {
+            "ad.prv.pl": "INACTIVE"
+        },
+        "1571408317": {
+            "adp-sdlv.adtdp.com": "INACTIVE",
+            "adp.s8bbs.com": "INACTIVE"
+        },
+        "1571408318": {
+            "adpsj.ssl.d1.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571408319": {
+            "adp-static.adtdp.com": "INACTIVE"
+        },
+        "1571408320": {
+            "ad.pt.doubleclick.net": "INACTIVE",
+            "ad.publicidees.com": "INACTIVE"
+        },
+        "1571408322": {
+            "adpublish.ydstatic.com": "INACTIVE"
+        },
+        "1571408323": {
+            "adpubs.yaolan.com": "INACTIVE"
+        },
+        "1571408324": {
+            "ad-pub.terra.com": "INACTIVE",
+            "ad-pub.terra.com.br": "INACTIVE"
+        },
+        "1571408325": {
+            "ad-pub.terra.com.mx": "INACTIVE"
+        },
+        "1571408326": {
+            "adpub.yaolan.com": "INACTIVE"
+        },
+        "1571408328": {
+            "ad.punto-informatico.it": "INACTIVE"
+        },
+        "1571408329": {
+            "ad.pupsik.ru": "INACTIVE"
+        },
+        "1571408330": {
+            "ad.purepc.pl": "INACTIVE"
+        },
+        "1571408331": {
+            "adpush.91smart.net": "INACTIVE"
+        },
+        "1571408332": {
+            "adpush.goforandroid.com": "INACTIVE"
+        },
+        "1571408333": {
+            "adpvwurgjx.cn": "INACTIVE"
+        },
+        "1571408334": {
+            "adp.whoclick.cn": "INACTIVE"
+        },
+        "1571408335": {
+            "adpx.metanetwork.com": "INACTIVE",
+            "adpxljs.adpxl.co": "INACTIVE"
+        },
+        "1571408337": {
+            "adq.chinaso.com": "INACTIVE"
+        },
+        "1571408338": {
+            "ad.qingting.fm": "INACTIVE"
+        },
+        "1571408339": {
+            "ad.qiushibaike.com": "INACTIVE"
+        },
+        "1571408342": {
+            "ad.qn.img-space.com": "INACTIVE"
+        },
+        "1571408343": {
+            "ad.queryly.com": "INACTIVE"
+        },
+        "1571408344": {
+            "ad.qun.qq.com": "INACTIVE"
+        },
+        "1571408345": {
+            "ad.qyer.com": "INACTIVE"
+        },
+        "1571408346": {
+            "ad.radio.si": "INACTIVE"
+        },
+        "1571408347": {
+            "adr.adplus.co.id": "INACTIVE"
+        },
+        "1571408348": {
+            "a.dragolosa.com": "INACTIVE"
+        },
+        "1571408349": {
+            "ad.rallywood.hu": "INACTIVE"
+        },
+        "1571408350": {
+            "ad.rambler.ru": "INACTIVE"
+        },
+        "1571408353": {
+            "ad.rarure.com": "INACTIVE",
+            "adrates.theglobeandmail.com": "INACTIVE"
+        },
+        "1571408354": {
+            "a.draugiem.lv": "INACTIVE"
+        },
+        "1571408357": {
+            "ad.rd06.com": "INACTIVE"
+        },
+        "1571408358": {
+            "ad-rdh.adworx.at": "INACTIVE"
+        },
+        "1571408359": {
+            "adrd.taxuan.net": "INACTIVE"
+        },
+        "1571408360": {
+            "adrd.weblio.jp": "INACTIVE"
+        },
+        "1571408361": {
+            "ad.reachjunction.com": "INACTIVE",
+            "ad.reachlocal.com": "INACTIVE"
+        },
+        "1571408363": {
+            "ad.readserver.net": "INACTIVE"
+        },
+        "1571408364": {
+            "ad.realist.gen.tr": "INACTIVE"
+        },
+        "1571408366": {
+            "ad.realmedia.co.kr": "INACTIVE"
+        },
+        "1571408367": {
+            "adreamof.tk": "INACTIVE"
+        },
+        "1571408372": {
+            "ad.rednet.cn": "INACTIVE"
+        },
+        "1571408373": {
+            "ad.referencement.01net.com": "INACTIVE"
+        },
+        "1571408374": {
+            "ad.rekket.com": "INACTIVE"
+        },
+        "1571408375": {
+            "ad.reklama.nu": "INACTIVE"
+        },
+        "1571408376": {
+            "ad.reklamport.com": "INACTIVE"
+        },
+        "1571408377": {
+            "ad.reklamstore.com": "INACTIVE"
+        },
+        "1571408378": {
+            "ad.re-markable.re-markable.net": "INACTIVE"
+        },
+        "1571408379": {
+            "ad.re-markit00.re-markit.co": "INACTIVE"
+        },
+        "1571408380": {
+            "adremedy.com": "INACTIVE"
+        },
+        "1571408382": {
+            "adrenaline.deluxepass.com": "INACTIVE"
+        },
+        "1571408384": {
+            "ad.reople.co.kr": "INACTIVE"
+        },
+        "1571408386": {
+            "adrepo.singlehop.com": "INACTIVE",
+            "adreport.khan.co.kr": "INACTIVE"
+        },
+        "1571408387": {
+            "ad.repubblica.it": "INACTIVE"
+        },
+        "1571408388": {
+            "adrequisitor-af.lp.uol.com.br": "INACTIVE"
+        },
+        "1571408389": {
+            "adres35.sytes.net": "INACTIVE"
+        },
+        "1571408390": {
+            "adresaadresata.xhost.ro": "INACTIVE"
+        },
+        "1571408392": {
+            "adresik.gq": "INACTIVE"
+        },
+        "1571408393": {
+            "adres.myaora.net": "INACTIVE"
+        },
+        "1571408394": {
+            "ad-resource.huanqiu.com": "INACTIVE"
+        },
+        "1571408396": {
+            "adresult.genieesspv.jp": "INACTIVE"
+        },
+        "1571408397": {
+            "ad.resultplus.jp": "INACTIVE",
+            "ad.retargeter.com": "INACTIVE"
+        },
+        "1571408398": {
+            "ad.reunion.com": "INACTIVE"
+        },
+        "1571408399": {
+            "adrev22.ddns.net": "INACTIVE"
+        },
+        "1571408400": {
+            "ad.reyazilim.com": "INACTIVE"
+        },
+        "1571408401": {
+            "adrfoc.us.com": "INACTIVE"
+        },
+        "1571408402": {
+            "ad.rfp.fout.jp": "INACTIVE",
+            "adr-g3-1.vindicosuite.com": "INACTIVE"
+        },
+        "1571408403": {
+            "adr-g3-2.vindicosuite.com": "INACTIVE"
+        },
+        "1571408404": {
+            "adri315sexy.eu1.badoo.com": "INACTIVE"
+        },
+        "1571408405": {
+            "adria.iprom.net": "INACTIVE"
+        },
+        "1571408407": {
+            "adriana-day.us.org": "INACTIVE"
+        },
+        "1571408408": {
+            "adriana-ingham.us.org": "INACTIVE"
+        },
+        "1571408414": {
+            "adrianevillela.grupoguc.com.br": "INACTIVE"
+        },
+        "1571408415": {
+            "adrianhoffmann.net": "INACTIVE"
+        },
+        "1571408416": {
+            "adrianna-corsi.us.org": "INACTIVE"
+        },
+        "1571408417": {
+            "adrianna-mcneely.us.org": "INACTIVE"
+        },
+        "1571408418": {
+            "adrianzajewicz.blogspot.com": "INACTIVE"
+        },
+        "1571408421": {
+            "adriawilla.be": "INACTIVE"
+        },
+        "1571408422": {
+            "ad.rich1.adbn.ru": "INACTIVE"
+        },
+        "1571408424": {
+            "adrienne-cohrs.us.org": "INACTIVE",
+            "adrienneaubrecht.net": "INACTIVE"
+        },
+        "1571408425": {
+            "adrienne-kiss.us.org": "INACTIVE",
+            "adrienne-nadler.us.org": "INACTIVE"
+        },
+        "1571408426": {
+            "adrienne-neville.us.org": "INACTIVE"
+        },
+        "1571408427": {
+            "adrienne-poplar.us.org": "INACTIVE",
+            "adrienne-tremaine.us.org": "INACTIVE"
+        },
+        "1571408428": {
+            "adrienne-whitsett.us.org": "INACTIVE"
+        },
+        "1571408429": {
+            "adright.adk2x.com": "INACTIVE"
+        },
+        "1571408430": {
+            "adright.go2affise.com": "INACTIVE"
+        },
+        "1571408431": {
+            "ad.rincondelvago.com": "INACTIVE"
+        },
+        "1571408434": {
+            "adriverm.narod2.ru": "INACTIVE"
+        },
+        "1571408435": {
+            "adriver-sync.rutarget.ru": "INACTIVE",
+            "adriver.yadro.ru": "INACTIVE"
+        },
+        "1571408440": {
+            "ad.ro.doubleclick.net": "INACTIVE",
+            "adrogin.dev.pushads.biz": "INACTIVE"
+        },
+        "1571408441": {
+            "a.drogomet.com": "INACTIVE"
+        },
+        "1571408442": {
+            "adro.hit.gemius.pl": "INACTIVE"
+        },
+        "1571408444": {
+            "adroll.navisite.net": "INACTIVE"
+        },
+        "1571408445": {
+            "ad.romance-net.com": "INACTIVE"
+        },
+        "1571408446": {
+            "adrotate.sytes.net": "INACTIVE"
+        },
+        "1571408447": {
+            "adrotic.girlonthenet.com": "INACTIVE"
+        },
+        "1571408448": {
+            "adroute.focas.jp": "INACTIVE"
+        },
+        "1571408450": {
+            "ad.rs.doubleclick.net": "INACTIVE",
+            "adr.realclick.co.kr": "INACTIVE"
+        },
+        "1571408452": {
+            "adrs.hit.gemius.pl": "INACTIVE"
+        },
+        "1571408453": {
+            "adrspain.go2cloud.org": "INACTIVE"
+        },
+        "1571408454": {
+            "adr-sugr-1.vindicosuite.com": "INACTIVE",
+            "adrs.sdo.com": "INACTIVE"
+        },
+        "1571408455": {
+            "ad.rtbq.spotx.tv": "INACTIVE"
+        },
+        "1571408456": {
+            "ad.rtl.hr": "INACTIVE"
+        },
+        "1571408457": {
+            "ad.ru.doubleclick.net": "INACTIVE"
+        },
+        "1571408458": {
+            "adrugrehabwow.com": "INACTIVE"
+        },
+        "1571408459": {
+            "ad.ruliweb.com": "INACTIVE"
+        },
+        "1571408460": {
+            "adrunner.pricerunner.se": "INACTIVE",
+            "adrunner.superstats.com": "INACTIVE"
+        },
+        "1571408462": {
+            "ads00.cam4.com": "INACTIVE"
+        },
+        "1571408463": {
+            "ads00.hpg.com.br": "INACTIVE"
+        },
+        "1571408464": {
+            "ads00.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408465": {
+            "ads-01.301ads.com": "INACTIVE",
+            "ads00.tapsense.com": "INACTIVE"
+        },
+        "1571408466": {
+            "ads01.groovinads.com": "INACTIVE"
+        },
+        "1571408467": {
+            "ads01.hpg.com.br": "INACTIVE"
+        },
+        "1571408468": {
+            "ads01.hpg.ig.com.br": "INACTIVE",
+            "ads01p.anixe.net": "INACTIVE"
+        },
+        "1571408470": {
+            "ads02.groovinads.com": "INACTIVE"
+        },
+        "1571408471": {
+            "ads03.hpg.com.br": "INACTIVE",
+            "ads03.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408474": {
+            "ads03.tapsense.com": "INACTIVE"
+        },
+        "1571408475": {
+            "ads04.hpg.com.br": "INACTIVE"
+        },
+        "1571408476": {
+            "ads04.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408477": {
+            "ads05.freecity.de": "INACTIVE"
+        },
+        "1571408478": {
+            "ads05.hpg.com.br": "INACTIVE"
+        },
+        "1571408479": {
+            "ads05.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408480": {
+            "ads06.hpg.com.br": "INACTIVE"
+        },
+        "1571408481": {
+            "ads06.hpg.ig.com.br": "INACTIVE",
+            "ads06.liteweb.net": "INACTIVE"
+        },
+        "1571408482": {
+            "ads07.hpg.com.br": "INACTIVE"
+        },
+        "1571408483": {
+            "ads07.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408484": {
+            "ads08.hpg.com.br": "INACTIVE",
+            "ads08.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408485": {
+            "ads09.hpg.com.br": "INACTIVE"
+        },
+        "1571408486": {
+            "ads09.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408487": {
+            "ads0.hpg.com.br": "INACTIVE"
+        },
+        "1571408488": {
+            "ads0.hpg.ig.com.br": "INACTIVE",
+            "ads0.nexage.com": "INACTIVE"
+        },
+        "1571408489": {
+            "ads.1000mercis.com": "INACTIVE"
+        },
+        "1571408490": {
+            "ads100-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408491": {
+            "ads100.hpg.com.br": "INACTIVE",
+            "ads100.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408492": {
+            "ads.100megswebhosting.com": "INACTIVE"
+        },
+        "1571408493": {
+            "ads101-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408494": {
+            "ads101.hpg.com.br": "INACTIVE",
+            "ads101.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408495": {
+            "ads102-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408496": {
+            "ads102.hpg.com.br": "INACTIVE"
+        },
+        "1571408497": {
+            "ads102.hpg.ig.com.br": "INACTIVE",
+            "ads103-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408498": {
+            "ads103.hpg.com.br": "INACTIVE"
+        },
+        "1571408499": {
+            "ads103.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408500": {
+            "ads104-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408501": {
+            "ads104.hpg.com.br": "INACTIVE",
+            "ads104.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408502": {
+            "ads105-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408503": {
+            "ads105.hpg.com.br": "INACTIVE",
+            "ads105.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408504": {
+            "ads106-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408505": {
+            "ads106.hpg.com.br": "INACTIVE"
+        },
+        "1571408506": {
+            "ads106.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408507": {
+            "ads107-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads107.hpg.com.br": "INACTIVE"
+        },
+        "1571408508": {
+            "ads107.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408509": {
+            "ads108-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408510": {
+            "ads108.hpg.com.br": "INACTIVE",
+            "ads108.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408511": {
+            "ads109.hpg.com.br": "INACTIVE"
+        },
+        "1571408512": {
+            "ads109.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408513": {
+            "ads10.ads.152media.com": "INACTIVE",
+            "ads10.adtelligent.com": "INACTIVE"
+        },
+        "1571408514": {
+            "ads10-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408515": {
+            "ads10-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408516": {
+            "ads10.hpg.com.br": "INACTIVE"
+        },
+        "1571408517": {
+            "ads10.hpg.ig.com.br": "INACTIVE",
+            "ads10.speedbit.com": "INACTIVE"
+        },
+        "1571408518": {
+            "ads10.stickyadstv.com": "INACTIVE"
+        },
+        "1571408519": {
+            "ads10-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408520": {
+            "ads10.vertamedia.com": "INACTIVE"
+        },
+        "1571408521": {
+            "ads110.hpg.com.br": "INACTIVE",
+            "ads110.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408522": {
+            "ads111.hpg.com.br": "INACTIVE"
+        },
+        "1571408523": {
+            "ads111.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408524": {
+            "ads112.hpg.com.br": "INACTIVE",
+            "ads112.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408525": {
+            "ads113.hpg.com.br": "INACTIVE"
+        },
+        "1571408526": {
+            "ads113.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408527": {
+            "ads114.hpg.com.br": "INACTIVE"
+        },
+        "1571408528": {
+            "ads114.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408529": {
+            "ads115.hpg.com.br": "INACTIVE",
+            "ads115.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408530": {
+            "ads116.hpg.com.br": "INACTIVE"
+        },
+        "1571408531": {
+            "ads116.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408532": {
+            "ads117.hpg.com.br": "INACTIVE",
+            "ads117.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408533": {
+            "ads118.hpg.com.br": "INACTIVE"
+        },
+        "1571408534": {
+            "ads118.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408535": {
+            "ads.118.lv": "INACTIVE"
+        },
+        "1571408536": {
+            "ads119.hpg.com.br": "INACTIVE",
+            "ads119.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408537": {
+            "ads11.ads.152media.com": "INACTIVE"
+        },
+        "1571408538": {
+            "ads11-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads11.adtelligent.com": "INACTIVE"
+        },
+        "1571408539": {
+            "ads11-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408540": {
+            "ads11.hpg.com.br": "INACTIVE"
+        },
+        "1571408541": {
+            "ads11.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408542": {
+            "ads11.panoramaaudiovisual.com": "INACTIVE",
+            "ads11.stickyadstv.com": "INACTIVE"
+        },
+        "1571408543": {
+            "ads11-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408544": {
+            "ads11.vertamedia.com": "INACTIVE"
+        },
+        "1571408545": {
+            "ads120.hpg.com.br": "INACTIVE",
+            "ads120.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408546": {
+            "ads121.hpg.com.br": "INACTIVE"
+        },
+        "1571408547": {
+            "ads121.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408548": {
+            "ads122.hpg.com.br": "INACTIVE"
+        },
+        "1571408549": {
+            "ads122.hpg.ig.com.br": "INACTIVE",
+            "ads123.hpg.com.br": "INACTIVE"
+        },
+        "1571408550": {
+            "ads123.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408551": {
+            "ads.123india.com": "INACTIVE",
+            "ads.123m.valueclick.net": "INACTIVE"
+        },
+        "1571408552": {
+            "ads124.hpg.com.br": "INACTIVE"
+        },
+        "1571408553": {
+            "ads124.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408554": {
+            "ads125.hpg.com.br": "INACTIVE"
+        },
+        "1571408555": {
+            "ads125.hpg.ig.com.br": "INACTIVE",
+            "ads126.hpg.com.br": "INACTIVE"
+        },
+        "1571408556": {
+            "ads126.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408557": {
+            "ads127.hpg.com.br": "INACTIVE"
+        },
+        "1571408558": {
+            "ads127.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408559": {
+            "ads128.hpg.com.br": "INACTIVE",
+            "ads128.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408560": {
+            "ads129.hpg.com.br": "INACTIVE"
+        },
+        "1571408561": {
+            "ads12.adtelligent.com": "INACTIVE",
+            "ads129.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408562": {
+            "ads12-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408563": {
+            "ads12-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408564": {
+            "ads12.hpg.com.br": "INACTIVE",
+            "ads12.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408565": {
+            "ads1.2mdnsys.com": "INACTIVE"
+        },
+        "1571408566": {
+            "ads12.stickyadstv.com": "INACTIVE"
+        },
+        "1571408567": {
+            "ads.12titans.net": "INACTIVE",
+            "ads12-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408568": {
+            "ads12.vertamedia.com": "INACTIVE"
+        },
+        "1571408569": {
+            "ads13000.cpmoz.com": "INACTIVE"
+        },
+        "1571408570": {
+            "ads130.hpg.com.br": "INACTIVE"
+        },
+        "1571408571": {
+            "ads130.hpg.ig.com.br": "INACTIVE",
+            "ads131.bannermall.com": "INACTIVE"
+        },
+        "1571408572": {
+            "ads131.hpg.com.br": "INACTIVE"
+        },
+        "1571408573": {
+            "ads131.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408574": {
+            "ads132.hpg.com.br": "INACTIVE",
+            "ads132.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408575": {
+            "ads133.hpg.com.br": "INACTIVE"
+        },
+        "1571408576": {
+            "ads133.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408577": {
+            "ads134.hpg.com.br": "INACTIVE",
+            "ads134.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408579": {
+            "ads135.hpg.com.br": "INACTIVE",
+            "ads135.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408580": {
+            "ads136.hpg.com.br": "INACTIVE"
+        },
+        "1571408581": {
+            "ads136.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408582": {
+            "ads137.hpg.com.br": "INACTIVE",
+            "ads137.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408584": {
+            "ads138.hpg.com.br": "INACTIVE",
+            "ads138.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408585": {
+            "ads139.hpg.com.br": "INACTIVE"
+        },
+        "1571408586": {
+            "ads139.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408588": {
+            "ads13.adtelligent.com": "INACTIVE"
+        },
+        "1571408589": {
+            "ads.13.cl": "INACTIVE"
+        },
+        "1571408590": {
+            "ads13-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408591": {
+            "ads13-fw-us-west.stickyadstv.com": "INACTIVE",
+            "ads13.hpg.com.br": "INACTIVE"
+        },
+        "1571408592": {
+            "ads13.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408593": {
+            "ads13.stickyadstv.com": "INACTIVE"
+        },
+        "1571408594": {
+            "ads13-us-east.stickyadstv.com": "INACTIVE",
+            "ads13.vertamedia.com": "INACTIVE"
+        },
+        "1571408595": {
+            "ads140.hpg.com.br": "INACTIVE"
+        },
+        "1571408596": {
+            "ads140.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408597": {
+            "ads141.hpg.com.br": "INACTIVE",
+            "ads141.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408598": {
+            "ads142.hpg.com.br": "INACTIVE"
+        },
+        "1571408599": {
+            "ads142.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408600": {
+            "ads143.hpg.com.br": "INACTIVE"
+        },
+        "1571408601": {
+            "ads143.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408602": {
+            "ads144.hpg.com.br": "INACTIVE",
+            "ads144.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408603": {
+            "ads145.hpg.com.br": "INACTIVE"
+        },
+        "1571408604": {
+            "ads145.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408605": {
+            "ads146.hpg.com.br": "INACTIVE",
+            "ads146.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408606": {
+            "ads147.hpg.com.br": "INACTIVE"
+        },
+        "1571408607": {
+            "ads147.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408608": {
+            "ads148.hpg.com.br": "INACTIVE",
+            "ads148.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408609": {
+            "ads149.hpg.com.br": "INACTIVE"
+        },
+        "1571408610": {
+            "ads149.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408611": {
+            "ads14.adtelligent.com": "INACTIVE"
+        },
+        "1571408612": {
+            "ads14-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads14-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408613": {
+            "ads14.hpg.com.br": "INACTIVE"
+        },
+        "1571408614": {
+            "ads14.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408615": {
+            "ads14-us-east.stickyadstv.com": "INACTIVE",
+            "ads14.stickyadstv.com": "INACTIVE"
+        },
+        "1571408616": {
+            "ads14.vertamedia.com": "INACTIVE"
+        },
+        "1571408617": {
+            "ads150.hpg.com.br": "INACTIVE"
+        },
+        "1571408618": {
+            "ads150.hpg.ig.com.br": "INACTIVE",
+            "ads150.liteweb.net": "INACTIVE"
+        },
+        "1571408619": {
+            "ads151.hpg.com.br": "INACTIVE"
+        },
+        "1571408620": {
+            "ads151.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408621": {
+            "ads152.hpg.com.br": "INACTIVE"
+        },
+        "1571408622": {
+            "ads152.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408623": {
+            "ads153.hpg.com.br": "INACTIVE",
+            "ads153.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408624": {
+            "ads154.hpg.com.br": "INACTIVE"
+        },
+        "1571408625": {
+            "ads154.hpg.ig.com.br": "INACTIVE",
+            "ads155.hpg.com.br": "INACTIVE"
+        },
+        "1571408626": {
+            "ads155.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408627": {
+            "ads156.hpg.com.br": "INACTIVE"
+        },
+        "1571408628": {
+            "ads156.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408629": {
+            "ads157.hpg.com.br": "INACTIVE",
+            "ads157.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408630": {
+            "ads158.hpg.com.br": "INACTIVE"
+        },
+        "1571408631": {
+            "ads158.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408632": {
+            "ads159.hpg.com.br": "INACTIVE"
+        },
+        "1571408633": {
+            "ads15.adtelligent.com": "INACTIVE",
+            "ads159.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408634": {
+            "ads15-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408635": {
+            "ads15-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408636": {
+            "ads15.hpg.com.br": "INACTIVE",
+            "ads15.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408637": {
+            "ads15.stickyadstv.com": "INACTIVE"
+        },
+        "1571408638": {
+            "ads15-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408639": {
+            "ads15.vertamedia.com": "INACTIVE"
+        },
+        "1571408640": {
+            "ads160.hpg.com.br": "INACTIVE",
+            "ads160.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408642": {
+            "ads161.hpg.com.br": "INACTIVE",
+            "ads161.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408643": {
+            "ads162.hpg.com.br": "INACTIVE"
+        },
+        "1571408644": {
+            "ads162.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408645": {
+            "ads163.hpg.com.br": "INACTIVE",
+            "ads163.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408646": {
+            "ads164.hpg.com.br": "INACTIVE"
+        },
+        "1571408647": {
+            "ads164.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408648": {
+            "ads165.hpg.com.br": "INACTIVE",
+            "ads165.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408649": {
+            "ads166.hpg.com.br": "INACTIVE"
+        },
+        "1571408650": {
+            "ads166.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408651": {
+            "ads167.hpg.com.br": "INACTIVE"
+        },
+        "1571408652": {
+            "ads167.hpg.ig.com.br": "INACTIVE",
+            "ads168.hpg.com.br": "INACTIVE"
+        },
+        "1571408653": {
+            "ads168.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408654": {
+            "ads169.hpg.com.br": "INACTIVE"
+        },
+        "1571408655": {
+            "ads169.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408656": {
+            "ads16.ads.152media.com": "INACTIVE",
+            "ads16.adtelligent.com": "INACTIVE"
+        },
+        "1571408657": {
+            "ads16.artb.adtelligent.com": "INACTIVE"
+        },
+        "1571408658": {
+            "ads16-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads16-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408659": {
+            "ads16.hpg.com.br": "INACTIVE"
+        },
+        "1571408660": {
+            "ads16.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408661": {
+            "ads16.ortb.adtelligent.com": "INACTIVE",
+            "ads16.stickyadstv.com": "INACTIVE"
+        },
+        "1571408662": {
+            "ads16.us-east.ortb.adtelligent.com": "INACTIVE"
+        },
+        "1571408663": {
+            "ads16-us-east.stickyadstv.com": "INACTIVE",
+            "ads16.vertamedia.com": "INACTIVE"
+        },
+        "1571408665": {
+            "ads170.hpg.com.br": "INACTIVE",
+            "ads170.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408666": {
+            "ads171.hpg.com.br": "INACTIVE"
+        },
+        "1571408667": {
+            "ads171.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408668": {
+            "ads172.hpg.com.br": "INACTIVE",
+            "ads172.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408669": {
+            "ads173.hpg.com.br": "INACTIVE"
+        },
+        "1571408670": {
+            "ads173.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408671": {
+            "ads174.hpg.com.br": "INACTIVE"
+        },
+        "1571408672": {
+            "ads174.hpg.ig.com.br": "INACTIVE",
+            "ads175.hpg.com.br": "INACTIVE"
+        },
+        "1571408673": {
+            "ads175.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408674": {
+            "ads176.hpg.com.br": "INACTIVE"
+        },
+        "1571408675": {
+            "ads176.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408676": {
+            "ads177.hpg.com.br": "INACTIVE",
+            "ads177.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408677": {
+            "ads178.hpg.com.br": "INACTIVE"
+        },
+        "1571408678": {
+            "ads178.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408679": {
+            "ads179.hpg.com.br": "INACTIVE",
+            "ads179.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408680": {
+            "ads17.ads.152media.com": "INACTIVE"
+        },
+        "1571408681": {
+            "ads17.adtelligent.com": "INACTIVE"
+        },
+        "1571408682": {
+            "ads17-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408683": {
+            "ads17-fw-us-west.stickyadstv.com": "INACTIVE",
+            "ads17.hpg.com.br": "INACTIVE"
+        },
+        "1571408684": {
+            "ads17.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408685": {
+            "ads17.stickyadstv.com": "INACTIVE"
+        },
+        "1571408686": {
+            "ads17-us-east.stickyadstv.com": "INACTIVE",
+            "ads17.vertamedia.com": "INACTIVE"
+        },
+        "1571408687": {
+            "ads180.hpg.com.br": "INACTIVE"
+        },
+        "1571408688": {
+            "ads180.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408689": {
+            "ads181.hpg.com.br": "INACTIVE",
+            "ads181.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408690": {
+            "ads182.hpg.com.br": "INACTIVE"
+        },
+        "1571408691": {
+            "ads182.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408692": {
+            "ads183.hpg.com.br": "INACTIVE"
+        },
+        "1571408693": {
+            "ads183.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408694": {
+            "ads184.hpg.com.br": "INACTIVE"
+        },
+        "1571408695": {
+            "ads184.hpg.ig.com.br": "INACTIVE",
+            "ads185.hpg.com.br": "INACTIVE"
+        },
+        "1571408696": {
+            "ads185.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408697": {
+            "ads186.hpg.com.br": "INACTIVE"
+        },
+        "1571408698": {
+            "ads186.hpg.ig.com.br": "INACTIVE",
+            "ads187.hpg.com.br": "INACTIVE"
+        },
+        "1571408699": {
+            "ads187.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408700": {
+            "ads188.hpg.com.br": "INACTIVE"
+        },
+        "1571408701": {
+            "ads188.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408702": {
+            "ads189.hpg.com.br": "INACTIVE",
+            "ads189.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408703": {
+            "ads18.ads.152media.com": "INACTIVE"
+        },
+        "1571408704": {
+            "ads18-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads18.adtelligent.com": "INACTIVE"
+        },
+        "1571408705": {
+            "ads18-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408706": {
+            "ads18.hpg.com.br": "INACTIVE"
+        },
+        "1571408707": {
+            "ads18-us-east.stickyadstv.com": "INACTIVE",
+            "ads18.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408708": {
+            "ads18.vertamedia.com": "INACTIVE"
+        },
+        "1571408709": {
+            "ads190.hpg.com.br": "INACTIVE",
+            "ads190.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408710": {
+            "ads191.hpg.com.br": "INACTIVE"
+        },
+        "1571408711": {
+            "ads191.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408712": {
+            "ads192.hpg.com.br": "INACTIVE"
+        },
+        "1571408713": {
+            "ads192.hpg.ig.com.br": "INACTIVE",
+            "ads193.hpg.com.br": "INACTIVE"
+        },
+        "1571408714": {
+            "ads193.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408715": {
+            "ads194.hpg.com.br": "INACTIVE"
+        },
+        "1571408716": {
+            "ads194.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408717": {
+            "ads195.hpg.com.br": "INACTIVE",
+            "ads195.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408718": {
+            "ads196.hpg.com.br": "INACTIVE"
+        },
+        "1571408719": {
+            "ads196.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408720": {
+            "ads197.hpg.com.br": "INACTIVE"
+        },
+        "1571408721": {
+            "ads197.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408722": {
+            "ads198.hpg.com.br": "INACTIVE",
+            "ads198.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408723": {
+            "ads199.hpg.com.br": "INACTIVE"
+        },
+        "1571408724": {
+            "ads19.adcolony.com": "INACTIVE",
+            "ads199.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408725": {
+            "ads19.ads.152media.com": "INACTIVE"
+        },
+        "1571408726": {
+            "ads19-fw-us-east.stickyadstv.com": "INACTIVE",
+            "ads19.adtelligent.com": "INACTIVE"
+        },
+        "1571408727": {
+            "ads19-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408728": {
+            "ads19.hpg.com.br": "INACTIVE"
+        },
+        "1571408729": {
+            "ads19.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408730": {
+            "ads19-us-east.stickyadstv.com": "INACTIVE",
+            "ads19.vertamedia.com": "INACTIVE"
+        },
+        "1571408731": {
+            "ads1.adro.co": "INACTIVE"
+        },
+        "1571408732": {
+            "ads1.adtelligent.com": "INACTIVE"
+        },
+        "1571408733": {
+            "ads.1a-infosysteme.de": "INACTIVE",
+            "ads1.advance.de": "INACTIVE"
+        },
+        "1571408734": {
+            "ads1.ami-admin.com": "INACTIVE"
+        },
+        "1571408735": {
+            "ads1.atpclick.com": "INACTIVE"
+        },
+        "1571408736": {
+            "ads1.bolha.com": "INACTIVE"
+        },
+        "1571408737": {
+            "ads1.boostadvtracking.com": "INACTIVE",
+            "ads1.brandreachsys.com": "INACTIVE"
+        },
+        "1571408738": {
+            "ads1.canoe.ca": "INACTIVE"
+        },
+        "1571408739": {
+            "ads1.capitalinteractive.co.uk": "INACTIVE"
+        },
+        "1571408740": {
+            "ads.1cm.com.mk": "INACTIVE"
+        },
+        "1571408741": {
+            "ads1.condenet.com": "INACTIVE",
+            "ads1.crgaming.com": "INACTIVE"
+        },
+        "1571408742": {
+            "ads1.empiretheatres.com": "INACTIVE"
+        },
+        "1571408743": {
+            "ads1.ero-advertising.com": "INACTIVE",
+            "ads1.erotism.com": "INACTIVE"
+        },
+        "1571408744": {
+            "ads1.exgfnetwork.com": "INACTIVE"
+        },
+        "1571408745": {
+            "ads1-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408746": {
+            "ads1-fw-us-west.stickyadstv.com": "INACTIVE",
+            "ads1.gccx.com": "INACTIVE"
+        },
+        "1571408747": {
+            "ads1.green-red.com": "INACTIVE"
+        },
+        "1571408748": {
+            "ads1.groovinads.com": "INACTIVE"
+        },
+        "1571408749": {
+            "ads1.hencken.com": "INACTIVE",
+            "ads1.hometownannapolis.com": "INACTIVE"
+        },
+        "1571408750": {
+            "ads1.hpg.com.br": "INACTIVE"
+        },
+        "1571408751": {
+            "ads1.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408752": {
+            "ads1.intelliads.com": "INACTIVE"
+        },
+        "1571408753": {
+            "ads1.issuepoll.co.kr": "INACTIVE",
+            "ads1.jp.msn.com": "INACTIVE"
+        },
+        "1571408754": {
+            "ads1.knxs.net": "INACTIVE"
+        },
+        "1571408755": {
+            "ads1.legalworld.bg": "INACTIVE"
+        },
+        "1571408757": {
+            "ads1.lfengmobile.com": "INACTIVE",
+            "ads1.livepromotools.com": "INACTIVE"
+        },
+        "1571408758": {
+            "ad-s1.media6degrees.com": "INACTIVE"
+        },
+        "1571408759": {
+            "ads1.mediacapital.pt": "INACTIVE"
+        },
+        "1571408760": {
+            "ads.1mobile.com": "INACTIVE",
+            "ads1.moneycontrol.com": "INACTIVE"
+        },
+        "1571408761": {
+            "ads1.msads.net": "INACTIVE"
+        },
+        "1571408762": {
+            "ads1.msn.com": "INACTIVE"
+        },
+        "1571408763": {
+            "ads1.njuskalo.hr": "INACTIVE"
+        },
+        "1571408764": {
+            "ads1.omdadget.com": "INACTIVE",
+            "ads1.planisys.net": "INACTIVE"
+        },
+        "1571408765": {
+            "ads1.popcpm.com": "INACTIVE"
+        },
+        "1571408766": {
+            "ads1-preprod.stickyadstv.com": "INACTIVE"
+        },
+        "1571408767": {
+            "ads1.pubmatic.com": "INACTIVE",
+            "ads1.qadabra.com": "INACTIVE"
+        },
+        "1571408768": {
+            "ads1.realcities.com": "INACTIVE",
+            "ads1.rne.com": "INACTIVE"
+        },
+        "1571408769": {
+            "ads1.searchmiracle.com": "INACTIVE"
+        },
+        "1571408770": {
+            "ads1.solocpm.com": "INACTIVE"
+        },
+        "1571408771": {
+            "ads1.speedbit.com": "INACTIVE",
+            "ads1.spiderware.com": "INACTIVE"
+        },
+        "1571408772": {
+            "ads1.stickyadstv.com": "INACTIVE"
+        },
+        "1571408773": {
+            "ads1.telecentro.net.ar": "INACTIVE"
+        },
+        "1571408774": {
+            "ads1.themobileindian.net": "INACTIVE",
+            "ads1.tipod.com": "INACTIVE"
+        },
+        "1571408775": {
+            "ads1.tripod.com": "INACTIVE"
+        },
+        "1571408776": {
+            "ads1.ucweb.com": "INACTIVE"
+        },
+        "1571408777": {
+            "ads1-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408778": {
+            "ads1.virtual-nights.com": "INACTIVE",
+            "ads1.zdnet.org": "INACTIVE"
+        },
+        "1571408779": {
+            "ads2000.hw.net": "INACTIVE"
+        },
+        "1571408780": {
+            "ads2004.treiberupdate.de": "INACTIVE"
+        },
+        "1571408781": {
+            "ads200.hpg.com.br": "INACTIVE",
+            "ads200.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408782": {
+            "ads201.adtelligent.com": "INACTIVE"
+        },
+        "1571408783": {
+            "ads201.hpg.com.br": "INACTIVE",
+            "ads201.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408784": {
+            "ads202.ads.152media.com": "INACTIVE"
+        },
+        "1571408785": {
+            "ads202.adtelligent.com": "INACTIVE"
+        },
+        "1571408786": {
+            "ads202.artb.adtelligent.com": "INACTIVE"
+        },
+        "1571408787": {
+            "ads202.hpg.com.br": "INACTIVE",
+            "ads202.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408788": {
+            "ads202.ortb.adtelligent.com": "INACTIVE"
+        },
+        "1571408789": {
+            "ads202.vertamedia.com": "INACTIVE"
+        },
+        "1571408790": {
+            "ads203.ads.152media.com": "INACTIVE",
+            "ads203.adtelligent.com": "INACTIVE"
+        },
+        "1571408791": {
+            "ads203.hpg.com.br": "INACTIVE"
+        },
+        "1571408792": {
+            "ads203.hpg.ig.com.br": "INACTIVE",
+            "ads203.vertamedia.com": "INACTIVE"
+        },
+        "1571408794": {
+            "ads204.hpg.com.br": "INACTIVE",
+            "ads204.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408795": {
+            "ads205.hpg.com.br": "INACTIVE"
+        },
+        "1571408796": {
+            "ads205.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408797": {
+            "ads206.hpg.com.br": "INACTIVE"
+        },
+        "1571408798": {
+            "ads206.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408799": {
+            "ads207.hpg.com.br": "INACTIVE",
+            "ads207.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408800": {
+            "ads208.hpg.com.br": "INACTIVE"
+        },
+        "1571408801": {
+            "ads208.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408802": {
+            "ads209.hpg.com.br": "INACTIVE"
+        },
+        "1571408803": {
+            "ads20.adcolony.com": "INACTIVE",
+            "ads209.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408804": {
+            "ads20.ads.152media.com": "INACTIVE",
+            "ads20.adtelligent.com": "INACTIVE"
+        },
+        "1571408805": {
+            "ads20-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408806": {
+            "ads20-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408807": {
+            "ads20.hpg.com.br": "INACTIVE"
+        },
+        "1571408808": {
+            "ads.20minutes.fr": "INACTIVE",
+            "ads20.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408809": {
+            "ads20.stickyadstv.com": "INACTIVE"
+        },
+        "1571408810": {
+            "ads20-us-east.stickyadstv.com": "INACTIVE",
+            "ads20.vertamedia.com": "INACTIVE"
+        },
+        "1571408812": {
+            "ads20.wwe-media.de": "INACTIVE",
+            "ads210.hpg.com.br": "INACTIVE"
+        },
+        "1571408813": {
+            "ads210.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408814": {
+            "ads211.hpg.com.br": "INACTIVE"
+        },
+        "1571408815": {
+            "ads211.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408816": {
+            "ads.211.ru": "INACTIVE",
+            "ads212.hpg.com.br": "INACTIVE"
+        },
+        "1571408817": {
+            "ads212.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408818": {
+            "ads213.hpg.com.br": "INACTIVE"
+        },
+        "1571408819": {
+            "ads213.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408820": {
+            "ads214.hpg.com.br": "INACTIVE",
+            "ads214.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408821": {
+            "ads215.hpg.com.br": "INACTIVE"
+        },
+        "1571408822": {
+            "ads215.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408823": {
+            "ads216.hpg.com.br": "INACTIVE",
+            "ads216.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408824": {
+            "ads217.hpg.com.br": "INACTIVE"
+        },
+        "1571408825": {
+            "ads217.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408826": {
+            "ads218.hpg.com.br": "INACTIVE",
+            "ads218.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408827": {
+            "ads219.hpg.com.br": "INACTIVE"
+        },
+        "1571408828": {
+            "ads219.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408829": {
+            "ads21.ads.152media.com": "INACTIVE",
+            "ads21.adtelligent.com": "INACTIVE"
+        },
+        "1571408830": {
+            "ads21-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408831": {
+            "ads21-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408832": {
+            "ads21.hpg.com.br": "INACTIVE",
+            "ads21.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408833": {
+            "ads21.stickyadstv.com": "INACTIVE"
+        },
+        "1571408834": {
+            "ads21-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408835": {
+            "ads21.vertamedia.com": "INACTIVE"
+        },
+        "1571408836": {
+            "ads220.hpg.com.br": "INACTIVE",
+            "ads220.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408837": {
+            "ads221.hpg.com.br": "INACTIVE"
+        },
+        "1571408838": {
+            "ads221.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408839": {
+            "ads222.hpg.com.br": "INACTIVE"
+        },
+        "1571408840": {
+            "ads222.hpg.ig.com.br": "INACTIVE",
+            "ads223.hpg.com.br": "INACTIVE"
+        },
+        "1571408841": {
+            "ads223.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408842": {
+            "ads224.hpg.com.br": "INACTIVE"
+        },
+        "1571408843": {
+            "ads224.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408844": {
+            "ads225.hpg.com.br": "INACTIVE",
+            "ads225.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408845": {
+            "ads226.hpg.com.br": "INACTIVE"
+        },
+        "1571408846": {
+            "ads226.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408847": {
+            "ads227.hpg.com.br": "INACTIVE"
+        },
+        "1571408848": {
+            "ads227.hpg.ig.com.br": "INACTIVE",
+            "ads228.hpg.com.br": "INACTIVE"
+        },
+        "1571408849": {
+            "ads228.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408850": {
+            "ads229.hpg.com.br": "INACTIVE"
+        },
+        "1571408851": {
+            "ads229.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408852": {
+            "ads22.adtelligent.com": "INACTIVE",
+            "ads22.bannermall.com": "INACTIVE"
+        },
+        "1571408853": {
+            "ads22-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408854": {
+            "ads22-fw-us-west.stickyadstv.com": "INACTIVE"
+        },
+        "1571408855": {
+            "ads22.hpg.com.br": "INACTIVE",
+            "ads22.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408856": {
+            "ads22.stickyadstv.com": "INACTIVE"
+        },
+        "1571408857": {
+            "ads22-us-east.stickyadstv.com": "INACTIVE",
+            "ads22.vertamedia.com": "INACTIVE"
+        },
+        "1571408858": {
+            "ads230.hpg.com.br": "INACTIVE"
+        },
+        "1571408859": {
+            "ads230.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408860": {
+            "ads231.hpg.com.br": "INACTIVE"
+        },
+        "1571408861": {
+            "ads231.hpg.ig.com.br": "INACTIVE",
+            "ads232.hpg.com.br": "INACTIVE"
+        },
+        "1571408862": {
+            "ads232.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408863": {
+            "ads233.hpg.com.br": "INACTIVE",
+            "ads233.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408865": {
+            "ads234.hpg.com.br": "INACTIVE",
+            "ads234.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408866": {
+            "ads235.hpg.com.br": "INACTIVE"
+        },
+        "1571408867": {
+            "ads235.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408868": {
+            "ads236.hpg.com.br": "INACTIVE",
+            "ads236.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408869": {
+            "ads237.hpg.com.br": "INACTIVE"
+        },
+        "1571408870": {
+            "ads237.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408871": {
+            "ads238.hpg.com.br": "INACTIVE"
+        },
+        "1571408872": {
+            "ads238.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408873": {
+            "ads239.hpg.com.br": "INACTIVE",
+            "ads239.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408874": {
+            "ads23.adtelligent.com": "INACTIVE"
+        },
+        "1571408875": {
+            "ads23-fw-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1571408876": {
+            "ads23-fw-us-west.stickyadstv.com": "INACTIVE",
+            "ads23.hpg.com.br": "INACTIVE"
+        },
+        "1571408877": {
+            "ads23.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408878": {
+            "ads23-us-east.stickyadstv.com": "INACTIVE",
+            "ads23.vertamedia.com": "INACTIVE"
+        },
+        "1571408879": {
+            "ads23.videe.tv": "INACTIVE"
+        },
+        "1571408880": {
+            "ads240.hpg.com.br": "INACTIVE",
+            "ads240.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408881": {
+            "ads241.hpg.com.br": "INACTIVE"
+        },
+        "1571408882": {
+            "ads241.hpg.ig.com.br": "INACTIVE"
+        },
+        "1571408883": {
+            "ads242.hpg.com.br": "INACTIVE"
         }
     }
 }
