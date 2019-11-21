@@ -1,20 +1,6 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {
-        "aggressive": false,
-        "generate_complements": false,
-        "generate_hosts": false,
-        "generate_json": false,
-        "http_codes": {
-            "active": false
-        },
-        "idna_conversion": false,
-        "no_special": true,
-        "no_whois": true,
-        "plain_list_domain": true,
-        "share_logs": false,
-        "timeout": 3.0,
-        "whois_database": false
     },
     "days_until_next_test": 3.0,
     "finish_datetime": "2019-11-21T11:14:35.505666",
