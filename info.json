@@ -1,22 +1,21 @@
 {
     "currently_under_test": false,
-    "custom_pyfunceble_config": {
-    },
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 3.0,
-    "finish_datetime": "2019-11-21T11:14:35.505666",
-    "finish_timestamp": 1574334875.505666,
-    "last_download_datetime": "2019-11-21T11:04:32.651226",
-    "last_download_timestamp": 1574334272.651226,
-    "latest_part_finish_datetime": "2019-11-21T11:14:35.505666",
-    "latest_part_finish_timestamp": 1574334875.505666,
-    "latest_part_start_datetime": "2019-11-21T11:04:33.678396",
-    "latest_part_start_timestamp": 1574334273.678396,
+    "finish_datetime": "2019-11-21T14:02:58.509826",
+    "finish_timestamp": 1574344978.509826,
+    "last_download_datetime": "2019-11-21T13:52:54.003631",
+    "last_download_timestamp": 1574344374.003631,
+    "latest_part_finish_datetime": "2019-11-21T14:02:58.509826",
+    "latest_part_finish_timestamp": 1574344978.509826,
+    "latest_part_start_datetime": "2019-11-21T13:52:57.013871",
+    "latest_part_start_timestamp": 1574344377.013871,
     "name": "domain_blocklist_web_dbl-oisd-nl",
     "own_management": false,
     "ping": [
         "@sjhgvr"
     ],
     "raw_link": "https://dbl.oisd.nl/",
-    "start_datetime": "2019-11-21T11:04:33.674782",
-    "start_timestamp": 1574334273.674782
+    "start_datetime": "2019-11-21T13:52:57.009802",
+    "start_timestamp": 1574344377.009802
 }

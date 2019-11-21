@@ -10,12 +10,12 @@
         "state": "future"
     },
     "0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info": {
-        "epoch": 1593820800,
+        "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info": {
-        "epoch": 1603670400,
+        "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
@@ -25,7 +25,7 @@
         "state": "future"
     },
     "0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info": {
-        "epoch": 1603670400,
+        "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
@@ -40,7 +40,7 @@
         "state": "future"
     },
     "0-0-0-0-0-0-0-0-0-0-0-0-0-5-0-0-0-0-0-0-0-0-0-0-0-0-0.info": {
-        "epoch": 1593820800,
+        "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
@@ -49,94 +49,494 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "0-casinos.org": {
+        "epoch": 1585440000.0,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "0-days.net": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "00-lawyer.com": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "0000.support": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
         "state": "future"
     },
+    "00000onlinecasino.com": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "00007.com": {
+        "epoch": 1668988800.0,
+        "expiration_date": "21-nov-2022",
+        "state": "future"
+    },
     "0000zs.com": {
-        "epoch": 1620259200,
+        "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
         "state": "future"
     },
     "00043138.com": {
-        "epoch": 1604448000,
+        "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "000495.com": {
-        "epoch": 1602115200,
+        "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "00053138.com": {
-        "epoch": 1604448000,
+        "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "000555.com": {
-        "epoch": 1705104000,
+        "epoch": 1705104000.0,
         "expiration_date": "13-jan-2024",
         "state": "future"
     },
     "0005wd.com": {
-        "epoch": 1624147200,
+        "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "00063138.com": {
-        "epoch": 1604448000,
+        "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "0006808.com": {
-        "epoch": 1570060800,
+        "epoch": 1570060800.0,
         "expiration_date": "03-oct-2019",
         "state": "past"
     },
     "000772.com": {
-        "epoch": 1600041600,
+        "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "0008365.com": {
-        "epoch": 1598400000,
+        "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "0008888.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "00088hg.com": {
-        "epoch": 1614729600,
+        "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "00093138.com": {
-        "epoch": 1604448000,
+        "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "000cc.com": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
     "000freexxx.com": {
-        "epoch": 1582416000,
+        "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "000jnh.com": {
-        "epoch": 1655510400,
+        "epoch": 1655510400.0,
         "expiration_date": "18-jun-2022",
         "state": "future"
     },
+    "000webhost.com": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
+    },
     "000webhost.info": {
-        "epoch": 1599264000,
+        "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "000webhostapp.com": {
-        "epoch": 1652227200,
+        "epoch": 1652227200.0,
         "expiration_date": "11-may-2022",
+        "state": "future"
+    },
+    "000xh.com": {
+        "epoch": 1575504000.0,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "001-accbilling.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "00101.net": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "0014427.com": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "state": "future"
+    },
+    "001515.com": {
+        "epoch": 1710979200.0,
+        "expiration_date": "21-mar-2024",
+        "state": "future"
+    },
+    "0016.com": {
+        "epoch": 1644364800.0,
+        "expiration_date": "09-feb-2022",
+        "state": "future"
+    },
+    "0019.cc": {
+        "epoch": 1696896000.0,
+        "expiration_date": "10-oct-2023",
+        "state": "future"
+    },
+    "001edizioni.com": {
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "001kanpou.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "001shop.cz": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "001web.net": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "001webs.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "001wen.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "001y.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "002146.cc": {
+        "epoch": 1576108800.0,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "0024aaaa.com": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "00271.com": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "003112.cn": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "0032006.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "0032008.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "0038.com": {
+        "epoch": 1650931200.0,
+        "expiration_date": "26-apr-2022",
+        "state": "future"
+    },
+    "0043138.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "00444.com": {
+        "epoch": 1759968000.0,
+        "expiration_date": "09-oct-2025",
+        "state": "future"
+    },
+    "00528.com": {
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
+        "state": "future"
+    },
+    "0053138.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "005388.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "0055js.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "0055o.com": {
+        "epoch": 1703030400.0,
+        "expiration_date": "20-dec-2023",
+        "state": "future"
+    },
+    "0059ff.com": {
+        "epoch": 1569283200.0,
+        "expiration_date": "24-sep-2019",
+        "state": "past"
+    },
+    "005jsc.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "005mall.com": {
+        "epoch": 1577232000.0,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "0060003.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "0063138.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "006677.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "0068555.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "006a039c957c142bb.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "006td.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "006zb.com": {
+        "epoch": 1662595200.0,
+        "expiration_date": "08-sep-2022",
+        "state": "future"
+    },
+    "0073138.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "0075b.com": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "0077524.com": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "0077y.com": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
+    "007angels.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "007arcadegames.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "007guard.com": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "007mgm.com": {
+        "epoch": 1655164800.0,
+        "expiration_date": "14-jun-2022",
+        "state": "future"
+    },
+    "007sites.com": {
+        "epoch": 1578441600.0,
+        "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "007sportsbetting.com": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "007webpro.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "007win.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "008122.com": {
+        "epoch": 1574899200.0,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "0082.cc": {
+        "epoch": 1695859200.0,
+        "expiration_date": "28-sep-2023",
+        "state": "future"
+    },
+    "008291.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "0088.tw": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "00880808.com": {
+        "epoch": 1578182400.0,
+        "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "0088yl.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "009blog.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "00aaa2d81c1d174.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "00aakk.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "00author.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "00bloggers.ru": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "00casino.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "00fun.com": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
+    },
+    "00game.net": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "00go.com": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "00inkjets.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "00it.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "00o9jtv2.ru": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "00pk.cn": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "00pro.com": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "00rfs.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "00webcams.com": {
+        "epoch": 1579564800.0,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "01-ringtone.com": {
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     }
 }
