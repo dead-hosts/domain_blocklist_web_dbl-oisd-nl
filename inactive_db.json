@@ -1,303 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574344386": {
-            "0-hjsochvj-ios-1-2-3.mobile-sdk-api.intercom.io": "INACTIVE"
-        },
-        "1574344388": {
-            "0-jovd32f9-ios-7-0-1.mobile-sdk-api.intercom.io": "INACTIVE"
-        },
-        "1574344400": {
-            "000.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344415": {
-            "000egjj.wcomhost.com": "INACTIVE"
-        },
-        "1574344425": {
-            "000gpzz.wcomhost.com": "INACTIVE"
-        },
-        "1574344428": {
-            "000hejn.wcomhost.com": "INACTIVE"
-        },
-        "1574344431": {
-            "000keca.wcomhost.com": "INACTIVE"
-        },
-        "1574344432": {
-            "000l26z.wcomhost.com": "INACTIVE",
-            "000l7kf.wcomhost.com": "INACTIVE",
-            "000lk3v.wcomhost.com": "INACTIVE"
-        },
-        "1574344434": {
-            "000lnd7.wcomhost.com": "INACTIVE"
-        },
-        "1574344435": {
-            "000lohc.wcomhost.com": "INACTIVE",
-            "000lp59.wcomhost.com": "INACTIVE",
-            "000luw0.wcomhost.com": "INACTIVE"
-        },
-        "1574344436": {
-            "000m8n1.wcomhost.com": "INACTIVE",
-            "000m8pk.wcomhost.com": "INACTIVE",
-            "000m9w3.wcomhost.com": "INACTIVE"
-        },
-        "1574344437": {
-            "000macu.wcomhost.com": "INACTIVE",
-            "000magu.wcomhost.com": "INACTIVE",
-            "000map9.wcomhost.com": "INACTIVE"
-        },
-        "1574344438": {
-            "000may2.wcomhost.com": "INACTIVE",
-            "000mhl7.wcomhost.com": "INACTIVE"
-        },
-        "1574344439": {
-            "000mhpe.wcomhost.com": "INACTIVE",
-            "000mhpg.wcomhost.com": "INACTIVE",
-            "000mhph.wcomhost.com": "INACTIVE"
-        },
-        "1574344440": {
-            "000mi0z.wcomhost.com": "INACTIVE",
-            "000mj3r.wcomhost.com": "INACTIVE",
-            "000mjbp.wcomhost.com": "INACTIVE"
-        },
-        "1574344441": {
-            "000mjqr.wcomhost.com": "INACTIVE",
-            "000mkm6.wcomhost.com": "INACTIVE"
-        },
-        "1574344442": {
-            "000mkma.wcomhost.com": "INACTIVE",
-            "000mlfo.wcomhost.com": "INACTIVE"
-        },
-        "1574344443": {
-            "000mnnv.wcomhost.com": "INACTIVE",
-            "000mnxn.wcomhost.com": "INACTIVE",
-            "000mnxp.wcomhost.com": "INACTIVE"
-        },
-        "1574344444": {
-            "000mo5m.wcomhost.com": "INACTIVE",
-            "000modg.wcomhost.com": "INACTIVE"
-        },
-        "1574344445": {
-            "000momb.wcomhost.com": "INACTIVE",
-            "000momd.wcomhost.com": "INACTIVE",
-            "000mpi0.wcomhost.com": "INACTIVE"
-        },
-        "1574344446": {
-            "000mqup.wcomhost.com": "INACTIVE",
-            "000mquq.wcomhost.com": "INACTIVE"
-        },
-        "1574344447": {
-            "000ms3q.wcomhost.com": "INACTIVE",
-            "000mssi.wcomhost.com": "INACTIVE",
-            "000mumt.wcomhost.com": "INACTIVE"
-        },
-        "1574344448": {
-            "000muv2.wcomhost.com": "INACTIVE",
-            "000mvxq.wcomhost.com": "INACTIVE"
-        },
-        "1574344449": {
-            "000mwwj.wcomhost.com": "INACTIVE",
-            "000n38p.wcomhost.com": "INACTIVE",
-            "000n38t.wcomhost.com": "INACTIVE",
-            "000n8pc.wcomhost.com": "INACTIVE"
-        },
-        "1574344450": {
-            "000nfxn.wcomhost.com": "INACTIVE",
-            "000nku9.wcomhost.com": "INACTIVE",
-            "000nx2b.wcomhost.com": "INACTIVE",
-            "000o4n8.wcomhost.com": "INACTIVE"
-        },
-        "1574344451": {
-            "000o5eh.wcomhost.com": "INACTIVE"
-        },
-        "1574344457": {
-            "001.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344463": {
-            "0012918238.hopto.org": "INACTIVE"
-        },
-        "1574344465": {
-            "002.0x1f4b0.com": "INACTIVE",
-            "003.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344466": {
-            "004.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344467": {
-            "005.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344468": {
-            "006.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344470": {
-            "007.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344472": {
-            "008.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344477": {
-            "009.0x1f4b0.com": "INACTIVE"
-        },
-        "1574344486": {
-            "00fun.casalemedia.com": "INACTIVE"
-        },
-        "1574344490": {
-            "00saejin.codns.com": "INACTIVE"
-        },
-        "1574344499": {
-            "01-1099pro-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344506": {
-            "01-dc-den2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344512": {
-            "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344520": {
-            "01-dc-iad1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344526": {
-            "01-ddpe-fe-nym2.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344535": {
-            "01-ddpe-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344543": {
-            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344551": {
-            "01-exch-lax1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344559": {
-            "01-exch-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344567": {
-            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344575": {
-            "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344585": {
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344592": {
-            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344600": {
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344608": {
-            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344616": {
-            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344624": {
-            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344632": {
-            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344640": {
-            "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344652": {
-            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344659": {
-            "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344666": {
-            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344674": {
-            "01-sun-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344681": {
-            "01-vidyo-gw.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344689": {
-            "01-vidyo-router.nyc2.appnexus.com": "INACTIVE"
-        },
-        "1574344695": {
-            "01-vidyo-router.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344703": {
-            "01-winadmin-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344711": {
-            "01-winbuild-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344718": {
-            "01-winlog-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1574344733": {
-            "01.account-web.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344739": {
-            "01.acct-tools.nym2.appnexus.net": "INACTIVE"
-        },
-        "1574344746": {
-            "01.api.fra1.appnexus.net": "INACTIVE"
-        },
-        "1574344752": {
-            "01.ast.nyc2.appnexus.com": "INACTIVE"
-        },
-        "1574344759": {
-            "01.att-corp-integration.lax1.appnexus.com": "INACTIVE"
-        },
-        "1574344765": {
-            "01.att-corp-integration.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344772": {
-            "01.att-dns-forwarder.lax1.appnexus.com": "INACTIVE"
-        },
-        "1574344779": {
-            "01.att-dns-forwarder.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344785": {
-            "01.att-dns-recurse.fra1.appnexus.net": "INACTIVE"
-        },
-        "1574344792": {
-            "01.att-radius-proxy.lax1.appnexus.com": "INACTIVE"
-        },
-        "1574344798": {
-            "01.att-radius-proxy.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344805": {
-            "01.bitbucket.lax1.appnexus.com": "INACTIVE"
-        },
-        "1574344812": {
-            "01.bitbucket.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344819": {
-            "01.bsg-coupa-prod.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344825": {
-            "01.catchpoint.ams1.appnexus.com": "INACTIVE"
-        },
-        "1574344832": {
-            "01.catchpoint.den2.appnexus.com": "INACTIVE"
-        },
-        "1574344839": {
-            "01.catchpoint.sin1.appnexus.com": "INACTIVE"
-        },
-        "1574344845": {
-            "01.conman.fra1.appnexus.net": "INACTIVE"
-        },
-        "1574344851": {
-            "01.coreinfra.fra1.appnexus.net": "INACTIVE"
-        },
-        "1574344857": {
-            "01.coreinfra.nym2.appnexus.net": "INACTIVE"
-        },
-        "1574344864": {
-            "01.corp-backup.lax1.appnexus.com": "INACTIVE"
-        },
-        "1574344870": {
-            "01.corp-backup.nym2.appnexus.com": "INACTIVE"
-        },
-        "1574344877": {
-            "01.corp-print.nym2.appnexus.com": "INACTIVE"
-        },
         "1574344884": {
             "01.corpidp.lax1.appnexus.com": "INACTIVE"
         },
@@ -339,6 +41,148 @@
         },
         "1574344978": {
             "01.jump.lax1.appnexus.net": "INACTIVE"
+        },
+        "1574450867": {
+            "0-hjsochvj-ios-1-2-3.mobile-sdk-api.intercom.io": "INACTIVE",
+            "0-jovd32f9-ios-7-0-1.mobile-sdk-api.intercom.io": "INACTIVE",
+            "000.0x1f4b0.com": "INACTIVE",
+            "000egjj.wcomhost.com": "INACTIVE",
+            "000gpzz.wcomhost.com": "INACTIVE",
+            "000hejn.wcomhost.com": "INACTIVE",
+            "000keca.wcomhost.com": "INACTIVE",
+            "000l26z.wcomhost.com": "INACTIVE",
+            "000l7kf.wcomhost.com": "INACTIVE",
+            "000lk3v.wcomhost.com": "INACTIVE",
+            "000lnd7.wcomhost.com": "INACTIVE",
+            "000lohc.wcomhost.com": "INACTIVE",
+            "000lp59.wcomhost.com": "INACTIVE",
+            "000luw0.wcomhost.com": "INACTIVE",
+            "000m8n1.wcomhost.com": "INACTIVE",
+            "000m8pk.wcomhost.com": "INACTIVE",
+            "000m9w3.wcomhost.com": "INACTIVE",
+            "000macu.wcomhost.com": "INACTIVE",
+            "000magu.wcomhost.com": "INACTIVE",
+            "000map9.wcomhost.com": "INACTIVE",
+            "000may2.wcomhost.com": "INACTIVE",
+            "000mhl7.wcomhost.com": "INACTIVE",
+            "000mhpe.wcomhost.com": "INACTIVE",
+            "000mhpg.wcomhost.com": "INACTIVE",
+            "000mhph.wcomhost.com": "INACTIVE",
+            "000mi0z.wcomhost.com": "INACTIVE",
+            "000mj3r.wcomhost.com": "INACTIVE",
+            "000mjbp.wcomhost.com": "INACTIVE",
+            "000mjqr.wcomhost.com": "INACTIVE",
+            "000mkm6.wcomhost.com": "INACTIVE",
+            "000mkma.wcomhost.com": "INACTIVE",
+            "000mlfo.wcomhost.com": "INACTIVE",
+            "000mnnv.wcomhost.com": "INACTIVE",
+            "000mnxn.wcomhost.com": "INACTIVE",
+            "000mnxp.wcomhost.com": "INACTIVE",
+            "000mo5m.wcomhost.com": "INACTIVE"
+        },
+        "1574450868": {
+            "000modg.wcomhost.com": "INACTIVE",
+            "000momb.wcomhost.com": "INACTIVE",
+            "000momd.wcomhost.com": "INACTIVE",
+            "000mpi0.wcomhost.com": "INACTIVE",
+            "000mqup.wcomhost.com": "INACTIVE",
+            "000mquq.wcomhost.com": "INACTIVE",
+            "000ms3q.wcomhost.com": "INACTIVE",
+            "000mssi.wcomhost.com": "INACTIVE",
+            "000mumt.wcomhost.com": "INACTIVE",
+            "000muv2.wcomhost.com": "INACTIVE",
+            "000mvxq.wcomhost.com": "INACTIVE",
+            "000mwwj.wcomhost.com": "INACTIVE",
+            "000n38p.wcomhost.com": "INACTIVE",
+            "000n38t.wcomhost.com": "INACTIVE",
+            "000n8pc.wcomhost.com": "INACTIVE",
+            "000nfxn.wcomhost.com": "INACTIVE",
+            "000nku9.wcomhost.com": "INACTIVE",
+            "000nx2b.wcomhost.com": "INACTIVE",
+            "000o4n8.wcomhost.com": "INACTIVE",
+            "000o5eh.wcomhost.com": "INACTIVE",
+            "001.0x1f4b0.com": "INACTIVE",
+            "0012918238.hopto.org": "INACTIVE",
+            "002.0x1f4b0.com": "INACTIVE",
+            "002z2q0ezy.centade.com": "INACTIVE",
+            "003.0x1f4b0.com": "INACTIVE",
+            "004.0x1f4b0.com": "INACTIVE",
+            "005.0x1f4b0.com": "INACTIVE",
+            "0053671ce278333f8507c94b93ca687a.co.cc": "INACTIVE",
+            "006.0x1f4b0.com": "INACTIVE",
+            "00693goqsa.centade.com": "INACTIVE",
+            "007.0x1f4b0.com": "INACTIVE",
+            "008.0x1f4b0.com": "INACTIVE",
+            "008sjw36.tk": "INACTIVE",
+            "009.0x1f4b0.com": "INACTIVE",
+            "00c58006323de055d35ef57ff97f8036.co.cc": "INACTIVE",
+            "00deabhsupport.tk": "INACTIVE",
+            "00e3432549d9da2abd5eceec1c3f52b1.co.cc": "INACTIVE",
+            "00f17c295d6f186387baf85f84eb24a4.co.cc": "INACTIVE",
+            "00fun.casalemedia.com": "INACTIVE",
+            "00jie65calltoday.tk": "INACTIVE",
+            "00jirsystem.tk": "INACTIVE",
+            "00oinjbuzz.tk": "INACTIVE",
+            "00qoicalltoday.tk": "INACTIVE",
+            "00saejin.codns.com": "INACTIVE",
+            "00uirnsupport.tk": "INACTIVE",
+            "00x20x10x10xd3.duckdns.org": "INACTIVE",
+            "01-1099pro-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-dc-den2.ad.corp.appnexus.com": "INACTIVE",
+            "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE",
+            "01-dc-iad1.ad.corp.appnexus.com": "INACTIVE",
+            "01-ddpe-fe-nym2.corp.appnexus.com": "INACTIVE",
+            "01-ddpe-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
+            "01-exch-lax1.ad.corp.appnexus.com": "INACTIVE",
+            "01-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
+            "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE",
+            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
+            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE",
+            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE",
+            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-sun-dr-lax.ad.corp.appnexus.com": "INACTIVE",
+            "01-vidyo-gw.nym2.appnexus.com": "INACTIVE",
+            "01-vidyo-router.nyc2.appnexus.com": "INACTIVE",
+            "01-vidyo-router.nym2.appnexus.com": "INACTIVE",
+            "01-winadmin-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-winbuild-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-winlog-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01.0sdz00d.co.cc": "INACTIVE",
+            "01.1099hsd.co.cc": "INACTIVE",
+            "01.1d0sds5.co.cc": "INACTIVE",
+            "01.385sds1.co.cc": "INACTIVE",
+            "01.account-web.nym2.appnexus.com": "INACTIVE",
+            "01.acct-tools.nym2.appnexus.net": "INACTIVE",
+            "01.api.fra1.appnexus.net": "INACTIVE",
+            "01.ast.nyc2.appnexus.com": "INACTIVE",
+            "01.att-corp-integration.lax1.appnexus.com": "INACTIVE",
+            "01.att-corp-integration.nym2.appnexus.com": "INACTIVE",
+            "01.att-dns-forwarder.lax1.appnexus.com": "INACTIVE",
+            "01.att-dns-forwarder.nym2.appnexus.com": "INACTIVE",
+            "01.att-dns-recurse.fra1.appnexus.net": "INACTIVE",
+            "01.att-radius-proxy.lax1.appnexus.com": "INACTIVE",
+            "01.att-radius-proxy.nym2.appnexus.com": "INACTIVE",
+            "01.bitbucket.lax1.appnexus.com": "INACTIVE",
+            "01.bitbucket.nym2.appnexus.com": "INACTIVE",
+            "01.bsg-coupa-prod.nym2.appnexus.com": "INACTIVE",
+            "01.catchpoint.ams1.appnexus.com": "INACTIVE",
+            "01.catchpoint.den2.appnexus.com": "INACTIVE",
+            "01.catchpoint.sin1.appnexus.com": "INACTIVE",
+            "01.conman.fra1.appnexus.net": "INACTIVE",
+            "01.coreinfra.fra1.appnexus.net": "INACTIVE",
+            "01.coreinfra.nym2.appnexus.net": "INACTIVE",
+            "01.corp-backup.lax1.appnexus.com": "INACTIVE",
+            "01.corp-backup.nym2.appnexus.com": "INACTIVE",
+            "01.corp-print.nym2.appnexus.com": "INACTIVE"
         }
     }
 }

@@ -49,6 +49,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "0-07.ru": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "0-casinos.org": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
@@ -57,6 +62,11 @@
     "0-days.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "0-google.com": {
+        "epoch": 1579996800.0,
+        "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "00-lawyer.com": {
@@ -179,6 +189,11 @@
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
+    "000youtube.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "001-accbilling.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -214,9 +229,29 @@
         "expiration_date": "20-jan-2020",
         "state": "future"
     },
+    "001galerie.com": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "001games.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "001host.net": {
+        "epoch": 1576454400.0,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
     "001kanpou.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "001nnn.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "001shop.cz": {
@@ -244,6 +279,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "002.sh.cn": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "002146.cc": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
@@ -257,6 +297,11 @@
     "00271.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "002le.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "003112.cn": {
@@ -277,6 +322,16 @@
     "0038.com": {
         "epoch": 1650931200.0,
         "expiration_date": "26-apr-2022",
+        "state": "future"
+    },
+    "003mmmm.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "003uuu.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "0043138.com": {
@@ -482,6 +537,11 @@
     "00casino.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "00f31156f051fdf.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "00fun.com": {
