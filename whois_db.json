@@ -54,6 +54,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "0-as69vh7k2.biz": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "0-casinos.org": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
