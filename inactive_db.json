@@ -1,98 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574455918": {
-            "1.yeheg.com": "INACTIVE"
-        },
-        "1574455919": {
-            "10.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "10.72.180.60ads.creative-serving.com": "INACTIVE",
-            "10.72.180.60mpp.vindicosuite.com": "INACTIVE",
-            "10.72.180.60rtb7.adscience.nl": "INACTIVE",
-            "10.jira-sand.nym2.appnexus.com": "INACTIVE",
-            "100.1qingdao.com": "INACTIVE",
-            "100.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "100.goodoo.ru": "INACTIVE",
-            "100.tbn.ru": "INACTIVE",
-            "100.waytoweb.tk": "INACTIVE"
-        },
-        "1574455920": {
-            "1000shin-sochi.ru": "INACTIVE",
-            "1000videosx.yi.org": "INACTIVE",
-            "1000xbl.co.cc": "INACTIVE",
-            "1001like.tk": "INACTIVE",
-            "1002006832975.usercash.com": "INACTIVE"
-        },
-        "1574455921": {
-            "100meiaspalavras.xpg.com.br": "INACTIVE",
-            "101.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1016575519.rsc.cdn77.org": "INACTIVE"
-        },
-        "1574455922": {
-            "101d515b4224557c52e3f7229ab9c34e.co.cc": "INACTIVE",
-            "101kill360.3322.org": "INACTIVE",
-            "101sinss.no-ip.org": "INACTIVE",
-            "102.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "102c.mnwan.com": "INACTIVE",
-            "103.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "103.hosting-5.xtream.co.il": "INACTIVE"
-        },
-        "1574455923": {
-            "1031218.3322.org": "INACTIVE",
-            "1033.bitterstrawberry.com": "INACTIVE",
-            "1038438322488.usercash.com": "INACTIVE",
-            "103kill360.3322.org": "INACTIVE",
-            "104.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1043479907.rsc.cdn77.org": "INACTIVE",
-            "1046298534.rsc.cdn77.org": "INACTIVE"
-        },
-        "1574456624": {
-            "104kill360.3322.org": "INACTIVE",
-            "105.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "106.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "106055-6591.popunder.loading-delivery2.com": "INACTIVE",
-            "1064c1f8b712f5fd36f3078b0cc2b972.demonoid.filespook.com": "INACTIVE",
-            "1068424435.rsc.cdn77.org": "INACTIVE",
-            "1068763846.rsc.cdn77.org": "INACTIVE"
-        },
-        "1574456625": {
-            "106967-76.popunder.loading-delivery2.com": "INACTIVE",
-            "107.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1077141793910.usercash.com": "INACTIVE",
-            "108.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "10808luv.no-ip.org": "INACTIVE",
-            "1084819870.rsc.cdn77.org": "INACTIVE",
-            "109-204-26-16.netconnexion.managedbroadband.co.uk": "INACTIVE",
-            "109.5.189.109.customer.cdi.no": "INACTIVE",
-            "109.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574456626": {
-            "109769-1139.popunder.loading-delivery2.com": "INACTIVE",
-            "1097834592.rsc.cdn77.org": "INACTIVE",
-            "1098the.co.cc": "INACTIVE",
-            "1099737133365.usercash.com": "INACTIVE",
-            "1099hhe.co.cc": "INACTIVE",
-            "1099hsd.co.cc": "INACTIVE",
-            "10asiatique.en.wanadoo.es": "INACTIVE",
-            "10bestdatingsites.dev.belugalab.com": "INACTIVE",
-            "10daymember.co.cc": "INACTIVE",
-            "10errorxxx.tk": "INACTIVE",
-            "10f85548.fbdev.midasplayer.com": "INACTIVE",
-            "10fhgbuzz.tk": "INACTIVE",
-            "10jktubcalltoday.tk": "INACTIVE"
-        },
-        "1574456627": {
-            "10mature.en.wanadoo.es": "INACTIVE",
-            "10zz.co.cc": "INACTIVE",
-            "11.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "11.jira-sand.nym2.appnexus.com": "INACTIVE",
-            "11.lamarianella.info": "INACTIVE",
-            "110.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574456628": {
-            "110b.mnwan.com": "INACTIVE",
-            "111.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "11167236.adscreendirect.com": "INACTIVE"
-        },
         "1574457363": {
             "111fe83d47fcfa0aca7e6afc9f71a5b9.co.cc": "INACTIVE",
             "111l2oewzn.centade.com": "INACTIVE",
@@ -3456,6 +3363,16 @@
             "0w7oq.fifth.pw": "INACTIVE",
             "1.directwebs.tk": "INACTIVE",
             "1.tuxi.com.cn": "INACTIVE"
+        },
+        "1574544020": {
+            "100.waytoweb.tk": "INACTIVE",
+            "1000shin-sochi.ru": "INACTIVE"
+        },
+        "1574544021": {
+            "1064c1f8b712f5fd36f3078b0cc2b972.demonoid.filespook.com": "INACTIVE"
+        },
+        "1574544022": {
+            "186a6vd1ms.centade.com": "INACTIVE"
         }
     }
 }
