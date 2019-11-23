@@ -1,49 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574465299": {
-            "1st-sciencefiction.tk": "INACTIVE",
-            "1st-terriblethan.tk": "INACTIVE",
-            "1st-themain-calling.tk": "INACTIVE",
-            "1st-tomymind.tk": "INACTIVE",
-            "1st6tehsupp3012345.tk": "INACTIVE",
-            "1st6tehsupp30123456789.tk": "INACTIVE",
-            "1stand-when.tk": "INACTIVE",
-            "1stchoicesavings.ca.102.112.2o7.net": "INACTIVE"
-        },
-        "1574465300": {
-            "1steverydaysupp.tk": "INACTIVE",
-            "1steverything-that.tk": "INACTIVE",
-            "1stinproxy.co.cc": "INACTIVE",
-            "1stmybestwebsite.co.cc": "INACTIVE",
-            "1stmymother.tk": "INACTIVE",
-            "1stmyparents.tk": "INACTIVE",
-            "1stsecrettunnels.co.cc": "INACTIVE"
-        },
-        "1574465301": {
-            "1stsupportrak26123456.tk": "INACTIVE",
-            "1sttehcalling6261234.tk": "INACTIVE",
-            "1sttehcalling626123456.tk": "INACTIVE",
-            "1stthechef.tk": "INACTIVE",
-            "1svf.co.cc": "INACTIVE",
-            "1test.no-ip.org": "INACTIVE"
-        },
-        "1574465302": {
-            "1uknvc.beg.smalltailsbfr.com": "INACTIVE"
-        },
-        "1574465303": {
-            "1v1kom.beg.smalltailsbfr.com": "INACTIVE",
-            "1videoporno.en.wanadoo.es": "INACTIVE"
-        },
-        "1574465305": {
-            "1xycbc.pal.wkcengland.co.uk": "INACTIVE",
-            "1ydxaxavwm.centade.com": "INACTIVE",
-            "1yg0bi0dop.centade.com": "INACTIVE",
-            "1yhbl0vlbk.centade.com": "INACTIVE",
-            "1yhoiqoivr.centade.com": "INACTIVE",
-            "1yhrqcxryu.centade.com": "INACTIVE",
-            "1yj3yocbq1.centade.com": "INACTIVE",
-            "1yk2ifg3ex.centade.com": "INACTIVE"
-        },
         "1574466031": {
             "1ykcs1zmnv.centade.com": "INACTIVE",
             "1yne7tzslw.centade.com": "INACTIVE",
@@ -2819,6 +2775,10 @@
             "1p27r.fifth.pw": "INACTIVE",
             "1pt6r.fifth.pw": "INACTIVE",
             "1rj18.filled.pw": "INACTIVE"
+        },
+        "1574552791": {
+            "1uknvc.beg.smalltailsbfr.com": "INACTIVE",
+            "1v1kom.beg.smalltailsbfr.com": "INACTIVE"
         }
     }
 }
