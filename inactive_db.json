@@ -1,116 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574458067": {
-            "11kgxt6bkh.centade.com": "INACTIVE",
-            "11ljiqi52g.centade.com": "INACTIVE",
-            "11lkjcoijk.centade.com": "INACTIVE",
-            "11m76r8tx3.centade.com": "INACTIVE",
-            "11ocuuuefu.centade.com": "INACTIVE",
-            "11pfqjaid0.centade.com": "INACTIVE",
-            "11qq11.3322.org": "INACTIVE",
-            "11sswxczia.centade.com": "INACTIVE",
-            "11vw9kcedi.centade.com": "INACTIVE",
-            "11xp.8800.org": "INACTIVE",
-            "11yif12o3t.centade.com": "INACTIVE",
-            "12.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "12.jira-sand.nym2.appnexus.com": "INACTIVE",
-            "120.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "120877.3322.org": "INACTIVE",
-            "121.2cnt.net": "INACTIVE",
-            "121.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574458068": {
-            "1212.bitterstrawberry.com": "INACTIVE",
-            "122.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1221828686.rsc.cdn77.org": "INACTIVE",
-            "122755-949.popunder.loading-delivery2.com": "INACTIVE",
-            "123.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "123.box.anchorfree.net": "INACTIVE",
-            "123098.no-ip.org": "INACTIVE"
-        },
-        "1574458069": {
-            "1234.jjxgly.com": "INACTIVE",
-            "123bestt.monster": "INACTIVE",
-            "123dotest.no-ip.org": "INACTIVE",
-            "123ewqasdcxz.xicp.net": "INACTIVE"
-        },
-        "1574458070": {
-            "123movies.prxio.pw": "INACTIVE",
-            "123p29404.sbvr.com": "INACTIVE",
-            "123ram777.no-ip.org": "INACTIVE"
-        },
-        "1574458071": {
-            "124-47-119-175.cidr4.kct.ad.jp": "INACTIVE",
-            "124-47-81-136.cidr4.kct.ad.jp": "INACTIVE",
-            "124.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1242354093.rsc.cdn77.org": "INACTIVE",
-            "124244009153.ctinets.com": "INACTIVE",
-            "124244010016.ctinets.com": "INACTIVE",
-            "124244021077.ctinets.com": "INACTIVE",
-            "124244032069.ctinets.com": "INACTIVE",
-            "124244032108.ctinets.com": "INACTIVE",
-            "124244049156.ctinets.com": "INACTIVE",
-            "124244075136.ctinets.com": "INACTIVE"
-        },
-        "1574458787": {
-            "124244087177.ctinets.com": "INACTIVE",
-            "124244094161.ctinets.com": "INACTIVE",
-            "124244122234.ctinets.com": "INACTIVE",
-            "124244126137.ctinets.com": "INACTIVE",
-            "124244220116.ctinets.com": "INACTIVE",
-            "124244240182.ctinets.com": "INACTIVE",
-            "124244254078.ctinets.com": "INACTIVE",
-            "1244593407.rsc.cdn77.org": "INACTIVE"
-        },
-        "1574458788": {
-            "125.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "12513.mysaol.com": "INACTIVE",
-            "126.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "12628.engine.mobileapptracking.com": "INACTIVE",
-            "1268.free.wtbid204.top": "INACTIVE",
-            "127.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574458789": {
-            "128-69-14-20.broadband.corbina.ru": "INACTIVE",
-            "128-69-207-74.broadband.corbina.ru": "INACTIVE",
-            "128-70-85-141.broadband.corbina.ru": "INACTIVE",
-            "128-72-167-250.broadband.corbina.ru": "INACTIVE",
-            "128.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1285a451.api.splkmobile.com": "INACTIVE",
-            "128pills.gotech.tk": "INACTIVE",
-            "129.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574458790": {
-            "12huencall.tk": "INACTIVE"
-        },
-        "1574458791": {
-            "12rafvwe.co.cc": "INACTIVE",
-            "13.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "13.jira-sand.nym2.appnexus.com": "INACTIVE",
-            "130.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1303030.3322.org": "INACTIVE",
-            "13040.engine.mobileapptracking.com": "INACTIVE",
-            "130754-377099-raikfcquaxqncofqfm.stackpathdns.com": "INACTIVE"
-        },
-        "1574458792": {
-            "131.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "131454.ddns.net": "INACTIVE",
-            "132.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1321.f3322.org": "INACTIVE",
-            "1323.dvrcam.info": "INACTIVE",
-            "1329.mypsx.net": "INACTIVE",
-            "133.153.36.72.static.reverse.ltdomains.com": "INACTIVE",
-            "133.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574458793": {
-            "133.bitterstrawberry.com": "INACTIVE",
-            "133.home.ro": "INACTIVE",
-            "1330.ddnsking.com": "INACTIVE",
-            "1331.ddnsking.com": "INACTIVE",
-            "1332.bounceme.net": "INACTIVE",
-            "1333.hopto.org": "INACTIVE",
-            "134.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
         "1574459504": {
             "134067-14533.popunder.loading-delivery2.com": "INACTIVE",
             "134109-14533.popunder.loading-delivery2.com": "INACTIVE",
@@ -3313,6 +3202,11 @@
         },
         "1574544959": {
             "113-96-176-3.ksyungslb.com": "INACTIVE"
+        },
+        "1574545966": {
+            "123bestt.monster": "INACTIVE",
+            "1242354093.rsc.cdn77.org": "INACTIVE",
+            "128pills.gotech.tk": "INACTIVE"
         }
     }
 }
