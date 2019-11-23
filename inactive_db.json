@@ -1,72 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574460948": {
-            "15minlt.adocean.pl": "INACTIVE",
-            "16.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "160.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574460949": {
-            "161.3322.org": "INACTIVE",
-            "161.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "162.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1627152033150.usercash.com": "INACTIVE",
-            "163.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574460950": {
-            "163.mueda.lsan.la6ca01r1.dsl.att.net": "INACTIVE",
-            "163915-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "163919-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "163av.us": "INACTIVE",
-            "164.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "164473-de-nutzung-angabe-account.sicherheitsabwehr.tk": "INACTIVE",
-            "164553-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "1648142766207.usercash.com": "INACTIVE",
-            "164c.mnwan.com": "INACTIVE",
-            "165.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "165084191236.ctinets.com": "INACTIVE",
-            "1651.bitterstrawberry.com": "INACTIVE",
-            "1652.bitterstrawberry.com": "INACTIVE",
-            "165209-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "165211-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "165257-14573.popunder.loading-delivery2.com": "INACTIVE",
-            "1654132169.no-ip.org": "INACTIVE"
-        },
-        "1574460951": {
-            "1655.bitterstrawberry.com": "INACTIVE",
-            "16565srs56.en.wanadoo.es": "INACTIVE",
-            "165a5856.api.splkmobile.com": "INACTIVE",
-            "166.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1663308747112.usercash.com": "INACTIVE",
-            "167.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1677376132924.usercash.com": "INACTIVE",
-            "167895-348.popunder.loading-delivery2.com": "INACTIVE",
-            "168.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574460952": {
-            "169.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1693.no-ip.org": "INACTIVE",
-            "16a.us": "INACTIVE"
-        },
-        "1574460953": {
-            "16ms0-2fbrw.ads.tremorhub.com": "INACTIVE",
-            "16ms0-itmvw.ads.tremorhub.com": "INACTIVE",
-            "16ms0-ksm1j.ads.tremorhub.com": "INACTIVE",
-            "17.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "170.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1701431523.rsc.cdn77.org": "INACTIVE",
-            "171.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "171.82.202.84.customer.cdi.no": "INACTIVE",
-            "171092.engine.mobileapptracking.com": "INACTIVE"
-        },
-        "1574460954": {
-            "1712033919.rsc.cdn77.org": "INACTIVE",
-            "17184.p17.justsv.com": "INACTIVE",
-            "172.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "172633-107.popunder.loading-delivery2.com": "INACTIVE",
-            "173-166-242-60-chattanooga.hfc.comcastbusiness.net": "INACTIVE",
-            "173-254-104-96.unifiedlayer.com": "INACTIVE",
-            "173-254-59-238.unifiedlayer.com": "INACTIVE"
-        },
         "1574461664": {
             "173-254-86-44.unifiedlayer.com": "INACTIVE",
             "173.6.87.194.dynamic.dol.ru": "INACTIVE",
@@ -3088,6 +3021,13 @@
             "1546a.s.fwmrm.net": "INACTIVE",
             "1546a.v.fwmrm.net": "INACTIVE",
             "1558681083.rsc.cdn77.org": "INACTIVE"
+        },
+        "1574548410": {
+            "163av.us": "INACTIVE",
+            "164473-de-nutzung-angabe-account.sicherheitsabwehr.tk": "INACTIVE"
+        },
+        "1574548411": {
+            "16a.us": "INACTIVE"
         }
     }
 }
