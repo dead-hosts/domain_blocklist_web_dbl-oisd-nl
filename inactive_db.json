@@ -1,74 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574462403": {
-            "187.ip-54-36-162.eu": "INACTIVE",
-            "1872602907940.usercash.com": "INACTIVE",
-            "1872777777.f3322.net": "INACTIVE",
-            "18751875.no-ip.org": "INACTIVE",
-            "188.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "188060.engine.mobileapptracking.com": "INACTIVE",
-            "18843ebd0883f5e5ab8872fce478a2cb.co.cc": "INACTIVE"
-        },
-        "1574462404": {
-            "189.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "189170.engine.mobileapptracking.com": "INACTIVE",
-            "1896320343.rsc.cdn77.org": "INACTIVE",
-            "1898799673.rsc.cdn77.org": "INACTIVE",
-            "189ca923a784725a301ad6c5c70292b9.co.cc": "INACTIVE"
-        },
-        "1574462405": {
-            "18b7febd.api.splkmobile.com": "INACTIVE",
-            "18c41ceaa2d017663550ebecf03d5bd3.co.cc": "INACTIVE",
-            "18jlurp.co.cc": "INACTIVE",
-            "18mlusd.co.cc": "INACTIVE",
-            "18r157295u.51mypc.cn": "INACTIVE"
-        },
-        "1574462406": {
-            "18sluhe.co.cc": "INACTIVE",
-            "19.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "190-197-205-201.wireless.movistar.net.ar": "INACTIVE",
-            "190-197-227-65.wireless.movistar.net.ar": "INACTIVE",
-            "190-197-228-31.wireless.movistar.net.ar": "INACTIVE",
-            "190.10.50.60.kmr02-home.tm.net.my": "INACTIVE",
-            "190.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1901.nordstrom.com": "INACTIVE",
-            "19020.engine.mobileapptracking.com": "INACTIVE",
-            "191.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574462407": {
-            "192.168.112.2o7.net": "INACTIVE",
-            "192.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "19248130e77ad627f371278852189aba.co.cc": "INACTIVE",
-            "192pills.gotech.tk": "INACTIVE",
-            "193-225-114-217.fttb.ur.ru": "INACTIVE",
-            "193.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "193.83.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1574462408": {
-            "194.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "194.bitterstrawberry.com": "INACTIVE",
-            "1940.bitterstrawberry.com": "INACTIVE",
-            "19453cdda046ff6db489d8235e337005.co.cc": "INACTIVE",
-            "1946bv1946.1946221.com": "INACTIVE",
-            "1947145131.rsc.cdn77.org": "INACTIVE",
-            "195-154-102-207.rev.poneytelecom.eu": "INACTIVE",
-            "195-154-183-190.rev.poneytelecom.eu": "INACTIVE",
-            "195-154-211-124.rev.poneytelecom.eu": "INACTIVE",
-            "195-154-240-203.rev.poneytelecom.eu": "INACTIVE",
-            "195-154-92-15.rev.poneytelecom.eu": "INACTIVE",
-            "195.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1957818178.rsc.cdn77.org": "INACTIVE"
-        },
-        "1574462409": {
-            "196.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1966843313.rsc.cdn77.org": "INACTIVE",
-            "197.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "1970743330661.usercash.com": "INACTIVE",
-            "1976-chevrolet.kropel.co.cc": "INACTIVE",
-            "1976-oldsmobile.kropel.co.cc": "INACTIVE",
-            "198-48-63-102.static.as40244.net": "INACTIVE",
-            "198-48-63-128.static.as40244.net": "INACTIVE"
-        },
         "1574463120": {
             "198.6.87.194.dynamic.dol.ru": "INACTIVE"
         },
@@ -2984,6 +2915,13 @@
         },
         "1574549175": {
             "21nmrmzowv.centade.com": "INACTIVE"
+        },
+        "1574549877": {
+            "192pills.gotech.tk": "INACTIVE",
+            "1946bv1946.1946221.com": "INACTIVE"
+        },
+        "1574549879": {
+            "21xpnbcgaf.centade.com": "INACTIVE"
         }
     }
 }
