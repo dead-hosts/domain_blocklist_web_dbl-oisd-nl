@@ -2992,16 +2992,21 @@
     "0j8.ru": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "0j9.ru": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "0je.org": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "0jf9uq5leu.com": {
+        "epoch": 1575331200.0,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "0juwrq36.ru": {
