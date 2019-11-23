@@ -1,41 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574464569": {
-            "1mature.en.wanadoo.es": "INACTIVE",
-            "1montruc23.no-ip.org": "INACTIVE"
-        },
-        "1574464570": {
-            "1notic-apple.servehttp.com": "INACTIVE",
-            "1nu.pureperformanceparts.uk": "INACTIVE"
-        },
-        "1574464571": {
-            "1opzin86kc.centade.com": "INACTIVE",
-            "1oq0f.tk": "INACTIVE",
-            "1oqvdkavhj.centade.com": "INACTIVE",
-            "1or1rszst5.centade.com": "INACTIVE",
-            "1orfsxclq9.centade.com": "INACTIVE",
-            "1osb8y.zero.hillsharvest.com": "INACTIVE",
-            "1ousonvhrz.centade.com": "INACTIVE",
-            "1ovnx1sx6c.centade.com": "INACTIVE",
-            "1p27r.fifth.pw": "INACTIVE"
-        },
-        "1574464572": {
-            "1poj12getbackto.tk": "INACTIVE",
-            "1polidsf.co.cc": "INACTIVE",
-            "1ppogetbackto.tk": "INACTIVE",
-            "1pt6r.fifth.pw": "INACTIVE"
-        },
-        "1574464573": {
-            "1rj18.filled.pw": "INACTIVE"
-        },
-        "1574464574": {
-            "1sex.en.wanadoo.es": "INACTIVE",
-            "1sj2b-z98kq.ads.tremorhub.com": "INACTIVE"
-        },
-        "1574464575": {
-            "1spl.ir.zeotap.com": "INACTIVE",
-            "1st-bychance.tk": "INACTIVE"
-        },
         "1574465299": {
             "1st-sciencefiction.tk": "INACTIVE",
             "1st-terriblethan.tk": "INACTIVE",
@@ -2850,6 +2814,11 @@
             "1fcwx.fifth.pw": "INACTIVE",
             "1j7nb.filled.pw": "INACTIVE",
             "1jvk3g.beg.smalltailsbfr.com": "INACTIVE"
+        },
+        "1574552051": {
+            "1p27r.fifth.pw": "INACTIVE",
+            "1pt6r.fifth.pw": "INACTIVE",
+            "1rj18.filled.pw": "INACTIVE"
         }
     }
 }
