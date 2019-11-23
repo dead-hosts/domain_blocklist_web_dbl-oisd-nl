@@ -6859,6 +6859,11 @@
         "expiration_date": "02-may-2029",
         "state": "future"
     },
+    "150.co.il": {
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
     "150365.net": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
