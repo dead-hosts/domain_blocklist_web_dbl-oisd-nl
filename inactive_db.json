@@ -1,75 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574466031": {
-            "1ykcs1zmnv.centade.com": "INACTIVE",
-            "1yne7tzslw.centade.com": "INACTIVE",
-            "1ynoz0ovd3.centade.com": "INACTIVE",
-            "1ynyz8snvm.centade.com": "INACTIVE",
-            "1yoswgh5lz.centade.com": "INACTIVE",
-            "1yp0ufj7ub.centade.com": "INACTIVE",
-            "1ypkb9jeug.centade.com": "INACTIVE",
-            "1yrrk4wo3x.centade.com": "INACTIVE",
-            "1yrxtupn22.centade.com": "INACTIVE",
-            "1ytvvczqff.centade.com": "INACTIVE",
-            "1yu0hkm0ky.centade.com": "INACTIVE",
-            "1yukbonrgk.centade.com": "INACTIVE",
-            "1yvgpnx5cf.centade.com": "INACTIVE",
-            "1yx52stavr.centade.com": "INACTIVE",
-            "1yxecqqeib.centade.com": "INACTIVE",
-            "1yxnnk9lrw.centade.com": "INACTIVE",
-            "1yz2av.beg.smalltailsbfr.com": "INACTIVE",
-            "1z.itsaol.com": "INACTIVE",
-            "1z6iyvwayn.centade.com": "INACTIVE",
-            "1z88egnh8y.centade.com": "INACTIVE",
-            "1z8povrokf.centade.com": "INACTIVE",
-            "1zab4ever.no-ip.org": "INACTIVE",
-            "1ze6n2i0wn.centade.com": "INACTIVE",
-            "1zf4mnm7yx.centade.com": "INACTIVE",
-            "1zf5747263.iok.la": "INACTIVE",
-            "1zginkswgh.centade.com": "INACTIVE",
-            "1zgouo2lzl.centade.com": "INACTIVE",
-            "1zivxva1sz.centade.com": "INACTIVE",
-            "1zkiller.no-ip.org": "INACTIVE",
-            "1zv449.filled.pw": "INACTIVE"
-        },
-        "1574466032": {
-            "1zzz.co.cc": "INACTIVE",
-            "2-228-171-10.ip192.fastwebnet.it": "INACTIVE",
-            "2-apple.com-scan.live": "INACTIVE",
-            "2.dcxmy.com": "INACTIVE",
-            "2.go.globaladsales.com": "INACTIVE"
-        },
-        "1574466033": {
-            "2.kaizentraffic.com": "INACTIVE",
-            "2.refiinc.com": "INACTIVE",
-            "2.tuxi.com.cn": "INACTIVE",
-            "2.up.hiao.com": "INACTIVE",
-            "2.wholesalepbm.com": "INACTIVE",
-            "2.zerocostfha.com": "INACTIVE",
-            "20.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "200-112-131-112.bbt.net.ar": "INACTIVE",
-            "200-112-132-31.bbt.net.ar": "INACTIVE",
-            "200-112-132-8.bbt.net.ar": "INACTIVE",
-            "200-112-152-42.bbt.net.ar": "INACTIVE",
-            "200-112-170-5.bbt.net.ar": "INACTIVE",
-            "200-112-171-27.bbt.net.ar": "INACTIVE",
-            "200-112-176-61.bbt.net.ar": "INACTIVE",
-            "200-112-184-67.bbt.net.ar": "INACTIVE",
-            "200-112-184-74.bbt.net.ar": "INACTIVE",
-            "200-112-185-134.bbt.net.ar": "INACTIVE",
-            "200-112-185-211.bbt.net.ar": "INACTIVE",
-            "200-122-75-84.cab.prima.net.ar": "INACTIVE",
-            "200-122-77-211.cab.prima.net.ar": "INACTIVE"
-        },
-        "1574466034": {
-            "200-122-89-72.cab.prima.net.ar": "INACTIVE",
-            "200-122-97-188.cab.prima.net.ar": "INACTIVE",
-            "200-127-0-114.cab.prima.net.ar": "INACTIVE",
-            "200-127-0-123.cab.prima.net.ar": "INACTIVE",
-            "200-127-0-56.cab.prima.net.ar": "INACTIVE",
-            "200-127-0-77.cab.prima.net.ar": "INACTIVE",
-            "200-127-1-149.cab.prima.net.ar": "INACTIVE"
-        },
         "1574466754": {
             "200-127-107-4.dsl.prima.net.ar": "INACTIVE",
             "200-127-138-101.dsl.prima.net.ar": "INACTIVE",
@@ -2779,6 +2709,37 @@
         "1574552791": {
             "1uknvc.beg.smalltailsbfr.com": "INACTIVE",
             "1v1kom.beg.smalltailsbfr.com": "INACTIVE"
+        },
+        "1574553556": {
+            "1yz2av.beg.smalltailsbfr.com": "INACTIVE",
+            "1zv449.filled.pw": "INACTIVE",
+            "2.dcxmy.com": "INACTIVE"
+        },
+        "1574553557": {
+            "2.tuxi.com.cn": "INACTIVE"
+        },
+        "1574553560": {
+            "2kpw8ifviq.centade.com": "INACTIVE",
+            "2ks6tiv1vu.centade.com": "INACTIVE",
+            "2kt6gc32e6.centade.com": "INACTIVE",
+            "2kun9rqdai.centade.com": "INACTIVE",
+            "2kuug2i61m.centade.com": "INACTIVE",
+            "2kwgon6qn4.centade.com": "INACTIVE",
+            "2kyhbjomqf.centade.com": "INACTIVE",
+            "2kylgx9ii5.centade.com": "INACTIVE",
+            "2kzk83syqm.centade.com": "INACTIVE",
+            "2l0opsheit.centade.com": "INACTIVE",
+            "2l3uwhsczf.centade.com": "INACTIVE",
+            "2l4ccvsrh1.centade.com": "INACTIVE",
+            "2l53ahp0ic.centade.com": "INACTIVE"
+        },
+        "1574553561": {
+            "2l89xltbcr.centade.com": "INACTIVE",
+            "2labqbhyzt.centade.com": "INACTIVE",
+            "2lb9mw4mpp.centade.com": "INACTIVE",
+            "2leclxmfxs.centade.com": "INACTIVE",
+            "2lfvihjboa.centade.com": "INACTIVE",
+            "2lfxaql88z.centade.com": "INACTIVE"
         }
     }
 }
