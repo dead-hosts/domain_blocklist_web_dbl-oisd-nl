@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574507615": {
-            "5optyvghelper.tk": "INACTIVE"
-        },
-        "1574507616": {
-            "5per-cent.tk": "INACTIVE"
-        },
-        "1574507617": {
-            "5poklojhelper.tk": "INACTIVE"
-        },
-        "1574507619": {
-            "5qnx1.filled.pw": "INACTIVE"
-        },
-        "1574507620": {
-            "5rv7nc.blow.harrisretreat.com": "INACTIVE"
-        },
-        "1574507621": {
-            "5rzmd3.blow.harrisretreat.com": "INACTIVE"
-        },
         "1574508678": {
             "5ukzz.alldownloads.hapc.gdn": "INACTIVE"
         },
@@ -1080,6 +1062,9 @@
         },
         "1574593922": {
             "5mcjl.fifth.pw": "INACTIVE"
+        },
+        "1574594647": {
+            "5qnx1.filled.pw": "INACTIVE"
         }
     }
 }
