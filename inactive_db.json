@@ -1,46 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574492376": {
-            "4dreshelp.tk": "INACTIVE",
-            "4dtb.co.cc": "INACTIVE"
-        },
-        "1574492377": {
-            "4e98c2a3.api.splkmobile.com": "INACTIVE"
-        },
-        "1574492378": {
-            "4ecservices.goadservices.com": "INACTIVE",
-            "4efdd1c1.api.splkmobile.com": "INACTIVE"
-        },
-        "1574492379": {
-            "4errorxxx.ga": "INACTIVE",
-            "4errorxxx.gq": "INACTIVE",
-            "4etn6w.beg.smalltailsbfr.com": "INACTIVE",
-            "4euirbhelp.tk": "INACTIVE",
-            "4eyrhfcallup.tk": "INACTIVE"
-        },
-        "1574492381": {
-            "4ffaad9b.api.splkmobile.com": "INACTIVE"
-        },
-        "1574492382": {
-            "4gf.9tkl2d.cn": "INACTIVE"
-        },
-        "1574492383": {
-            "4gsurf.co.cc": "INACTIVE"
-        },
-        "1574492384": {
-            "4h.janrain.com": "INACTIVE",
-            "4hjerhelp.tk": "INACTIVE"
-        },
-        "1574492385": {
-            "4huegiveacall.tk": "INACTIVE",
-            "4hurgiveacall.tk": "INACTIVE",
-            "4ibhrhelp.tk": "INACTIVE"
-        },
-        "1574492386": {
-            "4idog8g0qngam8ggodc186v8p9avmob0fmz3g1me.sapwize.com": "INACTIVE",
-            "4ijrmkcallup.tk": "INACTIVE",
-            "4imprint.com.102.112.2o7.net": "INACTIVE"
-        },
         "1574493453": {
             "4jkfjkgiveacall.tk": "INACTIVE"
         },
@@ -1505,6 +1464,12 @@
         },
         "1574578694": {
             "493pil.medic1.tk": "INACTIVE"
+        },
+        "1574579419": {
+            "4etn6w.beg.smalltailsbfr.com": "INACTIVE",
+            "4ibhrhelp.tk": "INACTIVE",
+            "4idog8g0qngam8ggodc186v8p9avmob0fmz3g1me.sapwize.com": "INACTIVE",
+            "4ijrmkcallup.tk": "INACTIVE"
         }
     }
 }
