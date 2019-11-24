@@ -40248,5 +40248,125 @@
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
         "state": "future"
+    },
+    "9df4mz2kpm.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "9dil.com": {
+        "epoch": 1578700800.0,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "9direc.com.br": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "9dnf.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "9dot9.in": {
+        "epoch": 1660348800.0,
+        "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
+    "9down.cc": {
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "state": "future"
+    },
+    "9duzone.com": {
+        "epoch": 1576368000.0,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "9dvn.com": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "9ead.com": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "9eb10b7a3d04a.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "9ehy8a8u6b.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "9f23ab605837.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "9f4272342f817.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "9f999.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
+    },
+    "9fairyland.ru": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "9fine.ru": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "9fingers.com": {
+        "epoch": 1577404800.0,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "9fm.com": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
+    "9gagpictures.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "9gc.co.uk": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "9gname.com": {
+        "epoch": 1575244800.0,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
+    "9gpan.com": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "9h7n8.com": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "9ht.com": {
+        "epoch": 1708992000.0,
+        "expiration_date": "27-feb-2024",
+        "state": "future"
     }
 }
