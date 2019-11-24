@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574474747": {
-            "2964.engine.mobileapptracking.com": "INACTIVE"
-        },
-        "1574474749": {
-            "29f0dc08046cc68c16f1.dns.army": "INACTIVE"
-        },
-        "1574474750": {
-            "2a6ks2.blow.harrisretreat.com": "INACTIVE"
-        },
-        "1574474751": {
-            "2affeyx2i6lcqce4.onion.ws": "INACTIVE"
-        },
-        "1574474752": {
-            "2bbaaab2.api.splkmobile.com": "INACTIVE"
-        },
-        "1574474754": {
-            "2c3ae75b.api.splkmobile.com": "INACTIVE"
-        },
-        "1574474755": {
-            "2cc641ed.api.splkmobile.com": "INACTIVE",
-            "2cgi.hitbox.com": "INACTIVE"
-        },
-        "1574474756": {
-            "2cool.qsrch.com": "INACTIVE"
-        },
-        "1574474757": {
-            "2d7d.co.cc": "INACTIVE",
-            "2dab0c44.api.splkmobile.com": "INACTIVE"
-        },
-        "1574474759": {
-            "2e.d8.344a.static.theplanet.com": "INACTIVE"
-        },
-        "1574474760": {
-            "2errorxxx.cf": "INACTIVE"
-        },
-        "1574474761": {
-            "2etzz.alldownloads.hapc.gdn": "INACTIVE"
-        },
         "1574475464": {
             "2f77bd38.api.splkmobile.com": "INACTIVE",
             "2fad998d.api.splkmobile.com": "INACTIVE",
@@ -2225,6 +2187,13 @@
             "2851185.ru": "INACTIVE",
             "288jm8.beg.smalltailsbfr.com": "INACTIVE",
             "28ser.fifth.pw": "INACTIVE"
+        },
+        "1574561732": {
+            "29f0dc08046cc68c16f1.dns.army": "INACTIVE",
+            "2cool.qsrch.com": "INACTIVE"
+        },
+        "1574561756": {
+            "438htshdy7.centade.com": "INACTIVE"
         }
     }
 }

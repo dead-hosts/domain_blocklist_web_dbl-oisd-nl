@@ -22549,6 +22549,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "42go3m0-qx1w.biz": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "42publicidade.com.br": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
