@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574516391": {
-            "6cvfktbwwk.centade.com": "INACTIVE",
-            "6cvsy6mtsa.centade.com": "INACTIVE"
-        },
-        "1574516392": {
-            "6cxgmypjtz.centade.com": "INACTIVE"
-        },
-        "1574516393": {
-            "6d8mftboe4.centade.com": "INACTIVE",
-            "6d9kriw5o9.centade.com": "INACTIVE"
-        },
-        "1574516394": {
-            "6dccb909.api.splkmobile.com": "INACTIVE",
-            "6ddumf9moy.centade.com": "INACTIVE",
-            "6dgse1mgpz.centade.com": "INACTIVE",
-            "6dhadjg6l8.centade.com": "INACTIVE",
-            "6dhofukvv2.centade.com": "INACTIVE"
-        },
         "1574517115": {
             "6e2eb53bb5b28d4bb5f5247d339592e0.co.cc": "INACTIVE"
         },
