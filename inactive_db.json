@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574517840": {
-            "6hjdbhcphone.tk": "INACTIVE"
-        },
-        "1574517844": {
-            "6kmfhutgivearing.tk": "INACTIVE"
-        },
         "1574518553": {
             "6kormcallingnow.tk": "INACTIVE",
             "6kotjicallingnow.tk": "INACTIVE"
@@ -774,6 +768,16 @@
         },
         "1574604021": {
             "6g4ds.froekuge.com": "INACTIVE"
+        },
+        "1574604739": {
+            "8f2e4vishr.ohellograndpaqq.com": "INACTIVE",
+            "8f300.coparto.ru": "INACTIVE"
+        },
+        "1574604741": {
+            "8fga.ketteaero.com": "INACTIVE"
+        },
+        "1574604747": {
+            "8iujq.filled.pw": "INACTIVE"
         }
     }
 }
