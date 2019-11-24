@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574531083": {
-            "80j8n.filled.pw": "INACTIVE"
-        },
-        "1574531084": {
-            "80l7j.filled.pw": "INACTIVE"
-        },
-        "1574531087": {
-            "811pil.medic1.tk": "INACTIVE"
-        },
         "1574534137": {
             "00ckdjqixs.centade.com": "INACTIVE",
             "00dumagwgv.centade.com": "INACTIVE",
@@ -721,6 +712,10 @@
         },
         "1574617036": {
             "98awscxpcu.centade.com": "INACTIVE"
+        },
+        "1574617738": {
+            "80j8n.filled.pw": "INACTIVE",
+            "80l7j.filled.pw": "INACTIVE"
         }
     }
 }
