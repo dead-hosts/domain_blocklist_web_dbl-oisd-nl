@@ -1,40 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574473301": {
-            "2664735040161.usercash.com": "INACTIVE",
-            "2668899.co.cc": "INACTIVE"
-        },
-        "1574473302": {
-            "26939.icpun.com": "INACTIVE",
-            "26948613c6405b8c74e5b170fd32ae61.co.cc": "INACTIVE"
-        },
-        "1574473303": {
-            "26995a48c84362f643057f52126bc19a.co.cc": "INACTIVE",
-            "26a48fe0a6609a522034f7088ad17b5b.co.cc": "INACTIVE",
-            "26ed3897ac52625d8b1d5d7be00e4d17.co.cc": "INACTIVE",
-            "26izz.alldownloads.hapc.gdn": "INACTIVE",
-            "26zz.co.cc": "INACTIVE",
-            "27.116.202.84.customer.cdi.no": "INACTIVE",
-            "27.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574473304": {
-            "270966e2052b7299d9d9b22c851f1341.co.cc": "INACTIVE",
-            "27127534584149466ec45fdfdcdc64af.co.cc": "INACTIVE"
-        },
-        "1574473307": {
-            "274407c2.api.splkmobile.com": "INACTIVE"
-        },
-        "1574473309": {
-            "2777f1.makemegood24.com": "INACTIVE",
-            "278267882.f3322.org": "INACTIVE"
-        },
-        "1574473310": {
-            "278f22a66e670d5c1a9bf43ea0d1ba20.co.cc": "INACTIVE",
-            "27a6a0032bca737d2d1faad114101643.co.cc": "INACTIVE"
-        },
-        "1574473311": {
-            "27e529476a968bbae3efc900c0338553.co.cc": "INACTIVE"
-        },
         "1574474023": {
             "27f11ba25e593eab4e5c80cffa54ae8e.co.cc": "INACTIVE",
             "27fhuw.blow.harrisretreat.com": "INACTIVE"
