@@ -35798,5 +35798,60 @@
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
+    },
+    "8696bb.com": {
+        "epoch": 1569024000.0,
+        "expiration_date": "21-sep-2019",
+        "state": "past"
+    },
+    "86999.com": {
+        "epoch": 1676851200.0,
+        "expiration_date": "20-feb-2023",
+        "state": "future"
+    },
+    "869999.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "86a6b542l7.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "86apple.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "86d6.com": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "86displays.com": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "86f4fd3b507f774.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "86gan.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "86kx.com": {
+        "epoch": 1580601600.0,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "86mall.com": {
+        "epoch": 1692489600.0,
+        "expiration_date": "20-aug-2023",
+        "state": "future"
     }
 }
