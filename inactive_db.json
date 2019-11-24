@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574467452": {
-            "201-213-252-42.net.prima.net.ar": "INACTIVE",
-            "201-213-48-44.net.prima.net.ar": "INACTIVE",
-            "201-213-50-74.net.prima.net.ar": "INACTIVE"
-        },
-        "1574467453": {
-            "201-213-55-91.net.prima.net.ar": "INACTIVE",
-            "201-213-72-205.net.prima.net.ar": "INACTIVE",
-            "201-213-96-23.net.prima.net.ar": "INACTIVE",
-            "201-213-97-214.net.prima.net.ar": "INACTIVE",
-            "201-213-97-73.net.prima.net.ar": "INACTIVE",
-            "201-213-98-240.net.prima.net.ar": "INACTIVE",
-            "201.52.189.109.customer.cdi.no": "INACTIVE",
-            "201.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2011cars.co.cc": "INACTIVE",
-            "2011webproxy.co.cc": "INACTIVE",
-            "2013.0catch.com": "INACTIVE",
-            "2013.gullbrannafestivalen.com": "INACTIVE"
-        },
-        "1574467454": {
-            "20140822072920603.qqldp.com": "INACTIVE",
-            "2015.tukangklambi.tk": "INACTIVE"
-        },
-        "1574467457": {
-            "2016today.duckdns.org": "INACTIVE"
-        },
         "1574468173": {
             "2018.help9999.by": "INACTIVE"
         },
@@ -2621,6 +2595,10 @@
             "2leclxmfxs.centade.com": "INACTIVE",
             "2lfvihjboa.centade.com": "INACTIVE",
             "2lfxaql88z.centade.com": "INACTIVE"
+        },
+        "1574555008": {
+            "2013.gullbrannafestivalen.com": "INACTIVE",
+            "2015.tukangklambi.tk": "INACTIVE"
         }
     }
 }
