@@ -1,51 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574476188": {
-            "2kogvdgetonthehorn.tk": "INACTIVE",
-            "2kotyegetonthehorn.tk": "INACTIVE"
-        },
-        "1574476189": {
-            "2m1sdzs.co.cc": "INACTIVE"
-        },
-        "1574476190": {
-            "2mg.jim86d.cn": "INACTIVE",
-            "2mmijicallfast.tk": "INACTIVE",
-            "2momucallfast.tk": "INACTIVE"
-        },
-        "1574476191": {
-            "2n6h.co.cc": "INACTIVE"
-        },
-        "1574476192": {
-            "2new.ir": "INACTIVE",
-            "2nfupu.kal.wkcengland.com": "INACTIVE"
-        },
-        "1574476193": {
-            "2oktnjgetonthehorn.tk": "INACTIVE",
-            "2olyacallfast.tk": "INACTIVE",
-            "2oo9.3322.org": "INACTIVE",
-            "2p2kzepitler.ml": "INACTIVE"
-        },
-        "1574476194": {
-            "2poklgetonthehorn.tk": "INACTIVE"
-        },
-        "1574476195": {
-            "2qbvl6n3-ios-1-7-1.mobile-sdk-api.intercom.io": "INACTIVE"
-        },
-        "1574476196": {
-            "2s948.fifth.pw": "INACTIVE"
-        },
-        "1574476197": {
-            "2spl.ir.zeotap.com": "INACTIVE",
-            "2ssabmudaru.no-ip.org": "INACTIVE"
-        },
-        "1574476198": {
-            "2ta2hs4odaduyakh.onion.ws": "INACTIVE",
-            "2takeaway.es": "INACTIVE",
-            "2toporaru.432.com1.ru": "INACTIVE"
-        },
-        "1574476199": {
-            "2tsdgseg.co.cc": "INACTIVE"
-        },
         "1574476911": {
             "2u0cx.filled.pw": "INACTIVE"
         },
@@ -2155,6 +2109,10 @@
         },
         "1574562471": {
             "2g7lt.fifth.pw": "INACTIVE"
+        },
+        "1574563232": {
+            "2s948.fifth.pw": "INACTIVE",
+            "2takeaway.es": "INACTIVE"
         }
     }
 }
