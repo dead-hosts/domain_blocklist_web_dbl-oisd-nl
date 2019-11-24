@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574520006": {
-            "6uvjc.fifth.pw": "INACTIVE"
-        },
-        "1574520007": {
-            "6vliq.filled.pw": "INACTIVE",
-            "6vt4gbkwnjfnyo6g.onion.link": "INACTIVE"
-        },
-        "1574520009": {
-            "6xdrc.fifth.pw": "INACTIVE"
-        },
-        "1574520013": {
-            "6zux3.fifth.pw": "INACTIVE"
-        },
         "1574520736": {
             "713tablets.gotech.tk": "INACTIVE"
         },
@@ -738,6 +725,12 @@
         },
         "1574606194": {
             "8oqyn.fifth.pw": "INACTIVE"
+        },
+        "1574606919": {
+            "6uvjc.fifth.pw": "INACTIVE",
+            "6vliq.filled.pw": "INACTIVE",
+            "6xdrc.fifth.pw": "INACTIVE",
+            "6zux3.fifth.pw": "INACTIVE"
         }
     }
 }
