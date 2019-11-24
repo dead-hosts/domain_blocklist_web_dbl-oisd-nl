@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574512023": {
-            "64uibhfcallingnow.tk": "INACTIVE"
-        },
-        "1574512024": {
-            "65.27.34.95.customer.cdi.no": "INACTIVE",
-            "65.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "6506881977431.usercash.com": "INACTIVE"
-        },
-        "1574512027": {
-            "654cingzdl.centade.com": "INACTIVE"
-        },
-        "1574512028": {
-            "655yb4nysz.centade.com": "INACTIVE"
-        },
-        "1574512030": {
-            "6576328220311.usercash.com": "INACTIVE"
-        },
-        "1574512031": {
-            "6596926370169.usercash.com": "INACTIVE"
-        },
-        "1574512032": {
-            "65derxcallingnow.tk": "INACTIVE",
-            "65ifiedkfu.centade.com": "INACTIVE",
-            "65liqwcbpu.centade.com": "INACTIVE"
-        },
-        "1574512033": {
-            "65ml.hopto.org": "INACTIVE",
-            "65os9ira6g.centade.com": "INACTIVE",
-            "65papynuiu.centade.com": "INACTIVE",
-            "65rpgpfmjf.centade.com": "INACTIVE",
-            "65svtseofc.centade.com": "INACTIVE"
-        },
         "1574512729": {
             "66-109-33-5.tvc-ip.com": "INACTIVE",
             "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE",
@@ -971,6 +939,15 @@
         },
         "1574598267": {
             "88.anqu22.com": "INACTIVE"
+        },
+        "1574598983": {
+            "654cingzdl.centade.com": "INACTIVE",
+            "655yb4nysz.centade.com": "INACTIVE",
+            "65ifiedkfu.centade.com": "INACTIVE",
+            "65os9ira6g.centade.com": "INACTIVE",
+            "65papynuiu.centade.com": "INACTIVE",
+            "65rpgpfmjf.centade.com": "INACTIVE",
+            "65svtseofc.centade.com": "INACTIVE"
         }
     }
 }
