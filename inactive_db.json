@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574525161": {
-            "78i63czt1s.ohellograndpaqq.com": "INACTIVE"
-        },
-        "1574525178": {
-            "7c7jpz.beg.smalltailsbfr.com": "INACTIVE"
-        },
         "1574525921": {
             "7d3.proporr.com": "INACTIVE",
             "7d9du.filled.pw": "INACTIVE"
@@ -719,6 +713,10 @@
         },
         "1574611237": {
             "90st8.fifth.pw": "INACTIVE"
+        },
+        "1574611982": {
+            "78i63czt1s.ohellograndpaqq.com": "INACTIVE",
+            "7c7jpz.beg.smalltailsbfr.com": "INACTIVE"
         }
     }
 }
