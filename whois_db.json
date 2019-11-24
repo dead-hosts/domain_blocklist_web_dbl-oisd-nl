@@ -30239,6 +30239,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "66law.cn": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "66lm.cc": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
