@@ -35309,6 +35309,11 @@
         "expiration_date": "26-may-2022",
         "state": "future"
     },
+    "833-tm.social": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "83303.com": {
         "epoch": 1700870400.0,
         "expiration_date": "25-nov-2023",
@@ -35337,6 +35342,46 @@
     "8339666.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "833gg.com": {
+        "epoch": 1578009600.0,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "833wellsell.com": {
+        "epoch": 1579824000.0,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "8345.com": {
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "state": "future"
+    },
+    "83453138.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "835qq.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "8365-365.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "8368661.com": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "83692.com": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
         "state": "future"
     }
 }

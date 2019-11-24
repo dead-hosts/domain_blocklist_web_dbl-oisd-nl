@@ -1,44 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574506646": {
-            "5ji235jysrvwfgmb.onion.link": "INACTIVE",
-            "5jiemhelper.tk": "INACTIVE",
-            "5jihucalling.tk": "INACTIVE",
-            "5jikocalling.tk": "INACTIVE",
-            "5jirnjhkcalling.tk": "INACTIVE",
-            "5jitcalling.tk": "INACTIVE",
-            "5jivas5helper.tk": "INACTIVE",
-            "5jiygiveajingl.tk": "INACTIVE",
-            "5jkvnjghurtfhelper.tk": "INACTIVE",
-            "5jonomhelper.tk": "INACTIVE"
-        },
-        "1574506647": {
-            "5kincalling.tk": "INACTIVE",
-            "5kjfgiveacall.tk": "INACTIVE"
-        },
-        "1574506648": {
-            "5klrofring.tk": "INACTIVE",
-            "5kolgetontheline.tk": "INACTIVE",
-            "5koornj55helper.tk": "INACTIVE",
-            "5korjihelper.tk": "INACTIVE"
-        },
-        "1574506649": {
-            "5lkdnjvbycalling.tk": "INACTIVE",
-            "5lkohugiveajingl.tk": "INACTIVE",
-            "5lokihelper.tk": "INACTIVE"
-        },
-        "1574506650": {
-            "5lokolunphelper.tk": "INACTIVE",
-            "5mcjl.fifth.pw": "INACTIVE"
-        },
-        "1574506651": {
-            "5mksasagiveajingl.tk": "INACTIVE"
-        },
-        "1574506654": {
-            "5oipoicalls.tk": "INACTIVE",
-            "5oizz.alldownloads.hapc.gdn": "INACTIVE",
-            "5okokigiveajingl.tk": "INACTIVE"
-        },
         "1574507615": {
             "5optyvghelper.tk": "INACTIVE"
         },
@@ -1113,6 +1074,12 @@
             "81fuewadfp.centade.com": "INACTIVE",
             "81ibinzju9.centade.com": "INACTIVE",
             "81kho5soqi.centade.com": "INACTIVE"
+        },
+        "1574593921": {
+            "5ji235jysrvwfgmb.onion.link": "INACTIVE"
+        },
+        "1574593922": {
+            "5mcjl.fifth.pw": "INACTIVE"
         }
     }
 }
