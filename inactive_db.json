@@ -1,46 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574503059": {
-            "594beaf4.api.splkmobile.com": "INACTIVE",
-            "59556903.api.splkmobile.com": "INACTIVE",
-            "5962635889183.usercash.com": "INACTIVE",
-            "5968141349498.usercash.com": "INACTIVE"
-        },
-        "1574503060": {
-            "597544.glycyl.pw": "INACTIVE"
-        },
-        "1574503061": {
-            "5993805270176.usercash.com": "INACTIVE"
-        },
-        "1574503062": {
-            "5997402280103.usercash.com": "INACTIVE"
-        },
-        "1574503064": {
-            "59f95aec.api.splkmobile.com": "INACTIVE"
-        },
-        "1574503066": {
-            "5a757cff.api.splkmobile.com": "INACTIVE",
-            "5ac1a556.api.splkmobile.com": "INACTIVE"
-        },
-        "1574503067": {
-            "5aea1fab.api.splkmobile.com": "INACTIVE"
-        },
-        "1574503068": {
-            "5ay7pokidr.centade.com": "INACTIVE",
-            "5aycrogjwc.centade.com": "INACTIVE",
-            "5ayezbivwg.centade.com": "INACTIVE",
-            "5aykmyuf92.centade.com": "INACTIVE",
-            "5azu8mradi.centade.com": "INACTIVE",
-            "5azv0ua96f.centade.com": "INACTIVE"
-        },
-        "1574503069": {
-            "5b23666d2fde7.webredirect.org": "INACTIVE",
-            "5b2ep7rtw2.centade.com": "INACTIVE",
-            "5b2raflziv.centade.com": "INACTIVE"
-        },
-        "1574503071": {
-            "5b8izvsu80.centade.com": "INACTIVE"
-        },
         "1574504075": {
             "5bc2ed183ee2b6e1f30617db36bc0e37.co.cc": "INACTIVE",
             "5be07eb0.api.splkmobile.com": "INACTIVE"
@@ -1217,6 +1176,9 @@
             "7ppmlcam73.centade.com": "INACTIVE",
             "7prfinkp9j.centade.com": "INACTIVE",
             "7pu2xpdsi8.centade.com": "INACTIVE"
+        },
+        "1574590323": {
+            "597544.glycyl.pw": "INACTIVE"
         }
     }
 }
