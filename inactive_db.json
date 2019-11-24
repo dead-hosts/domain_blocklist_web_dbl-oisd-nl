@@ -1,130 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574471108": {
-            "23.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "23.68.151.77.rev.sfr.net": "INACTIVE",
-            "23.teracreative.com": "INACTIVE"
-        },
-        "1574471109": {
-            "230.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "23035019e90f9fa3513651ff5f4e81b2.co.cc": "INACTIVE",
-            "2309157c.api.splkmobile.com": "INACTIVE",
-            "230be52ab94478c0c12037703c6dea77.co.cc": "INACTIVE",
-            "231.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2315989588852.usercash.com": "INACTIVE"
-        },
-        "1574471110": {
-            "232.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "232.bitterstrawberry.com": "INACTIVE",
-            "23298.engine.mobileapptracking.com": "INACTIVE",
-            "233.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "233.bitterstrawberry.com": "INACTIVE"
-        },
-        "1574471111": {
-            "2336.bitterstrawberry.com": "INACTIVE",
-            "234.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574471112": {
-            "234ac.v.fwmrm.net": "INACTIVE",
-            "234s.ascotsprue.com": "INACTIVE",
-            "235.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "235.bitterstrawberry.com": "INACTIVE"
-        },
-        "1574471113": {
-            "2358438.ftphosting.pw": "INACTIVE",
-            "235jillfast.tk": "INACTIVE",
-            "235pills.gotech.tk": "INACTIVE",
-            "236.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "236.jyhyw.net": "INACTIVE",
-            "23602.engine.mobileapptracking.com": "INACTIVE",
-            "2362.engine.mobileapptracking.com": "INACTIVE"
-        },
-        "1574471114": {
-            "237.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "237.bitterstrawberry.com": "INACTIVE",
-            "2370.bitterstrawberry.com": "INACTIVE",
-            "2376.engine.mobileapptracking.com": "INACTIVE",
-            "237pills.gotech.tk": "INACTIVE",
-            "238.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574471115": {
-            "239.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2398781200405.usercash.com": "INACTIVE",
-            "23bteufi2kcqza2l.onion.link": "INACTIVE",
-            "23ce1b15ce618ef131f31f74f16fc026.co.cc": "INACTIVE"
-        },
-        "1574471116": {
-            "24-ads.adaos-ads.net": "INACTIVE"
-        },
-        "1574471117": {
-            "24-instagram.ru": "INACTIVE",
-            "24.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2400.bitterstrawberry.com": "INACTIVE"
-        },
-        "1574471118": {
-            "241746787.3322.org": "INACTIVE",
-            "2419.damnserver.com": "INACTIVE",
-            "2419.geekgalaxy.com": "INACTIVE",
-            "2419.health-carereform.com": "INACTIVE",
-            "2419.mymediapc.net": "INACTIVE",
-            "2419.pgafan.net": "INACTIVE",
-            "2419.servep2p.com": "INACTIVE"
-        },
-        "1574471119": {
-            "243bc93d-bdf9-47fa-9459-3acfa4582de3.statcamp.net": "INACTIVE"
-        },
-        "1574471817": {
-            "2442859005648.usercash.com": "INACTIVE",
-            "245.bitterstrawberry.com": "INACTIVE",
-            "246.116.202.84.customer.cdi.no": "INACTIVE"
-        },
-        "1574471818": {
-            "2467bbaf.api.splkmobile.com": "INACTIVE"
-        },
-        "1574471821": {
-            "248-1375greinke.pub.adfirmative.com": "INACTIVE",
-            "248047-deutschland-verbraucher-angabe-kontoidentity.vorkehrung.tk": "INACTIVE"
-        },
-        "1574471822": {
-            "2487164077814.usercash.com": "INACTIVE",
-            "249.jumpingcrab.com": "INACTIVE",
-            "249.strangled.net": "INACTIVE"
-        },
-        "1574471823": {
-            "24er.ovaarmor.com": "INACTIVE",
-            "24fkxhnr3cdtvwmy.onion.link": "INACTIVE"
-        },
-        "1574471826": {
-            "24pcupgrade.center2getbestcontent.info": "INACTIVE",
-            "24pcupgrade.center2getbestcontenting.info": "INACTIVE"
-        },
-        "1574471827": {
-            "24things.de": "INACTIVE",
-            "24x7-customer-support.site": "INACTIVE",
-            "24x7.soliday.org": "INACTIVE"
-        },
-        "1574471828": {
-            "24x7customercaresupport.online": "INACTIVE",
-            "24x7customersupport.site": "INACTIVE",
-            "25.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2500.fwbntw.com": "INACTIVE"
-        },
-        "1574471829": {
-            "2513574432116.usercash.com": "INACTIVE"
-        },
-        "1574471831": {
-            "254.bitterstrawberry.com": "INACTIVE",
-            "2542932773008.usercash.com": "INACTIVE",
-            "2543320427648.usercash.com": "INACTIVE"
-        },
-        "1574471832": {
-            "2565.bitterstrawberry.com": "INACTIVE",
-            "2565583713818.usercash.com": "INACTIVE"
-        },
-        "1574471833": {
-            "256sha.mine.zpool.ca": "INACTIVE",
-            "2573.bitterstrawberry.com": "INACTIVE"
-        },
         "1574472581": {
             "2586c9b5b86c9c97812486d28effa774.co.cc": "INACTIVE"
         },
@@ -2433,6 +2308,22 @@
             "229999240-prod.rfksrv.com": "INACTIVE",
             "22klzn6kzjlwlmt2.onion.link": "INACTIVE",
             "22tq7.filled.pw": "INACTIVE"
+        },
+        "1574558750": {
+            "234ac.v.fwmrm.net": "INACTIVE",
+            "235pills.gotech.tk": "INACTIVE",
+            "237pills.gotech.tk": "INACTIVE",
+            "23bteufi2kcqza2l.onion.link": "INACTIVE",
+            "24-instagram.ru": "INACTIVE"
+        },
+        "1574558751": {
+            "243bc93d-bdf9-47fa-9459-3acfa4582de3.statcamp.net": "INACTIVE",
+            "248047-deutschland-verbraucher-angabe-kontoidentity.vorkehrung.tk": "INACTIVE",
+            "24fkxhnr3cdtvwmy.onion.link": "INACTIVE",
+            "24things.de": "INACTIVE",
+            "24x7-customer-support.site": "INACTIVE",
+            "24x7customercaresupport.online": "INACTIVE",
+            "24x7customersupport.site": "INACTIVE"
         }
     }
 }
