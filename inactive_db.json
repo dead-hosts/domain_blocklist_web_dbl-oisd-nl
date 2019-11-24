@@ -1,81 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574489759": {
-            "4589c60640c86a7a182a7b212ca7cdf6.co.cc": "INACTIVE"
-        },
-        "1574489762": {
-            "45nijghelp.tk": "INACTIVE",
-            "45oimkgiveacall.tk": "INACTIVE",
-            "46-245-181-60.static.mivitec.net": "INACTIVE",
-            "46.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "4600283148232.usercash.com": "INACTIVE"
-        },
-        "1574489763": {
-            "461356fb317cb3d9f633bb10fe89a7ab.co.cc": "INACTIVE"
-        },
-        "1574489765": {
-            "4638404928147.usercash.com": "INACTIVE",
-            "463e57f8242ba373868cc5f8bdd3df0a.co.cc": "INACTIVE"
-        },
-        "1574489766": {
-            "4651300020981.usercash.com": "INACTIVE"
-        },
-        "1574489767": {
-            "4653c718.api.splkmobile.com": "INACTIVE",
-            "4654434127733.usercash.com": "INACTIVE",
-            "465pills.gotech.tk": "INACTIVE"
-        },
-        "1574489768": {
-            "4673434452153.usercash.com": "INACTIVE"
-        },
-        "1574489769": {
-            "467844.glycyl.pw": "INACTIVE"
-        },
-        "1574489770": {
-            "469680cee47bf9d00d331d085d19acb8.co.cc": "INACTIVE"
-        },
-        "1574489772": {
-            "47.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "470347.ignorelist.com": "INACTIVE",
-            "47039835054f0baa63751d99e7b58656.co.cc": "INACTIVE"
-        },
-        "1574489773": {
-            "47170716.api.splkmobile.com": "INACTIVE"
-        },
-        "1574490483": {
-            "476132d8.api.splkmobile.com": "INACTIVE",
-            "4761623275931.usercash.com": "INACTIVE",
-            "476481a.zeusclicks.com": "INACTIVE"
-        },
-        "1574490485": {
-            "4794212551321.usercash.com": "INACTIVE"
-        },
-        "1574490487": {
-            "47d7a622.api.splkmobile.com": "INACTIVE",
-            "47e8d192.api.splkmobile.com": "INACTIVE",
-            "48.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574490488": {
-            "4806327737402.usercash.com": "INACTIVE",
-            "4807783523108.usercash.com": "INACTIVE"
-        },
-        "1574490490": {
-            "483tab.medic1.tk": "INACTIVE",
-            "4840164181310.usercash.com": "INACTIVE"
-        },
-        "1574490492": {
-            "4864954414311.usercash.com": "INACTIVE"
-        },
-        "1574490493": {
-            "486lrlk94.mike-ehrmantraut.wikaba.com": "INACTIVE",
-            "4875532476697.usercash.com": "INACTIVE"
-        },
-        "1574490496": {
-            "48a2ea9a.api.splkmobile.com": "INACTIVE"
-        },
-        "1574490497": {
-            "49.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
         "1574491195": {
             "4930133392568.usercash.com": "INACTIVE",
             "4931849281303.usercash.com": "INACTIVE"
@@ -1610,6 +1534,13 @@
             "446pills.gotech.tk": "INACTIVE",
             "447770.glycyl.pw": "INACTIVE",
             "44r54zbok4xi0ak.harakali.com": "INACTIVE"
+        },
+        "1574577222": {
+            "465pills.gotech.tk": "INACTIVE",
+            "467844.glycyl.pw": "INACTIVE"
+        },
+        "1574577223": {
+            "483tab.medic1.tk": "INACTIVE"
         }
     }
 }
