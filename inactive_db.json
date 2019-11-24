@@ -1,55 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574501827": {
-            "578b9c4f.api.splkmobile.com": "INACTIVE"
-        },
-        "1574501829": {
-            "57z64.ads.tremorhub.com": "INACTIVE",
-            "58.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "580078.glycyl.pw": "INACTIVE",
-            "5805388967506.usercash.com": "INACTIVE"
-        },
-        "1574501830": {
-            "580vip.aliapp.com": "INACTIVE",
-            "5816412117332.usercash.com": "INACTIVE",
-            "582tab.medic1.tk": "INACTIVE"
-        },
-        "1574501831": {
-            "5833812629804.usercash.com": "INACTIVE"
-        },
-        "1574501832": {
-            "5865257628727.usercash.com": "INACTIVE"
-        },
-        "1574501833": {
-            "587.dopa.com": "INACTIVE"
-        },
-        "1574501835": {
-            "5891616153530.usercash.com": "INACTIVE"
-        },
-        "1574501836": {
-            "58feeebb.api.splkmobile.com": "INACTIVE"
-        },
-        "1574501837": {
-            "58owk.fifth.pw": "INACTIVE"
-        },
-        "1574501838": {
-            "59-106-20-39.r-bl100.sakura.ne.jp": "INACTIVE",
-            "59-120-235-210.hinet-ip.hinet.net": "INACTIVE",
-            "59-120-56-110.hinet-ip.hinet.net": "INACTIVE",
-            "59.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "59.80.0.101.static.smartservers.com.au": "INACTIVE"
-        },
-        "1574501839": {
-            "5909194450359.usercash.com": "INACTIVE"
-        },
-        "1574501840": {
-            "592.bitterstrawberry.com": "INACTIVE",
-            "5920web.ad-nao.net": "INACTIVE"
-        },
-        "1574501841": {
-            "59343a07.api.splkmobile.com": "INACTIVE",
-            "594.bitterstrawberry.com": "INACTIVE"
-        },
         "1574503059": {
             "594beaf4.api.splkmobile.com": "INACTIVE",
             "59556903.api.splkmobile.com": "INACTIVE",
@@ -1257,6 +1207,16 @@
         "1574588128": {
             "570138.glycyl.pw": "INACTIVE",
             "576.hu": "INACTIVE"
+        },
+        "1574588873": {
+            "580078.glycyl.pw": "INACTIVE",
+            "582tab.medic1.tk": "INACTIVE",
+            "58owk.fifth.pw": "INACTIVE"
+        },
+        "1574588874": {
+            "7ppmlcam73.centade.com": "INACTIVE",
+            "7prfinkp9j.centade.com": "INACTIVE",
+            "7pu2xpdsi8.centade.com": "INACTIVE"
         }
     }
 }
