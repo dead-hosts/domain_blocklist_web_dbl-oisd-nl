@@ -1,118 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574469638": {
-            "212156dnfgdn.co.cc": "INACTIVE",
-            "212f0b4f.api.splkmobile.com": "INACTIVE",
-            "213-133-100-58.clients.your-server.de": "INACTIVE",
-            "213.37.239.164.dyn.user.ono.com": "INACTIVE",
-            "213.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574469639": {
-            "213pills.gotech.tk": "INACTIVE",
-            "214.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "21463-76.popunder.loading-delivery2.com": "INACTIVE",
-            "2147m.no-ip.org": "INACTIVE",
-            "215.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2154.bitterstrawberry.com": "INACTIVE",
-            "2156.bitterstrawberry.com": "INACTIVE",
-            "216-237-10-184.orange.nextweb.net": "INACTIVE"
-        },
-        "1574469640": {
-            "216.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2161.bitterstrawberry.com": "INACTIVE",
-            "217.39.244.43.ap.yournet.ne.jp": "INACTIVE",
-            "217.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574469641": {
-            "218.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "219-80-34-13.static.tfn.net.tw": "INACTIVE",
-            "219.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "21936-272.popunder.loading-delivery2.com": "INACTIVE",
-            "2198c108.api.splkmobile.com": "INACTIVE"
-        },
-        "1574469642": {
-            "219x113x161x53.ap219.ftth.ucom.ne.jp": "INACTIVE",
-            "21haxoredition.chickenkiller.com": "INACTIVE"
-        },
-        "1574469643": {
-            "21rwap.tk": "INACTIVE",
-            "21stcenturyfeed.hitbox.com": "INACTIVE"
-        },
-        "1574469644": {
-            "22.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "22.bitterstrawberry.com": "INACTIVE",
-            "22.qingsongbar.com": "INACTIVE",
-            "220-128-177-197.hinet-ip.hinet.net": "INACTIVE",
-            "220-132-180-59.hinet-ip.hinet.net": "INACTIVE",
-            "220-132-37-54.hinet-ip.hinet.net": "INACTIVE",
-            "220.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2200.bitterstrawberry.com": "INACTIVE",
-            "2205.bitterstrawberry.com": "INACTIVE",
-            "220520122153.no-ip.org": "INACTIVE"
-        },
-        "1574469645": {
-            "220x218x70x160.ap220.ftth.ucom.ne.jp": "INACTIVE",
-            "221.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "221.jhkjzhw.cn": "INACTIVE",
-            "22121-272.popunder.loading-delivery2.com": "INACTIVE",
-            "22130.engine.mobileapptracking.com": "INACTIVE",
-            "2215843167155.usercash.com": "INACTIVE",
-            "221x115x133x150.ap221.ftth.ucom.ne.jp": "INACTIVE",
-            "222-33544-999.pub.adfirmative.com": "INACTIVE"
-        },
-        "1574470382": {
-            "222-33544999.pub.adfirmative.com": "INACTIVE",
-            "222.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "222.co.cc": "INACTIVE"
-        },
-        "1574470383": {
-            "222c0mehere1201.tk": "INACTIVE",
-            "222c0mehere1201234.tk": "INACTIVE",
-            "223.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574470384": {
-            "2233.bitterstrawberry.com": "INACTIVE",
-            "224.6.189.109.customer.cdi.no": "INACTIVE",
-            "224.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "224.red-80-24-159.staticip.rima-tde.net": "INACTIVE",
-            "22464da6.api.splkmobile.com": "INACTIVE"
-        },
-        "1574470385": {
-            "224ab2718a562cecb08714bcb8349281.co.cc": "INACTIVE",
-            "225.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "226.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2260250146500.usercash.com": "INACTIVE",
-            "22611.co.cc": "INACTIVE"
-        },
-        "1574470386": {
-            "226b506191d44d451fe1cc4820fa9814.co.cc": "INACTIVE",
-            "227.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "227.bitterstrawberry.com": "INACTIVE",
-            "228.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "22812.delivery.trafficbroker.com": "INACTIVE"
-        },
-        "1574470387": {
-            "229.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "2297.bitterstrawberry.com": "INACTIVE"
-        },
-        "1574470388": {
-            "229999240-prod.rfksrv.com": "INACTIVE",
-            "22aa6a77204e3d94dfca708cf8c7f051.co.cc": "INACTIVE",
-            "22c3902a4a2448ecd4d08167e8b56a7f.co.cc": "INACTIVE",
-            "22e0266732bf5f88a8f7a6bd149fa0cc.co.cc": "INACTIVE",
-            "22ezkn3hx0.centade.com": "INACTIVE",
-            "22f095fb9da3c607c7d8eb1934a55aea.co.cc": "INACTIVE"
-        },
-        "1574470389": {
-            "22gvk8jkeb.centade.com": "INACTIVE",
-            "22iir6sfjy.centade.com": "INACTIVE",
-            "22jnpo5vgr.centade.com": "INACTIVE",
-            "22klzn6kzjlwlmt2.onion.link": "INACTIVE",
-            "22msnwlkfh.centade.com": "INACTIVE",
-            "22oifgo3yo.centade.com": "INACTIVE",
-            "22tq7.filled.pw": "INACTIVE",
-            "22wb3z8juj.centade.com": "INACTIVE"
-        },
         "1574471108": {
             "23.6.87.194.dynamic.dol.ru": "INACTIVE",
             "23.68.151.77.rev.sfr.net": "INACTIVE",
@@ -2534,6 +2421,18 @@
         },
         "1574556505": {
             "211pills.gotech.tk": "INACTIVE"
+        },
+        "1574557256": {
+            "213pills.gotech.tk": "INACTIVE"
+        },
+        "1574557257": {
+            "22.qingsongbar.com": "INACTIVE",
+            "221.jhkjzhw.cn": "INACTIVE"
+        },
+        "1574557258": {
+            "229999240-prod.rfksrv.com": "INACTIVE",
+            "22klzn6kzjlwlmt2.onion.link": "INACTIVE",
+            "22tq7.filled.pw": "INACTIVE"
         }
     }
 }
