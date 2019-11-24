@@ -1,47 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574482313": {
-            "389bcdd8.api.splkmobile.com": "INACTIVE"
-        },
-        "1574482314": {
-            "38rate.tk": "INACTIVE",
-            "39.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "39.7vd2y.jhkjzhw.cn": "INACTIVE",
-            "39.bitterstrawberry.com": "INACTIVE",
-            "390.bitterstrawberry.com": "INACTIVE",
-            "39066.jhkjzhw.cn": "INACTIVE"
-        },
-        "1574482315": {
-            "3920039750635.usercash.com": "INACTIVE",
-            "3921074525918.usercash.com": "INACTIVE"
-        },
-        "1574482316": {
-            "3934673417825.usercash.com": "INACTIVE"
-        },
-        "1574482320": {
-            "3987331668380.usercash.com": "INACTIVE"
-        },
-        "1574482323": {
-            "39qzsq.beg.smalltailsbfr.com": "INACTIVE",
-            "39ssdjwirrduincg.usercash.com": "INACTIVE"
-        },
-        "1574482324": {
-            "3a.76.2d.static.xlhost.com": "INACTIVE",
-            "3a678f84.api.splkmobile.com": "INACTIVE"
-        },
-        "1574482325": {
-            "3ac8dfed.api.splkmobile.com": "INACTIVE",
-            "3aee7aaa.api.splkmobile.com": "INACTIVE"
-        },
-        "1574482326": {
-            "3aoebv.fifth.pw": "INACTIVE"
-        },
-        "1574482328": {
-            "3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net": "INACTIVE"
-        },
-        "1574482329": {
-            "3bxyo8.kal.wkcengland.com": "INACTIVE"
-        },
         "1574483235": {
             "3cabsir8w3.centade.com": "INACTIVE",
             "3calmh3zzd.centade.com": "INACTIVE",
@@ -1899,6 +1857,18 @@
         },
         "1574569103": {
             "533rryx0yq.centade.com": "INACTIVE"
+        },
+        "1574569860": {
+            "39.7vd2y.jhkjzhw.cn": "INACTIVE"
+        },
+        "1574569861": {
+            "39066.jhkjzhw.cn": "INACTIVE",
+            "39qzsq.beg.smalltailsbfr.com": "INACTIVE",
+            "3aoebv.fifth.pw": "INACTIVE",
+            "3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net": "INACTIVE"
+        },
+        "1574569883": {
+            "54ndnku456ngkwsudqer.wallymac.com": "INACTIVE"
         }
     }
 }
