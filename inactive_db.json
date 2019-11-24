@@ -1,47 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574475464": {
-            "2f77bd38.api.splkmobile.com": "INACTIVE",
-            "2fad998d.api.splkmobile.com": "INACTIVE",
-            "2fc.smartclick.net": "INACTIVE"
-        },
-        "1574475465": {
-            "2fcdn.vindicosuite.com": "INACTIVE",
-            "2fcffd.perfectchoice1.com": "INACTIVE"
-        },
-        "1574475466": {
-            "2fwww.everestjs.net": "INACTIVE",
-            "2fzm.shxi.meibu.com": "INACTIVE",
-            "2g7lt.fifth.pw": "INACTIVE",
-            "2genricallus.tk": "INACTIVE",
-            "2ggfhp.pal.wkcengland.co.uk": "INACTIVE"
-        },
-        "1574475467": {
-            "2go0dsapport11201123.tk": "INACTIVE",
-            "2gofanz.tk": "INACTIVE",
-            "2goteam.tk": "INACTIVE",
-            "2gov.co.cc": "INACTIVE"
-        },
-        "1574475468": {
-            "2heshez.co.cc": "INACTIVE",
-            "2hjuycalls.tk": "INACTIVE"
-        },
-        "1574475469": {
-            "2infinity.webtrends.com": "INACTIVE"
-        },
-        "1574475470": {
-            "2jir45getonthehorn.tk": "INACTIVE",
-            "2jkdnjhcalls.tk": "INACTIVE",
-            "2jkecalls.tk": "INACTIVE",
-            "2jkricallfast.tk": "INACTIVE",
-            "2jksaqgetonthehorn.tk": "INACTIVE",
-            "2juticalls.tk": "INACTIVE"
-        },
-        "1574475471": {
-            "2katpik.co.cc": "INACTIVE",
-            "2klfmkcalls.tk": "INACTIVE",
-            "2klrvgdcallfast.tk": "INACTIVE"
-        },
         "1574476188": {
             "2kogvdgetonthehorn.tk": "INACTIVE",
             "2kotyegetonthehorn.tk": "INACTIVE"
@@ -2194,6 +2152,9 @@
         },
         "1574561756": {
             "438htshdy7.centade.com": "INACTIVE"
+        },
+        "1574562471": {
+            "2g7lt.fifth.pw": "INACTIVE"
         }
     }
 }
