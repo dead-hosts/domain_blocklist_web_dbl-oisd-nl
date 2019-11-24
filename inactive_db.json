@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574520736": {
-            "713tablets.gotech.tk": "INACTIVE"
-        },
-        "1574520738": {
-            "717pills.gotech.tk": "INACTIVE"
-        },
         "1574521461": {
             "725pills.gotech.tk": "INACTIVE"
         },
@@ -731,6 +725,17 @@
             "6vliq.filled.pw": "INACTIVE",
             "6xdrc.fifth.pw": "INACTIVE",
             "6zux3.fifth.pw": "INACTIVE"
+        },
+        "1574607627": {
+            "713tablets.gotech.tk": "INACTIVE",
+            "717pills.gotech.tk": "INACTIVE",
+            "8tprcm.beg.smalltailsbfr.com": "INACTIVE"
+        },
+        "1574607629": {
+            "8uioucalltohelp.tk": "INACTIVE"
+        },
+        "1574607632": {
+            "8w6f2.filled.pw": "INACTIVE"
         }
     }
 }
