@@ -1,35 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574495730": {
-            "4zyzicallup.tk": "INACTIVE"
-        },
-        "1574495733": {
-            "5.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "5.estasiatica.com": "INACTIVE",
-            "5.eventiduepuntozero.com": "INACTIVE",
-            "5.fjwt1.crsky.com": "INACTIVE"
-        },
-        "1574495734": {
-            "5.us.hashrefinery.com": "INACTIVE",
-            "5.xi1111.com": "INACTIVE",
-            "50-87-25-249.unifiedlayer.com": "INACTIVE",
-            "50.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574495735": {
-            "5000followersforinstagram.online": "INACTIVE"
-        },
-        "1574495737": {
-            "5026175464503.usercash.com": "INACTIVE"
-        },
-        "1574495738": {
-            "5036408221814.usercash.com": "INACTIVE"
-        },
-        "1574495739": {
-            "504c781d.api.splkmobile.com": "INACTIVE"
-        },
-        "1574495743": {
-            "5096907847560.usercash.com": "INACTIVE"
-        },
         "1574497144": {
             "50bs.no-ip.org": "INACTIVE"
         },
@@ -1431,6 +1401,20 @@
             "4sf3dqfwpcpdnj6g.onion.link": "INACTIVE",
             "4tx8m.fifth.pw": "INACTIVE",
             "4x1wp.fifth.pw": "INACTIVE"
+        },
+        "1574583087": {
+            "5.fjwt1.crsky.com": "INACTIVE",
+            "5.xi1111.com": "INACTIVE"
+        },
+        "1574583092": {
+            "77d6gc1yoe.centade.com": "INACTIVE",
+            "77dleo6kuq.centade.com": "INACTIVE",
+            "77epgrifqc.centade.com": "INACTIVE",
+            "77gx0iou1j.centade.com": "INACTIVE"
+        },
+        "1574583093": {
+            "77lgzow3y8.centade.com": "INACTIVE",
+            "77nrvovrdi.centade.com": "INACTIVE"
         }
     }
 }
