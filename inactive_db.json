@@ -1,48 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574500879": {
-            "55rifhelper.tk": "INACTIVE",
-            "55zzz.alldownloads.hapc.gdn": "INACTIVE",
-            "56.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574500880": {
-            "560183740bc38303d0000248.maestroad.checkm8.com": "INACTIVE"
-        },
-        "1574500881": {
-            "5613776171579.usercash.com": "INACTIVE",
-            "5617.3322.org": "INACTIVE",
-            "5621065883431.usercash.com": "INACTIVE"
-        },
-        "1574500883": {
-            "564.ctg9h434.com": "INACTIVE",
-            "5646.ddns.net": "INACTIVE",
-            "564600.no-ip.org": "INACTIVE"
-        },
-        "1574500884": {
-            "5664732464123.usercash.com": "INACTIVE"
-        },
-        "1574500889": {
-            "56e4ba5d.api.splkmobile.com": "INACTIVE"
-        },
-        "1574500890": {
-            "56u7jkmnrberv5.serveexchange.com": "INACTIVE",
-            "57.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "570138.glycyl.pw": "INACTIVE"
-        },
-        "1574500891": {
-            "570pilul.tk": "INACTIVE"
-        },
-        "1574500892": {
-            "5736246732063.usercash.com": "INACTIVE",
-            "573ad3b9.api.splkmobile.com": "INACTIVE"
-        },
-        "1574500894": {
-            "576.hu": "INACTIVE"
-        },
-        "1574500895": {
-            "5769232127815.usercash.com": "INACTIVE",
-            "5772799285594.usercash.com": "INACTIVE"
-        },
         "1574501827": {
             "578b9c4f.api.splkmobile.com": "INACTIVE"
         },
@@ -1296,6 +1253,10 @@
             "7js1bzfbfi.centade.com": "INACTIVE",
             "7js5wvv288.centade.com": "INACTIVE",
             "7jsccw8auy.centade.com": "INACTIVE"
+        },
+        "1574588128": {
+            "570138.glycyl.pw": "INACTIVE",
+            "576.hu": "INACTIVE"
         }
     }
 }
