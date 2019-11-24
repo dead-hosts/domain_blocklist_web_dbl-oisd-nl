@@ -1,47 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574477647": {
-            "3072725019417.usercash.com": "INACTIVE"
-        },
-        "1574477649": {
-            "308883b53e56c6a1ed428326d65abae2.co.cc": "INACTIVE",
-            "3089e7a624ed15c52af6f94f565f9778.co.cc": "INACTIVE",
-            "308tab.medic1.tk": "INACTIVE",
-            "309.bitterstrawberry.com": "INACTIVE",
-            "3098102144896.usercash.com": "INACTIVE"
-        },
-        "1574477650": {
-            "30billion.duckdns.org": "INACTIVE",
-            "30cf5e0d.api.splkmobile.com": "INACTIVE",
-            "30db5f45b044b10d1260808b8005dc4f.co.cc": "INACTIVE",
-            "30horas.personalite30horas.tk": "INACTIVE"
-        },
-        "1574477651": {
-            "30tlink.mihanblog.com": "INACTIVE",
-            "31.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574477653": {
-            "312e5e5478b6e54081b09dd9e856f982.co.cc": "INACTIVE"
-        },
-        "1574477660": {
-            "31385567.com": "INACTIVE"
-        },
-        "1574477666": {
-            "314c6f9cbc77bc885e32c21c012a520c.co.cc": "INACTIVE",
-            "315509361.3322.org": "INACTIVE",
-            "315d1dc4.api.splkmobile.com": "INACTIVE"
-        },
-        "1574477668": {
-            "318021-vds-stanis.fisher.gmhost.pp.ua": "INACTIVE",
-            "31867483a.l2m.net": "INACTIVE"
-        },
-        "1574477669": {
-            "3196b5b44de200f6d22f945180443b81.co.cc": "INACTIVE",
-            "31990.30338.filter.geoads.com": "INACTIVE"
-        },
-        "1574477670": {
-            "31pb7m.zero.hillsharvest.com": "INACTIVE"
-        },
         "1574478438": {
             "32.19.192.35.bc.googleusercontent.com": "INACTIVE",
             "32.31.189.109.customer.cdi.no": "INACTIVE",
@@ -2085,6 +2043,10 @@
         },
         "1574563979": {
             "47d3.proporr.com": "INACTIVE"
+        },
+        "1574564708": {
+            "308tab.medic1.tk": "INACTIVE",
+            "30horas.personalite30horas.tk": "INACTIVE"
         }
     }
 }
