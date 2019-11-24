@@ -37383,5 +37383,55 @@
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
+    },
+    "8kegwpjw50.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "8khmer.com": {
+        "epoch": 1568678400.0,
+        "expiration_date": "17-sep-2019",
+        "state": "past"
+    },
+    "8laktoruyitjh.com": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "8le8le.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "8live.com": {
+        "epoch": 1649808000.0,
+        "expiration_date": "13-apr-2022",
+        "state": "future"
+    },
+    "8m.net": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "8mak.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "8mdphsb8fm.com": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "8mfty.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "8mmdesign.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     }
 }

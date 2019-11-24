@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574518553": {
-            "6kormcallingnow.tk": "INACTIVE",
-            "6kotjicallingnow.tk": "INACTIVE"
-        },
-        "1574518554": {
-            "6kqipsftg0.centade.com": "INACTIVE",
-            "6kqr09mnmg.centade.com": "INACTIVE",
-            "6ksdpmxafk.centade.com": "INACTIVE",
-            "6kselbjbsj.centade.com": "INACTIVE",
-            "6ktbualsuk.centade.com": "INACTIVE",
-            "6kugahikfk.centade.com": "INACTIVE",
-            "6kvd1qo6dk.centade.com": "INACTIVE",
-            "6kwixt0qyv.centade.com": "INACTIVE",
-            "6ky0ygwxz2.centade.com": "INACTIVE",
-            "6l0ppmv5a3.centade.com": "INACTIVE"
-        },
-        "1574518555": {
-            "6l1ehr5njj.centade.com": "INACTIVE",
-            "6l1t2g8xlk.centade.com": "INACTIVE",
-            "6l37q5cahm.centade.com": "INACTIVE",
-            "6l4g7q64wj.centade.com": "INACTIVE",
-            "6laompf9yo.centade.com": "INACTIVE",
-            "6lb90jf6ta.centade.com": "INACTIVE",
-            "6lcldyctlz.centade.com": "INACTIVE",
-            "6ldn0tere6.centade.com": "INACTIVE"
-        },
         "1574519274": {
             "6lfkpslhmx.centade.com": "INACTIVE",
             "6lgvlhwyqz.centade.com": "INACTIVE",
@@ -778,6 +752,9 @@
         },
         "1574604747": {
             "8iujq.filled.pw": "INACTIVE"
+        },
+        "1574605467": {
+            "8kioo.fifth.pw": "INACTIVE"
         }
     }
 }
