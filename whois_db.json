@@ -35433,5 +35433,70 @@
         "epoch": 1618272000.0,
         "expiration_date": "13-apr-2021",
         "state": "future"
+    },
+    "840004.com": {
+        "epoch": 1663286400.0,
+        "expiration_date": "16-sep-2022",
+        "state": "future"
+    },
+    "840a4f48bcd4.com": {
+        "epoch": 1575158400.0,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "84206.com": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "84243.com": {
+        "epoch": 1722384000.0,
+        "expiration_date": "31-jul-2024",
+        "state": "future"
+    },
+    "84384.com": {
+        "epoch": 1657843200.0,
+        "expiration_date": "15-jul-2022",
+        "state": "future"
+    },
+    "843deals.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "84422.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
+    },
+    "84498.com": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "84499.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "8452345.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "8456e.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "8456qq.com": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "8458a.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
     }
 }
