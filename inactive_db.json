@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574522954": {
-            "763tab.inf2.tk": "INACTIVE"
-        },
-        "1574522955": {
-            "7667.fsdrjud.tk": "INACTIVE"
-        },
-        "1574522957": {
-            "769513.glycyl.pw": "INACTIVE",
-            "769pills.gotech.tk": "INACTIVE"
-        },
         "1574523693": {
             "773tablets.gotech.tk": "INACTIVE"
         },
@@ -718,6 +708,15 @@
             "75600867.w219.mc-test.com": "INACTIVE",
             "75b6fbbkqy.centade.com": "INACTIVE",
             "75is9auhq1.centade.com": "INACTIVE"
+        },
+        "1574609791": {
+            "763tab.inf2.tk": "INACTIVE",
+            "7667.fsdrjud.tk": "INACTIVE",
+            "769513.glycyl.pw": "INACTIVE",
+            "769pills.gotech.tk": "INACTIVE"
+        },
+        "1574609793": {
+            "8yp63.filled.pw": "INACTIVE"
         }
     }
 }

@@ -37628,5 +37628,40 @@
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
         "state": "future"
+    },
+    "8xoy.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "8xv8.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "8xzxk2ax6ewb3h.net": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "8y8u.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "8ybct.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "8yxupue8.com": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "8z412.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
     }
 }
