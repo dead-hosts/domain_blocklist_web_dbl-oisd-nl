@@ -1,46 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574514195": {
-            "68w5j7.zero.hillsharvest.com": "INACTIVE"
-        },
-        "1574514196": {
-            "69-64-92-87.dedicated.abac.net": "INACTIVE"
-        },
-        "1574514197": {
-            "69.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574514198": {
-            "6916cece.api.splkmobile.com": "INACTIVE",
-            "6925275512039.usercash.com": "INACTIVE",
-            "692pills.gotech.tk": "INACTIVE"
-        },
-        "1574514199": {
-            "692tablets.gotech.tk": "INACTIVE",
-            "6945807868149.usercash.com": "INACTIVE"
-        },
-        "1574514200": {
-            "6970640144776.usercash.com": "INACTIVE"
-        },
-        "1574514201": {
-            "698258.glycyl.pw": "INACTIVE"
-        },
-        "1574514202": {
-            "6995.no-ip.org": "INACTIVE"
-        },
-        "1574514204": {
-            "69fd9d7b.api.splkmobile.com": "INACTIVE"
-        },
-        "1574514206": {
-            "6a4cc.luvbq.com": "INACTIVE"
-        },
-        "1574514207": {
-            "6a9ec123.api.splkmobile.com": "INACTIVE",
-            "6abcaca9.api.splkmobile.com": "INACTIVE"
-        },
-        "1574514208": {
-            "6acfbb2a.api.splkmobile.com": "INACTIVE",
-            "6ae9fd5e.api.splkmobile.com": "INACTIVE"
-        },
         "1574514927": {
             "6agg6wokzj.centade.com": "INACTIVE",
             "6ama73u1vw.centade.com": "INACTIVE",
@@ -900,6 +859,11 @@
         },
         "1574600403": {
             "888fuaxff4.centade.com": "INACTIVE"
+        },
+        "1574601130": {
+            "692pills.gotech.tk": "INACTIVE",
+            "692tablets.gotech.tk": "INACTIVE",
+            "698258.glycyl.pw": "INACTIVE"
         }
     }
 }
