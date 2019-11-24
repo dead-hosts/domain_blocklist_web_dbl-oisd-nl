@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574519274": {
-            "6lfkpslhmx.centade.com": "INACTIVE",
-            "6lgvlhwyqz.centade.com": "INACTIVE",
-            "6lkdbhsscallingnow.tk": "INACTIVE",
-            "6lknjphone.tk": "INACTIVE"
-        },
-        "1574519275": {
-            "6lkuicallfast.tk": "INACTIVE",
-            "6lphyrbfgivearing.tk": "INACTIVE",
-            "6m9of.fifth.pw": "INACTIVE"
-        },
-        "1574519278": {
-            "6nvet.fifth.pw": "INACTIVE"
-        },
-        "1574519279": {
-            "6okiugivearing.tk": "INACTIVE",
-            "6oprkotech.tk": "INACTIVE"
-        },
-        "1574519282": {
-            "6puihphone.tk": "INACTIVE"
-        },
-        "1574519284": {
-            "6rajs.duckdns.org": "INACTIVE"
-        },
         "1574520006": {
             "6uvjc.fifth.pw": "INACTIVE"
         },
@@ -755,6 +731,13 @@
         },
         "1574605467": {
             "8kioo.fifth.pw": "INACTIVE"
+        },
+        "1574606190": {
+            "6m9of.fifth.pw": "INACTIVE",
+            "6nvet.fifth.pw": "INACTIVE"
+        },
+        "1574606194": {
+            "8oqyn.fifth.pw": "INACTIVE"
         }
     }
 }
