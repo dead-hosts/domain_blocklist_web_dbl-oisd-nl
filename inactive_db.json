@@ -1,58 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574500001": {
-            "54eca1e626b438d5c33301989656d9bf.co.cc": "INACTIVE"
-        },
-        "1574500002": {
-            "54f445b4114ab6ce9b468198f58d0ab4.co.cc": "INACTIVE",
-            "54p5h.fifth.pw": "INACTIVE"
-        },
-        "1574500003": {
-            "54tfgc5g55.co.cc": "INACTIVE",
-            "55.5.189.109.customer.cdi.no": "INACTIVE",
-            "55.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "55.teracreative.com": "INACTIVE"
-        },
-        "1574500004": {
-            "550575555.3322.org": "INACTIVE"
-        },
-        "1574500007": {
-            "554313.3322.org": "INACTIVE"
-        },
-        "1574500008": {
-            "555.hitbox.com": "INACTIVE"
-        },
-        "1574500009": {
-            "5553765512537.usercash.com": "INACTIVE",
-            "5554108470678.usercash.com": "INACTIVE"
-        },
-        "1574500011": {
-            "555mall.aliapp.com": "INACTIVE"
-        },
-        "1574500012": {
-            "556ghr.duckdns.org": "INACTIVE"
-        },
-        "1574500013": {
-            "557b6f96f17d4df61043d4decbe62db5.co.cc": "INACTIVE"
-        },
-        "1574500015": {
-            "5593594208359.usercash.com": "INACTIVE",
-            "55a2f6f29b44fda9dbb6eeaf8c6fe0d6.co.cc": "INACTIVE",
-            "55a971747b8674bd28783a1528daff8d.co.cc": "INACTIVE",
-            "55b00954.api.splkmobile.com": "INACTIVE"
-        },
-        "1574500016": {
-            "55b15aff4d53547e58000000.maestroad.checkm8.com": "INACTIVE",
-            "55e0aaa30bc3834871000011.maestroad.checkm8.com": "INACTIVE",
-            "55e4816d0bc38319dc000015.maestroad.checkm8.com": "INACTIVE",
-            "55e5c0b80bc38326e8000822.maestroad.checkm8.com": "INACTIVE",
-            "55e5c4880bc38326e8000ae6.maestroad.checkm8.com": "INACTIVE",
-            "55e74dfb0bc3833e24000220.maestroad.checkm8.com": "INACTIVE",
-            "55jir5calling.tk": "INACTIVE"
-        },
-        "1574500017": {
-            "55omwvecog.centade.com": "INACTIVE"
-        },
         "1574500879": {
             "55rifhelper.tk": "INACTIVE",
             "55zzz.alldownloads.hapc.gdn": "INACTIVE",
@@ -1331,6 +1278,24 @@
         },
         "1574585970": {
             "7ceovjgxrw.centade.com": "INACTIVE"
+        },
+        "1574587402": {
+            "54p5h.fifth.pw": "INACTIVE"
+        },
+        "1574587403": {
+            "55omwvecog.centade.com": "INACTIVE",
+            "7jmubckwtd.centade.com": "INACTIVE"
+        },
+        "1574587404": {
+            "7joc7islw0.centade.com": "INACTIVE"
+        },
+        "1574587405": {
+            "7jodzodvqx.centade.com": "INACTIVE",
+            "7joh9s5gly.centade.com": "INACTIVE",
+            "7jrhykjlso.centade.com": "INACTIVE",
+            "7js1bzfbfi.centade.com": "INACTIVE",
+            "7js5wvv288.centade.com": "INACTIVE",
+            "7jsccw8auy.centade.com": "INACTIVE"
         }
     }
 }
