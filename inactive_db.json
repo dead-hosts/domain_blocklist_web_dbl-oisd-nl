@@ -1,48 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574486845": {
-            "3x0zz.alldownloads.hapc.gdn": "INACTIVE"
-        },
-        "1574486846": {
-            "3xpi21cueb.daphnecm.com": "INACTIVE"
-        },
-        "1574486847": {
-            "3y5v1j.fun": "INACTIVE"
-        },
-        "1574486848": {
-            "3yp8ou6nwt.forumcircle.com": "INACTIVE"
-        },
-        "1574486849": {
-            "3zprp.fifth.pw": "INACTIVE",
-            "4.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574486850": {
-            "4.androidislamic.com": "INACTIVE",
-            "4.collecorvino.org": "INACTIVE",
-            "4.dcxmy.com": "INACTIVE",
-            "4.dlevo.com": "INACTIVE",
-            "4.pussl33.com": "INACTIVE",
-            "4.sf14g.com": "INACTIVE",
-            "4.up.hiao.com": "INACTIVE"
-        },
-        "1574486851": {
-            "40-226-114-217.fttb.ur.ru": "INACTIVE",
-            "40.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574486856": {
-            "403236308.5166.info": "INACTIVE"
-        },
-        "1574486858": {
-            "404team.no-ip.org": "INACTIVE",
-            "404team2.no-ip.org": "INACTIVE",
-            "40501.apian123.info": "INACTIVE"
-        },
-        "1574486861": {
-            "4079126797616.usercash.com": "INACTIVE"
-        },
-        "1574486862": {
-            "40c6fab4.api.splkmobile.com": "INACTIVE"
-        },
         "1574487582": {
             "40d0fb891292364a206e8f6328c0a622.co.cc": "INACTIVE"
         },
@@ -1753,6 +1710,13 @@
             "3tyc5m.beg.smalltailsbfr.com": "INACTIVE",
             "3v20w.fifth.pw": "INACTIVE",
             "3v8ui.fifth.pw": "INACTIVE"
+        },
+        "1574574240": {
+            "3y5v1j.fun": "INACTIVE",
+            "3zprp.fifth.pw": "INACTIVE",
+            "4.dcxmy.com": "INACTIVE",
+            "4.pussl33.com": "INACTIVE",
+            "40501.apian123.info": "INACTIVE"
         }
     }
 }
