@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574493453": {
-            "4jkfjkgiveacall.tk": "INACTIVE"
-        },
-        "1574493454": {
-            "4joebhhelp.tk": "INACTIVE",
-            "4k6090.fifth.pw": "INACTIVE"
-        },
-        "1574493455": {
-            "4kjdnjcbazsahelp.tk": "INACTIVE",
-            "4kjrnhuthelp.tk": "INACTIVE",
-            "4kk84gwdrfpv8s.usercash.com": "INACTIVE"
-        },
-        "1574493457": {
-            "4li54-1-88-174-4-30.fbx.proxad.net": "INACTIVE",
-            "4lkokogiveacall.tk": "INACTIVE"
-        },
-        "1574493459": {
-            "4msdzls.co.cc": "INACTIVE"
-        },
-        "1574493464": {
-            "4pobokhelp.tk": "INACTIVE",
-            "4proxyfree.co.cc": "INACTIVE"
-        },
         "1574494831": {
             "4qwksvduk9.centade.com": "INACTIVE",
             "4r.3322.org": "INACTIVE",
@@ -1470,6 +1447,21 @@
             "4ibhrhelp.tk": "INACTIVE",
             "4idog8g0qngam8ggodc186v8p9avmob0fmz3g1me.sapwize.com": "INACTIVE",
             "4ijrmkcallup.tk": "INACTIVE"
+        },
+        "1574580884": {
+            "4jkfjkgiveacall.tk": "INACTIVE",
+            "4k6090.fifth.pw": "INACTIVE"
+        },
+        "1574580885": {
+            "4li54-1-88-174-4-30.fbx.proxad.net": "INACTIVE"
+        },
+        "1574580886": {
+            "7219o5ytbb.centade.com": "INACTIVE"
+        },
+        "1574580892": {
+            "72d11bivrr.centade.com": "INACTIVE",
+            "72fvrhyazf.centade.com": "INACTIVE",
+            "72j0avcpjg.centade.com": "INACTIVE"
         }
     }
 }
