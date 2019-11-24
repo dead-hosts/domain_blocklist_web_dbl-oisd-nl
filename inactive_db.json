@@ -1,47 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574488300": {
-            "42760.s.time4vps.cloud": "INACTIVE"
-        },
-        "1574488301": {
-            "4285588558297.usercash.com": "INACTIVE",
-            "428pills.gotech.tk": "INACTIVE",
-            "42910.filter.geoads.com": "INACTIVE"
-        },
-        "1574488303": {
-            "4296797308605.usercash.com": "INACTIVE",
-            "429861812.3322.org": "INACTIVE"
-        },
-        "1574488304": {
-            "42iho.ads.tremorhub.com": "INACTIVE",
-            "42szz.alldownloads.hapc.gdn": "INACTIVE",
-            "43.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "4300560594536.usercash.com": "INACTIVE"
-        },
-        "1574488305": {
-            "4308727866504.usercash.com": "INACTIVE"
-        },
-        "1574488306": {
-            "43242.zh1144.com": "INACTIVE"
-        },
-        "1574488309": {
-            "4350ab3b.api.splkmobile.com": "INACTIVE"
-        },
-        "1574488313": {
-            "43888.tel": "INACTIVE"
-        },
-        "1574488315": {
-            "44.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574488317": {
-            "4420254264026.usercash.com": "INACTIVE"
-        },
-        "1574488318": {
-            "4428928645327.usercash.com": "INACTIVE"
-        },
-        "1574488319": {
-            "443774.glycyl.pw": "INACTIVE"
-        },
         "1574489026": {
             "444.hitbox.com": "INACTIVE"
         },
@@ -1665,6 +1623,23 @@
         "1574575029": {
             "63lcdvtt.micpn.com": "INACTIVE",
             "63m3xzdxcv.centade.com": "INACTIVE"
+        },
+        "1574575758": {
+            "42760.s.time4vps.cloud": "INACTIVE",
+            "428pills.gotech.tk": "INACTIVE"
+        },
+        "1574575759": {
+            "43242.zh1144.com": "INACTIVE",
+            "43888.tel": "INACTIVE",
+            "443774.glycyl.pw": "INACTIVE",
+            "63nlkmalp4.centade.com": "INACTIVE",
+            "63noqcvdyw.centade.com": "INACTIVE",
+            "63p1braaf6.centade.com": "INACTIVE",
+            "63uhcff2xc.centade.com": "INACTIVE"
+        },
+        "1574575760": {
+            "63y4k0khqm.centade.com": "INACTIVE",
+            "64.mymyxmra.ru": "INACTIVE"
         }
     }
 }
