@@ -40813,5 +40813,165 @@
         "epoch": 1663718400.0,
         "expiration_date": "21-sep-2022",
         "state": "future"
+    },
+    "9z004f8.social": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "a-1autodetailing.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "a-1hypnose.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "a-1signsinc.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "a-5.info": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "a-a-access.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "a-ads.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "a-advisors.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "a-alertonline.com": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
+    },
+    "a-betteryou.com": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "a-bricks.com": {
+        "epoch": 1576886400.0,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "a-bring.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "a-c-engine.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "a-cave.org": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "a-center.ru": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "a-counters.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "a-cutabovelawn.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "a-d-w-a-r-e.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "a-endorphin.com": {
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "a-fabrica.net": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "a-facebook.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "a-fortunate-world.com": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "a-fs.co.za": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "a-g-s-s.com": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "a-g.cc": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "a-graph.fr": {
+        "epoch": 1584403200.0,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "a-hmr.ru": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
+    "a-jdentalinstruments.com": {
+        "epoch": 1576022400.0,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "a-kiss.ru": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "a-la-fontaine.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "a-level.school": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "a-life-remembered.org": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
     }
 }
