@@ -1,30 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574515663": {
-            "6bnsltc8ej.centade.com": "INACTIVE",
-            "6boxakekm4.centade.com": "INACTIVE",
-            "6bptiiatw7.centade.com": "INACTIVE",
-            "6burecallss.tk": "INACTIVE",
-            "6buw9vscgr.centade.com": "INACTIVE",
-            "6bxjg0qls2.centade.com": "INACTIVE",
-            "6c05410888a9d529018ea5466196c34e.co.cc": "INACTIVE"
-        },
-        "1574515664": {
-            "6c89ad6077530a228e670d1e48e42c34.co.cc": "INACTIVE",
-            "6cc62a7e.api.splkmobile.com": "INACTIVE"
-        },
-        "1574515665": {
-            "6cea9a4c.api.splkmobile.com": "INACTIVE",
-            "6cgfqhmtmn.centade.com": "INACTIVE"
-        },
-        "1574515666": {
-            "6ckgvqacet.centade.com": "INACTIVE",
-            "6clncvzjvw.centade.com": "INACTIVE"
-        },
-        "1574515667": {
-            "6cpuiqfmua.centade.com": "INACTIVE",
-            "6cs27ernih.centade.com": "INACTIVE"
-        },
         "1574516391": {
             "6cvfktbwwk.centade.com": "INACTIVE",
             "6cvsy6mtsa.centade.com": "INACTIVE"
@@ -832,6 +807,12 @@
             "692pills.gotech.tk": "INACTIVE",
             "692tablets.gotech.tk": "INACTIVE",
             "698258.glycyl.pw": "INACTIVE"
+        },
+        "1574602579": {
+            "6bptiiatw7.centade.com": "INACTIVE",
+            "6ckgvqacet.centade.com": "INACTIVE",
+            "6clncvzjvw.centade.com": "INACTIVE",
+            "6cpuiqfmua.centade.com": "INACTIVE"
         }
     }
 }
