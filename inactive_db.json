@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574497934": {
-            "52388828.gnway.cc": "INACTIVE"
-        },
-        "1574497936": {
-            "525smsd.co.cc": "INACTIVE"
-        },
-        "1574497937": {
-            "5265387445688.usercash.com": "INACTIVE",
-            "5265575606841.usercash.com": "INACTIVE",
-            "526d.uunice.com": "INACTIVE",
-            "526dimg.uunice.com": "INACTIVE"
-        },
-        "1574497940": {
-            "5295027661602.usercash.com": "INACTIVE"
-        },
-        "1574497944": {
-            "52rtwvzhelper.tk": "INACTIVE",
-            "52ski4fh2x.centade.com": "INACTIVE"
-        },
-        "1574497945": {
-            "53.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574497948": {
-            "532pills.gotech.tk": "INACTIVE",
-            "5332059035543.usercash.com": "INACTIVE"
-        },
-        "1574497949": {
-            "533tab.medic1.tk": "INACTIVE"
-        },
-        "1574497950": {
-            "534f3ba0.api.splkmobile.com": "INACTIVE"
-        },
         "1574498696": {
             "537612.glycyl.pw": "INACTIVE"
         },
@@ -1387,6 +1355,12 @@
         },
         "1574584523": {
             "78zofcjuph.centade.com": "INACTIVE"
+        },
+        "1574585248": {
+            "532pills.gotech.tk": "INACTIVE"
+        },
+        "1574585249": {
+            "533tab.medic1.tk": "INACTIVE"
         }
     }
 }
