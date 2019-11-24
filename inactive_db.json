@@ -1,40 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574512729": {
-            "66-109-33-5.tvc-ip.com": "INACTIVE",
-            "66-214-1-81.dhcp.lnbh.ca.charter.com": "INACTIVE",
-            "66.229.154.104.bc.googleusercontent.com": "INACTIVE",
-            "66.49.46.170.nw.nuvox.net": "INACTIVE",
-            "66.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574512731": {
-            "661785--nutzung-sicher-nachweis.sicherheitsabwehr-pro.tk": "INACTIVE"
-        },
-        "1574512734": {
-            "663he2h.co.cc": "INACTIVE",
-            "663pills.gotech.tk": "INACTIVE"
-        },
-        "1574512736": {
-            "665pil.inf2.tk": "INACTIVE",
-            "666.8ox.cn": "INACTIVE"
-        },
-        "1574512737": {
-            "6662740910425.usercash.com": "INACTIVE"
-        },
-        "1574512744": {
-            "66irlk30h1411973.budweiser04.fun": "INACTIVE"
-        },
-        "1574512745": {
-            "67-112-71-74.dsl.lsan03.pacbell.net": "INACTIVE",
-            "67-135-106-195.dia.static.qwest.net": "INACTIVE",
-            "67.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574512748": {
-            "674929475.3322.org": "INACTIVE"
-        },
-        "1574512750": {
-            "6777552129700.usercash.com": "INACTIVE"
-        },
         "1574513467": {
             "6788767568767.usercash.com": "INACTIVE",
             "678pil.medic1.tk": "INACTIVE"
@@ -948,6 +913,11 @@
             "65papynuiu.centade.com": "INACTIVE",
             "65rpgpfmjf.centade.com": "INACTIVE",
             "65svtseofc.centade.com": "INACTIVE"
+        },
+        "1574599697": {
+            "661785--nutzung-sicher-nachweis.sicherheitsabwehr-pro.tk": "INACTIVE",
+            "663pills.gotech.tk": "INACTIVE",
+            "665pil.inf2.tk": "INACTIVE"
         }
     }
 }
