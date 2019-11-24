@@ -40168,5 +40168,85 @@
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "future"
+    },
+    "9c690ac2bcb.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "9cabs.in": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "9cao58.info": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "9casino.net": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "9cd76b4462bb.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "9cdn.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "9cloudtech-hosting.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9cloudtech-private.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9cloudtech-providers.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9cloudtech-sites.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9cloudtech-software.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9cloudtech-vps.info": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "9clubasia.com": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "9content.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "9crown.com": {
+        "epoch": 1578355200.0,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "9csm.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
     }
 }
