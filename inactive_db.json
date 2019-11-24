@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574522227": {
-            "747543.glycyl.pw": "INACTIVE"
-        },
-        "1574522228": {
-            "74gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com": "INACTIVE"
-        },
-        "1574522229": {
-            "74q2ykxmob.centade.com": "INACTIVE",
-            "74ynwpme6z.centade.com": "INACTIVE"
-        },
-        "1574522231": {
-            "75484achtl.centade.com": "INACTIVE"
-        },
-        "1574522233": {
-            "75600867.w219.mc-test.com": "INACTIVE"
-        },
-        "1574522234": {
-            "75b6fbbkqy.centade.com": "INACTIVE"
-        },
-        "1574522235": {
-            "75iqvhicpq.centade.com": "INACTIVE",
-            "75is9auhq1.centade.com": "INACTIVE"
-        },
         "1574522954": {
             "763tab.inf2.tk": "INACTIVE"
         },
@@ -732,6 +709,15 @@
             "725pills.gotech.tk": "INACTIVE",
             "731pro.pw": "INACTIVE",
             "735pills.gotech.tk": "INACTIVE"
+        },
+        "1574609079": {
+            "747543.glycyl.pw": "INACTIVE",
+            "74gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com": "INACTIVE",
+            "74q2ykxmob.centade.com": "INACTIVE",
+            "75484achtl.centade.com": "INACTIVE",
+            "75600867.w219.mc-test.com": "INACTIVE",
+            "75b6fbbkqy.centade.com": "INACTIVE",
+            "75is9auhq1.centade.com": "INACTIVE"
         }
     }
 }
