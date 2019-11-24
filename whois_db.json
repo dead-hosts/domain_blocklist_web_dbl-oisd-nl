@@ -40138,5 +40138,15 @@
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
         "state": "future"
+    },
+    "9bear.com": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "9bet365.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
     }
 }
