@@ -1,45 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574497144": {
-            "50bs.no-ip.org": "INACTIVE"
-        },
-        "1574497146": {
-            "51.6.87.194.dynamic.dol.ru": "INACTIVE"
-        },
-        "1574497147": {
-            "5104753828607.usercash.com": "INACTIVE"
-        },
-        "1574497149": {
-            "511af95d.api.splkmobile.com": "INACTIVE",
-            "511tactical.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1574497150": {
-            "512tablets.gotech.tk": "INACTIVE"
-        },
-        "1574497158": {
-            "519da9fa.api.splkmobile.com": "INACTIVE"
-        },
-        "1574497159": {
-            "51book.adwo.com": "INACTIVE"
-        },
-        "1574497160": {
-            "51ee0c5e.api.splkmobile.com": "INACTIVE"
-        },
-        "1574497165": {
-            "51yes.la": "INACTIVE"
-        },
-        "1574497166": {
-            "52.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "52.fushibooks.com": "INACTIVE"
-        },
-        "1574497167": {
-            "52088888888.meibu.com": "INACTIVE",
-            "520hack.f3322.net": "INACTIVE",
-            "520lwj.f3322.net": "INACTIVE"
-        },
-        "1574497168": {
-            "521ddos.3322.org": "INACTIVE"
-        },
         "1574497934": {
             "52388828.gnway.cc": "INACTIVE"
         },
@@ -1421,6 +1381,12 @@
         },
         "1574583816": {
             "78rfcpijqi.centade.com": "INACTIVE"
+        },
+        "1574584522": {
+            "512tablets.gotech.tk": "INACTIVE"
+        },
+        "1574584523": {
+            "78zofcjuph.centade.com": "INACTIVE"
         }
     }
 }
