@@ -1,46 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574484121": {
-            "3f75c3f9.api.splkmobile.com": "INACTIVE",
-            "3fascgetontheline.tk": "INACTIVE"
-        },
-        "1574484122": {
-            "3fczz.alldownloads.hapc.gdn": "INACTIVE",
-            "3ff922bd.api.splkmobile.com": "INACTIVE"
-        },
-        "1574484123": {
-            "3g.990.net": "INACTIVE"
-        },
-        "1574484124": {
-            "3gdl.tcdn.qq.com": "INACTIVE",
-            "3gjys1.blow.harrisretreat.com": "INACTIVE"
-        },
-        "1574484125": {
-            "3graugmt3gazdnp31fa5dc.ourdvsss.com": "INACTIVE",
-            "3grhdgmtsgyzdnc33fa5uq.ourdvsss.com": "INACTIVE"
-        },
-        "1574484126": {
-            "3h80f.filled.pw": "INACTIVE"
-        },
-        "1574484127": {
-            "3in1.sa.com": "INACTIVE"
-        },
-        "1574484128": {
-            "3iorjcallus.tk": "INACTIVE"
-        },
-        "1574484129": {
-            "3jonjie.tk": "INACTIVE",
-            "3jujucallus.tk": "INACTIVE",
-            "3jvq2gbjklxtceyz.onion.link": "INACTIVE",
-            "3kjfnjagetontheline.tk": "INACTIVE"
-        },
-        "1574484130": {
-            "3ko21calltohelp.tk": "INACTIVE",
-            "3kobgrjgetontheline.tk": "INACTIVE",
-            "3kogycalltohelp.tk": "INACTIVE",
-            "3kohecallus.tk": "INACTIVE",
-            "3kor333calltohelp.tk": "INACTIVE"
-        },
         "1574485133": {
             "3korcalltohelp.tk": "INACTIVE",
             "3korjgetontheline.tk": "INACTIVE",
@@ -1836,6 +1795,10 @@
             "54u7ycaq3q.centade.com": "INACTIVE",
             "54xgbdiwhh.centade.com": "INACTIVE",
             "54ywlmf2ex.centade.com": "INACTIVE"
+        },
+        "1574571308": {
+            "3h80f.filled.pw": "INACTIVE",
+            "3jvq2gbjklxtceyz.onion.link": "INACTIVE"
         }
     }
 }
