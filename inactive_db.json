@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574511267": {
-            "6320c18e.api.splkmobile.com": "INACTIVE"
-        },
-        "1574511268": {
-            "6323066618759.usercash.com": "INACTIVE",
-            "6330434793606.usercash.com": "INACTIVE"
-        },
-        "1574511269": {
-            "6337041028309.usercash.com": "INACTIVE"
-        },
-        "1574511270": {
-            "635078.glycyl.pw": "INACTIVE"
-        },
-        "1574511272": {
-            "6373077826574.usercash.com": "INACTIVE",
-            "638.reimsrvcm.com": "INACTIVE"
-        },
-        "1574511275": {
-            "64.177.70.115.static.exetel.com.au": "INACTIVE",
-            "64.6.87.194.dynamic.dol.ru": "INACTIVE",
-            "6400.no-ip.org": "INACTIVE"
-        },
-        "1574511276": {
-            "641cd42d.api.splkmobile.com": "INACTIVE"
-        },
-        "1574511277": {
-            "641tablets.tk": "INACTIVE",
-            "642ebaed.api.splkmobile.com": "INACTIVE"
-        },
-        "1574511278": {
-            "643pills.gotech.tk": "INACTIVE"
-        },
-        "1574511279": {
-            "6454.eu-geolookup.swrve.com": "INACTIVE"
-        },
-        "1574511280": {
-            "64764sd.co.cc": "INACTIVE"
-        },
         "1574512023": {
             "64uibhfcallingnow.tk": "INACTIVE"
         },
@@ -1001,6 +963,14 @@
         },
         "1574597527": {
             "620tab.medic1.tk": "INACTIVE"
+        },
+        "1574598257": {
+            "635078.glycyl.pw": "INACTIVE",
+            "643pills.gotech.tk": "INACTIVE",
+            "6454.eu-geolookup.swrve.com": "INACTIVE"
+        },
+        "1574598267": {
+            "88.anqu22.com": "INACTIVE"
         }
     }
 }
