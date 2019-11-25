@@ -41238,5 +41238,20 @@
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
         "state": "future"
+    },
+    "a12lab.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "a13.me": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "a135.net": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
     }
 }
