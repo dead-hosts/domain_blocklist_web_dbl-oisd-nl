@@ -41193,5 +41193,30 @@
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
+    },
+    "a0v.org": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "a1-bulkemailhost.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "a1-stays.com": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "a1000suns.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "a101.co.il": {
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "state": "future"
     }
 }
