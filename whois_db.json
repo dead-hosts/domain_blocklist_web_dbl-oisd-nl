@@ -41218,5 +41218,25 @@
         "epoch": 1635465600.0,
         "expiration_date": "29-oct-2021",
         "state": "future"
+    },
+    "a10b.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "a10tech.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "a1189.cc": {
+        "epoch": 1665532800.0,
+        "expiration_date": "12-oct-2022",
+        "state": "future"
+    },
+    "a1189.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     }
 }
