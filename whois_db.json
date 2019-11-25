@@ -41493,5 +41493,65 @@
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
         "state": "future"
+    },
+    "a2af4f04914ed298.com": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "a2amen.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "a2articles.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "a2b108bd2461b12e.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "a2ba3784cb354807d.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "a2btrans.pl": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "a2c653c4d145fa5f96a.com": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "a2dfp.net": {
+        "epoch": 1648771200.0,
+        "expiration_date": "01-apr-2022",
+        "state": "future"
+    },
+    "a2eacademy.com": {
+        "epoch": 1723334400.0,
+        "expiration_date": "11-aug-2024",
+        "state": "future"
+    },
+    "a2ei.com": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "a2kiaymoster12902.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "a2movinglabor.com": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
     }
 }
