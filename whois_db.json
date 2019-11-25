@@ -41473,5 +41473,20 @@
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
+    },
+    "a24assistance.rs": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "a24help.ru": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "a258c3523a5c4a47bda.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
     }
 }
