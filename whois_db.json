@@ -41673,5 +41673,20 @@
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
         "state": "future"
+    },
+    "a3p4.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
+    "a3revenue.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "a4-1.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     }
 }
