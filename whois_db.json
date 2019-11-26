@@ -41778,5 +41778,45 @@
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
         "state": "future"
+    },
+    "a69ee4fa50dc3.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "a6a7.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "a6ba.com": {
+        "epoch": 1575763200.0,
+        "expiration_date": "08-dec-2019",
+        "state": "future"
+    },
+    "a6be07586bc4a7.com": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "a6lxbeui.ru": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "a6o.ru": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "a777.lt": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "a777.org": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
     }
 }
