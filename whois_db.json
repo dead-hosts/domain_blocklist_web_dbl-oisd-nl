@@ -41738,5 +41738,40 @@
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
         "state": "future"
+    },
+    "a55534a.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "a5baar.com": {
+        "epoch": 1664668800.0,
+        "expiration_date": "02-oct-2022",
+        "state": "future"
+    },
+    "a5df.com": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "a5e04df959f1af34.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "a5g.ru": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "a5i.ru": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "a5s.ru": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
     }
 }
