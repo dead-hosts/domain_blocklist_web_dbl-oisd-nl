@@ -41728,5 +41728,15 @@
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
         "state": "future"
+    },
+    "a4uatro.com.br": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "a4w0nag.com": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
     }
 }
