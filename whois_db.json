@@ -41928,5 +41928,15 @@
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "state": "future"
+    },
+    "a948848111.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "a94f3dae654a0580.info": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
     }
 }
