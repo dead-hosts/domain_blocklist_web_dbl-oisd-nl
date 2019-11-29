@@ -44758,5 +44758,10 @@
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
         "state": "future"
+    },
+    "abc.edu.rs": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
     }
 }
