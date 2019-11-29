@@ -45003,5 +45003,15 @@
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
         "state": "future"
+    },
+    "abcnewa.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "abcnmembers.com": {
+        "epoch": 1577059200.0,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
     }
 }
