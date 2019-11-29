@@ -142,7 +142,7 @@ outputs:
     splited:
         directory: splited
 plain_list_domain: true
-quiet: false
+quiet: true
 share_logs: false
 show_execution_time: false
 show_percentage: true
