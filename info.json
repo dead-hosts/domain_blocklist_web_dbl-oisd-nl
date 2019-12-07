@@ -1,7 +1,7 @@
 {
     "currently_under_test": true,
     "custom_pyfunceble_config": {
-        "quiet": true
+        "quiet": false
     },
     "days_until_next_test": 3.0,
     "finish_datetime": "1970-01-01T00:00:00",
