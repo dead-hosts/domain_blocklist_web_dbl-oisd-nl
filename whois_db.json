@@ -10619,6 +10619,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "2019miservicios.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "2019satdaan.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -10662,6 +10667,11 @@
     "2020iscoming.info": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "2020mcafee.info": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "2020mode.com": {
