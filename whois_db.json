@@ -9024,6 +9024,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "1inday.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "1ink.cc": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
