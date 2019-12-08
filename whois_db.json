@@ -5414,6 +5414,11 @@
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
+    "11vet.com": {
+        "epoch": 1578268800.0,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
     "11x11.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -5495,8 +5500,8 @@
         "state": "future"
     },
     "121shoes.net": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "122144.com": {
