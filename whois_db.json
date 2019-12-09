@@ -24915,8 +24915,8 @@
         "state": "future"
     },
     "4safe.in": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "4schmuck.com": {
@@ -24944,6 +24944,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "4shared.com": {
+        "epoch": 1704931200.0,
+        "expiration_date": "11-jan-2024",
+        "state": "future"
+    },
     "4sharedtrend.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -24955,8 +24960,8 @@
         "state": "future"
     },
     "4shoes.pl": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "4sinstalls.com": {
