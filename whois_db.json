@@ -20939,6 +20939,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "3eka.com": {
+        "epoch": 1578614400.0,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "3el-3el-fie.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -20965,8 +20970,8 @@
         "state": "future"
     },
     "3f0692f665d4.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "3f32172d509aeb0.com": {
