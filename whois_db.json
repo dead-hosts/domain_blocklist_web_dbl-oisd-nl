@@ -25689,6 +25689,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "50szazalek.com": {
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "state": "future"
+    },
     "50th-reunion.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
