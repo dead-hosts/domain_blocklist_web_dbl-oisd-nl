@@ -27664,6 +27664,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "56yk.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "56z-sg8-d2.net": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
