@@ -28544,6 +28544,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "5mcwl.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "5mff.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
@@ -28575,8 +28580,8 @@
         "state": "future"
     },
     "5mnh.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "5motkov.ru": {
