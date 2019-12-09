@@ -21035,8 +21035,8 @@
         "state": "future"
     },
     "3generationtreeservice.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "3gkd6funzz.com": {
@@ -21080,8 +21080,8 @@
         "state": "future"
     },
     "3gportal.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "3gpvideo.ru": {
@@ -21160,8 +21160,8 @@
         "state": "future"
     },
     "3infoweb.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "3isee.com": {
@@ -21177,7 +21177,7 @@
     "3j2gdpsipa74bgm441.biz": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "3j4h.com": {
         "epoch": 1603584000.0,
