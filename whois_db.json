@@ -28879,6 +28879,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "5x-5bch0.news": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "5x412.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
