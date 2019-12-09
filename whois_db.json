@@ -21554,6 +21554,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "3s1xk.cn": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "3s21x.top": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -21590,13 +21595,13 @@
         "state": "past"
     },
     "3shadz.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "3six9.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "3spension.com": {
