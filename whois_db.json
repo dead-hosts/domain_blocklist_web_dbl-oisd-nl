@@ -21920,8 +21920,8 @@
         "state": "future"
     },
     "4-6-3baseball.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "4-all.org": {
@@ -21975,9 +21975,9 @@
         "state": "future"
     },
     "40.nu": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
-        "state": "past"
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
     },
     "4000223255.com": {
         "epoch": 1580169600.0,
