@@ -40274,6 +40274,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "9anime.is": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "9apps.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
