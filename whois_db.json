@@ -40875,8 +40875,8 @@
         "state": "past"
     },
     "9tt8.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "9tv.co.il": {
@@ -40912,6 +40912,11 @@
     "9uuuuu.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "9uys.co": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "9v56.com": {
