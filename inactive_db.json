@@ -392,8 +392,7 @@
             "a.fundates.org": "INACTIVE"
         },
         "1574640696": {
-            "a.golizoli.com": "INACTIVE",
-            "a.heetv.com": "INACTIVE"
+            "a.golizoli.com": "INACTIVE"
         },
         "1574640697": {
             "a.horsered.com": "INACTIVE"
@@ -1376,6 +1375,10 @@
         },
         "1576583838": {
             "a.company-target.com": "INACTIVE"
+        },
+        "1576589596": {
+            "a.heetv.com": "INACTIVE",
+            "a.homeguide.xyz": "INACTIVE"
         }
     }
 }
