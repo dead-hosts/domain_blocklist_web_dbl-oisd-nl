@@ -42969,6 +42969,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "aafdcq.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "aafdistrict7.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
