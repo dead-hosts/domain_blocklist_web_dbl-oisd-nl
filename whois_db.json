@@ -43224,6 +43224,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "aalma.pt": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "aalphinoor.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -43242,6 +43247,11 @@
     "aamaga.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "aamail.us": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "aamapi.com": {
