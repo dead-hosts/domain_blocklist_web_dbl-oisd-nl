@@ -43384,6 +43384,11 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "aanstaande.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "aantiagingaid.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -43417,6 +43422,11 @@
     "aapcutils.club": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "aapjbb.org": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "aapkabazar.net": {
