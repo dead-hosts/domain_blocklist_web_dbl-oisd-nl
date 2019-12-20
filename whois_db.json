@@ -42089,6 +42089,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "a8heyzz.love": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "a8site.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
