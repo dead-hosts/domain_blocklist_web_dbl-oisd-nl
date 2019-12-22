@@ -45612,7 +45612,7 @@
     "abeltec.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abem.mx": {
         "epoch": 1600905600.0,
