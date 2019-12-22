@@ -46693,5 +46693,85 @@
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
         "state": "future"
+    },
+    "ablusa.org.br": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "abmarchitects.com": {
+        "epoch": 1679702400.0,
+        "expiration_date": "25-mar-2023",
+        "state": "future"
+    },
+    "abmecatronic.com": {
+        "epoch": 1580947200.0,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "abmelectric.ca": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "abmiracle.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "abmoon.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "abmr.net": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
+    "abmsa.in": {
+        "epoch": 1705017600.0,
+        "expiration_date": "12-jan-2024",
+        "state": "future"
+    },
+    "abmsoftperu.com": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "abmysystools.live": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "abmysysutils.live": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "abn-accounting.co.uk": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "abn-ad.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "abn-listing-host-215612.ltd": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "abnamro-digipassrecycleprocedure.ml": {
+        "epoch": 1872460800.0,
+        "expiration_date": "03-may-2029",
+        "state": "future"
+    },
+    "abnamro-recycle.ml": {
+        "epoch": 1890950400.0,
+        "expiration_date": "03-dec-2029",
+        "state": "future"
     }
 }
