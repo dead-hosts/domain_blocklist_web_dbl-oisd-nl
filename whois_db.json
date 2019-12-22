@@ -45299,9 +45299,14 @@
         "expiration_date": "07-nov-2021",
         "state": "future"
     },
+    "abcontracting.us": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "state": "future"
+    },
     "abcoqtz.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "abcoroti.com": {
@@ -45322,6 +45327,11 @@
     "abcpadvogados.com.br": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "abcpharmacy.xyz": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "abcporno.net": {
