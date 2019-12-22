@@ -46513,5 +46513,50 @@
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
+    },
+    "ableday.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "abledge.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "abledigitalgroup.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "ablefull.com": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "ablegates.co.za": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "ablehand.net": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "ablehed.pro": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "ableinternetcservice.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "ablelift.net": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     }
 }
