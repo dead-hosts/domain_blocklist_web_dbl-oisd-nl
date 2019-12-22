@@ -46958,5 +46958,65 @@
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
         "state": "future"
+    },
+    "abotoxpro.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "abotv.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "abou.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "aboub.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "abourjeilysm.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "abourselfi.com": {
+        "epoch": 1571875200.0,
+        "expiration_date": "24-oct-2019",
+        "state": "past"
+    },
+    "about-all.org": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "about-blank.org": {
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "about-blank.ws": {
+        "epoch": 1680825600.0,
+        "expiration_date": "07-apr-2023",
+        "state": "future"
+    },
+    "about-philosophy.ru": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "about-sexy.com": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "about.co.uk": {
+        "epoch": 1789257600.0,
+        "expiration_date": "13-sep-2026",
+        "state": "future"
     }
 }
