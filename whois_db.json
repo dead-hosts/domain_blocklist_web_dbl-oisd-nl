@@ -46843,5 +46843,75 @@
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
         "state": "future"
+    },
+    "abogadoandrewthomas.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "abogadodejacksonville.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "abogadoespanolace.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "abogadosjubilados.org.ar": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "abogadospericia.com": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "abogadosurquiza.com.ar": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "aboilerpage.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "abolfotoh.net": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "abolished.com": {
+        "epoch": 1672876800.0,
+        "expiration_date": "05-jan-2023",
+        "state": "future"
+    },
+    "abolitionawards.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "aboluowang.com": {
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "state": "future"
+    },
+    "abomeskah.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "abominationimagery.com": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "abond.net": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     }
 }
