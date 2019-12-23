@@ -48148,5 +48148,60 @@
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
         "state": "future"
+    },
+    "abusetreatmentsubstance.com": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "abusiness4u.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "abusinesseducation.com": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "abusing.fun": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abusora.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "abutment.fun": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abv-mebelshop.ru": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "abvitamedica.ro": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "abvuibv.xyz": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "abx4.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "abxbarter.com": {
+        "epoch": 1682726400.0,
+        "expiration_date": "29-apr-2023",
+        "state": "future"
     }
 }
