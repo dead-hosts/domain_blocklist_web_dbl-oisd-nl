@@ -47363,5 +47363,80 @@
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
         "state": "future"
+    },
+    "abrdindia.co": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "abreaction.space": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abreactive.space": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abrecht.com": {
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "state": "future"
+    },
+    "abregeousn.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "abricrgcm.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "abrifunn.com": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "abrightideacompany.com": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "abrilar.com.br": {
+        "epoch": 1727481600.0,
+        "expiration_date": "28-sep-2024",
+        "state": "future"
+    },
+    "abrindo.link": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "abrintonal.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "abrirlinks.com": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "abrirnegocio.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "abris-ug.ru": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "abritersmile.com": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "state": "future"
     }
 }
