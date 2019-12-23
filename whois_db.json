@@ -48328,5 +48328,10 @@
         "epoch": 1627257600.0,
         "expiration_date": "26-jul-2021",
         "state": "future"
+    },
+    "ac-restore.com": {
+        "epoch": 1740441600.0,
+        "expiration_date": "25-feb-2025",
+        "state": "future"
     }
 }
