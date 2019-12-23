@@ -48028,5 +48028,35 @@
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
         "state": "future"
+    },
+    "abuabbad.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "abudah.com.br": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "abuddingenthusiast.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "abudhabi.com": {
+        "epoch": 1854316800.0,
+        "expiration_date": "05-oct-2028",
+        "state": "future"
+    },
+    "abudhabidhowcruise.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "abueladigital.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     }
 }
