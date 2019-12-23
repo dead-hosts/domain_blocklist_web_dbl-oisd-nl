@@ -47718,5 +47718,75 @@
         "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
+    },
+    "absolutelyric.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "absolutemotors.sg": {
+        "epoch": 1587427200.0,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "absolutepleasureyacht.com": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
+    },
+    "absolutequiz.com": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "absolutesoftech.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "absolutesoftech.net": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "absolutesoftech.org": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "absolutesoftech.us": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "absolutesoftechltd.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "absolutesport.fr": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "absolutethumbs.net": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "absolutetop.ru": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "absolutist.com": {
+        "epoch": 1649462400.0,
+        "expiration_date": "09-apr-2022",
+        "state": "future"
+    },
+    "absoluts.org": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
     }
 }
