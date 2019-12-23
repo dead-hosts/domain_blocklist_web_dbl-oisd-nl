@@ -47518,5 +47518,45 @@
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
         "state": "future"
+    },
+    "abs-static.org": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "abs-tech.com": {
+        "epoch": 1645833600.0,
+        "expiration_date": "26-feb-2022",
+        "state": "future"
+    },
+    "abs48.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "absabmarketing.com": {
+        "epoch": 1709942400.0,
+        "expiration_date": "09-mar-2024",
+        "state": "future"
+    },
+    "absaintl.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "absamoylov.ru": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "absaza.com": {
+        "epoch": 1584662400.0,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "absblast.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
     }
 }
