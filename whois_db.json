@@ -48133,5 +48133,20 @@
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
         "state": "future"
+    },
+    "aburialinsurancelookuper.com": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "abusable.fun": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abuse-js.link": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
     }
 }
