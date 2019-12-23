@@ -48213,5 +48213,15 @@
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
         "state": "future"
+    },
+    "abyadrianagaviria.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "abyagroup.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
     }
 }
