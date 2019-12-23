@@ -47558,5 +47558,55 @@
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
         "state": "future"
+    },
+    "abschool.in": {
+        "epoch": 1716249600.0,
+        "expiration_date": "21-may-2024",
+        "state": "future"
+    },
+    "absdynamics.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "absecretsonline.com": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "absecuritas.com": {
+        "epoch": 1676592000.0,
+        "expiration_date": "17-feb-2023",
+        "state": "future"
+    },
+    "absentstream.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "abserv123.com": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "abserv2019.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "absewer.com": {
+        "epoch": 1708992000.0,
+        "expiration_date": "27-feb-2024",
+        "state": "future"
+    },
+    "absfilament.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
+    },
+    "absfinancialplanning.co.za": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
     }
 }
