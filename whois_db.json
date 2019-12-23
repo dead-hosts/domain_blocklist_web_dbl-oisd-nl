@@ -47298,5 +47298,70 @@
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
+    },
+    "abrahamessays.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "abrahamkriell.org": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "abrahamschildren.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "abraj-news.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "abramarketing.com": {
+        "epoch": 1644624000.0,
+        "expiration_date": "12-feb-2022",
+        "state": "future"
+    },
+    "abramex.net": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "abrami.in": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "abramsburgess.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "abramsdicta.com": {
+        "epoch": 1579824000.0,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "abrasion.space": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abrasive.space": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "abraszczecin.pl": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "abraxaslifestyle.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     }
 }
