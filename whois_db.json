@@ -47263,5 +47263,40 @@
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
         "state": "future"
+    },
+    "abqstages.org": {
+        "epoch": 1678492800.0,
+        "expiration_date": "11-mar-2023",
+        "state": "future"
+    },
+    "abr.net.in": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "abraajbh.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "abrablog.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "abraceseguros.com.br": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "abracosgratis.com.br": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
+    "abradora.com": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
     }
 }
