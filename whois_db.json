@@ -48203,5 +48203,15 @@
         "epoch": 1682726400.0,
         "expiration_date": "29-apr-2023",
         "state": "future"
+    },
+    "abxtracker-updates.com": {
+        "epoch": 1694304000.0,
+        "expiration_date": "10-sep-2023",
+        "state": "future"
+    },
+    "abxtrjygg.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     }
 }
