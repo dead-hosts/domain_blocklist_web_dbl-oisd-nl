@@ -47663,5 +47663,60 @@
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
         "state": "future"
+    },
+    "absolute-live.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "absolute-s.ru": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "absolute-sports.com": {
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "state": "future"
+    },
+    "absoluteart.biz": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "absolutecapz.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "absolutecarpetcleaningaustin.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "absoluteclickscom.com": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "absolutecreative.co": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "absoluteessays.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "absolutefreesmut.com": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "absolutekerry.com": {
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "state": "future"
     }
 }
