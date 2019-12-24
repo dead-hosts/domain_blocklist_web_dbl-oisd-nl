@@ -48918,5 +48918,15 @@
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
+    },
+    "acc-sa.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "acc-verify.com": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
     }
 }
