@@ -49273,5 +49273,20 @@
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
         "state": "future"
+    },
+    "access-apple.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "access-cannes.fr": {
+        "epoch": 1578700800.0,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "access-designs.com": {
+        "epoch": 1660780800.0,
+        "expiration_date": "18-aug-2022",
+        "state": "future"
     }
 }
