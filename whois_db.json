@@ -48583,5 +48583,20 @@
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
+    },
+    "academx.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "state": "future"
+    },
+    "academy-hall.ru": {
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "academy-truck-bus.net": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
     }
 }
