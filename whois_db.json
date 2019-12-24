@@ -49183,5 +49183,10 @@
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
         "state": "future"
+    },
+    "acceptanceinfo.com": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
     }
 }
