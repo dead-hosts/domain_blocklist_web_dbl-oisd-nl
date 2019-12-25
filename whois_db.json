@@ -50503,5 +50503,65 @@
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
         "state": "future"
+    },
+    "accountkit.com": {
+        "epoch": 1808870400.0,
+        "expiration_date": "28-apr-2027",
+        "state": "future"
+    },
+    "accountmes.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "accountmicrosoft.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "accountnote.com": {
+        "epoch": 1580601600.0,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "accountrecovery-amazon.co.uk": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "accounts-craigslist.com": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "accounts-help.com": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
+    "accounts-services.co.uk": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "accounts.mx": {
+        "epoch": 1682467200.0,
+        "expiration_date": "26-apr-2023",
+        "state": "future"
+    },
+    "accounts.net": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "accounts.support": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "accountsafety-pyp-invoice.net": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
     }
 }
