@@ -52593,5 +52593,20 @@
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
         "state": "future"
+    },
+    "acompanhantesbrasil.com.br": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "acone.com.br": {
+        "epoch": 1713916800.0,
+        "expiration_date": "24-apr-2024",
+        "state": "future"
+    },
+    "aconetrick.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     }
 }
