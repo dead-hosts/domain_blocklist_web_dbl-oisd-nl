@@ -49808,5 +49808,15 @@
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
         "state": "future"
+    },
+    "accordcom.ru": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "accordgroup.com": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
     }
 }
