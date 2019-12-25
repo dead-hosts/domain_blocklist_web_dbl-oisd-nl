@@ -49818,5 +49818,20 @@
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
         "state": "future"
+    },
+    "accordgroups.in": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "accordinc.net": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "accordlifespec.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
     }
 }
