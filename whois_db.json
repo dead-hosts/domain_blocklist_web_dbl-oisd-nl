@@ -56103,5 +56103,55 @@
         "epoch": 1733875200.0,
         "expiration_date": "11-dec-2024",
         "state": "future"
+    },
+    "actonapaydayloan.com": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
+    },
+    "actoncellphoneultimate.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "actonhealthinsurance.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "actonlinecollegelocatorsok.live": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "actonsoftware.com": {
+        "epoch": 1718323200.0,
+        "expiration_date": "14-jun-2024",
+        "state": "future"
+    },
+    "actonsuv.com": {
+        "epoch": 1572393600.0,
+        "expiration_date": "30-oct-2019",
+        "state": "past"
+    },
+    "actor.net": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "actoriends.info": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "actosteoporosisinfoesok.live": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "actox.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     }
 }
