@@ -57003,5 +57003,70 @@
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
         "state": "future"
+    },
+    "actvoipcanadasok.live": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "actvtrack.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "actvznphonedealsholidaysok.live": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "actwirelessinternetsok.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "actyvos.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "acu.men": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "acu4me.com": {
+        "epoch": 1711756800.0,
+        "expiration_date": "30-mar-2024",
+        "state": "future"
+    },
+    "acuarelafotografos.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "acuarioguadalajara.com": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "acuaticaswim.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "acubecapital.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
+    "acuchillarparquetmadrid.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "acuerdoexequiasace.com": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
     }
 }
