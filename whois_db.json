@@ -57313,5 +57313,50 @@
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
         "state": "future"
+    },
+    "ad-9.com": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "ad-admitad.ru": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "ad-agent.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "ad-alp.net": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "ad-alyzer.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "ad-and.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "ad-annex.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "ad-aquatics.com": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "ad-astro.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
     }
 }
