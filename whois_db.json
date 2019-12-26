@@ -55288,5 +55288,65 @@
         "epoch": 1698969600.0,
         "expiration_date": "03-nov-2023",
         "state": "future"
+    },
+    "activate-account.com": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "activate-asia.com": {
+        "epoch": 1767312000.0,
+        "expiration_date": "02-jan-2026",
+        "state": "future"
+    },
+    "activate-avast.com": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "activate-com.org": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "activate-mcafee.net": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "activate-setup.com": {
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "activateantivirus.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "activated.co.il": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "activaterokucode.com": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "activatewindows.org": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "activation-accountsummary.com": {
+        "epoch": 1805846400.0,
+        "expiration_date": "24-mar-2027",
+        "state": "future"
+    },
+    "activation-mail.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     }
 }
