@@ -57428,5 +57428,55 @@
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
         "state": "future"
+    },
+    "ad-center.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "ad-ch.net": {
+        "epoch": 1643587200.0,
+        "expiration_date": "31-jan-2022",
+        "state": "future"
+    },
+    "ad-chan.com": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "ad-ck.ru": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "ad-clicks.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "ad-cn.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "ad-cn.net": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "ad-control-panel.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "ad-cycle.com": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "ad-dancer.com": {
+        "epoch": 1573862400.0,
+        "expiration_date": "16-nov-2019",
+        "state": "past"
     }
 }
