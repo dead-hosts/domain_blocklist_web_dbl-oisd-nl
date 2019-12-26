@@ -55763,5 +55763,80 @@
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
         "state": "future"
+    },
+    "activitycorporation.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "activityrecorder.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "activityschool.com": {
+        "epoch": 1579824000.0,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "activmaxis.com": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
+    "activnetmart123.ru": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "activoinmobiliario.cl": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "activshopper.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "actjobsearchesok.live": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "actjobsearchok.live": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "actjokesok.live": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "actkidneyhealthok.live": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "actkidneyhealthsok.live": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "actlaptopok.live": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "actlaptopsok.live": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "actlawok.degree": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     }
 }
