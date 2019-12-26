@@ -55748,5 +55748,20 @@
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
         "state": "future"
+    },
+    "activezipper.net": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "activitiessxm.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "activity-account-appleid.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
     }
 }
