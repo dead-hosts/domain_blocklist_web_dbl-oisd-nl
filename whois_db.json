@@ -56828,5 +56828,25 @@
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
         "state": "future"
+    },
+    "actualizacionesjuridicasdeantioquia.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "actuallysheep.com": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "actuallysnake.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "actualmove.ru": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
     }
 }
