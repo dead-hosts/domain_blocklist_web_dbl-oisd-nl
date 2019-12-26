@@ -57183,5 +57183,20 @@
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
         "state": "future"
+    },
+    "acurelief.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "acurraintl.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "acusnore.co.uk": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
     }
 }
