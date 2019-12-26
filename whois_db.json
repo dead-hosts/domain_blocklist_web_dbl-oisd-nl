@@ -55458,5 +55458,80 @@
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
         "state": "future"
+    },
+    "active2.xyz": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "active8ads.com": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "activeads.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "activeadultproperties.com": {
+        "epoch": 1648771200.0,
+        "expiration_date": "01-apr-2022",
+        "state": "future"
+    },
+    "activealert911.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "activeandbanflip.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "activeautomation.com": {
+        "epoch": 1740960000.0,
+        "expiration_date": "03-mar-2025",
+        "state": "future"
+    },
+    "activeboard.com": {
+        "epoch": 1582502400.0,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "activebuddy.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "activecareonline.co.uk": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "activecarrental.co.za": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "activecode.xyz": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "activeconversion.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "activedancer.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "activedata.agency": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
     }
 }
