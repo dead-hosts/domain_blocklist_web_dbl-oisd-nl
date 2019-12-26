@@ -57508,5 +57508,80 @@
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
         "state": "future"
+    },
+    "ad-exchange.fr": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "ad-feed.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "ad-feeds.net": {
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "ad-file.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "ad-first.co.kr": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "ad-flow.com": {
+        "epoch": 1664409600.0,
+        "expiration_date": "29-sep-2022",
+        "state": "future"
+    },
+    "ad-fuzoku.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "ad-gd.com": {
+        "epoch": 1578441600.0,
+        "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "ad-generator.info": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "ad-globe.com": {
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "state": "future"
+    },
+    "ad-goi.com": {
+        "epoch": 1572393600.0,
+        "expiration_date": "30-oct-2019",
+        "state": "past"
+    },
+    "ad-groups.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "ad-guinipig.net": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "ad-guru.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "ad-hatena.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     }
 }
