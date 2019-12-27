@@ -58168,5 +58168,45 @@
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
         "state": "future"
+    },
+    "ad.cafe": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "ad.capital": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "ad.car": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "ad.cards": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "ad.cars": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "ad.cash": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "ad.casino": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "ad.cc": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
     }
 }
