@@ -58238,5 +58238,20 @@
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
         "state": "past"
+    },
+    "ad.clinic": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "ad.club": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "ad.cm": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     }
 }
