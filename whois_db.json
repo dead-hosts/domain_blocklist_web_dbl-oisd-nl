@@ -58118,5 +58118,15 @@
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
+    },
+    "ad.am": {
+        "epoch": 1587168000.0,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "ad.amsterdam": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
     }
 }
