@@ -58088,5 +58088,15 @@
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
+    },
+    "ad.ac": {
+        "epoch": 1809043200.0,
+        "expiration_date": "30-apr-2027",
+        "state": "future"
+    },
+    "ad.academy": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     }
 }
