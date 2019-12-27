@@ -58213,5 +58213,20 @@
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
         "state": "future"
+    },
+    "ad.church": {
+        "epoch": 1580601600.0,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "ad.ci": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "ad.city": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     }
 }
