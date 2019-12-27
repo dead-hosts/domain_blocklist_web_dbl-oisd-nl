@@ -77838,7 +77838,30 @@
             "ad.api.3g.youku.com",
             "ad.api.ateam-ad.jp",
             "ad.api.ero-advertising.com",
-            "ad.api.kaffnet.com"
+            "ad.api.kaffnet.com",
+            "ad.api.mobile.youku.com",
+            "ad.api.xiaoying.co",
+            "ad.api.yyapi.net",
+            "ad.app",
+            "ad.app-liv.jp",
+            "ad.app-authority.com",
+            "ad.app.autohome.com.cn",
+            "ad.appia.com",
+            "ad.appier.net",
+            "ad.apps.fm",
+            "ad.applead.co.kr",
+            "ad.apsalar.com",
+            "ad.aquamediadirect.com",
+            "ad.ar.doubleclick.net",
+            "ad.arrivalist.com",
+            "ad.as-cube.co.jp",
+            "ad.aruba.it",
+            "ad.as.amanad.adtdp.com",
+            "ad.aseugame.com",
+            "ad.asntown.net",
+            "ad.aspm.jp",
+            "ad.at",
+            "ad.astd.17.com"
         ],
         "INACTIVE": [
             "002z2q0ezy.centade.com",
@@ -78322,7 +78345,8 @@
             "acwretbdi.dyndns.org",
             "ad-stats-limiter.snapads.com",
             "ad.2112111.com",
-            "ad.adverteerdirect.nl"
+            "ad.adverteerdirect.nl",
+            "ad.appboy.com"
         ]
     }
 }
