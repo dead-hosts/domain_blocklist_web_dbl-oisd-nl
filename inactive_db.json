@@ -1525,13 +1525,6 @@
         "1577477158": {
             "ad.cx": "INACTIVE"
         },
-        "1579624489": {
-            "0.id.ctoid.net": "INACTIVE"
-        },
-        "1579624496": {
-            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE",
-            "01.liveadvert.com": "INACTIVE"
-        },
         "1579633171": {
             "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1573,6 +1566,12 @@
         },
         "1579684608": {
             "01001.dgn.vn": "INACTIVE"
+        },
+        "1579712397": {
+            "0.id.ctoid.net": "INACTIVE"
+        },
+        "1579712404": {
+            "01.liveadvert.com": "INACTIVE"
         }
     }
 }
