@@ -1525,9 +1525,6 @@
         "1577477158": {
             "ad.cx": "INACTIVE"
         },
-        "1579633171": {
-            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1579636220": {
             "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1575,6 +1572,9 @@
         },
         "1579716753": {
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1579721000": {
+            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
