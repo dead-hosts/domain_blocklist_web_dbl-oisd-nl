@@ -1525,9 +1525,6 @@
         "1577477158": {
             "ad.cx": "INACTIVE"
         },
-        "1579657856": {
-            "00vub4cznn.centade.com": "INACTIVE"
-        },
         "1579673970": {
             "00qvxp13ic.centade.com": "INACTIVE",
             "00qzkqx6vp.centade.com": "INACTIVE",
@@ -1557,6 +1554,9 @@
         },
         "1579742172": {
             "00693goqsa.centade.com": "INACTIVE"
+        },
+        "1579746395": {
+            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
