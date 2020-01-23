@@ -1528,9 +1528,6 @@
         "1579712397": {
             "0.id.ctoid.net": "INACTIVE"
         },
-        "1579712404": {
-            "01.liveadvert.com": "INACTIVE"
-        },
         "1579716753": {
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1560,6 +1557,9 @@
             "00sxsrdfnz.centade.com": "INACTIVE",
             "00utk19zj5.centade.com": "INACTIVE",
             "00vub4cznn.centade.com": "INACTIVE"
+        },
+        "1579802851": {
+            "01.liveadvert.com": "INACTIVE"
         }
     }
 }
