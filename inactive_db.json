@@ -1525,11 +1525,6 @@
         "1577477158": {
             "ad.cx": "INACTIVE"
         },
-        "1579925571": {
-            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
-            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE",
-            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1579929803": {
             "00ckdjqixs.centade.com": "INACTIVE",
             "00dumagwgv.centade.com": "INACTIVE"
@@ -1592,6 +1587,10 @@
         },
         "1580000235": {
             "00sxsrdfnz.centade.com": "INACTIVE"
+        },
+        "1580015499": {
+            "000lp59.wcomhost.com": "INACTIVE",
+            "000mssi.wcomhost.com": "INACTIVE"
         }
     }
 }
