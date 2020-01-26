@@ -1525,26 +1525,8 @@
         "1577477158": {
             "ad.cx": "INACTIVE"
         },
-        "1579946267": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
         "1579946268": {
             "0.win-eto.com": "INACTIVE"
-        },
-        "1579946269": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1579946272": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1579946278": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE"
-        },
-        "1579946279": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
         "1579949944": {
             "01.mssheng.com": "INACTIVE"
@@ -1586,6 +1568,28 @@
         "1580026904": {
             "00ckdjqixs.centade.com": "INACTIVE",
             "00dumagwgv.centade.com": "INACTIVE"
+        },
+        "1580037390": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1580037392": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1580037395": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580037401": {
+            "00kddmarqr.centade.com": "INACTIVE",
+            "00lq3bwdmz.centade.com": "INACTIVE",
+            "00n8tze33l.centade.com": "INACTIVE",
+            "00nyf28cia.centade.com": "INACTIVE",
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE"
+        },
+        "1580037402": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
