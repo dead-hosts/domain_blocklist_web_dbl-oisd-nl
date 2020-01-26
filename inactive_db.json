@@ -1528,9 +1528,6 @@
         "1579946268": {
             "0.win-eto.com": "INACTIVE"
         },
-        "1579979925": {
-            "01.liveadvert.com": "INACTIVE"
-        },
         "1579984053": {
             "00ji8zy3qn.centade.com": "INACTIVE"
         },
@@ -1595,6 +1592,9 @@
             "00uh4dfihr.centade.com": "INACTIVE",
             "00utk19zj5.centade.com": "INACTIVE",
             "00vub4cznn.centade.com": "INACTIVE"
+        },
+        "1580069541": {
+            "01.liveadvert.com": "INACTIVE"
         }
     }
 }
