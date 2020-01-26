@@ -1528,12 +1528,6 @@
         "1579946268": {
             "0.win-eto.com": "INACTIVE"
         },
-        "1579975828": {
-            "0.id.ctoid.net": "INACTIVE"
-        },
-        "1579975840": {
-            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1579979925": {
             "01.liveadvert.com": "INACTIVE"
         },
@@ -1587,6 +1581,20 @@
         },
         "1580061840": {
             "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580065711": {
+            "0.id.ctoid.net": "INACTIVE"
+        },
+        "1580065720": {
+            "00ekxb4yih.centade.com": "INACTIVE"
+        },
+        "1580065721": {
+            "00qvxp13ic.centade.com": "INACTIVE"
+        },
+        "1580065722": {
+            "00uh4dfihr.centade.com": "INACTIVE",
+            "00utk19zj5.centade.com": "INACTIVE",
+            "00vub4cznn.centade.com": "INACTIVE"
         }
     }
 }
