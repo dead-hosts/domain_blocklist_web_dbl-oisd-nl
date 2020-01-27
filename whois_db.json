@@ -1,4 +1,9 @@
 {
+    "0--e.info": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "0-0-----------------------------------------------------------0.com": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
@@ -402,6 +407,11 @@
     "0032008.com": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "0034ufow.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "0038.com": {

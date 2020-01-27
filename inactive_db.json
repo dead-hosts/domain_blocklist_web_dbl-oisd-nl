@@ -1531,25 +1531,8 @@
         "1580045510": {
             "01.mssheng.com": "INACTIVE"
         },
-        "1580061839": {
-            "00qzkqx6vp.centade.com": "INACTIVE"
-        },
-        "1580061840": {
-            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580065711": {
             "0.id.ctoid.net": "INACTIVE"
-        },
-        "1580065720": {
-            "00ekxb4yih.centade.com": "INACTIVE"
-        },
-        "1580065721": {
-            "00qvxp13ic.centade.com": "INACTIVE"
-        },
-        "1580065722": {
-            "00uh4dfihr.centade.com": "INACTIVE",
-            "00utk19zj5.centade.com": "INACTIVE",
-            "00vub4cznn.centade.com": "INACTIVE"
         },
         "1580069541": {
             "01.liveadvert.com": "INACTIVE"
@@ -1577,6 +1560,9 @@
             "01-net.zapto.org": "INACTIVE",
             "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580154240": {
+            "00689.net": "INACTIVE"
         }
     }
 }
