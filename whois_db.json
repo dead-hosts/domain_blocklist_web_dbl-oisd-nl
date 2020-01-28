@@ -1095,13 +1095,18 @@
         "state": "future"
     },
     "01apple.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1671494400.0,
+        "expiration_date": "20-dec-2022",
         "state": "future"
     },
     "01binarygroup.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "01broker.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "01casinos.com": {
@@ -1125,9 +1130,9 @@
         "state": "future"
     },
     "01crypto.net": {
-        "epoch": 1569369600.0,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "01d.top": {
         "epoch": 1604966400.0,
