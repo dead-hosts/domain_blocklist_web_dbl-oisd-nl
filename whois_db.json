@@ -839,6 +839,11 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "010101.com.tw": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "0101011.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
@@ -847,6 +852,11 @@
     "0101122.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "010402.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "010cs.com": {
@@ -859,9 +869,24 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "010teacher.com": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "010xk.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "010youhua.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "0111.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "01113138.com": {
@@ -869,9 +894,19 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "0111design.info": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "0111tech.info": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "0111xpj.com": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "0111xsj.com": {
@@ -889,6 +924,11 @@
         "expiration_date": "15-jan-2021",
         "state": "future"
     },
+    "011358.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "012.tw": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -899,14 +939,34 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "0123hardcore.com": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "0123kj.com": {
         "epoch": 1633305600.0,
         "expiration_date": "04-oct-2021",
         "state": "future"
     },
+    "0123kjz.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "012432.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "012469af389a1d1246d.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "01289.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "012bbbb.com": {
@@ -929,6 +989,26 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "013088.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "0131.ga": {
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "01388.net": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "013nat.net": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "013sv.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
@@ -937,6 +1017,11 @@
     "01416.com": {
         "epoch": 1622678400.0,
         "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
+    "0143.cn": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "015gf.com": {
