@@ -1162,7 +1162,7 @@
     "01jud3v55z.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "01kao.com": {
         "epoch": 1610928000.0,
@@ -1174,9 +1174,24 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "01l.xyz": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "01lm.com": {
+        "epoch": 1776470400.0,
+        "expiration_date": "18-apr-2026",
+        "state": "future"
+    },
     "01mobile.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "01mspmd5yalky8.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "01poker.fr": {
@@ -1187,6 +1202,11 @@
     "01sexe.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "01tech.hk": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
         "state": "future"
     },
     "01turf.com": {
