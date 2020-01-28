@@ -1214,6 +1214,16 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "01v8-9uvm.com": {
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "01w47q.cn": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "02-z7x68frwq4o3e.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",

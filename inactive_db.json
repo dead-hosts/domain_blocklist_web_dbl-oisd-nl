@@ -1632,6 +1632,13 @@
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
             "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
             "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580238684": {
+            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
+            "02-exch-fra1.ad.corp.appnexus.com": "INACTIVE",
+            "02-exchange.test.corp.appnexus.com": "INACTIVE",
+            "02-fs-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "02-rds-test-nym.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
