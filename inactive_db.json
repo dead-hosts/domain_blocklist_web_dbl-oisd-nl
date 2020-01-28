@@ -1534,9 +1534,6 @@
         "1580154240": {
             "00689.net": "INACTIVE"
         },
-        "1580166839": {
-            "01.liveadvert.com": "INACTIVE"
-        },
         "1580179010": {
             "01.mssheng.com": "INACTIVE"
         },
@@ -1646,6 +1643,10 @@
             "00vub4cznn.centade.com": "INACTIVE",
             "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE",
             "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580254294": {
+            "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE",
+            "01.liveadvert.com": "INACTIVE"
         }
     }
 }
