@@ -1542,11 +1542,7 @@
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
         "1580144242": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         },
         "1580154240": {
             "00689.net": "INACTIVE"
@@ -1629,6 +1625,11 @@
             "00sxsrdfnz.centade.com": "INACTIVE",
             "00uh4dfihr.centade.com": "INACTIVE",
             "00utk19zj5.centade.com": "INACTIVE"
+        },
+        "1580231069": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
