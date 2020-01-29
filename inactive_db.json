@@ -1534,21 +1534,6 @@
         "1580154240": {
             "00689.net": "INACTIVE"
         },
-        "1580235065": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1580235066": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1580235070": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580235076": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
-            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580238684": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exch-fra1.ad.corp.appnexus.com": "INACTIVE",
@@ -1649,6 +1634,19 @@
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580323156": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1580323158": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1580323162": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580323168": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
