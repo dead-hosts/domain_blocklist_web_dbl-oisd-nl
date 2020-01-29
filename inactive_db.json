@@ -1537,11 +1537,6 @@
         "1580238684": {
             "02-rds-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
-        "1580250728": {
-            "00vub4cznn.centade.com": "INACTIVE",
-            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE",
-            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580254294": {
             "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE",
             "01.liveadvert.com": "INACTIVE"
@@ -1649,6 +1644,11 @@
             "01dibqdtu8.centade.com": "INACTIVE",
             "01dknehgqo.centade.com": "INACTIVE",
             "01dwpdp0hj.centade.com": "INACTIVE"
+        },
+        "1580338626": {
+            "00lq3bwdmz.centade.com": "INACTIVE",
+            "00n8tze33l.centade.com": "INACTIVE",
+            "00nyf28cia.centade.com": "INACTIVE"
         }
     }
 }
