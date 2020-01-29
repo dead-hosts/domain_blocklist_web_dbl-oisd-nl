@@ -1534,23 +1534,6 @@
         "1580154240": {
             "00689.net": "INACTIVE"
         },
-        "1580230357": {
-            "00lq3bwdmz.centade.com": "INACTIVE",
-            "00n8tze33l.centade.com": "INACTIVE",
-            "00nyf28cia.centade.com": "INACTIVE",
-            "00qvxp13ic.centade.com": "INACTIVE"
-        },
-        "1580230358": {
-            "00qzkqx6vp.centade.com": "INACTIVE",
-            "00sxsrdfnz.centade.com": "INACTIVE",
-            "00uh4dfihr.centade.com": "INACTIVE",
-            "00utk19zj5.centade.com": "INACTIVE"
-        },
-        "1580231069": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580235065": {
             "0.gvt0.com": "INACTIVE",
             "0.paypopup.com": "INACTIVE"
@@ -1661,6 +1644,11 @@
         "1580316723": {
             "015zavccwm.centade.com": "INACTIVE",
             "016maartlj.centade.com": "INACTIVE"
+        },
+        "1580320049": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
