@@ -1537,11 +1537,6 @@
         "1580238684": {
             "02-rds-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
-        "1580246638": {
-            "01dibqdtu8.centade.com": "INACTIVE",
-            "01dknehgqo.centade.com": "INACTIVE",
-            "01dwpdp0hj.centade.com": "INACTIVE"
-        },
         "1580250728": {
             "00vub4cznn.centade.com": "INACTIVE",
             "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE",
@@ -1648,6 +1643,12 @@
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580334782": {
+            "01ayitlxut.centade.com": "INACTIVE",
+            "01dibqdtu8.centade.com": "INACTIVE",
+            "01dknehgqo.centade.com": "INACTIVE",
+            "01dwpdp0hj.centade.com": "INACTIVE"
         }
     }
 }
