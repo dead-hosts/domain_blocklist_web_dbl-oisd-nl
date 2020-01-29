@@ -1534,17 +1534,6 @@
         "1580154240": {
             "00689.net": "INACTIVE"
         },
-        "1580215473": {
-            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE",
-            "01001.dgn.vn": "INACTIVE"
-        },
-        "1580215476": {
-            "015zavccwm.centade.com": "INACTIVE",
-            "017.moro.tv": "INACTIVE"
-        },
-        "1580215477": {
-            "0190-telefonsex.de.lv": "INACTIVE"
-        },
         "1580219102": {
             "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1665,6 +1654,12 @@
         "1580301198": {
             "015391bdhx62.xyz": "INACTIVE",
             "016daa7a.com-lg81.net": "INACTIVE"
+        },
+        "1580304610": {
+            "017.moro.tv": "INACTIVE"
+        },
+        "1580304611": {
+            "0190-telefonsex.de.lv": "INACTIVE"
         }
     }
 }
