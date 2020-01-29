@@ -1534,10 +1534,6 @@
         "1580154240": {
             "00689.net": "INACTIVE"
         },
-        "1580203500": {
-            "00ji8zy3qn.centade.com": "INACTIVE",
-            "00kddmarqr.centade.com": "INACTIVE"
-        },
         "1580211833": {
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1659,6 +1655,9 @@
         },
         "1580285016": {
             "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580291226": {
+            "01-dc-den2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
