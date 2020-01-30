@@ -1546,9 +1546,6 @@
         "1580298187": {
             "01ottxrerh.centade.com": "INACTIVE"
         },
-        "1580330890": {
-            "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580330897": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
@@ -1633,6 +1630,9 @@
         },
         "1580411104": {
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580417904": {
+            "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
