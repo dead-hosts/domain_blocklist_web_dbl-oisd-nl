@@ -1543,12 +1543,6 @@
         "1580276808": {
             "01kpnh9cw0.centade.com": "INACTIVE"
         },
-        "1580280619": {
-            "002z2q0ezy.centade.com": "INACTIVE"
-        },
-        "1580280621": {
-            "00693goqsa.centade.com": "INACTIVE"
-        },
         "1580285016": {
             "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1650,6 +1644,9 @@
             "00qvxp13ic.centade.com": "INACTIVE",
             "00uh4dfihr.centade.com": "INACTIVE",
             "00utk19zj5.centade.com": "INACTIVE"
+        },
+        "1580369371": {
+            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
