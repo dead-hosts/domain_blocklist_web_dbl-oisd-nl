@@ -1546,17 +1546,9 @@
         "1580298187": {
             "01ottxrerh.centade.com": "INACTIVE"
         },
-        "1580316719": {
-            "01-winadmin-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580316723": {
             "015zavccwm.centade.com": "INACTIVE",
             "016maartlj.centade.com": "INACTIVE"
-        },
-        "1580320049": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
         "1580323156": {
             "0.gvt0.com": "INACTIVE",
@@ -1640,6 +1632,11 @@
         },
         "1580403336": {
             "00sxsrdfnz.centade.com": "INACTIVE"
+        },
+        "1580407405": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
