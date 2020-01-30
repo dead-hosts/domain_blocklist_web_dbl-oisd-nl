@@ -1540,10 +1540,6 @@
         "1580254294": {
             "01.liveadvert.com": "INACTIVE"
         },
-        "1580261949": {
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
-            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580265704": {
             "01-exch-den2.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1651,6 +1647,10 @@
         },
         "1580346265": {
             "00qzkqx6vp.centade.com": "INACTIVE"
+        },
+        "1580350106": {
+            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
+            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
