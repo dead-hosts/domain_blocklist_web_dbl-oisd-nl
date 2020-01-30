@@ -1540,10 +1540,6 @@
         "1580254294": {
             "01.liveadvert.com": "INACTIVE"
         },
-        "1580269245": {
-            "01ef6z6gjd.centade.com": "INACTIVE",
-            "01eiajv1cq.centade.com": "INACTIVE"
-        },
         "1580276803": {
             "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1649,6 +1645,9 @@
         "1580354038": {
             "01-sun-dr-lax.ad.corp.appnexus.com": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
+        },
+        "1580357838": {
+            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
