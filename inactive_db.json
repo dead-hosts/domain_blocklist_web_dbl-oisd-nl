@@ -1551,10 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580425772": {
-            "00lq3bwdmz.centade.com": "INACTIVE",
-            "00nyf28cia.centade.com": "INACTIVE"
-        },
         "1580433562": {
             "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE",
             "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
@@ -1631,6 +1627,10 @@
         },
         "1580510195": {
             "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580514294": {
+            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
