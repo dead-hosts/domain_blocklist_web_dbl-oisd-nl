@@ -1554,11 +1554,6 @@
         "1580401750": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1580407405": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580411093": {
             "0.gvt0.com": "INACTIVE",
             "0.paypopup.com": "INACTIVE"
@@ -1621,6 +1616,12 @@
         },
         "1580490211": {
             "01001.dgn.vn": "INACTIVE"
+        },
+        "1580494403": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
