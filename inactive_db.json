@@ -1551,9 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580357838": {
-            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580361687": {
             "00qvxp13ic.centade.com": "INACTIVE",
             "00uh4dfihr.centade.com": "INACTIVE",
@@ -1625,6 +1622,13 @@
         },
         "1580441317": {
             "01.mssheng.com": "INACTIVE"
+        },
+        "1580445169": {
+            "00ckdjqixs.centade.com": "INACTIVE"
+        },
+        "1580445170": {
+            "00ji8zy3qn.centade.com": "INACTIVE",
+            "00qzkqx6vp.centade.com": "INACTIVE"
         }
     }
 }
