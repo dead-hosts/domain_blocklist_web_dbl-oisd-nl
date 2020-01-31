@@ -1551,9 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580422076": {
-            "00693goqsa.centade.com": "INACTIVE"
-        },
         "1580425772": {
             "00lq3bwdmz.centade.com": "INACTIVE",
             "00nyf28cia.centade.com": "INACTIVE"
@@ -1631,6 +1628,9 @@
         },
         "1580506241": {
             "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580510195": {
+            "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
