@@ -1551,9 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580510195": {
-            "01-prf-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580514294": {
             "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
             "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
@@ -1634,6 +1631,9 @@
         },
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1580601024": {
+            "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }

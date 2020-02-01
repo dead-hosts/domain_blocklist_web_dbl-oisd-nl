@@ -89,6 +89,7 @@ links:
     psl: https://raw.githubusercontent.com/PyFunceble/public-suffix/master/public-suffix.json
     repo: https://github.com/funilrys/PyFunceble
     requirements: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt
+    user_agents: https://raw.githubusercontent.com/PyFunceble/user_agents/master/user_agents.json
 local: false
 logs: true
 maximal_processes: 2
