@@ -1626,6 +1626,10 @@
         },
         "1580545433": {
             "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580564872": {
+            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
+            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         }
     }
 }
