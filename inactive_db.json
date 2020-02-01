@@ -1551,13 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580502075": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1580502077": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1580502090": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
@@ -1631,6 +1624,16 @@
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
             "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
             "01.ibg.bg": "INACTIVE"
+        },
+        "1580592617": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1580592619": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1580592633": {
+            "018hhxamtt.centade.com": "INACTIVE"
         }
     }
 }
