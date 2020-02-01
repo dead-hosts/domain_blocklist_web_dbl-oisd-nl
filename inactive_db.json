@@ -1551,13 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580445169": {
-            "00ckdjqixs.centade.com": "INACTIVE"
-        },
-        "1580445170": {
-            "00ji8zy3qn.centade.com": "INACTIVE",
-            "00qzkqx6vp.centade.com": "INACTIVE"
-        },
         "1580449117": {
             "016maartlj.centade.com": "INACTIVE"
         },
@@ -1632,6 +1625,17 @@
         },
         "1580530149": {
             "01.mssheng.com": "INACTIVE"
+        },
+        "1580534002": {
+            "00ckdjqixs.centade.com": "INACTIVE",
+            "00kddmarqr.centade.com": "INACTIVE",
+            "00nyf28cia.centade.com": "INACTIVE"
+        },
+        "1580534003": {
+            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580534004": {
+            "010qqx7wfe.centade.com": "INACTIVE"
         }
     }
 }
