@@ -1551,21 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580498014": {
-            "002z2q0ezy.centade.com": "INACTIVE"
-        },
-        "1580498015": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580498020": {
-            "00dumagwgv.centade.com": "INACTIVE"
-        },
-        "1580498021": {
-            "00n8tze33l.centade.com": "INACTIVE",
-            "00utk19zj5.centade.com": "INACTIVE",
-            "00vub4cznn.centade.com": "INACTIVE",
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580502075": {
             "0.gvt0.com": "INACTIVE",
             "0.paypopup.com": "INACTIVE"
@@ -1638,6 +1623,14 @@
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580588440": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580588446": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
+            "01.ibg.bg": "INACTIVE"
         }
     }
 }
