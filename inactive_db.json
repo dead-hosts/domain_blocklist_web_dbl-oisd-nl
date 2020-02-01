@@ -1551,12 +1551,6 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580494403": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580498014": {
             "002z2q0ezy.centade.com": "INACTIVE"
         },
@@ -1639,6 +1633,11 @@
         "1580580423": {
             "016maartlj.centade.com": "INACTIVE",
             "017.moro.tv": "INACTIVE"
+        },
+        "1580584518": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
