@@ -1552,11 +1552,7 @@
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
         "1580487234": {
-            "016daa7a.com-lg81.net": "INACTIVE",
             "017.moro.tv": "INACTIVE"
-        },
-        "1580490211": {
-            "01001.dgn.vn": "INACTIVE"
         },
         "1580494403": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
@@ -1636,6 +1632,12 @@
         },
         "1580572170": {
             "00ekxb4yih.centade.com": "INACTIVE"
+        },
+        "1580576826": {
+            "00qvxp13ic.centade.com": "INACTIVE"
+        },
+        "1580576830": {
+            "016daa7a.com-lg81.net": "INACTIVE"
         }
     }
 }
