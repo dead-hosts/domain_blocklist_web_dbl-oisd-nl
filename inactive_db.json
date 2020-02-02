@@ -1551,47 +1551,8 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580514294": {
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
-            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1580522333": {
-            "00lq3bwdmz.centade.com": "INACTIVE",
-            "00sxsrdfnz.centade.com": "INACTIVE",
-            "00uh4dfihr.centade.com": "INACTIVE"
-        },
-        "1580530149": {
-            "01.mssheng.com": "INACTIVE"
-        },
-        "1580534002": {
-            "00ckdjqixs.centade.com": "INACTIVE",
-            "00kddmarqr.centade.com": "INACTIVE",
-            "00nyf28cia.centade.com": "INACTIVE"
-        },
-        "1580534003": {
-            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1580534004": {
-            "010qqx7wfe.centade.com": "INACTIVE"
-        },
-        "1580537912": {
-            "001.bladespoon.cn": "INACTIVE"
-        },
-        "1580545433": {
-            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1580564872": {
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
-            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
-        },
-        "1580568440": {
-            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580568441": {
             "012.2o7.net": "INACTIVE"
-        },
-        "1580572170": {
-            "00ekxb4yih.centade.com": "INACTIVE"
         },
         "1580576826": {
             "00qvxp13ic.centade.com": "INACTIVE"
@@ -1634,6 +1595,9 @@
         },
         "1580601024": {
             "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580661673": {
+            "01.mssheng.com": "INACTIVE"
         }
     }
 }
