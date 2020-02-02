@@ -1558,14 +1558,6 @@
             "016maartlj.centade.com": "INACTIVE",
             "017.moro.tv": "INACTIVE"
         },
-        "1580588440": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580588446": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
-            "01.ibg.bg": "INACTIVE"
-        },
         "1580592617": {
             "0.gvt0.com": "INACTIVE",
             "0.paypopup.com": "INACTIVE"
@@ -1596,6 +1588,21 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
+        },
+        "1580678649": {
+            "002z2q0ezy.centade.com": "INACTIVE"
+        },
+        "1580678650": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580678655": {
+            "00dumagwgv.centade.com": "INACTIVE"
+        },
+        "1580678656": {
+            "00lq3bwdmz.centade.com": "INACTIVE"
+        },
+        "1580678657": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
