@@ -1558,18 +1558,8 @@
             "016maartlj.centade.com": "INACTIVE",
             "017.moro.tv": "INACTIVE"
         },
-        "1580592617": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1580592619": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1580592633": {
             "018hhxamtt.centade.com": "INACTIVE"
-        },
-        "1580596674": {
-            "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
         },
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
@@ -1603,6 +1593,13 @@
         },
         "1580678657": {
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580686110": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1580686112": {
+            "001.vwoool.com": "INACTIVE"
         }
     }
 }
