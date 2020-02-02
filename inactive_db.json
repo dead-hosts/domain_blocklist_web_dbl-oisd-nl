@@ -1558,11 +1558,6 @@
             "016maartlj.centade.com": "INACTIVE",
             "017.moro.tv": "INACTIVE"
         },
-        "1580584518": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580588440": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -1595,6 +1590,12 @@
         },
         "1580664247": {
             "012.2o7.net": "INACTIVE"
+        },
+        "1580672216": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         }
     }
 }
