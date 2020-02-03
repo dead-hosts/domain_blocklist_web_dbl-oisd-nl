@@ -1609,6 +1609,10 @@
         },
         "1580705934": {
             "01-winadmin-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580709754": {
+            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE",
+            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
