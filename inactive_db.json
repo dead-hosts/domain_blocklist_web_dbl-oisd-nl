@@ -1564,12 +1564,6 @@
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1580672216": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
-        },
         "1580678649": {
             "002z2q0ezy.centade.com": "INACTIVE"
         },
@@ -1623,6 +1617,12 @@
         },
         "1580757473": {
             "012.2o7.net": "INACTIVE"
+        },
+        "1580761289": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         }
     }
 }
