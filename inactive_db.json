@@ -1564,21 +1564,6 @@
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1580678649": {
-            "002z2q0ezy.centade.com": "INACTIVE"
-        },
-        "1580678650": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580678655": {
-            "00dumagwgv.centade.com": "INACTIVE"
-        },
-        "1580678656": {
-            "00lq3bwdmz.centade.com": "INACTIVE"
-        },
-        "1580678657": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
         "1580686110": {
             "0.gvt0.com": "INACTIVE",
             "0.paypopup.com": "INACTIVE"
@@ -1623,6 +1608,12 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
+        },
+        "1580765624": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580765631": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
