@@ -1564,9 +1564,6 @@
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1580744676": {
-            "00saejin.codns.com": "INACTIVE"
-        },
         "1580748946": {
             "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1605,6 +1602,12 @@
         "1580825838": {
             "00qvxp13ic.centade.com": "INACTIVE",
             "01-spotapp-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580833777": {
+            "00dumagwgv.centade.com": "INACTIVE"
+        },
+        "1580833779": {
+            "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
