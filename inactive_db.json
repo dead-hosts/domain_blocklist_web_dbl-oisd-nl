@@ -1551,11 +1551,7 @@
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1580576830": {
-            "016daa7a.com-lg81.net": "INACTIVE"
-        },
         "1580580423": {
-            "016maartlj.centade.com": "INACTIVE",
             "017.moro.tv": "INACTIVE"
         },
         "1580592633": {
@@ -1564,14 +1560,8 @@
         "1580596678": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1580757473": {
-            "012.2o7.net": "INACTIVE"
-        },
         "1580761289": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01.bitdefender.nym2.appnexus.com": "INACTIVE"
+            "01-net.zapto.org": "INACTIVE"
         },
         "1580765624": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
@@ -1607,6 +1597,16 @@
         },
         "1580844232": {
             "00kddmarqr.centade.com": "INACTIVE"
+        },
+        "1580848774": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580848776": {
+            "012.2o7.net": "INACTIVE"
+        },
+        "1580848777": {
+            "016daa7a.com-lg81.net": "INACTIVE"
         }
     }
 }
