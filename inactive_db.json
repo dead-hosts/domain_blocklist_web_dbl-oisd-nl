@@ -1563,13 +1563,6 @@
         "1580761289": {
             "01-net.zapto.org": "INACTIVE"
         },
-        "1580774196": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1580774198": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1580813325": {
             "01-exch-den2.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -1607,6 +1600,13 @@
         },
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
+        },
+        "1580865159": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1580865161": {
+            "001.vwoool.com": "INACTIVE"
         }
     }
 }
