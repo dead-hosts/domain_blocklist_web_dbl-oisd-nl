@@ -1557,17 +1557,8 @@
         "1580761289": {
             "01-net.zapto.org": "INACTIVE"
         },
-        "1580848776": {
-            "012.2o7.net": "INACTIVE"
-        },
         "1580848777": {
             "016daa7a.com-lg81.net": "INACTIVE"
-        },
-        "1580852834": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580852840": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         },
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
@@ -1610,6 +1601,15 @@
             "00uh4dfihr.centade.com": "INACTIVE",
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580942222": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1580942229": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1580942230": {
+            "012.2o7.net": "INACTIVE"
         }
     }
 }
