@@ -1560,15 +1560,6 @@
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
-        "1580942222": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1580942229": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1580942230": {
-            "012.2o7.net": "INACTIVE"
-        },
         "1580950495": {
             "016daa7a.com-lg81.net": "INACTIVE"
         },
@@ -1607,6 +1598,15 @@
         "1581025381": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581029588": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1581029594": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581029596": {
+            "012.2o7.net": "INACTIVE"
         }
     }
 }
