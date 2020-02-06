@@ -1599,6 +1599,15 @@
         "1580986818": {
             "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
             "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1580995644": {
+            "000.bbexe.cn": "INACTIVE"
+        },
+        "1580995645": {
+            "001.bbexe.cn": "INACTIVE"
+        },
+        "1580995655": {
+            "01-sun-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
