@@ -1560,10 +1560,6 @@
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
-        "1580986818": {
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE",
-            "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580995644": {
             "000.bbexe.cn": "INACTIVE"
         },
@@ -1620,6 +1616,20 @@
         },
         "1581057976": {
             "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581075125": {
+            "00693goqsa.centade.com": "INACTIVE"
+        },
+        "1581075128": {
+            "00ckdjqixs.centade.com": "INACTIVE",
+            "00ekxb4yih.centade.com": "INACTIVE"
+        },
+        "1581075129": {
+            "00kddmarqr.centade.com": "INACTIVE"
+        },
+        "1581075130": {
+            "00sxsrdfnz.centade.com": "INACTIVE",
+            "00vub4cznn.centade.com": "INACTIVE"
         }
     }
 }
