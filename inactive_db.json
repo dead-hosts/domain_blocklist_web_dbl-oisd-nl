@@ -1545,9 +1545,6 @@
         "1580580423": {
             "017.moro.tv": "INACTIVE"
         },
-        "1580761289": {
-            "01-net.zapto.org": "INACTIVE"
-        },
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
@@ -2107,6 +2104,37 @@
             "0127i.info": "INACTIVE",
             "0127j.info": "INACTIVE",
             "0128b.info": "INACTIVE"
+        },
+        "1581094140": {
+            "01-net.zapto.org": "INACTIVE"
+        },
+        "1581094143": {
+            "0128d.info": "INACTIVE",
+            "0128e.info": "INACTIVE",
+            "0129129.profilephdid.com": "INACTIVE",
+            "0129a.info": "INACTIVE",
+            "0129b.info": "INACTIVE",
+            "0129d.info": "INACTIVE",
+            "0129e.info": "INACTIVE",
+            "0129f.info": "INACTIVE",
+            "0129i.info": "INACTIVE",
+            "0130e.info": "INACTIVE",
+            "0130f.info": "INACTIVE",
+            "0130h.info": "INACTIVE",
+            "0130j.info": "INACTIVE",
+            "0131a.info": "INACTIVE",
+            "0131b.info": "INACTIVE",
+            "0131c.info": "INACTIVE",
+            "0131i.info": "INACTIVE",
+            "0132a.info": "INACTIVE",
+            "0132b.info": "INACTIVE",
+            "0132c.info": "INACTIVE",
+            "0132e.info": "INACTIVE",
+            "0132f.info": "INACTIVE",
+            "0132j.info": "INACTIVE",
+            "0133g.info": "INACTIVE",
+            "0133j.info": "INACTIVE",
+            "013zlofj.work": "INACTIVE"
         }
     }
 }
