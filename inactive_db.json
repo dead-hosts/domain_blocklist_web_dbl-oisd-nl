@@ -1548,9 +1548,6 @@
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
-        "1581025381": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581029588": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2157,6 +2154,10 @@
         },
         "1581112029": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581115781": {
+            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
