@@ -1549,7 +1549,6 @@
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
         "1581025381": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
         "1581029588": {
@@ -2149,6 +2148,15 @@
         },
         "1581105782": {
             "01b.petermedic.ru": "INACTIVE"
+        },
+        "1581112019": {
+            "000ll4q.rcomhost.com": "INACTIVE",
+            "001.ya-man.com": "INACTIVE",
+            "0011010.1.vg": "INACTIVE",
+            "0012918238.hopto.org": "INACTIVE"
+        },
+        "1581112029": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
