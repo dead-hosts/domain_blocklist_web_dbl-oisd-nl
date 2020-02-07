@@ -59,6 +59,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "0-105.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "0-168.com": {
         "epoch": 1815436800.0,
         "expiration_date": "13-jul-2027",
@@ -87,6 +92,11 @@
     "0-casinos.org": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "0-day.us": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "0-days.net": {
@@ -362,7 +372,7 @@
     "002146.cc": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "0024aaaa.com": {
         "epoch": 1584403200.0,
