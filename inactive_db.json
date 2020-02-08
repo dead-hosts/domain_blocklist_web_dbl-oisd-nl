@@ -1548,19 +1548,6 @@
         "1580852841": {
             "01.bitdefender.nym2.appnexus.com": "INACTIVE"
         },
-        "1581043962": {
-            "0.gvt0.com": "INACTIVE",
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1581043964": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1581047391": {
-            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1581047395": {
-            "016daa7a.com-lg81.net": "INACTIVE"
-        },
         "1581050902": {
             "00dumagwgv.centade.com": "INACTIVE"
         },
@@ -2169,6 +2156,16 @@
         },
         "1581130638": {
             "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581134187": {
+            "0.gvt0.com": "INACTIVE",
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1581134189": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1581134202": {
+            "016daa7a.com-lg81.net": "INACTIVE"
         }
     }
 }
