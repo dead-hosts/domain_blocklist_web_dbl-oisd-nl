@@ -1690,15 +1690,6 @@
         "1581105782": {
             "01b.petermedic.ru": "INACTIVE"
         },
-        "1581112019": {
-            "000ll4q.rcomhost.com": "INACTIVE",
-            "001.ya-man.com": "INACTIVE",
-            "0011010.1.vg": "INACTIVE",
-            "0012918238.hopto.org": "INACTIVE"
-        },
-        "1581112029": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581115781": {
             "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
@@ -2193,6 +2184,13 @@
         },
         "1581188608": {
             "01a.doctorjkmrx.ru": "INACTIVE"
+        },
+        "1581200674": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581200675": {
+            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
