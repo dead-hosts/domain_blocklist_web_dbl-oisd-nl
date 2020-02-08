@@ -1690,10 +1690,6 @@
         "1581105782": {
             "01b.petermedic.ru": "INACTIVE"
         },
-        "1581115781": {
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581119588": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2191,6 +2187,9 @@
         },
         "1581200675": {
             "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581204833": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
