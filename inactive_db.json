@@ -1677,49 +1677,15 @@
             "0121a.info": "INACTIVE",
             "0121h.info": "INACTIVE",
             "0122j.info": "INACTIVE",
-            "0123j.info": "INACTIVE",
             "0124b.info": "INACTIVE",
-            "0124e.info": "INACTIVE",
-            "0124e30b.medictejf.ru": "INACTIVE",
-            "0124h.info": "INACTIVE",
-            "0126bf8.anxcmedic.ru": "INACTIVE",
             "0126i.info": "INACTIVE",
-            "0126j.info": "INACTIVE",
-            "0127d.info": "INACTIVE",
-            "0127i.info": "INACTIVE",
-            "0127j.info": "INACTIVE",
             "0128b.info": "INACTIVE"
-        },
-        "1581094140": {
-            "01-net.zapto.org": "INACTIVE"
         },
         "1581094143": {
             "0128d.info": "INACTIVE",
-            "0128e.info": "INACTIVE",
-            "0129129.profilephdid.com": "INACTIVE",
-            "0129a.info": "INACTIVE",
-            "0129b.info": "INACTIVE",
-            "0129d.info": "INACTIVE",
-            "0129e.info": "INACTIVE",
-            "0129f.info": "INACTIVE",
             "0129i.info": "INACTIVE",
-            "0130e.info": "INACTIVE",
-            "0130f.info": "INACTIVE",
-            "0130h.info": "INACTIVE",
-            "0130j.info": "INACTIVE",
-            "0131a.info": "INACTIVE",
             "0131b.info": "INACTIVE",
-            "0131c.info": "INACTIVE",
-            "0131i.info": "INACTIVE",
-            "0132a.info": "INACTIVE",
-            "0132b.info": "INACTIVE",
-            "0132c.info": "INACTIVE",
-            "0132e.info": "INACTIVE",
-            "0132f.info": "INACTIVE",
-            "0132j.info": "INACTIVE",
-            "0133g.info": "INACTIVE",
-            "0133j.info": "INACTIVE",
-            "013zlofj.work": "INACTIVE"
+            "0133g.info": "INACTIVE"
         },
         "1581097064": {
             "016.doctordkfhq.ru": "INACTIVE"
@@ -2189,6 +2155,46 @@
             "0123a.info": "INACTIVE",
             "0123b.info": "INACTIVE",
             "0123g.info": "INACTIVE"
+        },
+        "1581181400": {
+            "01-net.zapto.org": "INACTIVE"
+        },
+        "1581181402": {
+            "0123j.info": "INACTIVE",
+            "0124e.info": "INACTIVE",
+            "0124e30b.medictejf.ru": "INACTIVE",
+            "0124h.info": "INACTIVE",
+            "0126bf8.anxcmedic.ru": "INACTIVE",
+            "0126j.info": "INACTIVE",
+            "0127d.info": "INACTIVE"
+        },
+        "1581181403": {
+            "0127i.info": "INACTIVE",
+            "0127j.info": "INACTIVE",
+            "0128e.info": "INACTIVE",
+            "0129129.profilephdid.com": "INACTIVE",
+            "0129a.info": "INACTIVE",
+            "0129b.info": "INACTIVE",
+            "0129d.info": "INACTIVE",
+            "0129e.info": "INACTIVE",
+            "0129f.info": "INACTIVE",
+            "0130e.info": "INACTIVE",
+            "0130f.info": "INACTIVE",
+            "0130h.info": "INACTIVE",
+            "0130j.info": "INACTIVE",
+            "0131a.info": "INACTIVE",
+            "0131c.info": "INACTIVE",
+            "0131i.info": "INACTIVE",
+            "0132a.info": "INACTIVE",
+            "0132b.info": "INACTIVE",
+            "0132c.info": "INACTIVE",
+            "0132e.info": "INACTIVE",
+            "0132f.info": "INACTIVE",
+            "0132j.info": "INACTIVE",
+            "0133j.info": "INACTIVE"
+        },
+        "1581181404": {
+            "013zlofj.work": "INACTIVE"
         }
     }
 }
