@@ -1775,16 +1775,13 @@
             "01.doctornmjkc.ru": "INACTIVE"
         },
         "1581175025": {
-            "01.oas-techwiki.nym2.appnexus.com": "INACTIVE",
             "01.podcast.nym2.appnexus.com": "INACTIVE",
             "01.sftp-sand.nym2.appnexus.com": "INACTIVE",
             "010.coinhive.com": "INACTIVE",
             "010.doctoryghsj.ru": "INACTIVE"
         },
         "1581175026": {
-            "0103gzcsx8uyagtk4fm.co.ve": "INACTIVE",
             "0103online.info": "INACTIVE",
-            "0104hd5h2ym9ug10ijl.net.ve": "INACTIVE",
             "0104online.info": "INACTIVE",
             "0105group.info": "INACTIVE",
             "0105solutions.info": "INACTIVE",
@@ -1795,20 +1792,13 @@
             "0107group.info": "INACTIVE",
             "0107life.info": "INACTIVE",
             "0108app.info": "INACTIVE",
-            "0108fcvrv73aoi0rh4s.org.ve": "INACTIVE",
             "0108online.info": "INACTIVE",
             "0109design.info": "INACTIVE",
             "0109group.info": "INACTIVE",
             "0109shop.info": "INACTIVE",
             "0109solutions.info": "INACTIVE",
-            "010aezlz7k0wkx617rn.web.ve": "INACTIVE",
-            "010cxtuf59m5tsidm9v.com.ve": "INACTIVE",
-            "010gq5x0kdzw61ed4si.net.ve": "INACTIVE",
             "010ipjzyqeuor.changeip.org": "INACTIVE",
-            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE",
-            "010sadzbg457wp5c7xb.web.ve": "INACTIVE",
             "010tk42xbz31ge32k2e.co.ve": "INACTIVE",
-            "010ywdjwr2v8vl3tuqg.info.ve": "INACTIVE",
             "010ywdjwr2v8vl3tuqg.org.ve": "INACTIVE"
         },
         "1581178576": {
@@ -2225,6 +2215,20 @@
             "01.fleet.nym2.appnexus.com": "INACTIVE",
             "01.jazzhands-db.fra1.appnexus.com": "INACTIVE",
             "01.krbize.sin1.appnexus.com": "INACTIVE"
+        },
+        "1581262996": {
+            "01.oas-techwiki.nym2.appnexus.com": "INACTIVE"
+        },
+        "1581262997": {
+            "0103gzcsx8uyagtk4fm.co.ve": "INACTIVE",
+            "0104hd5h2ym9ug10ijl.net.ve": "INACTIVE",
+            "0108fcvrv73aoi0rh4s.org.ve": "INACTIVE",
+            "010aezlz7k0wkx617rn.web.ve": "INACTIVE",
+            "010cxtuf59m5tsidm9v.com.ve": "INACTIVE",
+            "010gq5x0kdzw61ed4si.net.ve": "INACTIVE",
+            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE",
+            "010sadzbg457wp5c7xb.web.ve": "INACTIVE",
+            "010ywdjwr2v8vl3tuqg.info.ve": "INACTIVE"
         }
     }
 }
