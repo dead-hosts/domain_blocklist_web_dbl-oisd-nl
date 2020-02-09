@@ -1890,13 +1890,6 @@
         "1581188608": {
             "01a.doctorjkmrx.ru": "INACTIVE"
         },
-        "1581200674": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-print-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1581200675": {
-            "01-sql-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581204833": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2247,6 +2240,10 @@
         },
         "1581275520": {
             "01.mssheng.com": "INACTIVE"
+        },
+        "1581287723": {
+            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
