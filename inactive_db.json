@@ -1525,15 +1525,8 @@
         "1580065711": {
             "0.id.ctoid.net": "INACTIVE"
         },
-        "1580238684": {
-            "02-rds-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1580254294": {
             "01.liveadvert.com": "INACTIVE"
-        },
-        "1580330897": {
-            "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
         "1580580423": {
             "017.moro.tv": "INACTIVE"
@@ -2189,6 +2182,9 @@
             "01eiajv1cq.centade.com": "INACTIVE",
             "01kpnh9cw0.centade.com": "INACTIVE",
             "01ottxrerh.centade.com": "INACTIVE"
+        },
+        "1581243523": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
