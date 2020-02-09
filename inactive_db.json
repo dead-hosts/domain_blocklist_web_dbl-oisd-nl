@@ -1531,14 +1531,7 @@
         "1580254294": {
             "01.liveadvert.com": "INACTIVE"
         },
-        "1580276808": {
-            "01kpnh9cw0.centade.com": "INACTIVE"
-        },
-        "1580298187": {
-            "01ottxrerh.centade.com": "INACTIVE"
-        },
         "1580330897": {
-            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exch-nym2.ad.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
@@ -1694,7 +1687,6 @@
             "01e.doctorjfzyc.ru": "INACTIVE"
         },
         "1581127070": {
-            "01fake.bid": "INACTIVE",
             "01go.ch.vu": "INACTIVE"
         },
         "1581148350": {
@@ -2182,6 +2174,15 @@
         },
         "1581228253": {
             "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581231954": {
+            "01fake.bid": "INACTIVE"
+        },
+        "1581231955": {
+            "01q-09.info": "INACTIVE",
+            "01smith.com": "INACTIVE",
+            "02-ads.net": "INACTIVE",
+            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
