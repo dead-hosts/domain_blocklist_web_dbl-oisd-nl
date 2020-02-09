@@ -1890,9 +1890,6 @@
         "1581188608": {
             "01a.doctorjkmrx.ru": "INACTIVE"
         },
-        "1581204833": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581208502": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2244,6 +2241,9 @@
         "1581287723": {
             "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581291859": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
