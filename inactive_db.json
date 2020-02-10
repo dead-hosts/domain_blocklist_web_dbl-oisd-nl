@@ -2252,6 +2252,16 @@
         "1581330272": {
             "02-exchange.test.corp.appnexus.com": "INACTIVE",
             "02-print-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581334029": {
+            "007.0x1f4b0.com": "INACTIVE"
+        },
+        "1581334039": {
+            "01ef6z6gjd.centade.com": "INACTIVE",
+            "01eiajv1cq.centade.com": "INACTIVE"
+        },
+        "1581334040": {
+            "01kpnh9cw0.centade.com": "INACTIVE"
         }
     }
 }
