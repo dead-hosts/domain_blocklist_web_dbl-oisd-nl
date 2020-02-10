@@ -1902,9 +1902,6 @@
         "1581231955": {
             "02-ads.net": "INACTIVE"
         },
-        "1581243523": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581251289": {
             "010qqx7wfe.centade.com": "INACTIVE"
         },
@@ -2251,6 +2248,10 @@
             "01q-09.info": "INACTIVE",
             "01smith.com": "INACTIVE",
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581330272": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE",
+            "02-print-nym2.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
