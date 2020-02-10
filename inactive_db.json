@@ -2035,10 +2035,6 @@
             "019.doctorhorin.ru": "INACTIVE",
             "0190service.de": "INACTIVE"
         },
-        "1581287723": {
-            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581291859": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2285,6 +2281,12 @@
         },
         "1581370681": {
             "02.doctorohosg.ru": "INACTIVE"
+        },
+        "1581374920": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581374923": {
+            "016maartlj.centade.com": "INACTIVE"
         }
     }
 }
