@@ -1896,17 +1896,11 @@
         "1581224322": {
             "0.gvt0.com": "INACTIVE"
         },
-        "1581228253": {
-            "01-spotdb-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581231954": {
             "01fake.bid": "INACTIVE"
         },
         "1581231955": {
-            "01q-09.info": "INACTIVE",
-            "01smith.com": "INACTIVE",
-            "02-ads.net": "INACTIVE",
-            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
+            "02-ads.net": "INACTIVE"
         },
         "1581239649": {
             "01ef6z6gjd.centade.com": "INACTIVE",
@@ -2258,6 +2252,11 @@
         },
         "1581314877": {
             "01tek7iv0r.centade.com": "INACTIVE"
+        },
+        "1581318822": {
+            "01q-09.info": "INACTIVE",
+            "01smith.com": "INACTIVE",
+            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
