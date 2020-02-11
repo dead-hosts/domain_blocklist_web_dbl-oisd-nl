@@ -2170,12 +2170,6 @@
         "1581370681": {
             "02.doctorohosg.ru": "INACTIVE"
         },
-        "1581374920": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1581374923": {
-            "016maartlj.centade.com": "INACTIVE"
-        },
         "1581378965": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2308,6 +2302,9 @@
         },
         "1581460724": {
             "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581464787": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
