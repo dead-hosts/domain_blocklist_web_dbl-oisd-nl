@@ -2038,10 +2038,6 @@
         "1581318822": {
             "01q-09.info": "INACTIVE"
         },
-        "1581330272": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE",
-            "02-print-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581334029": {
             "007.0x1f4b0.com": "INACTIVE"
         },
@@ -2291,6 +2287,9 @@
         },
         "1581413820": {
             "0001-cab8-4c8c-43de.reporo.net": "INACTIVE"
+        },
+        "1581417708": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
