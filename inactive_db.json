@@ -2179,30 +2179,14 @@
         "1581433345": {
             "000012.001.xn--p1acf": "INACTIVE"
         },
-        "1581433346": {
-            "000359.xyz": "INACTIVE"
-        },
         "1581433347": {
             "000host.totaocimall.com": "INACTIVE"
         },
-        "1581433348": {
-            "001gs6b9.com": "INACTIVE"
-        },
         "1581433351": {
-            "0067yc79akr3dftsisb.info.ve": "INACTIVE",
-            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
             "006gskma4m1kcy1bqfl.web.ve": "INACTIVE",
-            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
-            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
-            "006iyzxce9xh7nvzg2s.web.ve": "INACTIVE",
-            "006mosb45huzhgzdzjn.web.ve": "INACTIVE",
-            "006n64qam7jti3gd2jf.web.ve": "INACTIVE",
-            "006uc3djsw4z1e0c0dw.org.ve": "INACTIVE"
+            "006n64qam7jti3gd2jf.web.ve": "INACTIVE"
         },
         "1581433352": {
-            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
-            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE",
             "007heyvu17djaui61aq.web.ve": "INACTIVE",
             "007l13m6bc9r4t822s2.info.ve": "INACTIVE"
         },
@@ -2215,18 +2199,14 @@
             "0086sv7gzg1kviqp8.co.ve": "INACTIVE",
             "00880zw2sqpfz4cah.com.ve": "INACTIVE",
             "008a9a3phjep0wv05.com.ve": "INACTIVE",
-            "008mbimc5564tft40.web.ve": "INACTIVE",
-            "008mq5213i79r13pw.info.ve": "INACTIVE",
             "008s0nfgaqfssfck1.org.ve": "INACTIVE",
             "008tequlskbcu0xrx.co.ve": "INACTIVE"
         },
         "1581433357": {
-            "01.credentials-api.fra1.appnexus.com": "INACTIVE",
-            "01.credentials-api.sin1.appnexus.com": "INACTIVE"
+            "01.credentials-api.fra1.appnexus.com": "INACTIVE"
         },
         "1581433358": {
-            "01.doctorhufnc.ru": "INACTIVE",
-            "01.ur.cmhaoso.top": "INACTIVE"
+            "01.doctorhufnc.ru": "INACTIVE"
         },
         "1581437531": {
             "0090826521.newaidpurchase.ru": "INACTIVE",
@@ -2311,6 +2291,35 @@
         },
         "1581514418": {
             "01kpnh9cw0.centade.com": "INACTIVE"
+        },
+        "1581521872": {
+            "001gs6b9.com": "INACTIVE"
+        },
+        "1581521875": {
+            "0067yc79akr3dftsisb.info.ve": "INACTIVE"
+        },
+        "1581521876": {
+            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
+            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
+            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
+            "006iyzxce9xh7nvzg2s.web.ve": "INACTIVE",
+            "006mosb45huzhgzdzjn.web.ve": "INACTIVE",
+            "006uc3djsw4z1e0c0dw.org.ve": "INACTIVE",
+            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
+            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1581521878": {
+            "008mbimc5564tft40.web.ve": "INACTIVE"
+        },
+        "1581521879": {
+            "008mq5213i79r13pw.info.ve": "INACTIVE"
+        },
+        "1581521881": {
+            "01.credentials-api.sin1.appnexus.com": "INACTIVE"
+        },
+        "1581521882": {
+            "01.ur.cmhaoso.top": "INACTIVE"
         }
     }
 }

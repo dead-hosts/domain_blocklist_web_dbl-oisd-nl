@@ -139,6 +139,11 @@
         "expiration_date": "06-may-2021",
         "state": "future"
     },
+    "000359.xyz": {
+        "epoch": 1831420800.0,
+        "expiration_date": "14-jan-2028",
+        "state": "future"
+    },
     "00043138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
