@@ -2219,9 +2219,6 @@
         "1581440540": {
             "011sr5ebn4hj9tjvycs.web.ve": "INACTIVE"
         },
-        "1581460724": {
-            "01-rds-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581464787": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2324,6 +2321,12 @@
         "1581542110": {
             "01-net.zapto.org": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
+        },
+        "1581549791": {
+            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581549798": {
+            "02-rds-test-nym.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
