@@ -2176,9 +2176,6 @@
         "1581406165": {
             "01smith.com": "INACTIVE"
         },
-        "1581417708": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581433345": {
             "000012.001.xn--p1acf": "INACTIVE"
         },
@@ -2301,6 +2298,9 @@
         },
         "1581495197": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581507128": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
