@@ -2170,9 +2170,6 @@
         "1581370681": {
             "02.doctorohosg.ru": "INACTIVE"
         },
-        "1581378965": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581382853": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2305,6 +2302,9 @@
         },
         "1581464787": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581468792": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
