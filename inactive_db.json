@@ -2219,15 +2219,6 @@
         "1581440540": {
             "011sr5ebn4hj9tjvycs.web.ve": "INACTIVE"
         },
-        "1581472631": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1581472638": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1581472639": {
-            "012.2o7.net": "INACTIVE"
-        },
         "1581476249": {
             "01daa.lubih.com": "INACTIVE",
             "01daa.lutci.com": "INACTIVE",
@@ -2327,6 +2318,15 @@
         },
         "1581557262": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581561118": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1581561124": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581561126": {
+            "012.2o7.net": "INACTIVE"
         }
     }
 }
