@@ -2222,9 +2222,6 @@
         "1581476249": {
             "01daa.lubih.com": "INACTIVE"
         },
-        "1581507128": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581510720": {
             "015zavccwm.centade.com": "INACTIVE"
         },
@@ -2340,6 +2337,9 @@
         "1581587387": {
             "01dibqdtu8.centade.com": "INACTIVE",
             "01ef6z6gjd.centade.com": "INACTIVE"
+        },
+        "1581595330": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
