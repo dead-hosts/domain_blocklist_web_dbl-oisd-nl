@@ -2239,12 +2239,8 @@
         "1581521881": {
             "01.credentials-api.sin1.appnexus.com": "INACTIVE"
         },
-        "1581525735": {
-            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
-        },
         "1581527147": {
-            "010gq5x0kdzw61ed4si.net.ve": "INACTIVE",
-            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+            "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
         "1581530870": {
             "010qqx7wfe.centade.com": "INACTIVE"
@@ -2346,6 +2342,12 @@
         },
         "1581611000": {
             "01kpnh9cw0.centade.com": "INACTIVE"
+        },
+        "1581613798": {
+            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
+        },
+        "1581613801": {
+            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
         }
     }
 }
