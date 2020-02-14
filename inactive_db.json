@@ -2242,9 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581557262": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581561118": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2344,6 +2341,9 @@
         },
         "1581641816": {
             "02-print-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581645569": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
