@@ -2242,9 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581595330": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581599447": {
             "015zavccwm.centade.com": "INACTIVE"
         },
@@ -2334,6 +2331,10 @@
         },
         "1581672455": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581684288": {
+            "02-exch-fra1.ad.corp.appnexus.com": "INACTIVE",
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
