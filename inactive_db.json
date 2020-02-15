@@ -2242,9 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581716223": {
-            "0190-telefonsex.de.lv": "INACTIVE"
-        },
         "1581720114": {
             "01-net.zapto.org": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
@@ -2349,6 +2346,12 @@
         },
         "1581798786": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581802807": {
+            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581802811": {
+            "0190-telefonsex.de.lv": "INACTIVE"
         }
     }
 }
