@@ -2329,6 +2329,23 @@
         "1581791026": {
             "01.ur.cmhaoso.top": "INACTIVE",
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1581794727": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
+            "01.cdnorigin.nym2.appnexus.net": "INACTIVE",
+            "01.credentials-api.den2.appnexus.com": "INACTIVE",
+            "01.gslb.sin1.appnexus.net": "INACTIVE",
+            "01.ips-test.nym2.appnexus.com": "INACTIVE",
+            "01.jamf-dp.sin1.appnexus.com": "INACTIVE",
+            "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
+            "01.site-redirector.nym2.appnexus.com": "INACTIVE"
+        },
+        "1581794732": {
+            "01dibqdtu8.centade.com": "INACTIVE",
+            "01dknehgqo.centade.com": "INACTIVE",
+            "01dwpdp0hj.centade.com": "INACTIVE",
+            "01ef6z6gjd.centade.com": "INACTIVE",
+            "01ottxrerh.centade.com": "INACTIVE"
         }
     }
 }
