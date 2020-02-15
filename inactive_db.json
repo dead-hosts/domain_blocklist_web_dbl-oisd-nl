@@ -2242,13 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581653300": {
-            "01daa.lutci.com": "INACTIVE"
-        },
-        "1581653301": {
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1581664716": {
             "016daa7a.com-lg81.net": "INACTIVE"
         },
@@ -2333,6 +2326,11 @@
         },
         "1581739617": {
             "012.2o7.net": "INACTIVE"
+        },
+        "1581743529": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
