@@ -2242,10 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581774581": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE",
-            "02-print-nym2.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581786108": {
             "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -2355,6 +2351,9 @@
         "1581865223": {
             "01eiajv1cq.centade.com": "INACTIVE",
             "01ibqfew72.centade.com": "INACTIVE"
+        },
+        "1581868840": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
