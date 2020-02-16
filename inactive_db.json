@@ -2251,12 +2251,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1581802807": {
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1581802811": {
-            "0190-telefonsex.de.lv": "INACTIVE"
-        },
         "1581806758": {
             "01.mssheng.com": "INACTIVE"
         },
@@ -2349,6 +2343,9 @@
         },
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581893088": {
+            "0190-telefonsex.de.lv": "INACTIVE"
         }
     }
 }
