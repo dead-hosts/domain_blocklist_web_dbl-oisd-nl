@@ -2242,9 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581786108": {
-            "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1581791019": {
             "0067yc79akr3dftsisb.net.ve": "INACTIVE"
         },
@@ -2348,6 +2345,9 @@
         },
         "1581868840": {
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581873464": {
+            "015zavccwm.centade.com": "INACTIVE"
         }
     }
 }
