@@ -2251,9 +2251,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1581798786": {
-            "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581802807": {
             "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
@@ -2349,6 +2346,9 @@
         },
         "1581885121": {
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1581889033": {
+            "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
