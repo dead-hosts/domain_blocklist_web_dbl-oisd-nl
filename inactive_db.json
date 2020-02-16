@@ -2243,7 +2243,6 @@
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
         "1581794727": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
             "01.cdnorigin.nym2.appnexus.net": "INACTIVE",
             "01.credentials-api.den2.appnexus.com": "INACTIVE",
             "01.gslb.sin1.appnexus.net": "INACTIVE",
@@ -2251,13 +2250,6 @@
             "01.jamf-dp.sin1.appnexus.com": "INACTIVE",
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
-        },
-        "1581794732": {
-            "01dibqdtu8.centade.com": "INACTIVE",
-            "01dknehgqo.centade.com": "INACTIVE",
-            "01dwpdp0hj.centade.com": "INACTIVE",
-            "01ef6z6gjd.centade.com": "INACTIVE",
-            "01ottxrerh.centade.com": "INACTIVE"
         },
         "1581798786": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
@@ -2354,6 +2346,9 @@
         },
         "1581881179": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1581885121": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
