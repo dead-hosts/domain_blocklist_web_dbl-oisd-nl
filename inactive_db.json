@@ -2242,9 +2242,6 @@
         "1581527147": {
             "010gq5x0kdzw61ed4si.net.ve": "INACTIVE"
         },
-        "1581731670": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581735642": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2358,6 +2355,9 @@
         },
         "1581810875": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1581818798": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
