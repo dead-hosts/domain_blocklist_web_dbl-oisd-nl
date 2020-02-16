@@ -1525,9 +1525,6 @@
         "1580065711": {
             "0.id.ctoid.net": "INACTIVE"
         },
-        "1580254294": {
-            "01.liveadvert.com": "INACTIVE"
-        },
         "1580580423": {
             "017.moro.tv": "INACTIVE"
         },
@@ -2251,9 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1581806758": {
-            "01.mssheng.com": "INACTIVE"
-        },
         "1581806764": {
             "01tek7iv0r.centade.com": "INACTIVE",
             "01v2o1nrl4.centade.com": "INACTIVE"
@@ -2346,6 +2340,10 @@
         },
         "1581893088": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1581896907": {
+            "01.liveadvert.com": "INACTIVE",
+            "01.mssheng.com": "INACTIVE"
         }
     }
 }
