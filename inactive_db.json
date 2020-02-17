@@ -2252,11 +2252,6 @@
             "01tek7iv0r.centade.com": "INACTIVE",
             "01v2o1nrl4.centade.com": "INACTIVE"
         },
-        "1581833645": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1581849091": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2350,6 +2345,11 @@
         },
         "1581927690": {
             "016daa7a.com-lg81.net": "INACTIVE"
+        },
+        "1581931408": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
