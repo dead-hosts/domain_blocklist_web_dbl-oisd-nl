@@ -2252,9 +2252,6 @@
             "01tek7iv0r.centade.com": "INACTIVE",
             "01v2o1nrl4.centade.com": "INACTIVE"
         },
-        "1581818798": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581826425": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2344,6 +2341,9 @@
         },
         "1581900807": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1581908445": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
