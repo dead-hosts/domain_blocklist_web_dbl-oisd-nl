@@ -2264,9 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581908445": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581916140": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2347,6 +2344,9 @@
         "1581991828": {
             "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1581995466": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
