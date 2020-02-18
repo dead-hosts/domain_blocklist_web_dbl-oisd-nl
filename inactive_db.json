@@ -2343,6 +2343,10 @@
         },
         "1581987749": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1581991828": {
+            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
+            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
         }
     }
 }
