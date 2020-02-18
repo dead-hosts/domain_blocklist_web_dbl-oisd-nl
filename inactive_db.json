@@ -2255,10 +2255,6 @@
         "1581857464": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581865223": {
-            "01eiajv1cq.centade.com": "INACTIVE",
-            "01ibqfew72.centade.com": "INACTIVE"
-        },
         "1581868840": {
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2267,9 +2263,6 @@
         },
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1581900807": {
-            "01-net.zapto.org": "INACTIVE"
         },
         "1581908445": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
@@ -2347,6 +2340,9 @@
         "1581984004": {
             "01.liveadvert.com": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
+        },
+        "1581987749": {
+            "01-net.zapto.org": "INACTIVE"
         }
     }
 }
