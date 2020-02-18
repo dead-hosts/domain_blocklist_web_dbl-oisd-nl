@@ -2264,12 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581939162": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1581939164": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1581946958": {
             "010qqx7wfe.centade.com": "INACTIVE"
         },
@@ -2341,6 +2335,12 @@
             "01daa.lutci.com": "INACTIVE",
             "01daa.lutgh.com": "INACTIVE",
             "01daa.luzdz.com": "INACTIVE"
+        },
+        "1582027189": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1582027191": {
+            "001.vwoool.com": "INACTIVE"
         }
     }
 }
