@@ -2264,12 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581920017": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1581920023": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
         "1581923885": {
             "000.bbexe.cn": "INACTIVE"
         },
@@ -2347,6 +2341,12 @@
         },
         "1582003181": {
             "014.guangdongjiayue.com": "INACTIVE"
+        },
+        "1582006967": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1582006973": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
