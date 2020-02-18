@@ -2264,11 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581931408": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1581939162": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2341,6 +2336,11 @@
         },
         "1582015289": {
             "016daa7a.com-lg81.net": "INACTIVE"
+        },
+        "1582022488": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
