@@ -2264,13 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581979737": {
-            "0190-telefonsex.de.lv": "INACTIVE"
-        },
-        "1581984004": {
-            "01.liveadvert.com": "INACTIVE",
-            "01.mssheng.com": "INACTIVE"
-        },
         "1581987749": {
             "01-net.zapto.org": "INACTIVE"
         },
@@ -2336,6 +2329,13 @@
         },
         "1582067190": {
             "016maartlj.centade.com": "INACTIVE"
+        },
+        "1582071369": {
+            "01.liveadvert.com": "INACTIVE",
+            "01.mssheng.com": "INACTIVE"
+        },
+        "1582071373": {
+            "0190-telefonsex.de.lv": "INACTIVE"
         }
     }
 }
