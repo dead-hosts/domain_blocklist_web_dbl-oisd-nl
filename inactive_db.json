@@ -2248,17 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582022488": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
-        "1582027189": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1582027191": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1582059183": {
             "0067yc79akr3dftsisb.net.ve": "INACTIVE",
             "006gyr41xnr833a7kul.co.ve": "INACTIVE",
@@ -2335,6 +2324,17 @@
         },
         "1582113840": {
             "01ayitlxut.centade.com": "INACTIVE"
+        },
+        "1582117853": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1582117855": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1582117869": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
