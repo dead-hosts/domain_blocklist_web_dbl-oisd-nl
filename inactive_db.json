@@ -2332,6 +2332,9 @@
             "02-exchange.test.corp.appnexus.com": "INACTIVE",
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE",
             "0214.sitescoutadserver.com": "INACTIVE"
+        },
+        "1582113840": {
+            "01ayitlxut.centade.com": "INACTIVE"
         }
     }
 }
