@@ -2248,24 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582059183": {
-            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
-            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
-            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
-            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
-            "0074n9r48xsj46412a4.info.ve": "INACTIVE"
-        },
-        "1582059184": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1582059186": {
-            "008mq5213i79r13pw.info.ve": "INACTIVE",
-            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
-        },
-        "1582059189": {
-            "01.ur.cmhaoso.top": "INACTIVE",
-            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
-        },
         "1582063058": {
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2335,6 +2317,28 @@
             "01daa.lutci.com": "INACTIVE",
             "01daa.lutgh.com": "INACTIVE",
             "01daa.luzdz.com": "INACTIVE"
+        },
+        "1582147666": {
+            "0067yc79akr3dftsisb.net.ve": "INACTIVE"
+        },
+        "1582147667": {
+            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
+            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
+            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
+            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1582147669": {
+            "008mq5213i79r13pw.info.ve": "INACTIVE"
+        },
+        "1582147670": {
+            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
+        },
+        "1582147672": {
+            "01.ur.cmhaoso.top": "INACTIVE"
+        },
+        "1582147673": {
+            "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
         }
     }
 }
