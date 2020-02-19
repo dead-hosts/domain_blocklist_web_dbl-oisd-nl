@@ -2248,9 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582063058": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582067188": {
             "010qqx7wfe.centade.com": "INACTIVE"
         },
@@ -2339,6 +2336,9 @@
         },
         "1582147673": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1582150979": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
