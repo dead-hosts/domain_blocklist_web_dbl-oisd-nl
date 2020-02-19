@@ -2265,8 +2265,7 @@
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
         "1581991828": {
-            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
-            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
         },
         "1581995466": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
@@ -2336,6 +2335,9 @@
         },
         "1582074948": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1582078640": {
+            "018hhxamtt.centade.com": "INACTIVE"
         }
     }
 }
