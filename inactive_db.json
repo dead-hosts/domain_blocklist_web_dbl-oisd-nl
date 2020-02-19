@@ -2264,9 +2264,6 @@
         "1581889033": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1581987749": {
-            "01-net.zapto.org": "INACTIVE"
-        },
         "1581991828": {
             "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE",
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
@@ -2336,6 +2333,9 @@
         },
         "1582071373": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1582074948": {
+            "01-net.zapto.org": "INACTIVE"
         }
     }
 }
