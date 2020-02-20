@@ -2248,10 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582082737": {
-            "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582090463": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2336,6 +2332,10 @@
         },
         "1582168911": {
             "01-rds-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1582172407": {
+            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
