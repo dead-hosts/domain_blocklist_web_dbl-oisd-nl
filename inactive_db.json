@@ -2248,9 +2248,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582078640": {
-            "018hhxamtt.centade.com": "INACTIVE"
-        },
         "1582082737": {
             "01-dc-fra1.ad.corp.appnexus.com": "INACTIVE",
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
@@ -2333,6 +2330,9 @@
         },
         "1582161812": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1582165380": {
+            "010qqx7wfe.centade.com": "INACTIVE"
         }
     }
 }
