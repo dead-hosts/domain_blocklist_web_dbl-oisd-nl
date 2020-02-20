@@ -2255,8 +2255,6 @@
             "000ooo1010ooo.sitescoutadserver.com": "INACTIVE"
         },
         "1582102093": {
-            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
-            "02-exchange.test.corp.appnexus.com": "INACTIVE",
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE",
             "0214.sitescoutadserver.com": "INACTIVE"
         },
@@ -2347,6 +2345,10 @@
             "01daa.lutgh.com": "INACTIVE",
             "01daa.luzdz.com": "INACTIVE",
             "01dknehgqo.centade.com": "INACTIVE"
+        },
+        "1582229069": {
+            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
