@@ -2248,14 +2248,8 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582090463": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582090464": {
             "012.2o7.net": "INACTIVE"
-        },
-        "1582090466": {
-            "014.guangdongjiayue.com": "INACTIVE"
         },
         "1582094028": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
@@ -2340,6 +2334,12 @@
         "1582175873": {
             "016maartlj.centade.com": "INACTIVE",
             "018hhxamtt.centade.com": "INACTIVE"
+        },
+        "1582179004": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582179007": {
+            "014.guangdongjiayue.com": "INACTIVE"
         }
     }
 }
