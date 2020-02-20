@@ -2255,11 +2255,7 @@
             "000ooo1010ooo.sitescoutadserver.com": "INACTIVE"
         },
         "1582102093": {
-            "02-fs-nym2.test.corp.appnexus.com": "INACTIVE",
             "0214.sitescoutadserver.com": "INACTIVE"
-        },
-        "1582150979": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         },
         "1582158263": {
             "01.liveadvert.com": "INACTIVE",
@@ -2349,6 +2345,12 @@
         },
         "1582236335": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1582239447": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582239454": {
+            "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
