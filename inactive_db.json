@@ -2260,12 +2260,6 @@
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE",
             "0214.sitescoutadserver.com": "INACTIVE"
         },
-        "1582117853": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1582117855": {
-            "001.vwoool.com": "INACTIVE"
-        },
         "1582117869": {
             "01daa.lutci.com": "INACTIVE",
             "01daa.lutgh.com": "INACTIVE",
@@ -2340,6 +2334,18 @@
         },
         "1582196255": {
             "01dibqdtu8.centade.com": "INACTIVE"
+        },
+        "1582206557": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1582206559": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1582206569": {
+            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1582206573": {
+            "01ayitlxut.centade.com": "INACTIVE"
         }
     }
 }
