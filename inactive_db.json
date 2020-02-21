@@ -2257,12 +2257,6 @@
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
-        "1582210010": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE",
-            "01dknehgqo.centade.com": "INACTIVE"
-        },
         "1582229069": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
@@ -2337,6 +2331,11 @@
         },
         "1582295835": {
             "001.vwoool.com": "INACTIVE"
+        },
+        "1582302802": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
