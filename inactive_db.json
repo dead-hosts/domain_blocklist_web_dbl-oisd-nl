@@ -2257,18 +2257,6 @@
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
-        "1582206557": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1582206559": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1582206569": {
-            "01-ion-dr-lax.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1582206573": {
-            "01ayitlxut.centade.com": "INACTIVE"
-        },
         "1582210010": {
             "01daa.lutci.com": "INACTIVE",
             "01daa.lutgh.com": "INACTIVE",
@@ -2343,6 +2331,12 @@
         },
         "1582292364": {
             "01dibqdtu8.centade.com": "INACTIVE"
+        },
+        "1582295833": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1582295835": {
+            "001.vwoool.com": "INACTIVE"
         }
     }
 }
