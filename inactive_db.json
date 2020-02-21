@@ -2257,10 +2257,6 @@
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
-        "1582172407": {
-            "01-exch-den2.ad.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582175873": {
             "016maartlj.centade.com": "INACTIVE",
             "018hhxamtt.centade.com": "INACTIVE"
@@ -2345,6 +2341,9 @@
         },
         "1582249242": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1582262300": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
