@@ -2257,15 +2257,8 @@
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
-        "1582175873": {
-            "016maartlj.centade.com": "INACTIVE",
-            "018hhxamtt.centade.com": "INACTIVE"
-        },
         "1582179004": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1582179007": {
-            "014.guangdongjiayue.com": "INACTIVE"
         },
         "1582182509": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
@@ -2344,6 +2337,9 @@
         },
         "1582262300": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582265750": {
+            "014.guangdongjiayue.com": "INACTIVE"
         }
     }
 }
