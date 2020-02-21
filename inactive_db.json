@@ -2261,9 +2261,6 @@
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582239447": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2348,6 +2345,9 @@
         },
         "1582325929": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1582329489": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
