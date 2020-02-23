@@ -2267,9 +2267,6 @@
         "1582340419": {
             "01ef6z6gjd.centade.com": "INACTIVE"
         },
-        "1582351613": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582355107": {
             "014.guangdongjiayue.com": "INACTIVE"
         },
@@ -2341,6 +2338,9 @@
         },
         "1582426792": {
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1582438737": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
