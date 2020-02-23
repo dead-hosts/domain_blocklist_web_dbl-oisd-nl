@@ -2267,9 +2267,6 @@
         "1582340419": {
             "01ef6z6gjd.centade.com": "INACTIVE"
         },
-        "1582358804": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582362369": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2344,6 +2341,9 @@
         },
         "1582442902": {
             "018hhxamtt.centade.com": "INACTIVE"
+        },
+        "1582447016": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
