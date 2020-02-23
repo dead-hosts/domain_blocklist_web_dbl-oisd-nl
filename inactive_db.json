@@ -2267,9 +2267,6 @@
         "1582340419": {
             "01ef6z6gjd.centade.com": "INACTIVE"
         },
-        "1582355107": {
-            "014.guangdongjiayue.com": "INACTIVE"
-        },
         "1582358804": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2341,6 +2338,12 @@
         },
         "1582438737": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582442901": {
+            "014.guangdongjiayue.com": "INACTIVE"
+        },
+        "1582442902": {
+            "018hhxamtt.centade.com": "INACTIVE"
         }
     }
 }
