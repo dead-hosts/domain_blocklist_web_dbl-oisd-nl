@@ -2264,12 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582340419": {
-            "01ef6z6gjd.centade.com": "INACTIVE"
-        },
-        "1582391474": {
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1582407678": {
             "010qqx7wfe.centade.com": "INACTIVE"
         },
@@ -2348,6 +2342,9 @@
         },
         "1582481798": {
             "01ayitlxut.centade.com": "INACTIVE"
+        },
+        "1582485875": {
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
