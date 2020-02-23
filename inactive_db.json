@@ -2267,13 +2267,7 @@
         "1582340419": {
             "01ef6z6gjd.centade.com": "INACTIVE"
         },
-        "1582390688": {
-            "000lp59.wcomhost.com": "INACTIVE",
-            "000mssi.wcomhost.com": "INACTIVE"
-        },
         "1582391474": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
             "01daa.luzdz.com": "INACTIVE"
         },
         "1582407678": {
@@ -2347,6 +2341,10 @@
         },
         "1582475138": {
             "001.vwoool.com": "INACTIVE"
+        },
+        "1582477935": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE"
         }
     }
 }
