@@ -2264,13 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582477935": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE"
-        },
-        "1582485875": {
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1582502463": {
             "0067yc79akr3dftsisb.net.ve": "INACTIVE"
         },
@@ -2346,6 +2339,11 @@
         },
         "1582564120": {
             "0075-7112-e7eb-f9b9.reporo.net": "INACTIVE"
+        },
+        "1582576873": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
