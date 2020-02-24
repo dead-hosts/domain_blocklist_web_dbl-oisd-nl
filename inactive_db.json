@@ -2264,15 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582451129": {
-            "000.bbexe.cn": "INACTIVE"
-        },
-        "1582451134": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1582451140": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582454918": {
             "016daa7a.com-lg81.net": "INACTIVE"
         },
@@ -2342,6 +2333,12 @@
         },
         "1582535796": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582539713": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1582539720": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
