@@ -2264,9 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582454918": {
-            "016daa7a.com-lg81.net": "INACTIVE"
-        },
         "1582475137": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2339,6 +2336,12 @@
         },
         "1582539720": {
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1582544026": {
+            "016daa7a.com-lg81.net": "INACTIVE"
+        },
+        "1582544027": {
+            "018hhxamtt.centade.com": "INACTIVE"
         }
     }
 }
