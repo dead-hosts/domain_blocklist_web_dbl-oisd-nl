@@ -2264,12 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582519215": {
-            "010qqx7wfe.centade.com": "INACTIVE"
-        },
-        "1582519218": {
-            "015zavccwm.centade.com": "INACTIVE"
-        },
         "1582527590": {
             "01-exchange.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2344,6 +2338,10 @@
         },
         "1582605507": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1582609473": {
+            "015zavccwm.centade.com": "INACTIVE",
+            "016maartlj.centade.com": "INACTIVE"
         }
     }
 }
