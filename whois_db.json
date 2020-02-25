@@ -1184,6 +1184,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "01fen.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "01i.info": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
