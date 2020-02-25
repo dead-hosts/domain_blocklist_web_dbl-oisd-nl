@@ -2264,9 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582527590": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582531823": {
             "014.guangdongjiayue.com": "INACTIVE"
         },
@@ -2345,6 +2342,9 @@
         },
         "1582613620": {
             "010qqx7wfe.centade.com": "INACTIVE"
+        },
+        "1582617432": {
+            "01-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
