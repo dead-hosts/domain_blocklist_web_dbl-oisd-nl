@@ -2264,22 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582544027": {
-            "018hhxamtt.centade.com": "INACTIVE"
-        },
-        "1582564114": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1582564116": {
-            "001.0x1f4b0.com": "INACTIVE",
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1582564119": {
-            "004.0x1f4b0.com": "INACTIVE"
-        },
-        "1582564120": {
-            "0075-7112-e7eb-f9b9.reporo.net": "INACTIVE"
-        },
         "1582576873": {
             "01daa.lutci.com": "INACTIVE",
             "01daa.lutgh.com": "INACTIVE",
@@ -2345,6 +2329,12 @@
         },
         "1582633064": {
             "016daa7a.com-lg81.net": "INACTIVE"
+        },
+        "1582653594": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1582653596": {
+            "001.vwoool.com": "INACTIVE"
         }
     }
 }
