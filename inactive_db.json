@@ -2264,9 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582535796": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582539713": {
             "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         },
@@ -2345,6 +2342,9 @@
         },
         "1582621577": {
             "014.guangdongjiayue.com": "INACTIVE"
+        },
+        "1582625545": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
