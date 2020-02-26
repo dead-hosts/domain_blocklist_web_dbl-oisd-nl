@@ -2264,20 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582593295": {
-            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
-            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
-            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
-            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
-            "0074n9r48xsj46412a4.info.ve": "INACTIVE"
-        },
-        "1582593296": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1582593298": {
-            "008mq5213i79r13pw.info.ve": "INACTIVE",
-            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
-        },
         "1582597423": {
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         },
@@ -2341,6 +2327,20 @@
         },
         "1582678147": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
+        },
+        "1582680727": {
+            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
+            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
+            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
+            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
+            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1582680729": {
+            "008mq5213i79r13pw.info.ve": "INACTIVE"
+        },
+        "1582680730": {
+            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
         }
     }
 }
