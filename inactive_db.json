@@ -2264,9 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582597423": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582601605": {
             "01.liveadvert.com": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
@@ -2341,6 +2338,9 @@
         },
         "1582680730": {
             "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
+        },
+        "1582685869": {
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
