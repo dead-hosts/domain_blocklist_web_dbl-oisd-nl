@@ -2272,40 +2272,8 @@
         "1582670530": {
             "01dibqdtu8.centade.com": "INACTIVE"
         },
-        "1582678146": {
-            "01.ur.cmhaoso.top": "INACTIVE"
-        },
         "1582678147": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
-        },
-        "1582680727": {
-            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
-            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
-            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
-            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
-            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1582680729": {
-            "008mq5213i79r13pw.info.ve": "INACTIVE"
-        },
-        "1582680730": {
-            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
-        },
-        "1582685869": {
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1582688544": {
-            "01.liveadvert.com": "INACTIVE"
-        },
-        "1582688545": {
-            "01.mssheng.com": "INACTIVE"
-        },
-        "1582691036": {
-            "001.bladespoon.cn": "INACTIVE"
-        },
-        "1582693693": {
-            "01-net.zapto.org": "INACTIVE"
         },
         "1582693697": {
             "0190-telefonsex.de.lv": "INACTIVE"
@@ -2318,39 +2286,45 @@
             "01dknehgqo.centade.com": "INACTIVE",
             "01dwpdp0hj.centade.com": "INACTIVE"
         },
-        "1582701410": {
-            "000.0x1f4b0.com": "INACTIVE"
-        },
-        "1582703798": {
-            "01-sun-test-nym.ad.corp.appnexus.com": "INACTIVE"
-        },
-        "1582706630": {
-            "01-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582708965": {
             "014.guangdongjiayue.com": "INACTIVE"
-        },
-        "1582714495": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE"
         },
         "1582714496": {
             "010qqx7wfe.centade.com": "INACTIVE"
         },
-        "1582717014": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1582717021": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE"
-        },
         "1582722157": {
             "016daa7a.com-lg81.net": "INACTIVE"
         },
-        "1582740772": {
-            "0.paypopup.com": "INACTIVE",
-            "000.bbexe.cn": "INACTIVE"
+        "1583099373": {
+            "0.paypopup.com": "INACTIVE"
         },
-        "1582740774": {
+        "1583099375": {
             "001.vwoool.com": "INACTIVE"
+        },
+        "1583099378": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE",
+            "0067yc79akr3dftsisb.net.ve": "INACTIVE"
+        },
+        "1583099379": {
+            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
+            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
+            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
+            "0074n9r48xsj46412a4.info.ve": "INACTIVE",
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1583099382": {
+            "008mq5213i79r13pw.info.ve": "INACTIVE",
+            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
+        },
+        "1583099384": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
+            "01.liveadvert.com": "INACTIVE",
+            "01.mssheng.com": "INACTIVE",
+            "01.ur.cmhaoso.top": "INACTIVE"
         }
     }
 }
