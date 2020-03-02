@@ -2264,11 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1582667800": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1582670530": {
             "01dibqdtu8.centade.com": "INACTIVE"
         },
@@ -2330,6 +2325,11 @@
         },
         "1583168192": {
             "01-sftp-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1583182645": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
