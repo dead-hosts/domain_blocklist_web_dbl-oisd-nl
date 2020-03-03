@@ -1122,7 +1122,7 @@
     "0190-dialer.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "01aj78cz5spx-9n3.com": {
         "epoch": 1599696000.0,
