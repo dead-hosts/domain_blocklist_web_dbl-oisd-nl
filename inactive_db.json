@@ -2264,11 +2264,6 @@
         "1582239454": {
             "02-fs-nym2.test.corp.appnexus.com": "INACTIVE"
         },
-        "1583182645": {
-            "01daa.lutci.com": "INACTIVE",
-            "01daa.lutgh.com": "INACTIVE",
-            "01daa.luzdz.com": "INACTIVE"
-        },
         "1583186988": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2325,6 +2320,11 @@
         },
         "1583254008": {
             "000.bbexe.cn": "INACTIVE"
+        },
+        "1583271044": {
+            "01daa.lutci.com": "INACTIVE",
+            "01daa.lutgh.com": "INACTIVE",
+            "01daa.luzdz.com": "INACTIVE"
         }
     }
 }
