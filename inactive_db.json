@@ -2266,38 +2266,8 @@
         "1583271044": {
             "01daa.lutci.com": "INACTIVE"
         },
-        "1583275257": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1583275259": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1583275262": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
         "1583275263": {
-            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
-            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
-            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
-            "0073i79r13pwuhf3psv.co.ve": "INACTIVE",
-            "0074n9r48xsj46412a4.info.ve": "INACTIVE"
-        },
-        "1583275264": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1583275266": {
-            "008mq5213i79r13pw.info.ve": "INACTIVE",
-            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
-        },
-        "1583275269": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
-            "01.liveadvert.com": "INACTIVE",
-            "01.mssheng.com": "INACTIVE",
-            "01.ur.cmhaoso.top": "INACTIVE"
+            "0073i79r13pwuhf3psv.co.ve": "INACTIVE"
         },
         "1583283936": {
             "01-sun-test-nym.ad.corp.appnexus.com": "INACTIVE"
@@ -2347,6 +2317,40 @@
         },
         "1583359331": {
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1583363803": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1583363805": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1583363808": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1583363809": {
+            "0067yc79akr3dftsisb.net.ve": "INACTIVE",
+            "006gyr41xnr833a7kul.co.ve": "INACTIVE",
+            "006i0v2ilcqedlibsgc.com.ve": "INACTIVE",
+            "0074n9r48xsj46412a4.info.ve": "INACTIVE"
+        },
+        "1583363810": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1583363812": {
+            "008mq5213i79r13pw.info.ve": "INACTIVE",
+            "009qhjsf2e7d6sogua2.web.ve": "INACTIVE"
+        },
+        "1583363814": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1583363815": {
+            "01.liveadvert.com": "INACTIVE",
+            "01.mssheng.com": "INACTIVE",
+            "01.ur.cmhaoso.top": "INACTIVE"
         }
     }
 }
