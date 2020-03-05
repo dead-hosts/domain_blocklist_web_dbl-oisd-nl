@@ -2271,9 +2271,6 @@
             "01ef6z6gjd.centade.com": "INACTIVE",
             "01eiajv1cq.centade.com": "INACTIVE"
         },
-        "1583308811": {
-            "016maartlj.centade.com": "INACTIVE"
-        },
         "1583316782": {
             "01ibqfew72.centade.com": "INACTIVE"
         },
@@ -2336,6 +2333,11 @@
         },
         "1583368121": {
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1583396029": {
+            "015zavccwm.centade.com": "INACTIVE",
+            "016maartlj.centade.com": "INACTIVE",
+            "018hhxamtt.centade.com": "INACTIVE"
         }
     }
 }
