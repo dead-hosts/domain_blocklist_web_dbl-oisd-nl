@@ -2267,15 +2267,10 @@
             "0073i79r13pwuhf3psv.co.ve": "INACTIVE"
         },
         "1583300890": {
-            "01dwpdp0hj.centade.com": "INACTIVE",
-            "01ef6z6gjd.centade.com": "INACTIVE",
             "01eiajv1cq.centade.com": "INACTIVE"
         },
         "1583316782": {
             "01ibqfew72.centade.com": "INACTIVE"
-        },
-        "1583334842": {
-            "01-prf-test-nym.ad.corp.appnexus.com": "INACTIVE"
         },
         "1583342332": {
             "010qqx7wfe.centade.com": "INACTIVE"
@@ -2348,6 +2343,9 @@
         "1583413209": {
             "01-spotweb-nym2.ad.corp.appnexus.com": "INACTIVE",
             "01-sql-test-nym.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1583425829": {
+            "008sjw36.tk": "INACTIVE"
         }
     }
 }
