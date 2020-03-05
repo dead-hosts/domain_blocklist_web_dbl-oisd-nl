@@ -2266,15 +2266,8 @@
         "1583275263": {
             "0073i79r13pwuhf3psv.co.ve": "INACTIVE"
         },
-        "1583316782": {
-            "01ibqfew72.centade.com": "INACTIVE"
-        },
         "1583359329": {
-            "01daa.lutgh.com": "INACTIVE",
             "01daa.luzdz.com": "INACTIVE"
-        },
-        "1583359331": {
-            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
         },
         "1583363803": {
             "0.paypopup.com": "INACTIVE"
@@ -2350,6 +2343,12 @@
         "1583437764": {
             "01dibqdtu8.centade.com": "INACTIVE",
             "01dknehgqo.centade.com": "INACTIVE"
+        },
+        "1583446601": {
+            "01daa.lutgh.com": "INACTIVE"
+        },
+        "1583446602": {
+            "02-dc-lax1.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
