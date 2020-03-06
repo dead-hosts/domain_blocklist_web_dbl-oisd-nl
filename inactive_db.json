@@ -2273,9 +2273,6 @@
         "1583363812": {
             "008mq5213i79r13pw.info.ve": "INACTIVE"
         },
-        "1583368121": {
-            "02-exchange.test.corp.appnexus.com": "INACTIVE"
-        },
         "1583396029": {
             "015zavccwm.centade.com": "INACTIVE",
             "016maartlj.centade.com": "INACTIVE",
@@ -2352,6 +2349,9 @@
         },
         "1583458633": {
             "01-winadmin-nym2.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1583470349": {
+            "02-exchange.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
