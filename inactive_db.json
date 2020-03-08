@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
-        "1574539591": {
-            "015144.glycyl.pw": "INACTIVE"
-        },
         "1574539592": {
             "037201.glycyl.pw": "INACTIVE"
         },
@@ -2248,9 +2245,6 @@
             "01.ratbait.prod.nym2.adnexus.net": "INACTIVE",
             "01.site-redirector.nym2.appnexus.com": "INACTIVE"
         },
-        "1582090464": {
-            "012.2o7.net": "INACTIVE"
-        },
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
@@ -2434,6 +2428,60 @@
             "01048.web-option-binary.com": "INACTIVE",
             "010638.xyz": "INACTIVE",
             "01065.web-option-binary.com": "INACTIVE"
+        },
+        "1583691521": {
+            "0110.live": "INACTIVE",
+            "01112.web-option-binary.com": "INACTIVE",
+            "01123.web-option-binary.com": "INACTIVE",
+            "01158.web-option-binary.com": "INACTIVE",
+            "01181.web-option-binary.com": "INACTIVE",
+            "012.2o7.net": "INACTIVE",
+            "0121-call-tech-support.online": "INACTIVE",
+            "012171.xyz": "INACTIVE"
+        },
+        "1583691522": {
+            "01246.web-option-binary.com": "INACTIVE",
+            "0126bf8.com-fr26.net": "INACTIVE",
+            "0126bf8.com-mr27.net": "INACTIVE",
+            "0128-call-tech-support.online": "INACTIVE",
+            "013031.xyz": "INACTIVE",
+            "013051.xyz": "INACTIVE"
+        },
+        "1583691523": {
+            "01311.web-option-binary.com": "INACTIVE",
+            "01312.web-option-binary.com": "INACTIVE",
+            "01327.web-option-binary.com": "INACTIVE",
+            "01469.web-option-binary.com": "INACTIVE",
+            "01491.web-option-binary.com": "INACTIVE",
+            "01506.web-option-binary.com": "INACTIVE",
+            "015144.glycyl.pw": "INACTIVE",
+            "01534.web-option-binary.com": "INACTIVE",
+            "01540.web-option-binary.com": "INACTIVE",
+            "01559.web-option-binary.com": "INACTIVE",
+            "0155ddb8.com-tl4.net": "INACTIVE",
+            "015706.xyz": "INACTIVE",
+            "01572.web-option-binary.com": "INACTIVE",
+            "01598.web-option-binary.com": "INACTIVE",
+            "016225.xyz": "INACTIVE",
+            "016513.xyz": "INACTIVE",
+            "016582.xyz": "INACTIVE",
+            "016596.xyz": "INACTIVE",
+            "016960.xyz": "INACTIVE",
+            "01717.web-option-binary.com": "INACTIVE",
+            "017626.xyz": "INACTIVE",
+            "01774.web-option-binary.com": "INACTIVE"
+        },
+        "1583691524": {
+            "01781.web-option-binary.com": "INACTIVE",
+            "01786988943984.review": "INACTIVE",
+            "018322.xyz": "INACTIVE",
+            "01839.web-option-binary.com": "INACTIVE",
+            "018521.xyz": "INACTIVE",
+            "018595.xyz": "INACTIVE",
+            "018978.xyz": "INACTIVE",
+            "01920983840910290390910991.win": "INACTIVE",
+            "01947.web-option-binary.com": "INACTIVE",
+            "0195bd3.com-vh47.net": "INACTIVE"
         }
     }
 }

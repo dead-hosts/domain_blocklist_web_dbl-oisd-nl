@@ -484,6 +484,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "005233.xyz": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "00528.com": {
         "epoch": 1696550400.0,
         "expiration_date": "06-oct-2023",
@@ -587,6 +592,11 @@
     "0075b.com": {
         "epoch": 1620777600.0,
         "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "007611.xyz": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "0077524.com": {
@@ -1009,6 +1019,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "0120480514.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "01233138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -1132,6 +1147,11 @@
     "017799.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "017855.xyz": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "017e689c749.com": {
