@@ -2251,9 +2251,6 @@
         "1582090464": {
             "012.2o7.net": "INACTIVE"
         },
-        "1582102089": {
-            "000ooo1010ooo.sitescoutadserver.com": "INACTIVE"
-        },
         "1582102093": {
             "0214.sitescoutadserver.com": "INACTIVE"
         },
@@ -2357,6 +2354,86 @@
         },
         "1583686242": {
             "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
+        },
+        "1583687820": {
+            "00000.support": "INACTIVE",
+            "0000000000-windows-block-notification.online": "INACTIVE",
+            "00001alertx.info": "INACTIVE",
+            "00002alertx.info": "INACTIVE",
+            "00002alertz.info": "INACTIVE"
+        },
+        "1583687821": {
+            "0004alertx.info": "INACTIVE",
+            "00068.web-option-binary.com": "INACTIVE",
+            "00080.web-option-binary.com": "INACTIVE",
+            "00086.web-option-binary.com": "INACTIVE",
+            "000antispyware000.com": "INACTIVE"
+        },
+        "1583687822": {
+            "000ooo1010ooo.sitescoutadserver.com": "INACTIVE",
+            "000spyware000.com": "INACTIVE",
+            "000support000.com": "INACTIVE",
+            "000windows000.com": "INACTIVE",
+            "000xxx000errorhard-drive.info": "INACTIVE",
+            "000xxx000errorhard-drive.online": "INACTIVE",
+            "000xxx000errorhard-drive.xyz": "INACTIVE",
+            "001.bladespoon.cn": "INACTIVE",
+            "00141.web-option-binary.com": "INACTIVE"
+        },
+        "1583687823": {
+            "0019209939400009901100.win": "INACTIVE",
+            "001alertfound.info": "INACTIVE"
+        },
+        "1583687824": {
+            "00228.web-option-binary.com": "INACTIVE",
+            "003-pc.ru": "INACTIVE"
+        },
+        "1583687825": {
+            "00323.web-option-binary.com": "INACTIVE",
+            "00368.web-option-binary.com": "INACTIVE",
+            "005068.xyz": "INACTIVE"
+        },
+        "1583687826": {
+            "005197.xyz": "INACTIVE",
+            "006115.xyz": "INACTIVE",
+            "006378.xyz": "INACTIVE",
+            "006398.xyz": "INACTIVE",
+            "00661.web-option-binary.com": "INACTIVE",
+            "00671.web-option-binary.com": "INACTIVE"
+        },
+        "1583687827": {
+            "007-sec-fix-error-risk-404.online": "INACTIVE",
+            "00703.web-option-binary.com": "INACTIVE",
+            "007229.xyz": "INACTIVE",
+            "00753.web-option-binary.com": "INACTIVE",
+            "007dealsacheter.com": "INACTIVE"
+        },
+        "1583687828": {
+            "007drones.de": "INACTIVE"
+        },
+        "1583687829": {
+            "00880.web-option-binary.com": "INACTIVE"
+        },
+        "1583687830": {
+            "0092920err0r-trts100100bw10.win": "INACTIVE",
+            "009391.xyz": "INACTIVE",
+            "00980.web-option-binary.com": "INACTIVE",
+            "00antispyware00.com": "INACTIVE"
+        },
+        "1583687831": {
+            "00error404.xyz": "INACTIVE",
+            "00h1windows.com": "INACTIVE"
+        },
+        "1583687832": {
+            "00support00.com": "INACTIVE",
+            "00windows00.com": "INACTIVE",
+            "00xxs30-virus-found.info": "INACTIVE"
+        },
+        "1583687833": {
+            "01003.web-option-binary.com": "INACTIVE",
+            "01048.web-option-binary.com": "INACTIVE",
+            "010638.xyz": "INACTIVE",
+            "01065.web-option-binary.com": "INACTIVE"
         }
     }
 }

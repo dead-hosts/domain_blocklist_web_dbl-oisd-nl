@@ -5,7 +5,7 @@
         "state": "future"
     },
     "0-0-----------------------------------------------------------0.com": {
-        "epoch": 1599609600,
+        "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
@@ -105,8 +105,8 @@
         "state": "future"
     },
     "0-google.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "00-lawyer.com": {
@@ -120,8 +120,13 @@
         "state": "future"
     },
     "0000.support": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "00000000080000000000000008000000000000000.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "00000onlinecasino.com": {
@@ -409,6 +414,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "003.ua": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "003112.cn": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
@@ -559,6 +569,11 @@
         "expiration_date": "08-sep-2022",
         "state": "future"
     },
+    "007-dvd.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "0073138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -617,6 +632,11 @@
     "007sportsbetting.com": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
+    "007v.ru": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "007webpro.com": {
@@ -749,6 +769,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "00ddns-urlonmicrosoft-net.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "00f31156f051fdf.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
@@ -842,6 +867,11 @@
     "00sexxx.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "00spyware00.com": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "00v.xyz": {
