@@ -2497,6 +2497,9 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1583745314": {
+            "01ayitlxut.centade.com": "INACTIVE"
         }
     }
 }
