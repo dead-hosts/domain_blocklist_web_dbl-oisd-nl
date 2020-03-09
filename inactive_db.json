@@ -2298,25 +2298,6 @@
         "1583499346": {
             "010r5bk6z09mtvj6ats.co.ve": "INACTIVE"
         },
-        "1583632670": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1583632672": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1583632675": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1583632676": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1583632681": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1583666138": {
             "000-xxx.tumblr.com": "INACTIVE"
         },
@@ -2497,6 +2478,25 @@
         },
         "1583714653": {
             "018hhxamtt.centade.com": "INACTIVE"
+        },
+        "1583722319": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1583722321": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1583722324": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1583722326": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1583722331": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
