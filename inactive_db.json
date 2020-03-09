@@ -2313,9 +2313,6 @@
         "1583666150": {
             "010100110100010101010011.tumblr.com": "INACTIVE"
         },
-        "1583686242": {
-            "01-sun-dev-nym1.ad.corp.appnexus.com": "INACTIVE"
-        },
         "1583687820": {
             "00000.support": "INACTIVE",
             "0000000000-windows-block-notification.online": "INACTIVE",
@@ -2389,12 +2386,6 @@
             "00support00.com": "INACTIVE",
             "00windows00.com": "INACTIVE",
             "00xxs30-virus-found.info": "INACTIVE"
-        },
-        "1583687833": {
-            "01003.web-option-binary.com": "INACTIVE",
-            "01048.web-option-binary.com": "INACTIVE",
-            "010638.xyz": "INACTIVE",
-            "01065.web-option-binary.com": "INACTIVE"
         },
         "1583691521": {
             "0110.live": "INACTIVE",
@@ -2496,6 +2487,14 @@
         },
         "1583757019": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1583774500": {
+            "01003.web-option-binary.com": "INACTIVE"
+        },
+        "1583774501": {
+            "01048.web-option-binary.com": "INACTIVE",
+            "010638.xyz": "INACTIVE",
+            "01065.web-option-binary.com": "INACTIVE"
         }
     }
 }
