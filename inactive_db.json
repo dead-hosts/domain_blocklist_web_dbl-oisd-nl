@@ -2426,21 +2426,14 @@
         },
         "1583868618": {
             "00000.support": "INACTIVE",
-            "0000000000-windows-block-notification.online": "INACTIVE",
-            "00001alertx.info": "INACTIVE",
             "00002alertx.info": "INACTIVE",
-            "00002alertz.info": "INACTIVE",
             "00068.web-option-binary.com": "INACTIVE"
         },
         "1583868619": {
-            "000antispyware000.com": "INACTIVE",
-            "000ooo1010ooo.sitescoutadserver.com": "INACTIVE",
-            "000spyware000.com": "INACTIVE",
-            "000support000.com": "INACTIVE"
+            "000spyware000.com": "INACTIVE"
         },
         "1583868620": {
             "000xxx000errorhard-drive.online": "INACTIVE",
-            "00141.web-option-binary.com": "INACTIVE",
             "0019209939400009901100.win": "INACTIVE"
         },
         "1583868623": {
@@ -2458,37 +2451,21 @@
             "0092920err0r-trts100100bw10.win": "INACTIVE",
             "00980.web-option-binary.com": "INACTIVE"
         },
-        "1583868629": {
-            "00support00.com": "INACTIVE"
-        },
-        "1583868630": {
-            "00windows00.com": "INACTIVE"
-        },
         "1583868631": {
             "01123.web-option-binary.com": "INACTIVE",
-            "01158.web-option-binary.com": "INACTIVE",
-            "01181.web-option-binary.com": "INACTIVE"
+            "01158.web-option-binary.com": "INACTIVE"
         },
         "1583868632": {
-            "012.2o7.net": "INACTIVE",
-            "012171.xyz": "INACTIVE",
             "0126bf8.com-fr26.net": "INACTIVE",
-            "0126bf8.com-mr27.net": "INACTIVE",
             "0128-call-tech-support.online": "INACTIVE"
         },
         "1583868633": {
-            "013031.xyz": "INACTIVE",
             "01311.web-option-binary.com": "INACTIVE",
             "01312.web-option-binary.com": "INACTIVE",
-            "01327.web-option-binary.com": "INACTIVE",
             "015144.glycyl.pw": "INACTIVE",
             "01534.web-option-binary.com": "INACTIVE",
             "015706.xyz": "INACTIVE",
             "01572.web-option-binary.com": "INACTIVE"
-        },
-        "1583868634": {
-            "01717.web-option-binary.com": "INACTIVE",
-            "01774.web-option-binary.com": "INACTIVE"
         },
         "1583872597": {
             "018hhxamtt.centade.com": "INACTIVE"
@@ -2545,6 +2522,37 @@
         },
         "1583954716": {
             "0190-telefonsex.de.lv": "INACTIVE"
+        },
+        "1583958536": {
+            "0000000000-windows-block-notification.online": "INACTIVE",
+            "00001alertx.info": "INACTIVE",
+            "00002alertz.info": "INACTIVE"
+        },
+        "1583958537": {
+            "000antispyware000.com": "INACTIVE",
+            "000ooo1010ooo.sitescoutadserver.com": "INACTIVE",
+            "000support000.com": "INACTIVE"
+        },
+        "1583958538": {
+            "00141.web-option-binary.com": "INACTIVE"
+        },
+        "1583958547": {
+            "00support00.com": "INACTIVE",
+            "00windows00.com": "INACTIVE"
+        },
+        "1583958549": {
+            "01181.web-option-binary.com": "INACTIVE",
+            "012.2o7.net": "INACTIVE",
+            "012171.xyz": "INACTIVE"
+        },
+        "1583958550": {
+            "0126bf8.com-mr27.net": "INACTIVE",
+            "013031.xyz": "INACTIVE",
+            "01327.web-option-binary.com": "INACTIVE"
+        },
+        "1583958551": {
+            "01717.web-option-binary.com": "INACTIVE",
+            "01774.web-option-binary.com": "INACTIVE"
         }
     }
 }
