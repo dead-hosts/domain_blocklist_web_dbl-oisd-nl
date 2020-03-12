@@ -2471,15 +2471,6 @@
             "01920983840910290390910991.win": "INACTIVE",
             "0195bd3.com-vh47.net": "INACTIVE"
         },
-        "1583903872": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1583903874": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1583903877": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
         "1583919543": {
             "015zavccwm.centade.com": "INACTIVE"
         },
@@ -2552,6 +2543,15 @@
         "1583989671": {
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1583993673": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1583993675": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1583993678": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         }
     }
 }
