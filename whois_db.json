@@ -334,6 +334,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "001print.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "001shop.cz": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
@@ -402,6 +407,11 @@
     "0028.cc": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "002it.com": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "002le.com": {
@@ -577,6 +587,11 @@
     "007-dvd.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "00711.cn": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "0073138.com": {
