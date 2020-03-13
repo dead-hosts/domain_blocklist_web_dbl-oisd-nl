@@ -2498,15 +2498,6 @@
         "1583958551": {
             "01774.web-option-binary.com": "INACTIVE"
         },
-        "1583993673": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1583993675": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1583993678": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
         "1584017426": {
             "01.mssheng.com": "INACTIVE"
         },
@@ -2556,6 +2547,15 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1584083561": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1584083563": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1584083567": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
         }
     }
 }
