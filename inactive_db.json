@@ -2498,18 +2498,6 @@
         "1583958551": {
             "01774.web-option-binary.com": "INACTIVE"
         },
-        "1583989665": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1583989670": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE"
-        },
-        "1583989671": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1583993673": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2558,6 +2546,16 @@
         },
         "1584059595": {
             "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
+        },
+        "1584079688": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1584079693": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
