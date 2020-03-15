@@ -2558,6 +2558,10 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1584269741": {
+            "00paypal.online": "INACTIVE",
+            "00paypal.site": "INACTIVE"
         }
     }
 }
