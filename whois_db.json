@@ -214,6 +214,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "000asmr.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "000cc.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -349,6 +354,11 @@
         "expiration_date": "08-oct-2021",
         "state": "future"
     },
+    "001sucai.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
     "001union.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
@@ -392,7 +402,7 @@
     "0024aaaa.com": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0026645142c89aeb1.com": {
         "epoch": 1590105600.0,
