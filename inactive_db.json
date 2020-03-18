@@ -2514,15 +2514,9 @@
             "00paypal.online": "INACTIVE",
             "00paypal.site": "INACTIVE"
         },
-        "1584393587": {
-            "018hhxamtt.centade.com": "INACTIVE"
-        },
         "1584397198": {
             "0190-telefonsex.de.lv": "INACTIVE",
             "01ayitlxut.centade.com": "INACTIVE"
-        },
-        "1584413169": {
-            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         },
         "1584434985": {
             "0.paypopup.com": "INACTIVE"
@@ -2565,6 +2559,9 @@
         },
         "1584498665": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1584502304": {
+            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         }
     }
 }
