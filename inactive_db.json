@@ -2554,6 +2554,12 @@
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
             "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
+        },
+        "1584811424": {
+            "010qqx7wfe.centade.com": "INACTIVE"
+        },
+        "1584811427": {
+            "015zavccwm.centade.com": "INACTIVE"
         }
     }
 }
