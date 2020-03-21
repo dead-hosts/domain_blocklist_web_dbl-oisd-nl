@@ -2514,33 +2514,8 @@
             "00paypal.online": "INACTIVE",
             "00paypal.site": "INACTIVE"
         },
-        "1584678644": {
-            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
-        },
         "1584682359": {
             "016maartlj.centade.com": "INACTIVE"
-        },
-        "1584690098": {
-            "00saejin.codns.com": "INACTIVE"
-        },
-        "1584705869": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1584705871": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1584705874": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1584705876": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1584705881": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         },
         "1584725121": {
             "001.ya-man.com": "INACTIVE"
@@ -2562,6 +2537,26 @@
         },
         "1584763343": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1584794770": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1584794773": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1584794776": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1584794778": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1584794783": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
+            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         }
     }
 }
