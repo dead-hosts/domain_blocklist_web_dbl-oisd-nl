@@ -2567,6 +2567,9 @@
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
             "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
+        },
+        "1584897343": {
+            "000.bbexe.cn": "INACTIVE"
         }
     }
 }
