@@ -2534,8 +2534,7 @@
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
-            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         },
         "1584897343": {
             "000.bbexe.cn": "INACTIVE"
@@ -2560,6 +2559,9 @@
         },
         "1584947233": {
             "016maartlj.centade.com": "INACTIVE"
+        },
+        "1584971487": {
+            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         }
     }
 }
