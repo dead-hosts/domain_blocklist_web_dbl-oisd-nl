@@ -2514,9 +2514,6 @@
             "00paypal.online": "INACTIVE",
             "00paypal.site": "INACTIVE"
         },
-        "1585059529": {
-            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
-        },
         "1585063455": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2553,6 +2550,9 @@
         },
         "1585119977": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1585148925": {
+            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         }
     }
 }
