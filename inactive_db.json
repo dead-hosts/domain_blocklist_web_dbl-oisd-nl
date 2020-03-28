@@ -2514,9 +2514,6 @@
             "00paypal.online": "INACTIVE",
             "00paypal.site": "INACTIVE"
         },
-        "1585326710": {
-            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
-        },
         "1585330219": {
             "0.paypopup.com": "INACTIVE",
             "0001-jesli-bedac-nastolatkiem-nie-ruchales-malych-dziewczynek.fun": "INACTIVE"
@@ -2557,6 +2554,9 @@
         },
         "1585384041": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1585416689": {
+            "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         }
     }
 }
