@@ -2559,6 +2559,9 @@
             "01-net.zapto.org": "INACTIVE",
             "01-winserv.test.corp.appnexus.com": "INACTIVE",
             "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
+        },
+        "1585424725": {
+            "01.gxso.net": "INACTIVE"
         }
     }
 }
