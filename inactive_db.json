@@ -2520,28 +2520,6 @@
         "1585330220": {
             "0002-i-nastolatek-to-przegrales-zycie-i-to-z-kretesem.fun": "INACTIVE"
         },
-        "1585420845": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1585420847": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1585420850": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1585420852": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1585420857": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1585424725": {
-            "01.gxso.net": "INACTIVE"
-        },
         "1585436971": {
             "01.mssheng.com": "INACTIVE"
         },
@@ -2562,6 +2540,25 @@
         },
         "1585503647": {
             "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
+        },
+        "1585511588": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1585511590": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1585511594": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1585511595": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1585511600": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
