@@ -2523,25 +2523,6 @@
         "1585593763": {
             "01.vidyo-p.nyc2.appnexus.com": "INACTIVE"
         },
-        "1585601702": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1585601704": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1585601707": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1585601709": {
-            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
-        },
-        "1585601714": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1585615229": {
             "01.mssheng.com": "INACTIVE"
         },
@@ -2559,6 +2540,25 @@
         },
         "1585647340": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1585691212": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1585691214": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1585691218": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1585691219": {
+            "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
+        },
+        "1585691224": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
