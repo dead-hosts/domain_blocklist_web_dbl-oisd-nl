@@ -2526,13 +2526,6 @@
         "1585691219": {
             "0076ro7b8kxj5n2f70z.info.ve": "INACTIVE"
         },
-        "1585956227": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE",
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
         "1585959645": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2559,6 +2552,13 @@
         },
         "1586000997": {
             "01.liveadvert.com": "INACTIVE"
+        },
+        "1586045008": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE",
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
         }
     }
 }
