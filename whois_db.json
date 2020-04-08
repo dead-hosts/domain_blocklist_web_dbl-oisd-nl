@@ -375,8 +375,8 @@
         "state": "future"
     },
     "001wen.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "001y.com": {
@@ -782,6 +782,11 @@
     "00ae8b5a9c1d597.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "00amazon-secure.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "00author.com": {
