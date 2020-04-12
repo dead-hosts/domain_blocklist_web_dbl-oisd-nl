@@ -2529,15 +2529,6 @@
         "1586552608": {
             "0190-telefonsex.de.lv": "INACTIVE"
         },
-        "1586631418": {
-            "01-winserv.test.corp.appnexus.com": "INACTIVE",
-            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE"
-        },
-        "1586631419": {
-            "01.liveadvert.com": "INACTIVE",
-            "01.losbuhosweb.com.mx": "INACTIVE",
-            "01.mssheng.com": "INACTIVE"
-        },
         "1586636183": {
             "0.paypopup.com": "INACTIVE"
         },
@@ -2560,6 +2551,14 @@
         },
         "1586714197": {
             "012.2o7.net": "INACTIVE"
+        },
+        "1586718640": {
+            "01-winserv.test.corp.appnexus.com": "INACTIVE",
+            "01-wsus-nym2.test.corp.appnexus.com": "INACTIVE",
+            "01.kubereality.lax1.appnexus.net": "INACTIVE",
+            "01.liveadvert.com": "INACTIVE",
+            "01.losbuhosweb.com.mx": "INACTIVE",
+            "01.mssheng.com": "INACTIVE"
         }
     }
 }
