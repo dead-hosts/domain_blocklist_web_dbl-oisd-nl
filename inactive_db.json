@@ -2561,6 +2561,9 @@
             "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
             "01-exchange.test.corp.appnexus.com": "INACTIVE",
             "01-net.zapto.org": "INACTIVE"
+        },
+        "1587150482": {
+            "01.jazzhands-api.nym2.appnexus.net": "INACTIVE"
         }
     }
 }
