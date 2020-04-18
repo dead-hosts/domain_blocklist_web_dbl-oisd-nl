@@ -2531,20 +2531,6 @@
             "02-dc-lax1.test.corp.appnexus.com": "INACTIVE",
             "02-exchange.test.corp.appnexus.com": "INACTIVE"
         },
-        "1587082559": {
-            "0.paypopup.com": "INACTIVE"
-        },
-        "1587082561": {
-            "001.vwoool.com": "INACTIVE"
-        },
-        "1587082564": {
-            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
-        },
-        "1587082571": {
-            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
-            "01-exchange.test.corp.appnexus.com": "INACTIVE",
-            "01-net.zapto.org": "INACTIVE"
-        },
         "1587150482": {
             "01.jazzhands-api.nym2.appnexus.net": "INACTIVE"
         },
@@ -2563,6 +2549,20 @@
             "01.liveadvert.com": "INACTIVE",
             "01.losbuhosweb.com.mx": "INACTIVE",
             "01.mssheng.com": "INACTIVE"
+        },
+        "1587173625": {
+            "0.paypopup.com": "INACTIVE"
+        },
+        "1587173627": {
+            "001.vwoool.com": "INACTIVE"
+        },
+        "1587173630": {
+            "004b0bdd1.c11.ixsecure.com": "INACTIVE"
+        },
+        "1587173637": {
+            "01-dc-nym1.test.corp.appnexus.com": "INACTIVE",
+            "01-exchange.test.corp.appnexus.com": "INACTIVE",
+            "01-net.zapto.org": "INACTIVE"
         }
     }
 }
