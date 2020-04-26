@@ -1229,6 +1229,21 @@
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
+    "01982019.com": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "0199938.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "0199968.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "01aj78cz5spx-9n3.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
