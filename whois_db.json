@@ -310,8 +310,8 @@
         "state": "future"
     },
     "001galerie.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "001games.com": {
@@ -435,8 +435,8 @@
         "state": "future"
     },
     "003.ua": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "003112.cn": {
@@ -642,6 +642,11 @@
     "007arcadegames.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "007game.ru": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "007guard.com": {
@@ -877,6 +882,11 @@
     "00pro.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "00px.net": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "00refund123.com": {
