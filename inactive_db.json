@@ -1,5 +1,96 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
+        "0-104.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.269091,
+            "included_at_iso": "2020-04-27T18:58:29.269091",
+            "last_retested_at_epoch": 1588013909.269091,
+            "last_retested_at_iso": "2020-04-27T18:58:29.269091",
+            "status": "INACTIVE"
+        },
+        "0-131.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.27206,
+            "included_at_iso": "2020-04-27T18:58:29.272060",
+            "last_retested_at_epoch": 1588013909.27206,
+            "last_retested_at_iso": "2020-04-27T18:58:29.272060",
+            "status": "INACTIVE"
+        },
+        "0-133.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.270729,
+            "included_at_iso": "2020-04-27T18:58:29.270729",
+            "last_retested_at_epoch": 1588013909.270729,
+            "last_retested_at_iso": "2020-04-27T18:58:29.270729",
+            "status": "INACTIVE"
+        },
+        "0-201.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.273462,
+            "included_at_iso": "2020-04-27T18:58:29.273462",
+            "last_retested_at_epoch": 1588013909.273462,
+            "last_retested_at_iso": "2020-04-27T18:58:29.273462",
+            "status": "INACTIVE"
+        },
+        "0-208.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.36835,
+            "included_at_iso": "2020-04-27T18:58:29.368350",
+            "last_retested_at_epoch": 1588013909.36835,
+            "last_retested_at_iso": "2020-04-27T18:58:29.368350",
+            "status": "INACTIVE"
+        },
+        "0-224.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.36677,
+            "included_at_iso": "2020-04-27T18:58:29.366770",
+            "last_retested_at_epoch": 1588013909.36677,
+            "last_retested_at_iso": "2020-04-27T18:58:29.366770",
+            "status": "INACTIVE"
+        },
+        "0-227.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.370066,
+            "included_at_iso": "2020-04-27T18:58:29.370066",
+            "last_retested_at_epoch": 1588013909.370066,
+            "last_retested_at_iso": "2020-04-27T18:58:29.370066",
+            "status": "INACTIVE"
+        },
+        "0-231.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.371483,
+            "included_at_iso": "2020-04-27T18:58:29.371483",
+            "last_retested_at_epoch": 1588013909.371483,
+            "last_retested_at_iso": "2020-04-27T18:58:29.371483",
+            "status": "INACTIVE"
+        },
+        "0-232.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.374284,
+            "included_at_iso": "2020-04-27T18:58:29.374284",
+            "last_retested_at_epoch": 1588013909.374284,
+            "last_retested_at_iso": "2020-04-27T18:58:29.374284",
+            "status": "INACTIVE"
+        },
+        "0-26.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.372894,
+            "included_at_iso": "2020-04-27T18:58:29.372894",
+            "last_retested_at_epoch": 1588013909.372894,
+            "last_retested_at_iso": "2020-04-27T18:58:29.372894",
+            "status": "INACTIVE"
+        },
+        "0-32.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.564755,
+            "included_at_iso": "2020-04-27T18:58:29.564755",
+            "last_retested_at_epoch": 1588013909.564755,
+            "last_retested_at_iso": "2020-04-27T18:58:29.564755",
+            "status": "INACTIVE"
+        },
+        "0-66.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.563102,
+            "included_at_iso": "2020-04-27T18:58:29.563102",
+            "last_retested_at_epoch": 1588013909.563102,
+            "last_retested_at_iso": "2020-04-27T18:58:29.563102",
+            "status": "INACTIVE"
+        },
+        "0-82.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013909.658306,
+            "included_at_iso": "2020-04-27T18:58:29.658306",
+            "last_retested_at_epoch": 1588013909.658306,
+            "last_retested_at_iso": "2020-04-27T18:58:29.658306",
+            "status": "INACTIVE"
+        },
         "0.0.0.0.creative.hpyrdr.com": {
             "included_at_epoch": 1586862327.0,
             "included_at_iso": "2020-04-14T11:05:27",
@@ -140,11 +231,18 @@
             "last_retested_at_iso": "2020-04-27T16:09:50.172224",
             "status": "INACTIVE"
         },
-        "01.vidyo-p.nyc2.appnexus.com": {
-            "included_at_epoch": 1585593763.0,
-            "included_at_iso": "2020-03-30T18:42:43",
-            "last_retested_at_epoch": 1585593763.0,
-            "last_retested_at_iso": "2020-03-30T18:42:43",
+        "011.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013922.703991,
+            "included_at_iso": "2020-04-27T18:58:42.703991",
+            "last_retested_at_epoch": 1588013922.703991,
+            "last_retested_at_iso": "2020-04-27T18:58:42.703991",
+            "status": "INACTIVE"
+        },
+        "0116.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013923.278329,
+            "included_at_iso": "2020-04-27T18:58:43.278329",
+            "last_retested_at_epoch": 1588013923.278329,
+            "last_retested_at_iso": "2020-04-27T18:58:43.278329",
             "status": "INACTIVE"
         },
         "012.2o7.net": {
@@ -161,6 +259,27 @@
             "last_retested_at_iso": "2020-04-27T17:18:01.097226",
             "status": "INACTIVE"
         },
+        "014.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013924.843927,
+            "included_at_iso": "2020-04-27T18:58:44.843927",
+            "last_retested_at_epoch": 1588013924.843927,
+            "last_retested_at_iso": "2020-04-27T18:58:44.843927",
+            "status": "INACTIVE"
+        },
+        "0146.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013924.945578,
+            "included_at_iso": "2020-04-27T18:58:44.945578",
+            "last_retested_at_epoch": 1588013924.945578,
+            "last_retested_at_iso": "2020-04-27T18:58:44.945578",
+            "status": "INACTIVE"
+        },
+        "0160.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013924.976108,
+            "included_at_iso": "2020-04-27T18:58:44.976108",
+            "last_retested_at_epoch": 1588013924.976108,
+            "last_retested_at_iso": "2020-04-27T18:58:44.976108",
+            "status": "INACTIVE"
+        },
         "016daa7a.com-lg81.net": {
             "included_at_epoch": 1586886581.0,
             "included_at_iso": "2020-04-14T17:49:41",
@@ -173,6 +292,20 @@
             "included_at_iso": "2020-04-16T21:39:02",
             "last_retested_at_epoch": 1588009760.244487,
             "last_retested_at_iso": "2020-04-27T17:49:20.244487",
+            "status": "INACTIVE"
+        },
+        "01ce1.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013926.659631,
+            "included_at_iso": "2020-04-27T18:58:46.659631",
+            "last_retested_at_epoch": 1588013926.659631,
+            "last_retested_at_iso": "2020-04-27T18:58:46.659631",
+            "status": "INACTIVE"
+        },
+        "01ce2.openvpn.f2pool.com": {
+            "included_at_epoch": 1588013926.754513,
+            "included_at_iso": "2020-04-27T18:58:46.754513",
+            "last_retested_at_epoch": 1588013926.754513,
+            "last_retested_at_iso": "2020-04-27T18:58:46.754513",
             "status": "INACTIVE"
         },
         "02-dc-lax1.test.corp.appnexus.com": {
