@@ -49,6 +49,13 @@
             "last_retested_at_iso": "2020-03-31T21:46:59",
             "status": "INACTIVE"
         },
+        "00x20x10x10xd3.duckdns.org": {
+            "included_at_epoch": 1587947502.944674,
+            "included_at_iso": "2020-04-27T00:31:42.944674",
+            "last_retested_at_epoch": 1587947502.944674,
+            "last_retested_at_iso": "2020-04-27T00:31:42.944674",
+            "status": "INACTIVE"
+        },
         "01-dc-nym1.test.corp.appnexus.com": {
             "included_at_epoch": 1587173637.0,
             "included_at_iso": "2020-04-18T01:33:57",
