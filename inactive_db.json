@@ -171,8 +171,8 @@
         "0190-telefonsex.de.lv": {
             "included_at_epoch": 1587073142.0,
             "included_at_iso": "2020-04-16T21:39:02",
-            "last_retested_at_epoch": 1587920340.910962,
-            "last_retested_at_iso": "2020-04-26T16:59:00.910962",
+            "last_retested_at_epoch": 1588009760.244487,
+            "last_retested_at_iso": "2020-04-27T17:49:20.244487",
             "status": "INACTIVE"
         },
         "02-dc-lax1.test.corp.appnexus.com": {
