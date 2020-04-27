@@ -10,15 +10,15 @@
         "0.gvt0.com": {
             "included_at_epoch": 1587916800.962889,
             "included_at_iso": "2020-04-26T16:00:00.962889",
-            "last_retested_at_epoch": 1587916800.962889,
-            "last_retested_at_iso": "2020-04-26T16:00:00.962889",
+            "last_retested_at_epoch": 1588007865.809288,
+            "last_retested_at_iso": "2020-04-27T17:17:45.809288",
             "status": "INACTIVE"
         },
         "0.paypopup.com": {
             "included_at_epoch": 1587173625.0,
             "included_at_iso": "2020-04-18T01:33:45",
-            "last_retested_at_epoch": 1587916800.964156,
-            "last_retested_at_iso": "2020-04-26T16:00:00.964156",
+            "last_retested_at_epoch": 1588007865.811028,
+            "last_retested_at_iso": "2020-04-27T17:17:45.811028",
             "status": "INACTIVE"
         },
         "000.bbexe.cn": {
@@ -150,22 +150,22 @@
         "012.2o7.net": {
             "included_at_epoch": 1587159587.0,
             "included_at_iso": "2020-04-17T21:39:47",
-            "last_retested_at_epoch": 1587918249.926487,
-            "last_retested_at_iso": "2020-04-26T16:24:09.926487",
+            "last_retested_at_epoch": 1588007879.590577,
+            "last_retested_at_iso": "2020-04-27T17:17:59.590577",
             "status": "INACTIVE"
         },
         "014.guangdongjiayue.com": {
             "included_at_epoch": 1587155205.0,
             "included_at_iso": "2020-04-17T20:26:45",
-            "last_retested_at_epoch": 1587918251.4083,
-            "last_retested_at_iso": "2020-04-26T16:24:11.408300",
+            "last_retested_at_epoch": 1588007881.097226,
+            "last_retested_at_iso": "2020-04-27T17:18:01.097226",
             "status": "INACTIVE"
         },
         "016daa7a.com-lg81.net": {
             "included_at_epoch": 1586886581.0,
             "included_at_iso": "2020-04-14T17:49:41",
-            "last_retested_at_epoch": 1587918251.538972,
-            "last_retested_at_iso": "2020-04-26T16:24:11.538972",
+            "last_retested_at_epoch": 1588007881.242298,
+            "last_retested_at_iso": "2020-04-27T17:18:01.242298",
             "status": "INACTIVE"
         },
         "0190-telefonsex.de.lv": {
