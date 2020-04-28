@@ -300,6 +300,13 @@
             "last_retested_at_epoch": 1588101856.081585,
             "last_retested_at_iso": "2020-04-28T19:24:16.081585",
             "status": "INACTIVE"
+        },
+        "02-fs-nym2.test.corp.appnexus.com": {
+            "included_at_epoch": 1588106103.379515,
+            "included_at_iso": "2020-04-28T20:35:03.379515",
+            "last_retested_at_epoch": 1588106103.379515,
+            "last_retested_at_iso": "2020-04-28T20:35:03.379515",
+            "status": "INACTIVE"
         }
     }
 }
