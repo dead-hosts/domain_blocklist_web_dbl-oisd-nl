@@ -108,8 +108,8 @@
         "0.paypopup.com": {
             "included_at_epoch": 1587173625.0,
             "included_at_iso": "2020-04-18T01:33:45",
-            "last_retested_at_epoch": 1588007865.811028,
-            "last_retested_at_iso": "2020-04-27T17:17:45.811028",
+            "last_retested_at_epoch": 1588097410.974783,
+            "last_retested_at_iso": "2020-04-28T18:10:10.974783",
             "status": "INACTIVE"
         },
         "001.bbexe.cn": {
@@ -227,15 +227,15 @@
         "012.2o7.net": {
             "included_at_epoch": 1587159587.0,
             "included_at_iso": "2020-04-17T21:39:47",
-            "last_retested_at_epoch": 1588007879.590577,
-            "last_retested_at_iso": "2020-04-27T17:17:59.590577",
+            "last_retested_at_epoch": 1588097424.032108,
+            "last_retested_at_iso": "2020-04-28T18:10:24.032108",
             "status": "INACTIVE"
         },
         "014.guangdongjiayue.com": {
             "included_at_epoch": 1587155205.0,
             "included_at_iso": "2020-04-17T20:26:45",
-            "last_retested_at_epoch": 1588007881.097226,
-            "last_retested_at_iso": "2020-04-27T17:18:01.097226",
+            "last_retested_at_epoch": 1588097425.481379,
+            "last_retested_at_iso": "2020-04-28T18:10:25.481379",
             "status": "INACTIVE"
         },
         "014.openvpn.f2pool.com": {
@@ -262,15 +262,15 @@
         "016daa7a.com-lg81.net": {
             "included_at_epoch": 1586886581.0,
             "included_at_iso": "2020-04-14T17:49:41",
-            "last_retested_at_epoch": 1588007881.242298,
-            "last_retested_at_iso": "2020-04-27T17:18:01.242298",
+            "last_retested_at_epoch": 1588097425.597051,
+            "last_retested_at_iso": "2020-04-28T18:10:25.597051",
             "status": "INACTIVE"
         },
         "0190-telefonsex.de.lv": {
             "included_at_epoch": 1587073142.0,
             "included_at_iso": "2020-04-16T21:39:02",
-            "last_retested_at_epoch": 1588009760.244487,
-            "last_retested_at_iso": "2020-04-27T17:49:20.244487",
+            "last_retested_at_epoch": 1588097426.580514,
+            "last_retested_at_iso": "2020-04-28T18:10:26.580514",
             "status": "INACTIVE"
         },
         "01ce1.openvpn.f2pool.com": {
