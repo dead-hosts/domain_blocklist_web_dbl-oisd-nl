@@ -112,13 +112,6 @@
             "last_retested_at_iso": "2020-04-27T17:17:45.811028",
             "status": "INACTIVE"
         },
-        "000.bbexe.cn": {
-            "included_at_epoch": 1587982356.679117,
-            "included_at_iso": "2020-04-27T10:12:36.679117",
-            "last_retested_at_epoch": 1587982356.679117,
-            "last_retested_at_iso": "2020-04-27T10:12:36.679117",
-            "status": "INACTIVE"
-        },
         "001.bbexe.cn": {
             "included_at_epoch": 1588062612.636178,
             "included_at_iso": "2020-04-28T08:30:12.636178",
