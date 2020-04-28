@@ -297,8 +297,8 @@
         "02-dc-lax1.test.corp.appnexus.com": {
             "included_at_epoch": 1587073144.0,
             "included_at_iso": "2020-04-16T21:39:04",
-            "last_retested_at_epoch": 1587073144.0,
-            "last_retested_at_iso": "2020-04-16T21:39:04",
+            "last_retested_at_epoch": 1588088497.383106,
+            "last_retested_at_iso": "2020-04-28T15:41:37.383106",
             "status": "INACTIVE"
         }
     }
