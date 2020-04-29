@@ -133,13 +133,6 @@
             "last_retested_at_iso": "2020-04-28T16:49:58.571146",
             "status": "INACTIVE"
         },
-        "0076ro7b8kxj5n2f70z.info.ve": {
-            "included_at_epoch": 1585691219.0,
-            "included_at_iso": "2020-03-31T21:46:59",
-            "last_retested_at_epoch": 1585691219.0,
-            "last_retested_at_iso": "2020-03-31T21:46:59",
-            "status": "INACTIVE"
-        },
         "01-dc-nym1.test.corp.appnexus.com": {
             "included_at_epoch": 1587173637.0,
             "included_at_iso": "2020-04-18T01:33:57",
