@@ -203,6 +203,13 @@
             "last_retested_at_iso": "2020-04-28T16:50:05.311280",
             "status": "INACTIVE"
         },
+        "010qqx7wfe.centade.com": {
+            "included_at_epoch": 1588128612.347615,
+            "included_at_iso": "2020-04-29T02:50:12.347615",
+            "last_retested_at_epoch": 1588128612.347615,
+            "last_retested_at_iso": "2020-04-29T02:50:12.347615",
+            "status": "INACTIVE"
+        },
         "011.openvpn.f2pool.com": {
             "included_at_epoch": 1588013922.703991,
             "included_at_iso": "2020-04-27T18:58:42.703991",
@@ -245,6 +252,13 @@
             "last_retested_at_iso": "2020-04-27T18:58:44.945578",
             "status": "INACTIVE"
         },
+        "015zavccwm.centade.com": {
+            "included_at_epoch": 1588128614.792,
+            "included_at_iso": "2020-04-29T02:50:14.792000",
+            "last_retested_at_epoch": 1588128614.792,
+            "last_retested_at_iso": "2020-04-29T02:50:14.792000",
+            "status": "INACTIVE"
+        },
         "0160.openvpn.f2pool.com": {
             "included_at_epoch": 1588013924.976108,
             "included_at_iso": "2020-04-27T18:58:44.976108",
@@ -257,6 +271,13 @@
             "included_at_iso": "2020-04-14T17:49:41",
             "last_retested_at_epoch": 1588097425.597051,
             "last_retested_at_iso": "2020-04-28T18:10:25.597051",
+            "status": "INACTIVE"
+        },
+        "016maartlj.centade.com": {
+            "included_at_epoch": 1588128614.80017,
+            "included_at_iso": "2020-04-29T02:50:14.800170",
+            "last_retested_at_epoch": 1588128614.80017,
+            "last_retested_at_iso": "2020-04-29T02:50:14.800170",
             "status": "INACTIVE"
         },
         "0190-telefonsex.de.lv": {
