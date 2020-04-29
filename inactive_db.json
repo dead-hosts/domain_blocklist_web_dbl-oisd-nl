@@ -136,36 +136,36 @@
         "001.vwoool.com": {
             "included_at_epoch": 1587173627.0,
             "included_at_iso": "2020-04-18T01:33:47",
-            "last_retested_at_epoch": 1588092595.475867,
-            "last_retested_at_iso": "2020-04-28T16:49:55.475867",
+            "last_retested_at_epoch": 1588182230.017141,
+            "last_retested_at_iso": "2020-04-29T17:43:50.017141",
             "status": "INACTIVE"
         },
         "004b0bdd1.c11.ixsecure.com": {
             "included_at_epoch": 1587173630.0,
             "included_at_iso": "2020-04-18T01:33:50",
-            "last_retested_at_epoch": 1588092598.571146,
-            "last_retested_at_iso": "2020-04-28T16:49:58.571146",
+            "last_retested_at_epoch": 1588182233.028517,
+            "last_retested_at_iso": "2020-04-29T17:43:53.028517",
             "status": "INACTIVE"
         },
         "01-dc-nym1.test.corp.appnexus.com": {
             "included_at_epoch": 1587173637.0,
             "included_at_iso": "2020-04-18T01:33:57",
-            "last_retested_at_epoch": 1588092605.08565,
-            "last_retested_at_iso": "2020-04-28T16:50:05.085650",
+            "last_retested_at_epoch": 1588182239.537846,
+            "last_retested_at_iso": "2020-04-29T17:43:59.537846",
             "status": "INACTIVE"
         },
         "01-exchange.test.corp.appnexus.com": {
             "included_at_epoch": 1587916812.866499,
             "included_at_iso": "2020-04-26T16:00:12.866499",
-            "last_retested_at_epoch": 1588092605.090318,
-            "last_retested_at_iso": "2020-04-28T16:50:05.090318",
+            "last_retested_at_epoch": 1588182239.542104,
+            "last_retested_at_iso": "2020-04-29T17:43:59.542104",
             "status": "INACTIVE"
         },
         "01-net.zapto.org": {
             "included_at_epoch": 1587916812.867713,
             "included_at_iso": "2020-04-26T16:00:12.867713",
-            "last_retested_at_epoch": 1588092605.091971,
-            "last_retested_at_iso": "2020-04-28T16:50:05.091971",
+            "last_retested_at_epoch": 1588182239.543873,
+            "last_retested_at_iso": "2020-04-29T17:43:59.543873",
             "status": "INACTIVE"
         },
         "01-rds-dev-nym1.ad.corp.appnexus.com": {
@@ -178,50 +178,50 @@
         "01-winserv.test.corp.appnexus.com": {
             "included_at_epoch": 1587168915.0,
             "included_at_iso": "2020-04-18T00:15:15",
-            "last_retested_at_epoch": 1588092605.211924,
-            "last_retested_at_iso": "2020-04-28T16:50:05.211924",
+            "last_retested_at_epoch": 1588182239.658248,
+            "last_retested_at_iso": "2020-04-29T17:43:59.658248",
             "status": "INACTIVE"
         },
         "01-wsus-nym2.test.corp.appnexus.com": {
             "included_at_epoch": 1587916812.993754,
             "included_at_iso": "2020-04-26T16:00:12.993754",
-            "last_retested_at_epoch": 1588092605.214639,
-            "last_retested_at_iso": "2020-04-28T16:50:05.214639",
+            "last_retested_at_epoch": 1588182239.660026,
+            "last_retested_at_iso": "2020-04-29T17:43:59.660026",
             "status": "INACTIVE"
         },
         "01.jazzhands-api.nym2.appnexus.net": {
             "included_at_epoch": 1587150482.0,
             "included_at_iso": "2020-04-17T19:08:02",
-            "last_retested_at_epoch": 1588092605.28191,
-            "last_retested_at_iso": "2020-04-28T16:50:05.281910",
+            "last_retested_at_epoch": 1588182239.721228,
+            "last_retested_at_iso": "2020-04-29T17:43:59.721228",
             "status": "INACTIVE"
         },
         "01.kubereality.lax1.appnexus.net": {
             "included_at_epoch": 1587916813.083177,
             "included_at_iso": "2020-04-26T16:00:13.083177",
-            "last_retested_at_epoch": 1588092605.294778,
-            "last_retested_at_iso": "2020-04-28T16:50:05.294778",
+            "last_retested_at_epoch": 1588182239.735317,
+            "last_retested_at_iso": "2020-04-29T17:43:59.735317",
             "status": "INACTIVE"
         },
         "01.liveadvert.com": {
             "included_at_epoch": 1587168916.0,
             "included_at_iso": "2020-04-18T00:15:16",
-            "last_retested_at_epoch": 1588092605.302091,
-            "last_retested_at_iso": "2020-04-28T16:50:05.302091",
+            "last_retested_at_epoch": 1588182239.741279,
+            "last_retested_at_iso": "2020-04-29T17:43:59.741279",
             "status": "INACTIVE"
         },
         "01.losbuhosweb.com.mx": {
             "included_at_epoch": 1587916813.096918,
             "included_at_iso": "2020-04-26T16:00:13.096918",
-            "last_retested_at_epoch": 1588092605.304026,
-            "last_retested_at_iso": "2020-04-28T16:50:05.304026",
+            "last_retested_at_epoch": 1588182239.746384,
+            "last_retested_at_iso": "2020-04-29T17:43:59.746384",
             "status": "INACTIVE"
         },
         "01.mssheng.com": {
             "included_at_epoch": 1587916813.106192,
             "included_at_iso": "2020-04-26T16:00:13.106192",
-            "last_retested_at_epoch": 1588092605.31128,
-            "last_retested_at_iso": "2020-04-28T16:50:05.311280",
+            "last_retested_at_epoch": 1588182239.755183,
+            "last_retested_at_iso": "2020-04-29T17:43:59.755183",
             "status": "INACTIVE"
         },
         "0109kongxian.maker-work.cn": {
