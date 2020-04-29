@@ -122,8 +122,8 @@
         "001.bbexe.cn": {
             "included_at_epoch": 1588062612.636178,
             "included_at_iso": "2020-04-28T08:30:12.636178",
-            "last_retested_at_epoch": 1588062612.636178,
-            "last_retested_at_iso": "2020-04-28T08:30:12.636178",
+            "last_retested_at_epoch": 1588152778.357902,
+            "last_retested_at_iso": "2020-04-29T09:32:58.357902",
             "status": "INACTIVE"
         },
         "001.bladespoon.cn": {
