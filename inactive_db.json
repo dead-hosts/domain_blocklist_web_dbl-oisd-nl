@@ -178,36 +178,36 @@
         "01.jazzhands-api.nym2.appnexus.net": {
             "included_at_epoch": 1587150482.0,
             "included_at_iso": "2020-04-17T19:08:02",
-            "last_retested_at_epoch": 1588182239.721228,
-            "last_retested_at_iso": "2020-04-29T17:43:59.721228",
+            "last_retested_at_epoch": 1588275037.415418,
+            "last_retested_at_iso": "2020-04-30T19:30:37.415418",
             "status": "INACTIVE"
         },
         "01.kubereality.lax1.appnexus.net": {
             "included_at_epoch": 1587916813.083177,
             "included_at_iso": "2020-04-26T16:00:13.083177",
-            "last_retested_at_epoch": 1588182239.735317,
-            "last_retested_at_iso": "2020-04-29T17:43:59.735317",
+            "last_retested_at_epoch": 1588275037.428114,
+            "last_retested_at_iso": "2020-04-30T19:30:37.428114",
             "status": "INACTIVE"
         },
         "01.liveadvert.com": {
             "included_at_epoch": 1587168916.0,
             "included_at_iso": "2020-04-18T00:15:16",
-            "last_retested_at_epoch": 1588182239.741279,
-            "last_retested_at_iso": "2020-04-29T17:43:59.741279",
+            "last_retested_at_epoch": 1588275037.432895,
+            "last_retested_at_iso": "2020-04-30T19:30:37.432895",
             "status": "INACTIVE"
         },
         "01.losbuhosweb.com.mx": {
             "included_at_epoch": 1587916813.096918,
             "included_at_iso": "2020-04-26T16:00:13.096918",
-            "last_retested_at_epoch": 1588182239.746384,
-            "last_retested_at_iso": "2020-04-29T17:43:59.746384",
+            "last_retested_at_epoch": 1588275037.436662,
+            "last_retested_at_iso": "2020-04-30T19:30:37.436662",
             "status": "INACTIVE"
         },
         "01.mssheng.com": {
             "included_at_epoch": 1587916813.106192,
             "included_at_iso": "2020-04-26T16:00:13.106192",
-            "last_retested_at_epoch": 1588182239.755183,
-            "last_retested_at_iso": "2020-04-29T17:43:59.755183",
+            "last_retested_at_epoch": 1588275037.443434,
+            "last_retested_at_iso": "2020-04-30T19:30:37.443434",
             "status": "INACTIVE"
         },
         "01.yd-jun.com": {
