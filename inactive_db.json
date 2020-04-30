@@ -108,29 +108,8 @@
         "0.paypopup.com": {
             "included_at_epoch": 1587173625.0,
             "included_at_iso": "2020-04-18T01:33:45",
-            "last_retested_at_epoch": 1588097410.974783,
-            "last_retested_at_iso": "2020-04-28T18:10:10.974783",
-            "status": "INACTIVE"
-        },
-        "000.bbexe.cn": {
-            "included_at_epoch": 1588136703.313702,
-            "included_at_iso": "2020-04-29T05:05:03.313702",
-            "last_retested_at_epoch": 1588136703.313702,
-            "last_retested_at_iso": "2020-04-29T05:05:03.313702",
-            "status": "INACTIVE"
-        },
-        "001.bbexe.cn": {
-            "included_at_epoch": 1588062612.636178,
-            "included_at_iso": "2020-04-28T08:30:12.636178",
-            "last_retested_at_epoch": 1588152778.357902,
-            "last_retested_at_iso": "2020-04-29T09:32:58.357902",
-            "status": "INACTIVE"
-        },
-        "001.bladespoon.cn": {
-            "included_at_epoch": 1588144488.085476,
-            "included_at_iso": "2020-04-29T07:14:48.085476",
-            "last_retested_at_epoch": 1588144488.085476,
-            "last_retested_at_iso": "2020-04-29T07:14:48.085476",
+            "last_retested_at_epoch": 1588249865.892161,
+            "last_retested_at_iso": "2020-04-30T12:31:05.892161",
             "status": "INACTIVE"
         },
         "001.vwoool.com": {
@@ -166,13 +145,6 @@
             "included_at_iso": "2020-04-26T16:00:12.867713",
             "last_retested_at_epoch": 1588182239.543873,
             "last_retested_at_iso": "2020-04-29T17:43:59.543873",
-            "status": "INACTIVE"
-        },
-        "01-rds-dev-nym1.ad.corp.appnexus.com": {
-            "included_at_epoch": 1588161285.097499,
-            "included_at_iso": "2020-04-29T11:54:45.097499",
-            "last_retested_at_epoch": 1588161285.097499,
-            "last_retested_at_iso": "2020-04-29T11:54:45.097499",
             "status": "INACTIVE"
         },
         "01-winserv.test.corp.appnexus.com": {
@@ -224,18 +196,18 @@
             "last_retested_at_iso": "2020-04-29T17:43:59.755183",
             "status": "INACTIVE"
         },
+        "01.yd-jun.com": {
+            "included_at_epoch": 1588249877.304692,
+            "included_at_iso": "2020-04-30T12:31:17.304692",
+            "last_retested_at_epoch": 1588249877.304692,
+            "last_retested_at_iso": "2020-04-30T12:31:17.304692",
+            "status": "INACTIVE"
+        },
         "0109kongxian.maker-work.cn": {
             "included_at_epoch": 1588173756.923873,
             "included_at_iso": "2020-04-29T15:22:36.923873",
             "last_retested_at_epoch": 1588173756.923873,
             "last_retested_at_iso": "2020-04-29T15:22:36.923873",
-            "status": "INACTIVE"
-        },
-        "010qqx7wfe.centade.com": {
-            "included_at_epoch": 1588128612.347615,
-            "included_at_iso": "2020-04-29T02:50:12.347615",
-            "last_retested_at_epoch": 1588128612.347615,
-            "last_retested_at_iso": "2020-04-29T02:50:12.347615",
             "status": "INACTIVE"
         },
         "011.openvpn.f2pool.com": {
@@ -262,8 +234,8 @@
         "014.guangdongjiayue.com": {
             "included_at_epoch": 1587155205.0,
             "included_at_iso": "2020-04-17T20:26:45",
-            "last_retested_at_epoch": 1588097425.481379,
-            "last_retested_at_iso": "2020-04-28T18:10:25.481379",
+            "last_retested_at_epoch": 1588249879.760888,
+            "last_retested_at_iso": "2020-04-30T12:31:19.760888",
             "status": "INACTIVE"
         },
         "014.openvpn.f2pool.com": {
@@ -280,13 +252,6 @@
             "last_retested_at_iso": "2020-04-27T18:58:44.945578",
             "status": "INACTIVE"
         },
-        "015zavccwm.centade.com": {
-            "included_at_epoch": 1588128614.792,
-            "included_at_iso": "2020-04-29T02:50:14.792000",
-            "last_retested_at_epoch": 1588128614.792,
-            "last_retested_at_iso": "2020-04-29T02:50:14.792000",
-            "status": "INACTIVE"
-        },
         "0160.openvpn.f2pool.com": {
             "included_at_epoch": 1588013924.976108,
             "included_at_iso": "2020-04-27T18:58:44.976108",
@@ -297,22 +262,15 @@
         "016daa7a.com-lg81.net": {
             "included_at_epoch": 1586886581.0,
             "included_at_iso": "2020-04-14T17:49:41",
-            "last_retested_at_epoch": 1588097425.597051,
-            "last_retested_at_iso": "2020-04-28T18:10:25.597051",
-            "status": "INACTIVE"
-        },
-        "016maartlj.centade.com": {
-            "included_at_epoch": 1588128614.80017,
-            "included_at_iso": "2020-04-29T02:50:14.800170",
-            "last_retested_at_epoch": 1588128614.80017,
-            "last_retested_at_iso": "2020-04-29T02:50:14.800170",
+            "last_retested_at_epoch": 1588249879.967049,
+            "last_retested_at_iso": "2020-04-30T12:31:19.967049",
             "status": "INACTIVE"
         },
         "0190-telefonsex.de.lv": {
             "included_at_epoch": 1587073142.0,
             "included_at_iso": "2020-04-16T21:39:02",
-            "last_retested_at_epoch": 1588097426.580514,
-            "last_retested_at_iso": "2020-04-28T18:10:26.580514",
+            "last_retested_at_epoch": 1588249880.915621,
+            "last_retested_at_iso": "2020-04-30T12:31:20.915621",
             "status": "INACTIVE"
         },
         "01ce1.openvpn.f2pool.com": {
