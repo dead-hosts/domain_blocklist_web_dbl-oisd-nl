@@ -290,15 +290,15 @@
         "02-dc-lax1.test.corp.appnexus.com": {
             "included_at_epoch": 1587073144.0,
             "included_at_iso": "2020-04-16T21:39:04",
-            "last_retested_at_epoch": 1588088497.383106,
-            "last_retested_at_iso": "2020-04-28T15:41:37.383106",
+            "last_retested_at_epoch": 1588253189.075296,
+            "last_retested_at_iso": "2020-04-30T13:26:29.075296",
             "status": "INACTIVE"
         },
         "02-exchange.test.corp.appnexus.com": {
             "included_at_epoch": 1588101856.081585,
             "included_at_iso": "2020-04-28T19:24:16.081585",
-            "last_retested_at_epoch": 1588101856.081585,
-            "last_retested_at_iso": "2020-04-28T19:24:16.081585",
+            "last_retested_at_epoch": 1588253189.080584,
+            "last_retested_at_iso": "2020-04-30T13:26:29.080584",
             "status": "INACTIVE"
         },
         "02-fs-nym2.test.corp.appnexus.com": {
