@@ -112,6 +112,20 @@
             "last_retested_at_iso": "2020-04-30T12:31:05.892161",
             "status": "INACTIVE"
         },
+        "001.bbexe.cn": {
+            "included_at_epoch": 1588256783.620992,
+            "included_at_iso": "2020-04-30T14:26:23.620992",
+            "last_retested_at_epoch": 1588256783.620992,
+            "last_retested_at_iso": "2020-04-30T14:26:23.620992",
+            "status": "INACTIVE"
+        },
+        "001.bladespoon.cn": {
+            "included_at_epoch": 1588256783.622861,
+            "included_at_iso": "2020-04-30T14:26:23.622861",
+            "last_retested_at_epoch": 1588256783.622861,
+            "last_retested_at_iso": "2020-04-30T14:26:23.622861",
+            "status": "INACTIVE"
+        },
         "001.vwoool.com": {
             "included_at_epoch": 1587173627.0,
             "included_at_iso": "2020-04-18T01:33:47",
@@ -304,8 +318,8 @@
         "02-fs-nym2.test.corp.appnexus.com": {
             "included_at_epoch": 1588106103.379515,
             "included_at_iso": "2020-04-28T20:35:03.379515",
-            "last_retested_at_epoch": 1588106103.379515,
-            "last_retested_at_iso": "2020-04-28T20:35:03.379515",
+            "last_retested_at_epoch": 1588256799.186778,
+            "last_retested_at_iso": "2020-04-30T14:26:39.186778",
             "status": "INACTIVE"
         }
     }
