@@ -531,6 +531,48 @@
             "last_retested_at_epoch": 1588352292.854651,
             "last_retested_at_iso": "2020-05-01T16:58:12.854651",
             "status": "INACTIVE"
+        },
+        "056bf72096b787b624e5182.nudgesbecause.com": {
+            "included_at_epoch": 1588355857.570413,
+            "included_at_iso": "2020-05-01T17:57:37.570413",
+            "last_retested_at_epoch": 1588355857.570413,
+            "last_retested_at_iso": "2020-05-01T17:57:37.570413",
+            "status": "INACTIVE"
+        },
+        "05p60clujw.com": {
+            "included_at_epoch": 1588355860.269752,
+            "included_at_iso": "2020-05-01T17:57:40.269752",
+            "last_retested_at_epoch": 1588355860.269752,
+            "last_retested_at_iso": "2020-05-01T17:57:40.269752",
+            "status": "INACTIVE"
+        },
+        "06.liveadvert.com": {
+            "included_at_epoch": 1588355860.665305,
+            "included_at_iso": "2020-05-01T17:57:40.665305",
+            "last_retested_at_epoch": 1588355860.665305,
+            "last_retested_at_iso": "2020-05-01T17:57:40.665305",
+            "status": "INACTIVE"
+        },
+        "06642.ir": {
+            "included_at_epoch": 1588355862.542006,
+            "included_at_iso": "2020-05-01T17:57:42.542006",
+            "last_retested_at_epoch": 1588355862.542006,
+            "last_retested_at_iso": "2020-05-01T17:57:42.542006",
+            "status": "INACTIVE"
+        },
+        "07.liveadvert.com": {
+            "included_at_epoch": 1588355863.472378,
+            "included_at_iso": "2020-05-01T17:57:43.472378",
+            "last_retested_at_epoch": 1588355863.472378,
+            "last_retested_at_iso": "2020-05-01T17:57:43.472378",
+            "status": "INACTIVE"
+        },
+        "07.qy8.me": {
+            "included_at_epoch": 1588355863.478756,
+            "included_at_iso": "2020-05-01T17:57:43.478756",
+            "last_retested_at_epoch": 1588355863.478756,
+            "last_retested_at_iso": "2020-05-01T17:57:43.478756",
+            "status": "INACTIVE"
         }
     }
 }
