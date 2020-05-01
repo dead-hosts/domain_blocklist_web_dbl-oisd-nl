@@ -133,20 +133,6 @@
             "last_retested_at_iso": "2020-05-01T12:43:58.055482",
             "status": "INACTIVE"
         },
-        "001.bbexe.cn": {
-            "included_at_epoch": 1588256783.620992,
-            "included_at_iso": "2020-04-30T14:26:23.620992",
-            "last_retested_at_epoch": 1588256783.620992,
-            "last_retested_at_iso": "2020-04-30T14:26:23.620992",
-            "status": "INACTIVE"
-        },
-        "001.bladespoon.cn": {
-            "included_at_epoch": 1588256783.622861,
-            "included_at_iso": "2020-04-30T14:26:23.622861",
-            "last_retested_at_epoch": 1588256783.622861,
-            "last_retested_at_iso": "2020-04-30T14:26:23.622861",
-            "status": "INACTIVE"
-        },
         "001.vwoool.com": {
             "included_at_epoch": 1587173627.0,
             "included_at_iso": "2020-04-18T01:33:47",
@@ -241,15 +227,8 @@
         "01.yd-jun.com": {
             "included_at_epoch": 1588249877.304692,
             "included_at_iso": "2020-04-30T12:31:17.304692",
-            "last_retested_at_epoch": 1588249877.304692,
-            "last_retested_at_iso": "2020-04-30T12:31:17.304692",
-            "status": "INACTIVE"
-        },
-        "0109kongxian.maker-work.cn": {
-            "included_at_epoch": 1588173756.923873,
-            "included_at_iso": "2020-04-29T15:22:36.923873",
-            "last_retested_at_epoch": 1588173756.923873,
-            "last_retested_at_iso": "2020-04-29T15:22:36.923873",
+            "last_retested_at_epoch": 1588344609.395569,
+            "last_retested_at_iso": "2020-05-01T14:50:09.395569",
             "status": "INACTIVE"
         },
         "011.openvpn.f2pool.com": {
@@ -276,8 +255,8 @@
         "014.guangdongjiayue.com": {
             "included_at_epoch": 1587155205.0,
             "included_at_iso": "2020-04-17T20:26:45",
-            "last_retested_at_epoch": 1588249879.760888,
-            "last_retested_at_iso": "2020-04-30T12:31:19.760888",
+            "last_retested_at_epoch": 1588344612.17958,
+            "last_retested_at_iso": "2020-05-01T14:50:12.179580",
             "status": "INACTIVE"
         },
         "014.openvpn.f2pool.com": {
@@ -304,15 +283,15 @@
         "016daa7a.com-lg81.net": {
             "included_at_epoch": 1586886581.0,
             "included_at_iso": "2020-04-14T17:49:41",
-            "last_retested_at_epoch": 1588249879.967049,
-            "last_retested_at_iso": "2020-04-30T12:31:19.967049",
+            "last_retested_at_epoch": 1588344612.305792,
+            "last_retested_at_iso": "2020-05-01T14:50:12.305792",
             "status": "INACTIVE"
         },
         "0190-telefonsex.de.lv": {
             "included_at_epoch": 1587073142.0,
             "included_at_iso": "2020-04-16T21:39:02",
-            "last_retested_at_epoch": 1588249880.915621,
-            "last_retested_at_iso": "2020-04-30T12:31:20.915621",
+            "last_retested_at_epoch": 1588344613.30638,
+            "last_retested_at_iso": "2020-05-01T14:50:13.306380",
             "status": "INACTIVE"
         },
         "01ce1.openvpn.f2pool.com": {
@@ -332,22 +311,22 @@
         "02-dc-lax1.test.corp.appnexus.com": {
             "included_at_epoch": 1587073144.0,
             "included_at_iso": "2020-04-16T21:39:04",
-            "last_retested_at_epoch": 1588253189.075296,
-            "last_retested_at_iso": "2020-04-30T13:26:29.075296",
+            "last_retested_at_epoch": 1588344615.514817,
+            "last_retested_at_iso": "2020-05-01T14:50:15.514817",
             "status": "INACTIVE"
         },
         "02-exchange.test.corp.appnexus.com": {
             "included_at_epoch": 1588101856.081585,
             "included_at_iso": "2020-04-28T19:24:16.081585",
-            "last_retested_at_epoch": 1588253189.080584,
-            "last_retested_at_iso": "2020-04-30T13:26:29.080584",
+            "last_retested_at_epoch": 1588344615.521035,
+            "last_retested_at_iso": "2020-05-01T14:50:15.521035",
             "status": "INACTIVE"
         },
         "02-fs-nym2.test.corp.appnexus.com": {
             "included_at_epoch": 1588106103.379515,
             "included_at_iso": "2020-04-28T20:35:03.379515",
-            "last_retested_at_epoch": 1588256799.186778,
-            "last_retested_at_iso": "2020-04-30T14:26:39.186778",
+            "last_retested_at_epoch": 1588344615.524569,
+            "last_retested_at_iso": "2020-05-01T14:50:15.524569",
             "status": "INACTIVE"
         }
     }
