@@ -210,6 +210,13 @@
             "last_retested_at_iso": "2020-04-30T19:30:37.443434",
             "status": "INACTIVE"
         },
+        "01.ptp22.com": {
+            "included_at_epoch": 1588309858.694417,
+            "included_at_iso": "2020-05-01T05:10:58.694417",
+            "last_retested_at_epoch": 1588309858.694417,
+            "last_retested_at_iso": "2020-05-01T05:10:58.694417",
+            "status": "INACTIVE"
+        },
         "01.yd-jun.com": {
             "included_at_epoch": 1588249877.304692,
             "included_at_iso": "2020-04-30T12:31:17.304692",
