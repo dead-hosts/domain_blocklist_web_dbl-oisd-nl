@@ -171,8 +171,8 @@
         "001.vwoool.com": {
             "included_at_epoch": 1587173627.0,
             "included_at_iso": "2020-04-18T01:33:47",
-            "last_retested_at_epoch": 1588270890.96742,
-            "last_retested_at_iso": "2020-04-30T18:21:30.967420",
+            "last_retested_at_epoch": 1588358893.133874,
+            "last_retested_at_iso": "2020-05-01T18:48:13.133874",
             "status": "INACTIVE"
         },
         "002.ccpowercrew.biz": {
@@ -199,8 +199,8 @@
         "004b0bdd1.c11.ixsecure.com": {
             "included_at_epoch": 1587173630.0,
             "included_at_iso": "2020-04-18T01:33:50",
-            "last_retested_at_epoch": 1588270894.011212,
-            "last_retested_at_iso": "2020-04-30T18:21:34.011212",
+            "last_retested_at_epoch": 1588358893.137341,
+            "last_retested_at_iso": "2020-05-01T18:48:13.137341",
             "status": "INACTIVE"
         },
         "009boot.ddns.net": {
@@ -227,36 +227,36 @@
         "01-dc-nym1.test.corp.appnexus.com": {
             "included_at_epoch": 1587173637.0,
             "included_at_iso": "2020-04-18T01:33:57",
-            "last_retested_at_epoch": 1588270900.658919,
-            "last_retested_at_iso": "2020-04-30T18:21:40.658919",
+            "last_retested_at_epoch": 1588358893.140395,
+            "last_retested_at_iso": "2020-05-01T18:48:13.140395",
             "status": "INACTIVE"
         },
         "01-exchange.test.corp.appnexus.com": {
             "included_at_epoch": 1587916812.866499,
             "included_at_iso": "2020-04-26T16:00:12.866499",
-            "last_retested_at_epoch": 1588270900.663191,
-            "last_retested_at_iso": "2020-04-30T18:21:40.663191",
+            "last_retested_at_epoch": 1588358893.143576,
+            "last_retested_at_iso": "2020-05-01T18:48:13.143576",
             "status": "INACTIVE"
         },
         "01-net.zapto.org": {
             "included_at_epoch": 1587916812.867713,
             "included_at_iso": "2020-04-26T16:00:12.867713",
-            "last_retested_at_epoch": 1588270900.664969,
-            "last_retested_at_iso": "2020-04-30T18:21:40.664969",
+            "last_retested_at_epoch": 1588358893.146813,
+            "last_retested_at_iso": "2020-05-01T18:48:13.146813",
             "status": "INACTIVE"
         },
         "01-winserv.test.corp.appnexus.com": {
             "included_at_epoch": 1587168915.0,
             "included_at_iso": "2020-04-18T00:15:15",
-            "last_retested_at_epoch": 1588270900.78603,
-            "last_retested_at_iso": "2020-04-30T18:21:40.786030",
+            "last_retested_at_epoch": 1588358893.149948,
+            "last_retested_at_iso": "2020-05-01T18:48:13.149948",
             "status": "INACTIVE"
         },
         "01-wsus-nym2.test.corp.appnexus.com": {
             "included_at_epoch": 1587916812.993754,
             "included_at_iso": "2020-04-26T16:00:12.993754",
-            "last_retested_at_epoch": 1588270900.789161,
-            "last_retested_at_iso": "2020-04-30T18:21:40.789161",
+            "last_retested_at_epoch": 1588358893.15608,
+            "last_retested_at_iso": "2020-05-01T18:48:13.156080",
             "status": "INACTIVE"
         },
         "01.jazzhands-api.nym2.appnexus.net": {
@@ -572,6 +572,34 @@
             "included_at_iso": "2020-05-01T17:57:43.478756",
             "last_retested_at_epoch": 1588355863.478756,
             "last_retested_at_iso": "2020-05-01T17:57:43.478756",
+            "status": "INACTIVE"
+        },
+        "07709.no-ip.org": {
+            "included_at_epoch": 1588358896.73515,
+            "included_at_iso": "2020-05-01T18:48:16.735150",
+            "last_retested_at_epoch": 1588358896.73515,
+            "last_retested_at_iso": "2020-05-01T18:48:16.735150",
+            "status": "INACTIVE"
+        },
+        "07726657423zaion.no-ip.biz": {
+            "included_at_epoch": 1588358896.841899,
+            "included_at_iso": "2020-05-01T18:48:16.841899",
+            "last_retested_at_epoch": 1588358896.841899,
+            "last_retested_at_iso": "2020-05-01T18:48:16.841899",
+            "status": "INACTIVE"
+        },
+        "07actnewdocreview.servebeer.com": {
+            "included_at_epoch": 1588358898.20713,
+            "included_at_iso": "2020-05-01T18:48:18.207130",
+            "last_retested_at_epoch": 1588358898.20713,
+            "last_retested_at_iso": "2020-05-01T18:48:18.207130",
+            "status": "INACTIVE"
+        },
+        "07scape.no-ip.org": {
+            "included_at_epoch": 1588358898.760333,
+            "included_at_iso": "2020-05-01T18:48:18.760333",
+            "last_retested_at_epoch": 1588358898.760333,
+            "last_retested_at_iso": "2020-05-01T18:48:18.760333",
             "status": "INACTIVE"
         }
     }
