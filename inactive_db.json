@@ -496,6 +496,41 @@
             "last_retested_at_epoch": 1588348459.992242,
             "last_retested_at_iso": "2020-05-01T15:54:19.992242",
             "status": "INACTIVE"
+        },
+        "032co.uk.c3ul.ru": {
+            "included_at_epoch": 1588352286.470412,
+            "included_at_iso": "2020-05-01T16:58:06.470412",
+            "last_retested_at_epoch": 1588352286.470412,
+            "last_retested_at_iso": "2020-05-01T16:58:06.470412",
+            "status": "INACTIVE"
+        },
+        "0367.c6320.fra1.appnexus.net": {
+            "included_at_epoch": 1588352287.523983,
+            "included_at_iso": "2020-05-01T16:58:07.523983",
+            "last_retested_at_epoch": 1588352287.523983,
+            "last_retested_at_iso": "2020-05-01T16:58:07.523983",
+            "status": "INACTIVE"
+        },
+        "04.liveadvert.com": {
+            "included_at_epoch": 1588352289.370763,
+            "included_at_iso": "2020-05-01T16:58:09.370763",
+            "last_retested_at_epoch": 1588352289.370763,
+            "last_retested_at_iso": "2020-05-01T16:58:09.370763",
+            "status": "INACTIVE"
+        },
+        "0412b891f.com-og15.net": {
+            "included_at_epoch": 1588352290.114217,
+            "included_at_iso": "2020-05-01T16:58:10.114217",
+            "last_retested_at_epoch": 1588352290.114217,
+            "last_retested_at_iso": "2020-05-01T16:58:10.114217",
+            "status": "INACTIVE"
+        },
+        "05.liveadvert.com": {
+            "included_at_epoch": 1588352292.854651,
+            "included_at_iso": "2020-05-01T16:58:12.854651",
+            "last_retested_at_epoch": 1588352292.854651,
+            "last_retested_at_iso": "2020-05-01T16:58:12.854651",
+            "status": "INACTIVE"
         }
     }
 }
