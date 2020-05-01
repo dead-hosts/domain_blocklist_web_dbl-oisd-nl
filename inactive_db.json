@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
+        "0-0-0-0-0-0-0-0-0-0-0-0-0-37-0-0-0-0-0-0-0-0-0-0-0-0-0.info": {
+            "included_at_epoch": 1588348453.179188,
+            "included_at_iso": "2020-05-01T15:54:13.179188",
+            "last_retested_at_epoch": 1588348453.179188,
+            "last_retested_at_iso": "2020-05-01T15:54:13.179188",
+            "status": "INACTIVE"
+        },
         "0-104.openvpn.f2pool.com": {
             "included_at_epoch": 1588013909.269091,
             "included_at_iso": "2020-04-27T18:58:29.269091",
@@ -98,6 +105,13 @@
             "last_retested_at_iso": "2020-04-14T11:05:27",
             "status": "INACTIVE"
         },
+        "0.blackshadesdnss.no-ip.biz": {
+            "included_at_epoch": 1588348453.176672,
+            "included_at_iso": "2020-05-01T15:54:13.176672",
+            "last_retested_at_epoch": 1588348453.176672,
+            "last_retested_at_iso": "2020-05-01T15:54:13.176672",
+            "status": "INACTIVE"
+        },
         "0.gvt0.com": {
             "included_at_epoch": 1587916800.962889,
             "included_at_iso": "2020-04-26T16:00:00.962889",
@@ -110,6 +124,20 @@
             "included_at_iso": "2020-04-18T01:33:45",
             "last_retested_at_epoch": 1588337036.537356,
             "last_retested_at_iso": "2020-05-01T12:43:56.537356",
+            "status": "INACTIVE"
+        },
+        "0.turkcedusunturkcekonus.com": {
+            "included_at_epoch": 1588348453.184082,
+            "included_at_iso": "2020-05-01T15:54:13.184082",
+            "last_retested_at_epoch": 1588348453.184082,
+            "last_retested_at_iso": "2020-05-01T15:54:13.184082",
+            "status": "INACTIVE"
+        },
+        "00-7.ddns.net": {
+            "included_at_epoch": 1588348453.18746,
+            "included_at_iso": "2020-05-01T15:54:13.187460",
+            "last_retested_at_epoch": 1588348453.18746,
+            "last_retested_at_iso": "2020-05-01T15:54:13.187460",
             "status": "INACTIVE"
         },
         "000lp59.wcomhost.com": {
@@ -133,6 +161,13 @@
             "last_retested_at_iso": "2020-05-01T12:43:58.055482",
             "status": "INACTIVE"
         },
+        "000webhost.ddns.net": {
+            "included_at_epoch": 1588348453.290628,
+            "included_at_iso": "2020-05-01T15:54:13.290628",
+            "last_retested_at_epoch": 1588348453.290628,
+            "last_retested_at_iso": "2020-05-01T15:54:13.290628",
+            "status": "INACTIVE"
+        },
         "001.vwoool.com": {
             "included_at_epoch": 1587173627.0,
             "included_at_iso": "2020-04-18T01:33:47",
@@ -140,11 +175,53 @@
             "last_retested_at_iso": "2020-04-30T18:21:30.967420",
             "status": "INACTIVE"
         },
+        "002.ccpowercrew.biz": {
+            "included_at_epoch": 1588348453.385538,
+            "included_at_iso": "2020-05-01T15:54:13.385538",
+            "last_retested_at_epoch": 1588348453.385538,
+            "last_retested_at_iso": "2020-05-01T15:54:13.385538",
+            "status": "INACTIVE"
+        },
+        "002562066559681.r3u8.com": {
+            "included_at_epoch": 1588348453.388126,
+            "included_at_iso": "2020-05-01T15:54:13.388126",
+            "last_retested_at_epoch": 1588348453.388126,
+            "last_retested_at_iso": "2020-05-01T15:54:13.388126",
+            "status": "INACTIVE"
+        },
+        "003.ccpowercrew.biz": {
+            "included_at_epoch": 1588348453.48396,
+            "included_at_iso": "2020-05-01T15:54:13.483960",
+            "last_retested_at_epoch": 1588348453.48396,
+            "last_retested_at_iso": "2020-05-01T15:54:13.483960",
+            "status": "INACTIVE"
+        },
         "004b0bdd1.c11.ixsecure.com": {
             "included_at_epoch": 1587173630.0,
             "included_at_iso": "2020-04-18T01:33:50",
             "last_retested_at_epoch": 1588270894.011212,
             "last_retested_at_iso": "2020-04-30T18:21:34.011212",
+            "status": "INACTIVE"
+        },
+        "009boot.ddns.net": {
+            "included_at_epoch": 1588348453.582898,
+            "included_at_iso": "2020-05-01T15:54:13.582898",
+            "last_retested_at_epoch": 1588348453.582898,
+            "last_retested_at_iso": "2020-05-01T15:54:13.582898",
+            "status": "INACTIVE"
+        },
+        "00black00.is-with-theband.com": {
+            "included_at_epoch": 1588348453.681192,
+            "included_at_iso": "2020-05-01T15:54:13.681192",
+            "last_retested_at_epoch": 1588348453.681192,
+            "last_retested_at_iso": "2020-05-01T15:54:13.681192",
+            "status": "INACTIVE"
+        },
+        "00bot.asterios.ws": {
+            "included_at_epoch": 1588348453.678527,
+            "included_at_iso": "2020-05-01T15:54:13.678527",
+            "last_retested_at_epoch": 1588348453.678527,
+            "last_retested_at_iso": "2020-05-01T15:54:13.678527",
             "status": "INACTIVE"
         },
         "01-dc-nym1.test.corp.appnexus.com": {
@@ -231,11 +308,32 @@
             "last_retested_at_iso": "2020-05-01T14:50:09.395569",
             "status": "INACTIVE"
         },
+        "0100.name": {
+            "included_at_epoch": 1588348453.685724,
+            "included_at_iso": "2020-05-01T15:54:13.685724",
+            "last_retested_at_epoch": 1588348453.685724,
+            "last_retested_at_iso": "2020-05-01T15:54:13.685724",
+            "status": "INACTIVE"
+        },
+        "01007849003.no-ip.biz": {
+            "included_at_epoch": 1588348453.689041,
+            "included_at_iso": "2020-05-01T15:54:13.689041",
+            "last_retested_at_epoch": 1588348453.689041,
+            "last_retested_at_iso": "2020-05-01T15:54:13.689041",
+            "status": "INACTIVE"
+        },
         "011.openvpn.f2pool.com": {
             "included_at_epoch": 1588013922.703991,
             "included_at_iso": "2020-04-27T18:58:42.703991",
             "last_retested_at_epoch": 1588013922.703991,
             "last_retested_at_iso": "2020-04-27T18:58:42.703991",
+            "status": "INACTIVE"
+        },
+        "01140491748.ddns.net": {
+            "included_at_epoch": 1588348453.691196,
+            "included_at_iso": "2020-05-01T15:54:13.691196",
+            "last_retested_at_epoch": 1588348453.691196,
+            "last_retested_at_iso": "2020-05-01T15:54:13.691196",
             "status": "INACTIVE"
         },
         "0116.openvpn.f2pool.com": {
@@ -250,6 +348,13 @@
             "included_at_iso": "2020-04-17T21:39:47",
             "last_retested_at_epoch": 1588097424.032108,
             "last_retested_at_iso": "2020-04-28T18:10:24.032108",
+            "status": "INACTIVE"
+        },
+        "012mail-net-uwclogin.ml": {
+            "included_at_epoch": 1588348453.694454,
+            "included_at_iso": "2020-05-01T15:54:13.694454",
+            "last_retested_at_epoch": 1588348453.694454,
+            "last_retested_at_iso": "2020-05-01T15:54:13.694454",
             "status": "INACTIVE"
         },
         "014.guangdongjiayue.com": {
@@ -294,6 +399,13 @@
             "last_retested_at_iso": "2020-05-01T14:50:13.306380",
             "status": "INACTIVE"
         },
+        "01970626496.no-ip.biz": {
+            "included_at_epoch": 1588348453.69672,
+            "included_at_iso": "2020-05-01T15:54:13.696720",
+            "last_retested_at_epoch": 1588348453.69672,
+            "last_retested_at_iso": "2020-05-01T15:54:13.696720",
+            "status": "INACTIVE"
+        },
         "01ce1.openvpn.f2pool.com": {
             "included_at_epoch": 1588013926.659631,
             "included_at_iso": "2020-04-27T18:58:46.659631",
@@ -306,6 +418,13 @@
             "included_at_iso": "2020-04-27T18:58:46.754513",
             "last_retested_at_epoch": 1588013926.754513,
             "last_retested_at_iso": "2020-04-27T18:58:46.754513",
+            "status": "INACTIVE"
+        },
+        "01n02n4cx00.com": {
+            "included_at_epoch": 1588348453.698902,
+            "included_at_iso": "2020-05-01T15:54:13.698902",
+            "last_retested_at_epoch": 1588348453.698902,
+            "last_retested_at_iso": "2020-05-01T15:54:13.698902",
             "status": "INACTIVE"
         },
         "02-dc-lax1.test.corp.appnexus.com": {
@@ -327,6 +446,55 @@
             "included_at_iso": "2020-04-28T20:35:03.379515",
             "last_retested_at_epoch": 1588344615.524569,
             "last_retested_at_iso": "2020-05-01T14:50:15.524569",
+            "status": "INACTIVE"
+        },
+        "02.liveadvert.com": {
+            "included_at_epoch": 1588348453.806609,
+            "included_at_iso": "2020-05-01T15:54:13.806609",
+            "last_retested_at_epoch": 1588348453.806609,
+            "last_retested_at_iso": "2020-05-01T15:54:13.806609",
+            "status": "INACTIVE"
+        },
+        "0214.sitescoutadserver.com": {
+            "included_at_epoch": 1588348454.261255,
+            "included_at_iso": "2020-05-01T15:54:14.261255",
+            "last_retested_at_epoch": 1588348454.261255,
+            "last_retested_at_iso": "2020-05-01T15:54:14.261255",
+            "status": "INACTIVE"
+        },
+        "023yuechang.com": {
+            "included_at_epoch": 1588348456.381374,
+            "included_at_iso": "2020-05-01T15:54:16.381374",
+            "last_retested_at_epoch": 1588348456.381374,
+            "last_retested_at_iso": "2020-05-01T15:54:16.381374",
+            "status": "INACTIVE"
+        },
+        "024.no-ip.info": {
+            "included_at_epoch": 1588348456.481542,
+            "included_at_iso": "2020-05-01T15:54:16.481542",
+            "last_retested_at_epoch": 1588348456.481542,
+            "last_retested_at_iso": "2020-05-01T15:54:16.481542",
+            "status": "INACTIVE"
+        },
+        "02i8g.applesafecausit.com": {
+            "included_at_epoch": 1588348458.94696,
+            "included_at_iso": "2020-05-01T15:54:18.946960",
+            "last_retested_at_epoch": 1588348458.94696,
+            "last_retested_at_iso": "2020-05-01T15:54:18.946960",
+            "status": "INACTIVE"
+        },
+        "03.liveadvert.com": {
+            "included_at_epoch": 1588348459.277394,
+            "included_at_iso": "2020-05-01T15:54:19.277394",
+            "last_retested_at_epoch": 1588348459.277394,
+            "last_retested_at_iso": "2020-05-01T15:54:19.277394",
+            "status": "INACTIVE"
+        },
+        "031168053846049.r3u8.com": {
+            "included_at_epoch": 1588348459.992242,
+            "included_at_iso": "2020-05-01T15:54:19.992242",
+            "last_retested_at_epoch": 1588348459.992242,
+            "last_retested_at_iso": "2020-05-01T15:54:19.992242",
             "status": "INACTIVE"
         }
     }
