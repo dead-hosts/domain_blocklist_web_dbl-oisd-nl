@@ -3174,6 +3174,21 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "07zq44y2tmru.xyz": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "0800.biz.ua": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "080644.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "080dd.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -3189,6 +3204,16 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "0814ok.info": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "0815.su": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "0816bvh.ru": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -3197,6 +3222,11 @@
     "0817ys.net": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "08180.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
         "state": "future"
     },
     "0818pfxb.com": {
@@ -3210,8 +3240,8 @@
         "state": "future"
     },
     "0830bbs.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1740528000.0,
+        "expiration_date": "26-feb-2025",
         "state": "future"
     },
     "0839fc.com": {
@@ -3220,8 +3250,18 @@
         "state": "future"
     },
     "0851gygb.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "0851ok.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "0851zygb.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "085vip.com": {
@@ -3259,9 +3299,39 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "0879dbbeb31e0c83d.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "08819.com": {
+        "epoch": 1643846400.0,
+        "expiration_date": "03-feb-2022",
+        "state": "future"
+    },
+    "0885.net": {
+        "epoch": 1673827200.0,
+        "expiration_date": "16-jan-2023",
+        "state": "future"
+    },
     "0885z.com": {
         "epoch": 1667433600.0,
         "expiration_date": "03-nov-2022",
+        "state": "future"
+    },
+    "088699.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "08874.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "088788.com": {
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
         "state": "future"
     },
     "0888zr.com": {
@@ -3290,8 +3360,8 @@
         "state": "future"
     },
     "0898it.com": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1649808000.0,
+        "expiration_date": "13-apr-2022",
         "state": "future"
     },
     "0898mx.com": {
@@ -3305,8 +3375,13 @@
         "state": "future"
     },
     "08cctv.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "08group.tv": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
         "state": "future"
     },
     "08ro35delw.ru": {
