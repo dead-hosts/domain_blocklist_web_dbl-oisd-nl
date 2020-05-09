@@ -2,7 +2,7 @@ adblock: false
 aggressive: false
 auto_continue: true
 ci: true
-ci_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
+ci_autosave_commit: '[Autosave][Dead-Hosts::domain_blocklist_web_dbl-oisd-nl]'
 ci_autosave_final_commit: '[Final/Result][Dead-Hosts::domain_blocklist_web_dbl-oisd-nl]
     | cc @sjhgvr | '
 ci_autosave_minutes: 10
@@ -76,7 +76,7 @@ http_codes:
     not_found_default: XXX
 iana_whois_server: whois.iana.org
 idna_conversion: true
-inactive_database: true
+inactive_database: false
 less: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format

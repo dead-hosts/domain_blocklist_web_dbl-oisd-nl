@@ -199,6 +199,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "000865b.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
     "0008888.com": {
         "epoch": 1627257600.0,
         "expiration_date": "26-jul-2021",
@@ -222,6 +227,11 @@
     "000cc.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "000dmobilt9034.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "000dn.com": {
@@ -3074,6 +3084,11 @@
         "expiration_date": "15-jul-2022",
         "state": "future"
     },
+    "07799d.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
     "078000.com": {
         "epoch": 1648684800.0,
         "expiration_date": "31-mar-2022",
@@ -3177,6 +3192,11 @@
     "07zq44y2tmru.xyz": {
         "epoch": 1609804800.0,
         "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "0800-supraprcorremamae10segurapreccs.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "0800.biz.ua": {
@@ -3384,9 +3404,24 @@
         "expiration_date": "25-mar-2022",
         "state": "future"
     },
+    "08jq9b.cn": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "past"
+    },
+    "08mnqf.cn": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "past"
+    },
     "08ro35delw.ru": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "08tk.cn": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "08xxx.com": {
@@ -3397,6 +3432,16 @@
     "08yyugrth5oriorutv.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "08zs.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "0900.biz.ua": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "0900.com": {
@@ -3584,6 +3629,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "090788.com": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "state": "future"
+    },
     "0907926.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -3645,8 +3695,8 @@
         "state": "future"
     },
     "091091.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "0916tuangou.com": {
@@ -3679,9 +3729,29 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "0931zybdf.cn": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "0931zybdf.com": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "0937js.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "0937jyg.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "0938120.cn": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "0956228a2df97a.com": {
@@ -3690,8 +3760,8 @@
         "state": "future"
     },
     "095v.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "096888.com": {
@@ -3714,6 +3784,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "09770.com": {
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "state": "future"
+    },
     "097788.com": {
         "epoch": 1727481600.0,
         "expiration_date": "28-sep-2024",
@@ -3727,6 +3802,16 @@
     "099456.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "099499.com": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
+    "0995114.net": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "09955.com": {
@@ -3745,13 +3830,43 @@
         "state": "future"
     },
     "09cd.co.kr": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "09handbags.com": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "09stees.online": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "09vnvmbnrfqwiofjqd.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "09zy.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "09zyy.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "0a-0vxs7.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "past"
+    },
+    "0a0074066c49886a39b5a3072582f5d6.net": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "0a0qetx8et.com": {
@@ -3765,8 +3880,8 @@
         "state": "future"
     },
     "0aae.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "0ad.net": {
