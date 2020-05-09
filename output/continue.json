@@ -4716,7 +4716,14 @@
             "1010296.adoric-om.com",
             "101046.api-05.com",
             "101089.gsspcln.jp",
-            "101067.sprout-ad.com"
+            "101067.sprout-ad.com",
+            "1010data.com",
+            "1010fz.com",
+            "1010le.com",
+            "1010win.com",
+            "1011.hostedprebid.com",
+            "101109.gsspcln.jp",
+            "101171.gsspcln.jp"
         ],
         "INACTIVE": [
             "01.yd-jun.com",
@@ -5035,7 +5042,8 @@
             "1006-ant.conversive.nl",
             "10086.cn.baidu.cdn.yiwk.com",
             "100pure.ositracker.com",
-            "101.liveadvert.com"
+            "101.liveadvert.com",
+            "10112.engine.mobileapptracking.com"
         ]
     }
 }
