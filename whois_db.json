@@ -6079,6 +6079,11 @@
         "expiration_date": "30-mar-2022",
         "state": "future"
     },
+    "100twitterfollowers.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "100voyeur.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
@@ -6102,6 +6107,16 @@
     "100webspace.net": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "100widgets.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "100xmjj.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "101-bike.com": {
