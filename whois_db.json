@@ -4490,23 +4490,38 @@
         "state": "future"
     },
     "0gw7e6s3wrao9y3q.pro": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "0h6djpk8fn.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "0hacks.com": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "0hiolce.com": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "0hna.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "0hz.net": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "0i0i0i0.com": {
+        "epoch": 1680998400.0,
+        "expiration_date": "09-apr-2023",
         "state": "future"
     },
     "0icep80f.com": {
@@ -4517,6 +4532,16 @@
     "0iecfobt.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "0instant.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "0j7z9aw6.top": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "0j8.ru": {
@@ -4554,9 +4579,24 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "0ka.com": {
+        "epoch": 1679184000.0,
+        "expiration_date": "19-mar-2023",
+        "state": "future"
+    },
+    "0kgg.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "0ki.ru": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "0klxjejyxak3.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "0llii0g6.com": {
