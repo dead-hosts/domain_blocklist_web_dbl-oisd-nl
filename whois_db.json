@@ -5045,13 +5045,18 @@
         "state": "future"
     },
     "0x0x.co": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "0x1f4b0.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "0x21.in": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "0x5.me": {
@@ -5059,14 +5064,49 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "0xbitconnect.co": {
+        "epoch": 1647043200.0,
+        "expiration_date": "12-mar-2022",
+        "state": "future"
+    },
+    "0xf.org": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
+    "0xi.com.pl": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "0xi.pl": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "0xiaoshuo.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "0xm.com.pl": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "0xne.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "0xproject.org": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "0xsearch.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "0xtoken.com": {
@@ -5075,9 +5115,14 @@
         "state": "future"
     },
     "0xxd.com": {
-        "epoch": 1569715200.0,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "0y2im3ma.ru": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
     },
     "0y5.ru": {
         "epoch": 1584057600.0,
@@ -5099,6 +5144,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "0yoxbd9y3xya.biz": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
     "0yt.ru": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
@@ -5118,6 +5168,11 @@
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
         "state": "future"
+    },
+    "0z5jn.cn": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "past"
     },
     "0z8.ru": {
         "epoch": 1597708800.0,
@@ -5169,9 +5224,39 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "1-20.ru": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "1-2005-search.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "1-3-3-7.net": {
+        "epoch": 1861920000.0,
+        "expiration_date": "01-jan-2029",
+        "state": "future"
+    },
     "1-718-475-9088.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "1-800-callmenow.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "1-800-helpnow.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "1-800-mail.com": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "1-800-skilift.com": {
@@ -5179,9 +5264,29 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "1-99seo.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "1-best.ru": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
     "1-blackjack.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "1-callalaska.com": {
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "state": "future"
+    },
+    "1-callchina.com": {
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
         "state": "future"
     },
     "1-casino-gambling-online.com": {
@@ -5217,6 +5322,11 @@
     "1-extreme.biz": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
+        "state": "past"
+    },
+    "1-free-share-buttons.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "1-meds.com": {
@@ -5234,14 +5344,24 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "1-online-generic.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "1-online-pharm.org": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "1-online.top": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "1-pharm.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "1-poker-games.biz": {
@@ -5250,8 +5370,13 @@
         "state": "future"
     },
     "1-pregnant-sex.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "1-remont.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "1-se.com": {
@@ -5260,8 +5385,8 @@
         "state": "future"
     },
     "1-search-engine-marketing.net": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "1-stomatolog.ru": {
@@ -5272,6 +5397,11 @@
     "1-support.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "1-tech.brussels": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "1-vinstaller.com": {
