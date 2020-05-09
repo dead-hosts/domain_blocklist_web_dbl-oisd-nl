@@ -3885,8 +3885,8 @@
         "state": "future"
     },
     "0ad.net": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "0ae.cn": {
@@ -3922,17 +3922,17 @@
     "0apr-creditcard.sale": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcards-now.sale": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcards-zone.live": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcards.market": {
         "epoch": 1602979200.0,
@@ -3942,22 +3942,22 @@
     "0apr-creditcardspot.sale": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcardssite.sale": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcardsspot.sale": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0apr-creditcardszone.sale": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprbankcard-deals.live": {
         "epoch": 1577577600.0,
@@ -4057,22 +4057,22 @@
     "0aprcreditcard-deals.rocks": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-guide.rocks": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-guides.live": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-guides.sale": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-now.live": {
         "epoch": 1602806400.0,
@@ -4092,42 +4092,42 @@
     "0aprcreditcard-site.sale": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-sites.rocks": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-zone.live": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard-zone.market": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard.live": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard.rocks": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcard.sale": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcarddeal.market": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardnow.rocks": {
         "epoch": 1569801600.0,
@@ -4137,32 +4137,32 @@
     "0aprcreditcardoption.sale": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardpro.com": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "0aprcreditcards-now.sale": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcards.live": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcards.sale": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardsdeal.sale": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardsite.live": {
         "epoch": 1569801600.0,
@@ -4182,7 +4182,7 @@
     "0aprcreditcardsoffer.rocks": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardspot.live": {
         "epoch": 1569715200.0,
@@ -4197,7 +4197,7 @@
     "0aprcreditcardsspot.sale": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0aprcreditcardzone.live": {
         "epoch": 1569801600.0,
@@ -4220,8 +4220,8 @@
         "state": "future"
     },
     "0b6h.cn": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "0b9d84d93f1b.com": {
@@ -4237,7 +4237,7 @@
     "0ba78f946b44b89512810cd0ed4ab48d.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0ba78f946b44b89512810cd0ed4ab48g.com": {
         "epoch": 1583884800.0,
@@ -4254,9 +4254,19 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "0bc.top": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "0be4d6207ed4.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "0bq.ru": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "0bsidian.net": {
@@ -4269,9 +4279,19 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "0bucksforpornmovie.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "0byv9mgbn0.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "0c8a10b46fc6.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "0cat.com": {
@@ -4289,9 +4309,24 @@
         "expiration_date": "21-sep-2021",
         "state": "future"
     },
+    "0cf40a2064ce2.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "0cj.net": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
+    "0d2.ru": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "0d3vx.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "0d847862199.com": {
@@ -4312,6 +4347,11 @@
     "0day-exchange.com": {
         "epoch": 1626825600.0,
         "expiration_date": "21-jul-2021",
+        "state": "future"
+    },
+    "0day4today.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "0daymusic.biz": {
