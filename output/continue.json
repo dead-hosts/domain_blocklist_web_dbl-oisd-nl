@@ -4701,7 +4701,22 @@
             "101-vix-260.mktoresp.com",
             "101-vcd-610.mktoresp.com",
             "101-website-traffic.com",
-            "101-wmj-500.mktoresp.com"
+            "101-wmj-500.mktoresp.com",
+            "101.affex.org",
+            "101.6.87.194.dynamic.dol.ru",
+            "101.com.com",
+            "101.edufav.com",
+            "101.livere.co.kr",
+            "101.nowfind.net",
+            "101.myz.info",
+            "101.www1.biz",
+            "1010.archi",
+            "101028.com",
+            "1010001.qzone.qq.com",
+            "1010296.adoric-om.com",
+            "101046.api-05.com",
+            "101089.gsspcln.jp",
+            "101067.sprout-ad.com"
         ],
         "INACTIVE": [
             "01.yd-jun.com",
@@ -5019,7 +5034,8 @@
             "10052.debug.engine.mobileapptracking.com",
             "1006-ant.conversive.nl",
             "10086.cn.baidu.cdn.yiwk.com",
-            "100pure.ositracker.com"
+            "100pure.ositracker.com",
+            "101.liveadvert.com"
         ]
     }
 }
