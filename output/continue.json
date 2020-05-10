@@ -4723,7 +4723,15 @@
             "1010win.com",
             "1011.hostedprebid.com",
             "101109.gsspcln.jp",
-            "101171.gsspcln.jp"
+            "101171.gsspcln.jp",
+            "101201.gsspcln.jp",
+            "101187.gsspcln.jp",
+            "1013.content.swrve.com",
+            "1013.ns1.above.com",
+            "1013.ns2.above.com",
+            "10132389.fls.doubleclick.net",
+            "101361.hittail.com",
+            "10133b73483a5dec669a594094a0511c.me-talk.ru"
         ],
         "INACTIVE": [
             "01.yd-jun.com",
@@ -5043,7 +5051,11 @@
             "10086.cn.baidu.cdn.yiwk.com",
             "100pure.ositracker.com",
             "101.liveadvert.com",
-            "10112.engine.mobileapptracking.com"
+            "10112.engine.mobileapptracking.com",
+            "10122.165-227-83-163.site",
+            "10121.165-227-83-163.site",
+            "10123.165-227-83-163.site",
+            "10130.engine.mobileapptracking.com"
         ]
     }
 }
