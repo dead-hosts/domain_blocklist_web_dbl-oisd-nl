@@ -259,6 +259,11 @@
         "expiration_date": "18-jun-2022",
         "state": "future"
     },
+    "000mobility99440.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
     "000o9jtv2.ru": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -1014,6 +1019,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "010sec.com": {
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
+    },
     "010teacher.com": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
@@ -1427,6 +1437,11 @@
     "02-z7x68frwq4o3e.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "0202.com.tw": {
+        "epoch": 1745539200.0,
+        "expiration_date": "25-apr-2025",
         "state": "future"
     },
     "020620.com": {
