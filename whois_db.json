@@ -454,6 +454,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "002nuctra02.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
     "003.ua": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
