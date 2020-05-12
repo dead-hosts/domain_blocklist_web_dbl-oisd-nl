@@ -3344,6 +3344,16 @@
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
+    "087betcup.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "087celtabet.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
     "08819.com": {
         "epoch": 1643846400.0,
         "expiration_date": "03-feb-2022",
