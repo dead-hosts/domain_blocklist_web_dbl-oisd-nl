@@ -5674,6 +5674,16 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "1000tlpandemibasvurusu.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
+    },
+    "1000tlpotdemibasvurusu.org": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
+    },
     "1000twitterfollowers.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -5757,6 +5767,11 @@
     "1001parfumz.ru": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "10022020newfolder33417-01242510022020.space": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "1003.org": {
@@ -6462,6 +6477,11 @@
     "1029photography.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "102bank.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "103092804.com": {
