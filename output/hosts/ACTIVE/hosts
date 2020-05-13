@@ -2205,8 +2205,8 @@
 0.0.0.0 0aprcreditcard-site.sale
 0.0.0.0 0aprcreditcard-sites.rocks
 0.0.0.0 0aprcreditcards.live
-0.0.0.0 0aprcreditcards-now.sale
 0.0.0.0 0apr-creditcards-now.sale
+0.0.0.0 0aprcreditcards-now.sale
 0.0.0.0 0aprcreditcardsoffer.rocks
 0.0.0.0 0apr-creditcardspot.sale
 0.0.0.0 0aprcreditcards.sale
@@ -4605,6 +4605,7 @@
 0.0.0.0 102.statdynamic.com
 0.0.0.0 102-vzs-273.mktoresp.com
 0.0.0.0 103.6.87.194.dynamic.dol.ru
+0.0.0.0 103.affex.org
 0.0.0.0 103-ile-130.mktoresp.com
 0.0.0.0 103-qcf-311.mktoresp.com
 0.0.0.0 103-spe-204.mktoresp.com
