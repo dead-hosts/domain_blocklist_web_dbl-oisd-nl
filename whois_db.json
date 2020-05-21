@@ -1285,9 +1285,9 @@
         "state": "future"
     },
     "017gj.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
     },
     "0184.com": {
         "epoch": 1675468800.0,
@@ -1420,9 +1420,9 @@
         "state": "future"
     },
     "01jud3v55z.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
     },
     "01kao.com": {
         "epoch": 1610928000.0,
@@ -1664,6 +1664,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "023pc.cn": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "023qiangzhi.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -1687,6 +1692,11 @@
     "024xinxing.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "024xuyisheng.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "0255112.com": {
@@ -1764,9 +1774,19 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "028-dj.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "0285.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "028cdxyk.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "028happy.com": {
@@ -1857,6 +1877,11 @@
     "02ip.ru": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "02k.pl": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "02kdid.com": {
