@@ -5534,6 +5534,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "1-grosses.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "1-meds.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
@@ -5552,6 +5557,11 @@
     "1-online-generic.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "1-online-pharm.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "1-online-pharm.org": {
@@ -5594,6 +5604,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "1-sexe-gratuit.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "1-stomatolog.ru": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
@@ -5610,9 +5625,9 @@
         "state": "future"
     },
     "1-vinstaller.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "1-zigzag.ru": {
         "epoch": 1586995200.0,
@@ -5669,6 +5684,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "100-unidades-disponiveis.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
+    },
     "1000-like.com": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
@@ -5719,6 +5739,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "1000bbw.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "1000bytes.com": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
@@ -5727,6 +5752,11 @@
     "1000cumshots.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "1000dverei.by": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "1000dy.com": {
@@ -5859,6 +5889,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "1000wordessay.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "1000xbetslots.xyz": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -5897,6 +5932,11 @@
     "1001cloud.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "1001frikadas.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "1001lingerie.com": {
@@ -5994,6 +6034,11 @@
         "expiration_date": "27-may-2020",
         "state": "future"
     },
+    "10086w.net": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
     "100888290cs.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -6044,15 +6089,20 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "100complex.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "100cpc.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "100dayloans.co.uk": {
-        "epoch": 1572825600.0,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
     },
     "100dayloans.com": {
         "epoch": 1629849600.0,
@@ -6139,6 +6189,16 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "100genoa.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "100giveaways.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "100gzjlb.cn": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -6214,6 +6274,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "100percent-online.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "100percentcommissionforrealtors.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -6237,6 +6302,16 @@
     "100ppp.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "100proc.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "100puntos.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "100relayed.co": {
@@ -6272,6 +6347,11 @@
     "100sofrecipes.com": {
         "epoch": 1639785600.0,
         "expiration_date": "18-dec-2021",
+        "state": "future"
+    },
+    "100sponsors.com": {
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
         "state": "future"
     },
     "100sport.tv": {
@@ -6434,6 +6514,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "101billion.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "101chesstips.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -6467,6 +6552,11 @@
     "101floor.ru": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "101gaytwinks.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "101h.com": {
@@ -6515,8 +6605,8 @@
         "state": "future"
     },
     "101malls.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "101mastranttac20.club": {
@@ -6650,8 +6740,8 @@
         "state": "future"
     },
     "103092804.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "103333.com": {
