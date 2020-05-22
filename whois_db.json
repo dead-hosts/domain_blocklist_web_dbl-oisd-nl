@@ -1800,8 +1800,8 @@
         "state": "future"
     },
     "028lang.com": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "028xmz.com": {
@@ -2434,6 +2434,11 @@
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
+    "0518dfgwert.xyz": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
     "0519.org": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -2515,8 +2520,8 @@
         "state": "future"
     },
     "0537sms.cn": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "0538100.com": {
@@ -2555,9 +2560,9 @@
         "state": "future"
     },
     "0551zgz.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "0553news.com": {
         "epoch": 1617321600.0,
@@ -2600,8 +2605,8 @@
         "state": "future"
     },
     "056789.cn": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "056intn.cn": {
@@ -2660,8 +2665,8 @@
         "state": "future"
     },
     "05773cbg.com.cn": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "0577808.cn": {
@@ -3394,9 +3399,14 @@
         "expiration_date": "15-jan-2021",
         "state": "future"
     },
+    "0852gck.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "085vip.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "086611.com": {
