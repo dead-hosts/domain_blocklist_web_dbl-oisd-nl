@@ -6764,6 +6764,11 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "104bay.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "105.pl": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
