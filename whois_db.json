@@ -3579,6 +3579,11 @@
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
+    "0900-camsex.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
     "0900.biz.ua": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -4017,6 +4022,11 @@
     "0a4bcef12091ce7.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "0aaa.com": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "0aae.com": {
@@ -4684,6 +4694,11 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "0io.pl": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
     "0j7z9aw6.top": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
@@ -4715,8 +4730,8 @@
         "state": "future"
     },
     "0jzxzd21.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "0k4.ru": {
@@ -4742,6 +4757,11 @@
     "0klxjejyxak3.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "0kulen.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "0llii0g6.com": {
@@ -5039,9 +5059,19 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "0ssl.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "0stats.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "0stcd.pl": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "0sywjs4r1x.com": {
@@ -5067,6 +5097,16 @@
     "0torrent.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "0tw9re3.com": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "0u48ltm1ok.ru": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "0uk.net": {
@@ -5119,6 +5159,21 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "0vip0.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
+    "0vivowater.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "0vsgqxbxk66w.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
     "0w1rqq69fi0e.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
@@ -5135,8 +5190,8 @@
         "state": "future"
     },
     "0w7.ru": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "0wf.net": {
@@ -5187,6 +5242,11 @@
     "0x0049.cloud": {
         "epoch": 1660867200.0,
         "expiration_date": "19-aug-2022",
+        "state": "future"
+    },
+    "0x01n2ptpuz3.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "0x0x.co": {
@@ -5325,13 +5385,13 @@
         "state": "future"
     },
     "0zf.ru": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "0zg.ru": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "0zw.ru": {
