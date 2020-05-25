@@ -6969,6 +6969,11 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "10bet881088.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "10betcasino.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -7080,8 +7085,8 @@
         "state": "future"
     },
     "10gays.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "10gb-qnbfinansbank.com": {
@@ -7090,8 +7095,18 @@
         "state": "future"
     },
     "10gbfreehost.com": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "10gram.ru": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "10host.top": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "10immobilien.com": {
