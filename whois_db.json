@@ -6885,8 +6885,8 @@
         "state": "future"
     },
     "108k.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "108lucky.com": {
@@ -6897,6 +6897,11 @@
     "108shot.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "past"
+    },
+    "108studija.lt": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "109988.com": {
