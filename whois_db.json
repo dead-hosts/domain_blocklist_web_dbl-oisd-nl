@@ -6934,6 +6934,21 @@
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
+    "10b883b3d61d.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "10bestantivirus.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "10bestantivirusreviews.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "10bestbingorooms.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
