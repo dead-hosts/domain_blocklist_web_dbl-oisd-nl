@@ -9409,19 +9409,39 @@
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
+    "12724.xyz": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "127yjs.com": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
         "state": "future"
+    },
+    "128-cn.com": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "1281984.com": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "past"
     },
     "128238.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "128b.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "128bitninja.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "128cash.org": {
@@ -9430,8 +9450,8 @@
         "state": "future"
     },
     "128casino.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "128construction.com": {
@@ -9439,9 +9459,14 @@
         "expiration_date": "25-dec-2019",
         "state": "future"
     },
+    "1298bab69bbc4.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "129ji7ymdw.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "129ossington.com": {
@@ -9452,6 +9477,11 @@
     "12a.ee": {
         "epoch": 1631836800.0,
         "expiration_date": "17-sep-2021",
+        "state": "future"
+    },
+    "12ama.com": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "12apostles.co.uk": {
@@ -9480,13 +9510,13 @@
         "state": "future"
     },
     "12betid.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "12betidr.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "12biying.com": {
@@ -9494,9 +9524,19 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "12cdee5830.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "12cpm.com": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "12dailypro.com": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "12daysbook.com": {
@@ -9509,9 +9549,14 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "12directions.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "12finance.com": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "12fou.com": {
@@ -9534,29 +9579,64 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "12inv.com": {
+        "epoch": 1648080000.0,
+        "expiration_date": "24-mar-2022",
+        "state": "future"
+    },
     "12j3xio9h5bbjr7yvof1o7hdp4.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "12jf3.cn": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "12js.org": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "12l22.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "12lib.org": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "12masterov.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "12mlbe.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "12mnkys.com": {
+        "epoch": 1668643200.0,
+        "expiration_date": "17-nov-2022",
         "state": "future"
     },
     "12month.loan": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "past"
+    },
+    "12online.ga": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "12place.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "12ppp.com": {
@@ -9574,9 +9654,24 @@
         "expiration_date": "23-nov-2020",
         "state": "future"
     },
+    "12rge.xyz": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "12rng.cn": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "past"
+    },
     "12roundsboxing.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "12sdf3.xyz": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "12startpage.com": {
@@ -9589,9 +9684,19 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "12steptoolkit.com": {
+        "epoch": 1656374400.0,
+        "expiration_date": "28-jun-2022",
+        "state": "future"
+    },
     "12teens.top": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "12thegamejuststarted10k12.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "12tk.com": {
@@ -9599,9 +9704,19 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "12u.info": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "12v3.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "12wd87h.top": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "12xa.pl": {
@@ -9622,6 +9737,11 @@
     "13008.com": {
         "epoch": 1755820800.0,
         "expiration_date": "22-aug-2025",
+        "state": "future"
+    },
+    "1300move.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "13013957786.com": {
@@ -9645,8 +9765,13 @@
         "state": "future"
     },
     "1302cc.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1651968000.0,
+        "expiration_date": "08-may-2022",
+        "state": "future"
+    },
+    "1305668.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "1308.com": {
@@ -9662,6 +9787,11 @@
     "1311xsj.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "131377.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "1313innovation.com": {
@@ -9684,9 +9814,19 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "13148990763.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "1314dh.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
+    },
+    "1314huadian.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "1314pb.com": {
@@ -9694,14 +9834,24 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "1314sss.top": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "13190546cd1dec9bbdc.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "131crossfit.com.br": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "132.com": {
+        "epoch": 1699228800.0,
+        "expiration_date": "06-nov-2023",
         "state": "future"
     },
     "13233fiji.com": {
