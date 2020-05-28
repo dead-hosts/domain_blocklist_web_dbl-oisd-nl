@@ -9859,6 +9859,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "13287469.best": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "13333138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -9867,6 +9872,11 @@
     "13334.com": {
         "epoch": 1669334400.0,
         "expiration_date": "25-nov-2022",
+        "state": "future"
+    },
+    "1337.support": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "1337bid.com": {
@@ -9880,8 +9890,13 @@
         "state": "future"
     },
     "1337crew.info": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "1337cvv.xyz": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "1337day.net": {
@@ -9889,9 +9904,19 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "1337forums.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "1337nation.com": {
         "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "1337x.io": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "1337x.net": {
@@ -9899,14 +9924,24 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "133848.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
     "133933.com": {
         "epoch": 1687737600.0,
         "expiration_date": "26-jun-2023",
         "state": "future"
     },
+    "1341evensong.com": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "1344.info": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "13485-support.com": {
@@ -9920,8 +9955,13 @@
         "state": "future"
     },
     "135105.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
+    },
+    "13549642320.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "1359123.com": {
@@ -9944,6 +9984,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "136136.com": {
+        "epoch": 1658448000.0,
+        "expiration_date": "22-jul-2022",
+        "state": "future"
+    },
     "136136.net": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -9952,6 +9997,11 @@
     "136178.com": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "136501.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "1366003.com": {
@@ -9964,14 +10014,24 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "136dzd.com": {
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "state": "future"
+    },
     "136gg.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "136ls.com": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "137311.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "1377.com": {
@@ -9999,29 +10059,44 @@
         "expiration_date": "28-dec-2022",
         "state": "future"
     },
+    "137wg.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
     "138.com": {
         "epoch": 1830988800.0,
         "expiration_date": "09-jan-2028",
         "state": "future"
     },
+    "138033.com": {
+        "epoch": 1718668800.0,
+        "expiration_date": "18-jun-2024",
+        "state": "future"
+    },
     "1380958.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "1380968.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "1385522.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "138638.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "138689.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "13878.com": {
@@ -10064,9 +10139,24 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "13900139000.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "13903825045.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "1391.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "13932685557.cn": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "13996.net": {
