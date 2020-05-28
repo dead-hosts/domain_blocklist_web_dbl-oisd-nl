@@ -11620,8 +11620,8 @@
         "state": "future"
     },
     "1800550.net": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "1800ambulance.net": {
@@ -11632,6 +11632,11 @@
     "1800banners.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "1800candrug.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "1800cnt.com": {
@@ -11645,8 +11650,8 @@
         "state": "past"
     },
     "1800customercare.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "1800freecams.com": {
@@ -11659,6 +11664,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "1800gotsupport.com": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
     "1800laserdr.net": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -11669,14 +11679,44 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "1800omniture.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "1800propainter.com": {
+        "epoch": 1708041600.0,
+        "expiration_date": "16-feb-2024",
+        "state": "future"
+    },
+    "1800shopnet.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "1800taxfree.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "1800techsupport.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "18022020.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "18025339146.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "1808.com": {
+        "epoch": 1671580800.0,
+        "expiration_date": "21-dec-2022",
         "state": "future"
     },
     "180bets.com": {
@@ -11689,14 +11729,24 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "180haifa.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "180risk.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "180searchassistant.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
     "180solutions.net": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "180tk.com": {
@@ -11720,23 +11770,33 @@
         "state": "future"
     },
     "181368.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "1816soso.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "1817520.cn": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "1818-man.com": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "1818bobo.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "181ue.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "182257.com": {
