@@ -7644,6 +7644,11 @@
         "expiration_date": "19-jan-2022",
         "state": "future"
     },
+    "111ct.cn": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
     "111ea.org": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
@@ -7799,6 +7804,11 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "114kk.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "114la.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -7947,6 +7957,11 @@
     "118.cc": {
         "epoch": 1833148800.0,
         "expiration_date": "03-feb-2028",
+        "state": "future"
+    },
+    "118114.cn": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "118118-accountants.co.uk": {
@@ -8122,6 +8137,11 @@
     "11abcd.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "11ad.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "11alivenews.com": {
@@ -8619,6 +8639,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "1235k.com": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
     "12363138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -8884,9 +8909,19 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "123hp-printer.xyz": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "123hp-support.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "123hp123.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "123hpprintersetup-support.com": {
@@ -8972,6 +9007,11 @@
     "123kuma.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "123ky.online": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "123laceypink.com": {
@@ -9285,8 +9325,8 @@
         "state": "future"
     },
     "123xxl.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "123xyzn.top": {
@@ -9565,8 +9605,8 @@
         "state": "future"
     },
     "12gbfree.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "12hack.com": {
@@ -9720,8 +9760,8 @@
         "state": "future"
     },
     "12xa.pl": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "12xhardcore.com": {
@@ -10179,6 +10219,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "13bbs.info": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "13bills.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -10187,6 +10232,16 @@
     "13os.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "13pope.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "13rgb14t2b.trade": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "13ss.info": {
@@ -10205,8 +10260,8 @@
         "state": "future"
     },
     "13ux.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "13vlib.com": {
@@ -10215,13 +10270,33 @@
         "state": "future"
     },
     "13vm73vbmp.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
+    "13wn.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "13wnjs.com": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "13yg.cn": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "14-8000.ru": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "140game.com": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "140proof.com": {
@@ -10230,8 +10305,8 @@
         "state": "future"
     },
     "14119276be0852.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "1411xsj.com": {
@@ -10244,6 +10319,11 @@
         "expiration_date": "05-jul-2022",
         "state": "future"
     },
+    "14198.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "141uu.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -10252,6 +10332,11 @@
     "142904.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "1431f15e2fe8ba0f1f2.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "143fuck.com": {
