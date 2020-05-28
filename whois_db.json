@@ -8070,8 +8070,8 @@
         "state": "future"
     },
     "11990.com": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
         "state": "future"
     },
     "119946.com": {
@@ -8084,24 +8084,44 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "119gm.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "119hghg.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "119support.com": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
+    },
     "119ye.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "119yy.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "11a-klass-tube.info": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
+    "11a581bbb5038e.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "11abcd.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "11alivenews.com": {
@@ -8110,8 +8130,8 @@
         "state": "future"
     },
     "11bag11.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "11bet.com": {
@@ -8124,14 +8144,34 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "11bet.win": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "11ccda709b5cdf5.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "11fhfh.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "11flexiblebig9.website": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "11gate.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
     "11gmail.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "11hour.com": {
@@ -8140,8 +8180,8 @@
         "state": "future"
     },
     "11hrcnll.com": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "11jamesjacksondrive.com": {
@@ -8159,9 +8199,14 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "11m.online": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "11maj.rs": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "11northatwhiteoak.com": {
@@ -8184,9 +8229,19 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "11plus.hk": {
+        "epoch": 1680307200.0,
+        "expiration_date": "01-apr-2023",
+        "state": "future"
+    },
     "11pluslibrary.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "11rc.biz": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "11rfs.com": {
@@ -8202,6 +8257,11 @@
     "11staeskaisd.world": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "11support.com": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "11t88.com": {
@@ -8225,18 +8285,38 @@
         "state": "future"
     },
     "11vet.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "11wealth.com": {
+        "epoch": 1689984000.0,
+        "expiration_date": "22-jul-2023",
+        "state": "future"
+    },
+    "11wishes.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "11x11.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "11xhxh.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "11xjxj.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "11yuehui.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "11zz.com": {
@@ -8259,6 +8339,11 @@
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
+    "120775.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "past"
+    },
     "1208.cc": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -8274,6 +8359,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "120care.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "120fsbyy.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
@@ -8282,6 +8372,11 @@
     "120hanzhong.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "120mail.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "120td.com": {
@@ -8299,6 +8394,21 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "1217bye.host": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "121computersupport.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "121jt.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "121media.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
@@ -8314,6 +8424,16 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "121support.net": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "121usa.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "122144.com": {
         "epoch": 1717200000.0,
         "expiration_date": "01-jun-2024",
@@ -8322,6 +8442,11 @@
     "1221e236c3f8703.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "1226bye.xyz": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "1227.com": {
@@ -8339,9 +8464,24 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "122uc.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "123-com.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "123-helpme.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "123-hp-com-support.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "123-hp-support.info": {
@@ -8359,9 +8499,19 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "123-movie.us": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "123-onlinecasino.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "123-ptp.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "123-sign-making-equipment-and-supplies.com": {
@@ -8375,8 +8525,13 @@
         "state": "future"
     },
     "123-tracker.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "123-vidz.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "123-watch.com": {
@@ -8387,6 +8542,11 @@
     "123.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "123.support": {
+        "epoch": 1674518400.0,
+        "expiration_date": "24-jan-2023",
         "state": "future"
     },
     "12306media.com": {
@@ -8417,6 +8577,11 @@
     "123456.click": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "1234567bet.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "12345ee.com": {
