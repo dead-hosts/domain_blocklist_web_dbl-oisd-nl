@@ -10499,6 +10499,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "140teakwood.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "14119276be0852.com": {
         "epoch": 1620777600.0,
         "expiration_date": "12-may-2021",
@@ -10524,6 +10529,11 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "1423-thurman.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "142904.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -10547,6 +10557,16 @@
     "144n.com": {
         "epoch": 1651968000.0,
         "expiration_date": "08-may-2022",
+        "state": "future"
+    },
+    "1455signinservice.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "1469-squid.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "1477w.com": {
@@ -10667,6 +10687,11 @@
     "150365.net": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "1504setup.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "150ans-premiere-internationale.org": {
@@ -10804,6 +10829,11 @@
         "expiration_date": "06-feb-2023",
         "state": "future"
     },
+    "1569webappssupport.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "156ya.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -10812,6 +10842,11 @@
     "1571537.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "1572599.com": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "157ita684j.com": {
@@ -10852,6 +10887,11 @@
     "158makrobet.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "1592nestorimplausible.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "159800.com": {
@@ -10960,8 +11000,8 @@
         "state": "future"
     },
     "15tianqi.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "15x.info": {
@@ -10992,6 +11032,11 @@
     "1618999.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "1619services.com": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "161k.com": {
@@ -11189,6 +11234,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "168vpn.cn": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
+    },
     "168vpn.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -11355,8 +11405,8 @@
         "state": "future"
     },
     "1711811.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "1711xsj.com": {
@@ -11412,6 +11462,11 @@
     "172ipkuobc.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "172princessbet.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "1734baystreet.com": {
@@ -11484,6 +11539,11 @@
         "expiration_date": "12-may-2021",
         "state": "future"
     },
+    "17435.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "17511.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
@@ -11502,6 +11562,11 @@
     "176790.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "1769337.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "1769mp4.com": {
@@ -11552,6 +11617,11 @@
     "177tour.com.tw": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "178227.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "1788111.com": {
