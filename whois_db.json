@@ -16879,9 +16879,14 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "2017airmax90.us": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "2017smartphonemaster.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "2018-halkbank.com": {
@@ -16924,9 +16929,19 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "2018haoyunlai.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "2018jsci.org": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "2018mart.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "2018tradeschool.com": {
@@ -16940,8 +16955,8 @@
         "state": "future"
     },
     "2018truckshome.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "2019-cekilisleri.com": {
@@ -16957,6 +16972,11 @@
     "20192019888.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "2019bracket.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "2019miservicios.com": {
@@ -16984,14 +17004,44 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "2019warning.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "201ddlyh.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "201mb.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "2020-coronavirus.ru": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "2020-covid-19.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "2020-giveaway.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "2020-updater-secure-pay.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "202055.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "202088888.com": {
@@ -17003,6 +17053,16 @@
         "epoch": 1570492800.0,
         "expiration_date": "08-oct-2019",
         "state": "past"
+    },
+    "2020bill.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "2020helphealth.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
     },
     "2020iscoming.info": {
         "epoch": 1595635200.0,
@@ -17019,6 +17079,16 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "2020search.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "2020seminars.net": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "2020services.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
@@ -17027,6 +17097,11 @@
     "2020software.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "2020warning.com": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "2022cm.com": {
@@ -17074,14 +17149,19 @@
         "expiration_date": "05-may-2021",
         "state": "future"
     },
+    "2027.se": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
     "20297.com": {
         "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
     },
     "202ch.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "20333.com": {
@@ -17124,19 +17204,44 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "206361.com": {
+        "epoch": 1642118400.0,
+        "expiration_date": "14-jan-2022",
+        "state": "future"
+    },
+    "206427.com": {
+        "epoch": 1642118400.0,
+        "expiration_date": "14-jan-2022",
+        "state": "future"
+    },
+    "206975.com": {
+        "epoch": 1642118400.0,
+        "expiration_date": "14-jan-2022",
+        "state": "future"
+    },
+    "2069brackets.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "206ads.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "206solutions.com": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1646697600.0,
+        "expiration_date": "08-mar-2022",
         "state": "future"
     },
     "2070modern.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "207288.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "2077707.ru": {
