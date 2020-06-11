@@ -15265,28 +15265,38 @@
         "state": "future"
     },
     "1skd8dl5qm6qllc.ru": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "1slo.pl": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "1smart.nu": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "1speed.info": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "1speedup.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "1spoker.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "1spoker.net": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "1sponsor.com": {
@@ -15314,9 +15324,29 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "1ssee.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "1st-bitcoin.ru": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "1st-bitkoin.ru": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "1st-canadian-pharmacy.net": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "1st-cash.net": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "1st-cryptobank.com": {
@@ -15325,18 +15355,23 @@
         "state": "future"
     },
     "1st-fuss.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "1st-iklan.com": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "1st-investment.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "1st-night.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "1st-online-pharmacy.org": {
@@ -15354,14 +15389,39 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "1st-profits.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "1st-rx-hq.net": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
     "1st-support-shop.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "1st-support.com": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "1st-support.info": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "1st-urist.ru": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "1st.technology": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "1st.yt": {
@@ -15369,9 +15429,19 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "1st2nd.xyz": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "1stand2ndmortgage.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "1stantivirus.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "1stat.ru": {
@@ -15379,9 +15449,24 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "1stbest.info": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "1stblaze.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "1stbux.com": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
+    "1stcanadianpharmacyy.com": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "1stcelebritysite.com": {
@@ -15389,9 +15474,19 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "1stchoicefinanceltd.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "1stchoicepestcontrol.co.za": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "1stcircuit.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "1stclassbarbers.com": {
@@ -15399,14 +15494,39 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "1stclasshumidors.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "1stcoronatest.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "1stdrugstore.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "1stduetraining.com": {
         "epoch": 1644710400.0,
         "expiration_date": "13-feb-2022",
         "state": "future"
     },
+    "1stepdatabase.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "1stessays.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "1stfind.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "1stforcarhireitaly.com": {
@@ -15424,6 +15544,16 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "1stghs.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "1stglobalcapitalinvestors.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "1stireland.com": {
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
@@ -15435,8 +15565,8 @@
         "state": "future"
     },
     "1stmalta.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "1stmobilemedia.com": {
@@ -15449,19 +15579,29 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "1stnavalalliance.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "1stniag.com": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "1stok.com": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "1stop-entertainment.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "1stopalert.com": {
+        "epoch": 1640476800.0,
+        "expiration_date": "26-dec-2021",
         "state": "future"
     },
     "1stopautorepairs.net": {
@@ -15479,9 +15619,19 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "1stoppos.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "1stopprintportal.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "1stoptravelagent.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "1stpagehere.com": {
@@ -15499,19 +15649,34 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "1stpubs.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "1strxshop.net": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "1stsafety.co.za": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "1stselections.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "1stserp.com": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "1stsneakers.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "1stspywarekiller.com": {
@@ -15525,8 +15690,8 @@
         "state": "future"
     },
     "1sttheglobal.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "1sttheworld.co": {
@@ -15539,9 +15704,19 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "1sttheworld.online": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "1studio.net": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "1stviagra.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "1su.com": {
@@ -15549,9 +15724,29 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "1suntrustsonline.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "1sweethost.com": {
         "epoch": 1642809600.0,
         "expiration_date": "22-jan-2022",
+        "state": "future"
+    },
+    "1syn.info": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "1szychta.org.pl": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "1t6.ru": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "1t9p2f7d8j.com": {
@@ -15564,6 +15759,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "1taja.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
     "1tajrobe.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
@@ -15572,6 +15772,21 @@
     "1takip.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "1tdscpamedia.xyz": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "1techsupport.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "1tell1.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "1telus-mobility.com": {
@@ -15584,14 +15799,39 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "1thecity.biz": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "1tips2day.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "1tizer.ru": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "1tkcp.com": {
         "epoch": 1637020800.0,
         "expiration_date": "16-nov-2021",
         "state": "future"
     },
     "1tlm.cn": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "1tmail.club": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "1tmail.ltd": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "1to.app": {
@@ -15607,6 +15847,11 @@
     "1to500.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "1torrent-tv.ru": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "1trac.com": {
@@ -15629,14 +15874,39 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "1trx1.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "1ts06.top": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "1tsupport.ru": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "1txt.ru": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "1u9280.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "1uandun.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "1ule.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "1unblock.com": {
@@ -15654,6 +15924,31 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "1uno1xkktau4.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "1upserve.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "1ushop.ru": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "1v12.cn": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "1v7.cn": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "1v9280.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -15665,8 +15960,8 @@
         "state": "future"
     },
     "1vex.cn": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "1vibe.net": {
@@ -15700,8 +15995,8 @@
         "state": "future"
     },
     "1warie.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "1way2sex.dk": {
@@ -15710,13 +16005,28 @@
         "state": "future"
     },
     "1wcm.com": {
-        "epoch": 1568678400.0,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1684627200.0,
+        "expiration_date": "21-may-2023",
+        "state": "future"
+    },
+    "1web.me": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "1webmail.info": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "1webservice.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "1website.net": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "1webtools.com": {
@@ -15729,9 +16039,34 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "1wek.top": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "1wgapljizpfn3f1.xyz": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "1wildnight.com": {
         "epoch": 1626912000.0,
         "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "1win-pro.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "1winru.ru": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "1wish.net": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "1wkvvts8is.com": {
@@ -15745,8 +16080,18 @@
         "state": "future"
     },
     "1worldmarket.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "1worldonline.com": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "1writingservice.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "1wvw2jgkca.com": {
@@ -15759,9 +16104,19 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "1x-bet.pro": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "1x1rank.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "1x26q3.cn": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "1x2bet.net": {
@@ -15769,9 +16124,24 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "1x2hd.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "1x2plus.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "1x3we.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "1x3x.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "1x9280.com": {
@@ -15789,15 +16159,35 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "1xasz.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "1xbet-entry.ru": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
     "1xbet.com": {
         "epoch": 1882915200.0,
         "expiration_date": "01-sep-2029",
         "state": "future"
     },
-    "1xbetvn.com": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+    "1xbetonlines1.ru": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
+    },
+    "1xbetvn.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "1xgoz.top": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "past"
     },
     "1xirsp15.com": {
         "epoch": 1587772800.0,
@@ -15805,8 +16195,8 @@
         "state": "future"
     },
     "1xitong.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "1xpornhub.com": {
@@ -15824,14 +16214,64 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "1xredrdyg.world": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "1xslot-casino.site": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "1xslots-africa.site": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "1xslots-brasil.site": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "1xslots-casino.site": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "1xslots.africa": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "1xv4.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "1xz5jcshym5n.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "1y9y.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "1yk851od.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "1yyju.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
+    "1z8.ru": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "1z9280.com": {
@@ -15839,14 +16279,19 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "1zb2exp-5c6.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "1ze.net": {
-        "epoch": 1568764800.0,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "1zlyetcck7klyuy9.pro": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "1zp109.bid": {
@@ -15855,8 +16300,13 @@
         "state": "future"
     },
     "1zv9jakhux.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "2-4ujrc6d3p1.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "2-apple.com": {
@@ -15879,6 +16329,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "2-easy.xyz": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
     "2-extreme.biz": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
@@ -15889,9 +16344,14 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "2-go-now.xyz": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
     "2-navi.net": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "2-remove-virus.com": {
@@ -15910,8 +16370,8 @@
         "state": "future"
     },
     "2-viruses.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "2-wave.com": {
