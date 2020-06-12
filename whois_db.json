@@ -32359,9 +32359,19 @@
         "expiration_date": "24-may-2020",
         "state": "future"
     },
+    "3pey.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
     "3pf.ru": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "3pin1ge.cn": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "3pindia.in": {
@@ -32374,9 +32384,14 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "3poker855.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "3ponto7.com.br": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "3pornhub.com": {
@@ -32384,9 +32399,19 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "3pozsm.us": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "3ppmej2isw9h.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "3ppppp.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "3prince.com": {
@@ -32400,13 +32425,23 @@
         "state": "future"
     },
     "3proxy.ru": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "3psupport.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "3q-kwiatkowski.pl": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "3qf.ru": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "3qfedwxdbr.com": {
@@ -32419,9 +32454,29 @@
         "expiration_date": "17-mar-2021",
         "state": "future"
     },
+    "3qi.ru": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "3qmh.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "3qp3.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3qpharmacy.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "3qqq.net": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "3qqxx.com": {
@@ -32429,14 +32484,19 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "3qsys.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "3questionsgetthegirl.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "3qx.ru": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "3r.com.ua": {
@@ -32444,9 +32504,14 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "3r1hh.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "3r1kwxcd.top": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "3rabnews.org": {
@@ -32474,14 +32539,19 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "3rdeyeassociates.com": {
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
+    },
     "3rdfridaydurham.com": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "3rdimension.co.uk": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "3rdsectordev.com": {
@@ -32490,13 +32560,28 @@
         "state": "future"
     },
     "3rdstreetmarket.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "3redlightfix.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "3reh8rd23js9.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "3renbags.com": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "3review-paymentform3.co": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "3riversconvergence.org": {
@@ -32505,8 +32590,18 @@
         "state": "future"
     },
     "3rpagb7k11.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "3rs.ru": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "3rt56.top": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "3rwayink.com": {
@@ -32514,9 +32609,89 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "3s-home.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "3s-security.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "3s11g.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3s11y.top": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "3s143.top": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "3s14r.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "3s1gs.top": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "3s1gt.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3s1hg.top": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "3s1hh.top": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "3s1hs.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "3s1rf.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "3s1sd.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "3s1we.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3s1wh.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "3s1x1.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3s1xb.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "3s1xk.cn": {
@@ -32529,9 +32704,84 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "3s2gg.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "3s32.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "3s36h.top": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "3s3n.com": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "3s54w.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "3s5w1.top": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "3s622.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "3s622f.xyz": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "3s62c.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "3s654g.xyz": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "3s65hh.xyz": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "3s6df2.xyz": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "3s6g3.xyz": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "3s6gh.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "3s6h5.top": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "3s6hh.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "3sat.fr": {
@@ -32564,9 +32814,24 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "3shine.com": {
+        "epoch": 1826582400.0,
+        "expiration_date": "19-nov-2027",
+        "state": "future"
+    },
+    "3shopbr.com": {
+        "epoch": 1646524800.0,
+        "expiration_date": "06-mar-2022",
+        "state": "future"
+    },
     "3six9.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "3sk7d418al8u.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "3spension.com": {
@@ -32590,13 +32855,28 @@
         "state": "future"
     },
     "3starcandy.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "state": "future"
+    },
+    "3stepads.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "3stepremoval.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "3supdat.top": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "3syd.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "3t-0j5p.com": {
@@ -32613,6 +32893,11 @@
         "epoch": 1570665600.0,
         "expiration_date": "10-oct-2019",
         "state": "past"
+    },
+    "3tailors.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "3tbiosupply.com": {
         "epoch": 1682035200.0,
@@ -32650,13 +32935,23 @@
         "state": "future"
     },
     "3tr.ru": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "3traff.cn": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "3trrk.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "past"
+    },
+    "3tserver.net": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "3tsu.com": {
