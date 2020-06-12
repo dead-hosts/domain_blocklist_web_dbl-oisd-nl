@@ -23644,14 +23644,109 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "2ru.us": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
     "2rush.net": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "2rx-uk.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "2s11.com": {
+        "epoch": 1649376000.0,
+        "expiration_date": "08-apr-2022",
+        "state": "future"
+    },
+    "2s11g.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "2s15h.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "2s1g3.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "2s1gh.top": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "2s1gs.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "2s1hg.top": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "2s32h.xyz": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "2s41s.top": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "2s45g.xyz": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "2s533f.xyz": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "2s53f.xyz": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "2s564g.xyz": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
     "2s6.ru": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "2s64h.xyz": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "2s65g.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "2s69g5.xyz": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "2s6d2.xyz": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "2s7777.com": {
@@ -23659,9 +23754,14 @@
         "expiration_date": "13-sep-2021",
         "state": "future"
     },
+    "2sd3ef52jwdwyzg3.com": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "2search.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "2searchsold.info": {
@@ -23679,6 +23779,16 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "2secure-ee.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "2secure.co": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "2seeandbelieve.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -23690,8 +23800,8 @@
         "state": "future"
     },
     "2seo8.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "2sexy.ro": {
@@ -23699,14 +23809,49 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "2sfygwfxvsxv.info": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "2sh8fouhk84h.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "2shadowz.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "2short.net": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "2shoushi.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "2sicredi.com": {
+        "epoch": 1641081600.0,
+        "expiration_date": "02-jan-2022",
+        "state": "future"
+    },
+    "2simple.ru": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "2site.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "2situs.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "2spharma.com": {
@@ -23717,6 +23862,11 @@
     "2sqpa.com": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
+    "2squared.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "2step-garage.co.uk": {
@@ -23730,13 +23880,18 @@
         "state": "future"
     },
     "2t2internacional.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1747612800.0,
+        "expiration_date": "19-may-2025",
         "state": "future"
     },
     "2tdsprofit.in": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "2te.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "2teens.net": {
@@ -23754,9 +23909,19 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "2tmz.com": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "2tokes.com.br": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "2tor.com.mx": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "2tost.com": {
@@ -23774,14 +23939,29 @@
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
+    "2tpwcqot22mb.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "2track.info": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "2trades.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "2tt2.ru": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
     "2tutu.cn": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
         "state": "future"
     },
     "2twinks.com": {
@@ -23797,6 +23977,11 @@
     "2txt.cc": {
         "epoch": 1631664000.0,
         "expiration_date": "15-sep-2021",
+        "state": "future"
+    },
+    "2tyte.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "2tzalamim.co.il": {
@@ -23819,6 +24004,11 @@
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
+    "2v1xq54yxm.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "2v2u.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
@@ -23839,9 +24029,59 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "2ve33434yt3yh.ru": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "2ve334yyyh.ru": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "2ve34y4yyyh.ru": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "2ve3gh53h3yh.ru": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "2vef.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "2veg43g3yh.ru": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "2veshojebora.com": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "2virus.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "2visitethiopia.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "2vs2.ru": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "2vulkan.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "2vvulkan.com": {
@@ -23860,8 +24100,18 @@
         "state": "future"
     },
     "2way-world.com": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "2waytraffic.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "2wd.info": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "2weekdiet.com": {
@@ -23880,13 +24130,18 @@
         "state": "future"
     },
     "2win22win.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "2winresidency.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "2wswg32trqa2.ru": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "2wym.com": {
@@ -23899,6 +24154,16 @@
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
+    "2x1eg.top": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "2x1sw.top": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "2x2print.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
@@ -23907,6 +24172,11 @@
     "2x9bitmax.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "2xbitco.in": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "2xbpub.com": {
@@ -23949,9 +24219,19 @@
         "expiration_date": "17-jun-2021",
         "state": "future"
     },
+    "2xxa.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "2y4t6f.bid": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "2ycigv-jyn.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "2ydian.com": {
@@ -23994,14 +24274,29 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "2za.co.za": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "2zfzly.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "2zj.cn": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
+    "2zm4.cn": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "2znp09oa.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "3-333x00000c04-virus.com": {
