@@ -14179,6 +14179,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "1hourshowerpan.com": {
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "state": "future"
+    },
     "1hourwealth.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
@@ -33259,14 +33264,39 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "3ygww.com": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "3yinaudio.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "3ykk.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "3ypackaging.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "3ysfmzjaba3f988d.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "3yyj.cn": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "3z1z1.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "3z412.com": {
@@ -33275,8 +33305,8 @@
         "state": "future"
     },
     "3z6hirxo24.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "3zduncanx.gq": {
@@ -33287,6 +33317,11 @@
     "3zsllc.com": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "3zxsz.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "4-6-3baseball.com": {
@@ -33314,6 +33349,11 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "4-rx.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
     "4-season.ru": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -33325,8 +33365,8 @@
         "state": "future"
     },
     "4-v.net": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "4-xrp.com": {
