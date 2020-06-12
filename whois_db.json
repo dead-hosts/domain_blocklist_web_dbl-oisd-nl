@@ -30309,6 +30309,21 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "394b8b41ac5305d.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "395e27cfc83ea88f.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "39742.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "3975.com": {
         "epoch": 1741910400.0,
         "expiration_date": "14-mar-2025",
@@ -30320,8 +30335,13 @@
         "state": "future"
     },
     "3975ad.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "3975lm.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "398yingxiao.com": {
@@ -30340,8 +30360,8 @@
         "state": "future"
     },
     "399ee.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "399south.com": {
@@ -30369,14 +30389,24 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "39d1d397c97730.com": {
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "state": "future"
+    },
     "39dollartv.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "39dvd-999.com": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "39gmail.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "39hx.net": {
@@ -30394,9 +30424,24 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "39jb6.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "39jxt.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "39jz.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "39m.net": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "39project.org": {
@@ -30415,13 +30460,18 @@
         "state": "future"
     },
     "39sese.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "39shangcheng.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "39slxu3bw.ru": {
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "39t.ru": {
@@ -30434,9 +30484,14 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "39u.ru": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "39v.ru": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "39vnjc6.com": {
@@ -30445,18 +30500,28 @@
         "state": "past"
     },
     "39wcb.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "3a-pack.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "3a2.ru": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "3a43d.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "3a71q7jt.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "3a8c9b0ca405b5.com": {
@@ -30474,14 +30539,34 @@
         "expiration_date": "26-may-2021",
         "state": "future"
     },
+    "3ah48.top": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "3ahdk.top": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "3ainstrument.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "3aj.ru": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "3ak.cc": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "3alian.net": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
         "state": "future"
     },
     "3almakshoof.com": {
@@ -30490,8 +30575,13 @@
         "state": "future"
     },
     "3am.info": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
+    "3amall.cn": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "3amazon.com": {
@@ -30509,14 +30599,24 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "3angelsdesigns.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "3animalsex.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "3aplus63.ru": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "3arabsports.net": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "3asf.cn": {
