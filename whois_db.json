@@ -31619,9 +31619,19 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "3ec9b600789b3bacf2c72ebae142a9c3.net": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "3edu.net": {
         "epoch": 1764115200.0,
         "expiration_date": "26-nov-2025",
+        "state": "future"
+    },
+    "3eeshkora.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "3eiiwe-j80.com": {
@@ -31630,13 +31640,13 @@
         "state": "future"
     },
     "3eka.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "3el-3el-fie.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "3emath.com": {
@@ -31644,14 +31654,49 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "3emeagenciadigital.com.br": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "3emmecomfort.it": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "3en.support": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "3enm.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "3epo.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "3er1y.top": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "3erew.top": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
         "state": "future"
     },
     "3ew.ru": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "3ewdg.top": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
         "state": "future"
     },
     "3eyonetim.com": {
@@ -31664,14 +31709,24 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "3f1hh.top": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "3f32172d509aeb0.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "3f6i9.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "3f8mdusgyl3x.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "3fd.me": {
@@ -31684,6 +31739,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "3file.info": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "3fingerhand.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
@@ -31694,9 +31754,19 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "3fns.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
     "3form.net": {
         "epoch": 1690934400.0,
         "expiration_date": "02-aug-2023",
+        "state": "future"
+    },
+    "3fp43qvh.trade": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "3fpay.com": {
@@ -31705,8 +31775,8 @@
         "state": "future"
     },
     "3fr3goyrlp3mgbq.ru": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "3fs.com": {
@@ -31719,6 +31789,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "3g6.se": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "3gamers.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
@@ -31729,14 +31804,19 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "3gifts.co.uk": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "3gkd6funzz.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
     "3gl.net": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "3gmimo.com": {
@@ -31749,14 +31829,19 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "3gmtr.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "3gnoma.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "3god.net": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "3gp.fr": {
@@ -31774,9 +31859,14 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "3gppornhub.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "3gpvideo.ru": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "3grsomcook.com": {
@@ -31794,6 +31884,16 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "3gtel.net": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
+    "3gtyy.top": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "3gu.com": {
         "epoch": 1720656000.0,
         "expiration_date": "11-jul-2024",
@@ -31802,6 +31902,16 @@
     "3guys1hammer.ws": {
         "epoch": 1622332800.0,
         "expiration_date": "30-may-2021",
+        "state": "future"
+    },
+    "3gwb.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "3gyd.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "3hatz.com": {
@@ -31827,6 +31937,11 @@
     "3hrsuvspcrbyd6s9.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
+        "state": "past"
+    },
+    "3i1cx7b9nupt.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "3iamng.com": {
