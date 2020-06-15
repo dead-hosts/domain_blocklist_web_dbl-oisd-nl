@@ -34684,6 +34684,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "441919.com": {
+        "epoch": 1685404800.0,
+        "expiration_date": "30-may-2023",
+        "state": "future"
+    },
     "441jj.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -34700,8 +34705,8 @@
         "state": "future"
     },
     "442c8891ec726f339.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "442d9f2ac50ca502.com": {
