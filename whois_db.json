@@ -624,6 +624,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "00658985228255.info": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
     "006677.com": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
@@ -13619,6 +13624,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "1d28ebfdae.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "1d2eh.top": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -17082,6 +17092,11 @@
     "2020mcafee.info": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "2020mismathouts.com": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "2020mode.com": {
@@ -21299,6 +21314,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "26coder.net": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "26desertthornrsm.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -23009,6 +23029,11 @@
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
+    "2ihkp2fcql3mond5dg3ybvsus9yrahxvwpsh.xyz": {
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
     "2iiyrxk0.com": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
@@ -24684,6 +24709,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "3096bfdae.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "309999.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -26189,6 +26219,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "31524fdae.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
     "315619.com": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -26257,6 +26292,11 @@
     "318x.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "3190cfdae.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "31937.ru": {
@@ -30849,6 +30889,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "3c3c3.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
     "3c513c1d3255c.com": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
@@ -34379,14 +34424,19 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "42world.net": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
+        "state": "past"
+    },
     "4300.cc": {
         "epoch": 1650672000.0,
         "expiration_date": "23-apr-2022",
         "state": "future"
     },
     "43031aaaecd84428.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "430583.com": {
@@ -34404,14 +34454,29 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "430lodsposlok.site": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "430lodsposlok.store": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "4311111.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "43137c93a82b0e81da.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "43242.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "432666.com": {
@@ -34440,13 +34505,18 @@
         "state": "future"
     },
     "435353.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "435r4q3r.win": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "43687.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "43711cffd26816e.com": {
@@ -34455,8 +34525,8 @@
         "state": "future"
     },
     "437999.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "4381.com": {
@@ -34469,6 +34539,11 @@
         "expiration_date": "14-feb-2025",
         "state": "future"
     },
+    "4399.cm": {
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "state": "future"
+    },
     "439901.com": {
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
@@ -34477,6 +34552,11 @@
     "439903.com": {
         "epoch": 1625961600.0,
         "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "439960.com": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "4399sports.com": {
@@ -34489,6 +34569,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "43bwabxrduicndiocpo.net": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
+    },
     "43d6f284d10bfbbb3.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
@@ -34499,9 +34584,14 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "43e9aa84fbe2f2da5b8354a41b0e03fcf505b.cc": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "43hh.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "43mr7rbt9pv7u7zb.com": {
@@ -34514,19 +34604,54 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "43nutrientes.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "43plc.com": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
+    },
+    "43service.com": {
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "state": "future"
+    },
     "43xtv.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "43yagowe3y.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "43zblo.com": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
+    "43zen.pl": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "44-trk-srv.com": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "44002007.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "4400av.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "440440.com": {
