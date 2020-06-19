@@ -4859,6 +4859,11 @@
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
+    "0k.ru": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "0k4.ru": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -5094,6 +5099,11 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "0pera.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "0percentcreditcards.org": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
@@ -5157,6 +5167,11 @@
     "0ra5eylno4zs.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "0racle.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "0racle.info": {
@@ -14444,6 +14459,16 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "1inkedin.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "1ive.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
     "1ive.net": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -14819,6 +14844,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "1mdb.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
     "1mediaplayer.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -14982,6 +15012,11 @@
     "1nsr.com": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
+    "1nstagram.com": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "1nudism.com": {
@@ -35784,6 +35819,11 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "4569888.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
+    },
     "456cao.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -35829,14 +35869,24 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "45966.com": {
+        "epoch": 1643414400.0,
+        "expiration_date": "29-jan-2022",
+        "state": "future"
+    },
+    "45969.com": {
+        "epoch": 1663804800.0,
+        "expiration_date": "22-sep-2022",
+        "state": "future"
+    },
     "459999.com": {
         "epoch": 1725840000.0,
         "expiration_date": "09-sep-2024",
         "state": "future"
     },
     "45aaa.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "45cqv.com": {
@@ -35849,6 +35899,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "45f2373b26b8e2.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "45gtv.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
@@ -35857,6 +35912,41 @@
     "45i73jv6.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "45le.cn": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "45nnn.com": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
+    "45reasonswhy.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "45s13.xyz": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "45s2g.xyz": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
+    "45sd1.xyz": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "45search.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "45thstreetpharmacy.com": {
@@ -35869,14 +35959,24 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "45wg.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "45xa.cn": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "46-ys85hrp.net": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "460k.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "46152.com": {
