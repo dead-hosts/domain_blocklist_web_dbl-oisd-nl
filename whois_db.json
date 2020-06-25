@@ -454,6 +454,11 @@
         "expiration_date": "12-dec-2019",
         "state": "past"
     },
+    "0021883.online": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "0024aaaa.com": {
         "epoch": 1615939200.0,
         "expiration_date": "17-mar-2021",
@@ -792,6 +797,11 @@
     "0082tv.net": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "00852tax.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "0086555.com": {
@@ -4669,6 +4679,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "0d43fefdde03fc1d207c35ca6bc0ae6b.icu": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "0d847862199.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
@@ -5582,6 +5597,11 @@
     "0xxd.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "0xz.org": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "0y2im3ma.ru": {
@@ -14034,6 +14054,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "1choicepizzacurry.com": {
+        "epoch": 1594166400.0,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "1chrm100218.ru": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -14312,6 +14337,11 @@
     "1downloadss0ftware.xyz": {
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "1drivefiles.co": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "1drivelive.com": {
@@ -15859,6 +15889,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "1santandermx.online": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
     "1satcom.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -16194,6 +16229,11 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "1stclasscontractingny.com": {
+        "epoch": 1734566400.0,
+        "expiration_date": "19-dec-2024",
+        "state": "future"
+    },
     "1stclasshumidors.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
@@ -16258,6 +16298,11 @@
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
         "state": "future"
+    },
+    "1stklasswriters.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "past"
     },
     "1stlines.com": {
         "epoch": 1598659200.0,
@@ -17894,6 +17939,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "2020returnzhz.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "2020search.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -18137,6 +18187,11 @@
     "20afcc1f257.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "20cheats.xyz": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "20cialismg.com": {
@@ -18532,6 +18587,11 @@
     "215w11.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "216-information.com": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "2166002.com": {
@@ -19127,6 +19187,11 @@
     "222rc.cc": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "222v333.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "223123.com": {
@@ -20899,6 +20964,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "24december.net": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "24delfi.ru": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -21994,6 +22064,11 @@
         "expiration_date": "10-jun-2020",
         "state": "past"
     },
+    "25haich4342.ru": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "25hj1urb.ru": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
@@ -22162,6 +22237,11 @@
     "265958.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "265jiankang.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "265s1.xyz": {
@@ -22415,6 +22495,11 @@
         "state": "future"
     },
     "277288c.com": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "277288d.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
         "state": "future"
@@ -23317,6 +23402,11 @@
     "2biao.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "2bitstowel.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "2bj.cc": {
@@ -25114,6 +25204,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "2vayxinhxinh.bio": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
     "2vb.ru": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
@@ -25232,6 +25327,11 @@
     "2winresidency.com": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "2wkk49wvw9dr.com": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "2worganic.com": {
@@ -25409,6 +25509,11 @@
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
+    "3-1-5.co.uk": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "3-333x00000c04-virus.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -25467,6 +25572,16 @@
     "3-mobiappu.com": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
+    "3-operator.com": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
+    "3-payment.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "3-suisses.fr": {
