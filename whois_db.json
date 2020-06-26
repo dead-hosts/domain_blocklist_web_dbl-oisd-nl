@@ -7379,6 +7379,11 @@
         "expiration_date": "08-jul-2021",
         "state": "future"
     },
+    "10bwm.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
     "10bwr.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
@@ -11694,6 +11699,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "1688dsj.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "16892.net": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -14339,6 +14349,11 @@
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
+    "1driv.org": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "1drivefiles.co": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -14347,6 +14362,11 @@
     "1drivelive.com": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "1drvmail.work": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "1dumb.com": {
@@ -29784,6 +29804,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "365-378.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
     "365-api.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
@@ -30827,6 +30852,11 @@
     "365wrf5r.com": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
+        "state": "future"
+    },
+    "365xqq.com": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "365yigou.cn": {
@@ -37500,8 +37530,8 @@
         "state": "future"
     },
     "488238.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "488266.com": {
@@ -37559,9 +37589,24 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "48br.info": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "48dc47c7234e5258.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
+    "48forcesupport.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "48gmail.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "48groupclub.org": {
