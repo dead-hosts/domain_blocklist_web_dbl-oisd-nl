@@ -37974,14 +37974,19 @@
         "expiration_date": "28-sep-2019",
         "state": "past"
     },
+    "49ersnflofficialstore.com": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "state": "future"
+    },
     "49ersofficialonline.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "49ersonlineofficialstore.com": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "49ersshopnfljerseys.com": {
@@ -37994,9 +37999,34 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "49j-2d5mv1cz3.biz": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "49k7.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "49kj.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
+    },
+    "49monclersale.co": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "49monclersale.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "49nct.org": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "49oa3o49b6.com": {
@@ -38007,16 +38037,26 @@
     "49option.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "49parallel.ca": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "49wanwan.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
     "49you.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "4a1zd.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "4a9747b7bfb3.com": {
@@ -38029,9 +38069,24 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "4ade.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
+    "4adsakfka.site": {
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
     "4affiliate.net": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "4ahred.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "4all-casino.com": {
@@ -38045,8 +38100,8 @@
         "state": "future"
     },
     "4allpetsupplies.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "4allprograms.net": {
@@ -38057,6 +38112,16 @@
     "4alltravelers.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "4alphapro.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "4analytics.ws": {
+        "epoch": 1717977600.0,
+        "expiration_date": "10-jun-2024",
         "state": "future"
     },
     "4aplusb.com": {
