@@ -10349,6 +10349,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "12vvillains.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "12wd87h.top": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -14324,6 +14329,11 @@
         "expiration_date": "05-may-2021",
         "state": "future"
     },
+    "1de10ecf04779.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
     "1dealfitness.co.uk": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -15234,6 +15244,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "1localbitcoins.net": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
     "1lorawicz.pl": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -15347,6 +15362,11 @@
     "1mdb.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "1mdcikrjh.ru": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "1meal2ways.com": {
@@ -18032,6 +18052,11 @@
     "2020mode.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "2020mustang.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "2020returnzhz.com": {
@@ -21554,6 +21579,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "24rwinak.org": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
     "24rx-support.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
@@ -24542,6 +24572,11 @@
     "2mdnsys.com": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "2menu.mx": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "2mgames.com": {
@@ -27669,6 +27704,11 @@
         "expiration_date": "17-dec-2021",
         "state": "future"
     },
+    "31d5c3221900f07120d3cfd1b2961ded.com": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "31d6h.top": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
@@ -29927,6 +29967,11 @@
     "365-meds.com": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "365-outlook.me": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "365-pills.com": {
@@ -37319,6 +37364,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "45tu1c0.com": {
+        "epoch": 1642896000.0,
+        "expiration_date": "23-jan-2022",
+        "state": "future"
+    },
     "45vps.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -37507,6 +37557,11 @@
     "470gmail.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "470kwc3.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "471suncity.com": {
@@ -38149,9 +38204,19 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "4at7qxbdty4y.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "4aux.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "4axiz.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "4b6994dfa47cee4.com": {
@@ -38159,9 +38224,14 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "4barr.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "4bb6jls06l.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "4beast.com": {
@@ -38174,9 +38244,19 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "4bettergolf.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
     "4bigcash.com": {
         "epoch": 1626912000.0,
         "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
+    "4bilder1wort.org": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "4biosacademy.com.br": {
@@ -38194,9 +38274,19 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "4black4.net": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
+    },
     "4blingsnthings.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "4boots.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "4bottle.com": {
@@ -38224,9 +38314,19 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "4bwd.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "4bxs28wxkekgvrcz.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "4by4wheel.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "4c7og3qcob.com": {
