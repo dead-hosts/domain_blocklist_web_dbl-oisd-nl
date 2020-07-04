@@ -6544,6 +6544,11 @@
         "expiration_date": "22-feb-2021",
         "state": "future"
     },
+    "100guanya.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "100gzjlb.cn": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
@@ -7737,6 +7742,11 @@
     "10xcdn.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "10xsuperstar.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "10xtask.com": {
