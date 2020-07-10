@@ -910,8 +910,8 @@
         "state": "future"
     },
     "00casino.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "00ddns-urlonmicrosoft-net.com": {
@@ -6024,6 +6024,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "10.biz.ua": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "100-100.ru": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -6707,7 +6712,7 @@
     "100pour100-gratuit.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "100ppp.com": {
         "epoch": 1590969600.0,
@@ -6880,8 +6885,8 @@
         "state": "future"
     },
     "1010casino.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "1010data.com": {
