@@ -590,10 +590,10 @@
 0.0.0.0 08.185.87.01.liveadvert.com
 0.0.0.0 08.185.87.1.liveadvert.com
 0.0.0.0 08.185.87.02.liveadvert.com
-0.0.0.0 08.185.87.3.liveadvert.com
 0.0.0.0 08.185.87.03.liveadvert.com
-0.0.0.0 08.185.87.04.liveadvert.com
+0.0.0.0 08.185.87.3.liveadvert.com
 0.0.0.0 08.185.87.4.liveadvert.com
+0.0.0.0 08.185.87.04.liveadvert.com
 0.0.0.0 08.185.87.05.liveadvert.com
 0.0.0.0 08.185.87.5.liveadvert.com
 0.0.0.0 08.185.87.6.liveadvert.com
@@ -1607,6 +1607,7 @@
 0.0.0.0 208.185.87.252.liveadvert.com
 0.0.0.0 208.185.87.253.liveadvert.com
 0.0.0.0 208.185.87.254.liveadvert.com
+0.0.0.0 208.liveadvert.com
 0.0.0.0 212.227.15.154.coinminerz.com
 0.0.0.0 0214.sitescoutadserver.com
 0.0.0.0 214porn.info
@@ -2146,7 +2147,9 @@
 0.0.0.0 20716.engine.mobileapptracking.com
 0.0.0.0 20724.engine.mobileapptracking.com
 0.0.0.0 20740.engine.mobileapptracking.com
+0.0.0.0 20762.engine.mobileapptracking.com
 0.0.0.0 20768.engine.mobileapptracking.com
+0.0.0.0 20788.debug.engine.mobileapptracking.com
 0.0.0.0 20834.engine.mobileapptracking.com
 0.0.0.0 20848.engine.mobileapptracking.com
 0.0.0.0 20882.engine.mobileapptracking.com
@@ -2859,6 +2862,7 @@
 0.0.0.0 193363783.zone.adscompass.com
 0.0.0.0 198099111.musiclive.info
 0.0.0.0 203855934.143.127.click2.danarimedia.com
+0.0.0.0 207693432.zone.adscompass.com
 0.0.0.0 220893167.myftp.biz
 0.0.0.0 305449388.musiclive.info
 0.0.0.0 366582713.musiclive.info
