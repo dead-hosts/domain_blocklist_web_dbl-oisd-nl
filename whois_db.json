@@ -8914,6 +8914,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "12.biz.ua": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "12.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
