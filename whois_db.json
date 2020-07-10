@@ -18680,8 +18680,8 @@
         "state": "future"
     },
     "20dollarspass.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "20dy.cn": {
@@ -19245,8 +19245,8 @@
         "state": "future"
     },
     "21grandcasino.net": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "21jewelry.com": {
@@ -19402,6 +19402,11 @@
     "21yybuyukanadolu.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "220.biz.ua": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "220.cc": {
