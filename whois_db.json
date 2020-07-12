@@ -1579,6 +1579,11 @@
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "0207ids.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "020apple.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -10329,6 +10334,11 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "12gf.gold": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "state": "future"
+    },
     "12hack.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -12777,6 +12787,11 @@
     "180haifa.com": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "180mullenlowe.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "180risk.com": {
@@ -17974,6 +17989,11 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "201314.site": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "2013armani.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -21780,8 +21800,8 @@
         "state": "future"
     },
     "24kbets.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "24kgame.com": {
@@ -22392,6 +22412,11 @@
     "25-1.ru": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "25.biz.ua": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "250-350.com": {
