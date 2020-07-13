@@ -284,6 +284,11 @@
         "expiration_date": "18-jun-2022",
         "state": "future"
     },
+    "000k8.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "000mobility99440.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -3069,6 +3074,11 @@
         "expiration_date": "11-feb-2021",
         "state": "future"
     },
+    "066-365.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "06613.com": {
         "epoch": 1656633600.0,
         "expiration_date": "01-jul-2022",
@@ -3197,6 +3207,11 @@
     "071899.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "071k8.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "0724idc.com": {
@@ -3374,6 +3389,11 @@
         "expiration_date": "08-mar-2021",
         "state": "future"
     },
+    "076k8.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "077.us": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
@@ -3407,6 +3427,11 @@
     "07799d.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "077k8.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "078000.com": {
@@ -6394,6 +6419,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "10030820.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "1004.in": {
         "epoch": 1644537600.0,
         "expiration_date": "11-feb-2022",
@@ -6450,6 +6480,11 @@
         "state": "future"
     },
     "100888290cs.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "10096029.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
         "state": "future"
@@ -6924,6 +6959,11 @@
         "expiration_date": "18-mar-2023",
         "state": "future"
     },
+    "10115220.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "1011668.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -7279,6 +7319,11 @@
         "expiration_date": "24-nov-2021",
         "state": "future"
     },
+    "10665035.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "106b.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -7389,6 +7434,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "10969969.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "109988.com": {
         "epoch": 1650240000.0,
         "expiration_date": "18-apr-2022",
@@ -7397,6 +7447,11 @@
     "109999.com": {
         "epoch": 1635897600.0,
         "expiration_date": "03-nov-2021",
+        "state": "future"
+    },
+    "109k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "10a053584f01fcaeab1.com": {
@@ -8069,6 +8124,11 @@
         "expiration_date": "08-dec-2023",
         "state": "future"
     },
+    "11152088.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "11153138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -8304,6 +8364,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "113k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "114.com.cn": {
         "epoch": 1696723200.0,
         "expiration_date": "08-oct-2023",
@@ -8497,6 +8562,11 @@
     "118.cc": {
         "epoch": 1833148800.0,
         "expiration_date": "03-feb-2028",
+        "state": "future"
+    },
+    "11809596.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "118114.cn": {
@@ -8999,20 +9069,40 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "121-365sb.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "121-sex-toys.co.uk": {
         "epoch": 1569196800.0,
         "expiration_date": "23-sep-2019",
         "state": "past"
+    },
+    "12118776.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "1211xsj.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "121365sb.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "1215-qualitative.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
         "state": "past"
+    },
+    "12170268.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "1217bye.host": {
         "epoch": 1614470400.0,
@@ -9209,6 +9299,11 @@
         "expiration_date": "22-jun-2021",
         "state": "future"
     },
+    "123365-sb.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "12343138.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -9282,6 +9377,11 @@
     "1234xm.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "12356830.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "1235k.com": {
@@ -10074,6 +10174,16 @@
         "expiration_date": "24-dec-2024",
         "state": "future"
     },
+    "12586970.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "12595120.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "125jia.cn": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -10174,6 +10284,16 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "12853872.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "12887708.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "128b.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -10194,9 +10314,24 @@
         "expiration_date": "23-may-2021",
         "state": "future"
     },
+    "128coffee.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "128construction.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "128curry.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
+    "128fun.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "1292owens.com": {
@@ -10569,6 +10704,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "13076881.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "1308.com": {
         "epoch": 1767139200.0,
         "expiration_date": "31-dec-2025",
@@ -10734,6 +10874,11 @@
         "expiration_date": "09-mar-2021",
         "state": "future"
     },
+    "13391921.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "133933.com": {
         "epoch": 1687737600.0,
         "expiration_date": "26-jun-2023",
@@ -10777,6 +10922,11 @@
     "13549642320.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "13588209.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "1359123.com": {
@@ -10834,6 +10984,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "13692118.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "136dzd.com": {
         "epoch": 1630281600.0,
         "expiration_date": "30-aug-2021",
@@ -10857,6 +11012,11 @@
     "137645-securecheck-pp.icu": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "13768815.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "1377.com": {
@@ -10944,6 +11104,21 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "138fc.co": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
+    "138gd.biz": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "138goals.biz": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
     "138lm.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -10952,6 +11127,11 @@
     "138m.com": {
         "epoch": 1663200000.0,
         "expiration_date": "15-sep-2022",
+        "state": "future"
+    },
+    "138ob.com": {
+        "epoch": 1648598400.0,
+        "expiration_date": "30-mar-2022",
         "state": "future"
     },
     "138shenbosbo.com": {
@@ -11434,6 +11614,16 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "15312019.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "15333166.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "153ishak.best": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -11469,6 +11659,16 @@
         "expiration_date": "23-jan-2024",
         "state": "future"
     },
+    "15593571.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "15598212.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "155tk.com": {
         "epoch": 1651104000.0,
         "expiration_date": "28-apr-2022",
@@ -11477,6 +11677,11 @@
     "156002.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "15601038.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "15654.com": {
@@ -11494,6 +11699,11 @@
         "expiration_date": "06-feb-2023",
         "state": "future"
     },
+    "15688win.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "1569webappssupport.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
@@ -11507,6 +11717,11 @@
     "1571537.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "15715588.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "1572599.com": {
@@ -11552,6 +11767,11 @@
     "158makrobet.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "15908801.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "1592nestorimplausible.com": {
@@ -11694,6 +11914,16 @@
         "expiration_date": "20-may-2021",
         "state": "future"
     },
+    "16056831.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "16075986.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "160holiganbet.com": {
         "epoch": 1620864000.0,
         "expiration_date": "13-may-2021",
@@ -11834,6 +12064,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "16510815.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "165a7c15380874ef3.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -11877,6 +12112,11 @@
     "168-ora.info": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "16808869.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "1680go.com": {
@@ -11927,6 +12167,11 @@
     "168chinese.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "168curry.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "168english.com": {
@@ -12164,6 +12409,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "17168.info": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
     "17173.com": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
@@ -12174,9 +12424,19 @@
         "expiration_date": "16-apr-2020",
         "state": "past"
     },
+    "17181392.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "171817.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "17187879.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "171dl.com": {
@@ -12192,6 +12452,11 @@
     "171my.com": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "17207379.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "1722esend.net": {
@@ -12217,6 +12482,11 @@
     "1734baystreet.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "17398782.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "173ip.cn": {
@@ -12309,6 +12579,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "17602750.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "176790.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
@@ -12332,6 +12607,11 @@
     "176blcq.com": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "176letou.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "176um.com": {
@@ -12417,6 +12697,11 @@
     "178j.me": {
         "epoch": 1647907200.0,
         "expiration_date": "22-mar-2022",
+        "state": "future"
+    },
+    "178letou.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "178stu.com": {
@@ -12779,9 +13064,19 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "18063750.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "1808.com": {
         "epoch": 1671580800.0,
         "expiration_date": "21-dec-2022",
+        "state": "future"
+    },
+    "18089853.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "180bets.com": {
@@ -12864,6 +13159,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "181k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "181ue.com": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
@@ -12884,6 +13184,11 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "18289288.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "182elexusbet.com": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -12892,6 +13197,11 @@
     "182kj.com": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "18317198.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "18389.com": {
@@ -12909,6 +13219,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "18515053.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "185188.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
@@ -12917,6 +13232,11 @@
     "1851kitchen.com": {
         "epoch": 1701561600.0,
         "expiration_date": "03-dec-2023",
+        "state": "future"
+    },
+    "185k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "185kj.com": {
@@ -12954,6 +13274,11 @@
         "expiration_date": "04-nov-2020",
         "state": "future"
     },
+    "18683598.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "186kj.com": {
         "epoch": 1669593600.0,
         "expiration_date": "28-nov-2022",
@@ -12974,9 +13299,34 @@
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
+    "188-563.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "188-sb.com": {
+        "epoch": 1649635200.0,
+        "expiration_date": "11-apr-2022",
+        "state": "future"
+    },
     "18816.cn": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "188188188188b.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "188188188188bet.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "188188188b.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "18818879699.com": {
@@ -13009,9 +13359,19 @@
         "expiration_date": "06-nov-2022",
         "state": "future"
     },
+    "188563.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "1888-524-7141.com": {
         "epoch": 1616803200.0,
         "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "18881901.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "18883138.com": {
@@ -13039,14 +13399,54 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "188a88.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188aaaaa.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "188aaaaaa.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "188abc.net": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
     "188affiliates.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "188app188.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "188appgame.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
     "188asia.com": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "188bb188bb.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "188bbbbbb.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "188bet.com": {
@@ -13059,14 +13459,64 @@
         "expiration_date": "28-dec-2020",
         "state": "future"
     },
+    "188betcn1.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
+    "188betcn2.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
     "188betpromo.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
         "state": "future"
     },
+    "188betwinner.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
     "188bongda.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "188bowls.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "188club88.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188ddddd.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "188dianjing.cn": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "188fc.net": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "188fly.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "188fun.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "188games.com": {
@@ -13079,9 +13529,54 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "188holiday.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "188huo.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
     "188hy.com": {
         "epoch": 1782172800.0,
         "expiration_date": "23-jun-2026",
+        "state": "future"
+    },
+    "188inplay.net": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188kkkkkk.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "188kop.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "188kop.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "188lcsn.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188livetv.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188lotto.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "188lu.us": {
@@ -13089,9 +13584,59 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "188mac188.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "188mbsport.net": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "188mtv.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "188mtv188.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "188niuniu.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188parlay.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188play.net": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188products.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "188promo188.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "188san.net": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "188sb.com": {
+        "epoch": 1649635200.0,
+        "expiration_date": "11-apr-2022",
         "state": "future"
     },
     "188server.com": {
@@ -13104,9 +13649,59 @@
         "expiration_date": "06-apr-2021",
         "state": "future"
     },
+    "188shengli.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "188sl.net": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "188sportsbetting.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "188sportsbook.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "188tan.cn": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
+        "state": "future"
+    },
+    "188top1.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "188ty188.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188unit.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "188w9188.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "188wan.net": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "188win188.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "188winerium.com": {
@@ -13114,14 +13709,74 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "188winner.com": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "188won.com": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "188won.net": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "188xiao8.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "188xiaoba.net": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "188xj188.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "188ye188.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "188yeah.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "188yes188.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "188yingqiu.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
+    "188yyyy.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "188za.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "188zan.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "188zuqiu.net": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "18901350711.com": {
@@ -13134,9 +13789,29 @@
         "expiration_date": "04-jun-2021",
         "state": "future"
     },
+    "18938617.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "189389.com": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "18952239.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "18955098.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "18960828.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "189msc.com": {
@@ -13429,6 +14104,11 @@
         "expiration_date": "05-mar-2023",
         "state": "future"
     },
+    "19101895.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "1911xsj.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -13514,6 +14194,11 @@
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
+    "19379739.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "1939.com": {
         "epoch": 1640822400.0,
         "expiration_date": "30-dec-2021",
@@ -13597,6 +14282,11 @@
     "1965555.com": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
+        "state": "future"
+    },
+    "19688351.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "1969leavers.com": {
@@ -13847,6 +14537,11 @@
     "19ku.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "19letou.com": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "19ms5nriqheg.biz": {
@@ -14714,6 +15409,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "1eightyeight.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
     "1ej19zqtoicw.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
@@ -14997,6 +15697,16 @@
     "1gold-game.org": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "1gom.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "1gom.org": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "state": "future"
     },
     "1googlemail.com": {
@@ -15514,6 +16224,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "1makrobetmedya.com": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
     "1malonepark.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -15962,6 +16677,11 @@
     "1pel.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
+    "1perabetmedya.com": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "1perfectchoice.com": {
@@ -17169,6 +17889,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "1virusyakalandi.xyz": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
     "1vu26n.cn": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
@@ -17319,6 +18044,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "1x-bet.mobi": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
     "1x-bet.pro": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -17394,6 +18124,26 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "1xbahisbuwv.com": {
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
+    "1xbahiscufw.com": {
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
+    "1xbahiseank.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "1xbahisnuul.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "1xbet-cm.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -17404,9 +18154,39 @@
         "expiration_date": "18-jan-2021",
         "state": "future"
     },
+    "1xbet-won.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "1xbet.com": {
         "epoch": 1882915200.0,
         "expiration_date": "01-sep-2029",
+        "state": "future"
+    },
+    "1xbet.mobi": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "1xbetasia.mobi": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "1xbetcom.mobi": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
+    "1xbetlat.mobi": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "1xbetm.mobi": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "1xbetonlines1.ru": {
@@ -17414,9 +18194,29 @@
         "expiration_date": "13-mar-2021",
         "state": "future"
     },
+    "1xbetru.mobi": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
+    "1xbett.mobi": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "1xbetvn.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "1xbit8.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "1xbk.mobi": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "1xgoz.top": {
@@ -17474,6 +18274,11 @@
         "expiration_date": "28-jun-2021",
         "state": "future"
     },
+    "1xslot1.com": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
     "1xslots-africa.site": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
@@ -17497,6 +18302,26 @@
     "1xslots.site": {
         "epoch": 1624752000.0,
         "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
+    "1xspor.mobi": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "1xsport.mobi": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "1xsportru.mobi": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "1xsports.mobi": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "1xv4.com": {
@@ -17777,6 +18602,11 @@
     "2007-search.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "20080088.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "200801.com": {
@@ -18529,6 +19359,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "20313881.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "20333.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -18604,6 +19439,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "20711969.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "207288.com": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
@@ -18612,6 +19452,11 @@
     "2077707.ru": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "20782395.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "2083066.com": {
@@ -18964,6 +19809,11 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "210k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "210main.com": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
@@ -19074,6 +19924,11 @@
         "expiration_date": "24-nov-2021",
         "state": "future"
     },
+    "213k8.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "2144.cn": {
         "epoch": 1837468800.0,
         "expiration_date": "24-mar-2028",
@@ -19082,6 +19937,11 @@
     "2156.co.kr": {
         "epoch": 1856217600.0,
         "expiration_date": "27-oct-2028",
+        "state": "future"
+    },
+    "21571711.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "21575.com": {
