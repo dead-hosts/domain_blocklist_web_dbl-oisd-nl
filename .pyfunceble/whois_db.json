@@ -1839,6 +1839,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "027-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "027776.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -3404,6 +3409,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "076-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "07617.com": {
         "epoch": 1700265600.0,
         "expiration_date": "18-nov-2023",
@@ -3437,6 +3447,11 @@
     "076k8.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "077-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "077.us": {
@@ -4122,6 +4137,11 @@
     "0909704.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "091-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "091091.com": {
@@ -11429,6 +11449,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "140-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "1400europe.com": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
@@ -18714,6 +18739,11 @@
         "expiration_date": "07-may-2022",
         "state": "future"
     },
+    "200-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "200008com.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -20552,6 +20582,11 @@
     "21yybuyukanadolu.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "220-365.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "220.biz.ua": {
