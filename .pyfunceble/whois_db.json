@@ -12164,6 +12164,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "163fdr.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "163jkw.net": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
@@ -16942,6 +16947,11 @@
     "1popov.ru": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "1poundclick.co.uk": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "1priest1nun.com": {
@@ -22679,6 +22689,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "24adultdating.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "24alertnow.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -25742,6 +25757,11 @@
     "2defg.top": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "2dehands-betaalplatform.net": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "2delllwrite.com": {
