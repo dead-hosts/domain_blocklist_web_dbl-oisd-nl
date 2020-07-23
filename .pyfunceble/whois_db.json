@@ -14354,6 +14354,11 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "1918.me": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
     "1918888.com": {
         "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
@@ -15082,6 +15087,11 @@
     "1birthdaywishes.org": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "1bitstudio.pl": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "1blackmoon.com": {
@@ -16712,6 +16722,11 @@
     "1mzg.com": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "1n.pm": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "1n9280.com": {
