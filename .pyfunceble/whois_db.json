@@ -10104,6 +10104,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "123movies.re": {
+        "epoch": 1682294400.0,
+        "expiration_date": "24-apr-2023",
+        "state": "future"
+    },
     "123movies.ru": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -10122,6 +10127,11 @@
     "123moviesfreehd.info": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
+    "123moviesfull.co": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "123moviesnetflix.com": {
@@ -11624,6 +11634,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "141jav.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "141uu.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -11907,6 +11922,11 @@
     "15312019.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "153153.net": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "15333166.com": {
@@ -14945,8 +14965,8 @@
         "state": "future"
     },
     "1a5db6b73fd5511.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "1a9280.com": {
@@ -15085,8 +15105,8 @@
         "state": "future"
     },
     "1b54ce51d5024207c4b.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "1b6a637cbe7bb65ac.com": {
@@ -15392,6 +15412,11 @@
     "1centptc.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "1chan.us": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "1channelhd.xyz": {
@@ -19725,8 +19750,8 @@
         "state": "future"
     },
     "2022cm.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "2022cm1.com": {
