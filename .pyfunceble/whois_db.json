@@ -139,6 +139,16 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "0000-ad-0000.com": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "0000-ad.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "0000.support": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
