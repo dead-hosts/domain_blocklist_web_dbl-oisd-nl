@@ -130,8 +130,8 @@
 0.0.0.0 1.jopenqc.com
 0.0.0.0 01.kubereality.lax1.appnexus.net
 0.0.0.0 1.live
-0.0.0.0 1.liveadvert.com
 0.0.0.0 01.liveadvert.com
+0.0.0.0 1.liveadvert.com
 0.0.0.0 01.mssheng.com
 0.0.0.0 1.nxtmov.com
 0.0.0.0 1.paypopup.com
@@ -661,8 +661,8 @@
 0.0.0.0 08.185.87.02.liveadvert.com
 0.0.0.0 08.185.87.3.liveadvert.com
 0.0.0.0 08.185.87.03.liveadvert.com
-0.0.0.0 08.185.87.04.liveadvert.com
 0.0.0.0 08.185.87.4.liveadvert.com
+0.0.0.0 08.185.87.04.liveadvert.com
 0.0.0.0 08.185.87.5.liveadvert.com
 0.0.0.0 08.185.87.05.liveadvert.com
 0.0.0.0 08.185.87.6.liveadvert.com
@@ -671,8 +671,8 @@
 0.0.0.0 08.185.87.7.liveadvert.com
 0.0.0.0 08.185.87.8.liveadvert.com
 0.0.0.0 08.185.87.08.liveadvert.com
-0.0.0.0 08.185.87.9.liveadvert.com
 0.0.0.0 08.185.87.09.liveadvert.com
+0.0.0.0 08.185.87.9.liveadvert.com
 0.0.0.0 08.185.87.10.liveadvert.com
 0.0.0.0 08.185.87.11.liveadvert.com
 0.0.0.0 08.185.87.13.liveadvert.com
@@ -912,6 +912,7 @@
 0.0.0.0 18e6ff9.zapto.org
 0.0.0.0 18gy.adult666.info
 0.0.0.0 18gy.hidx.info
+0.0.0.0 18h.h752.info
 0.0.0.0 18jack.adult666.info
 0.0.0.0 18jack.hidx.info
 0.0.0.0 18tw.adult666.info
@@ -934,6 +935,8 @@
 0.0.0.0 20gb-tanmla-kullan-l0c.com
 0.0.0.0 20homix.joomla.com
 0.0.0.0 21.4buyuklergazete.com
+0.0.0.0 21.54.88.195.in-addr.arpa
+0.0.0.0 21.55.88.195.in-addr.arpa
 0.0.0.0 21.aiyangedu.com
 0.0.0.0 21.liveadvert.com
 0.0.0.0 21.video-ak.cdn.spotify.com
@@ -1426,6 +1429,7 @@
 0.0.0.0 174.liveadvert.com
 0.0.0.0 175.18.248.3.in-addr.arpa
 0.0.0.0 175.liveadvert.com
+0.0.0.0 175vzx.itrusiki.info
 0.0.0.0 176.113.161.53download.zip
 0.0.0.0 176.adult666.info
 0.0.0.0 176.hidx.info
