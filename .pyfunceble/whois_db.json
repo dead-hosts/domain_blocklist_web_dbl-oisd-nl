@@ -2769,6 +2769,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "0551-ad.com": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
     "055166.com": {
         "epoch": 1681344000.0,
         "expiration_date": "13-apr-2023",
@@ -8747,6 +8752,11 @@
     "114swg.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "114tv.cc": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "114y.net": {
@@ -15629,6 +15639,11 @@
         "expiration_date": "02-jun-2021",
         "state": "future"
     },
+    "1click-ads.com": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
+    },
     "1click-casino.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -19909,6 +19924,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "2020newevent.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
+    },
     "2020returnzhz.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -20319,6 +20339,11 @@
         "expiration_date": "30-may-2021",
         "state": "future"
     },
+    "20junhodesconto.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "20kd.pl": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
@@ -20722,6 +20747,11 @@
     "218ys.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "219473949456-fedex-tracking.network": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "21962229.com": {
