@@ -3214,6 +3214,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "06b2bfb2713efcd47bd07ce6bb2580a776aa4b76.info": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
+    },
     "06br.info": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -11537,6 +11542,11 @@
     "138sungame.com": {
         "epoch": 1632096000.0,
         "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
+    "138tm.cn": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "138zx.com": {
