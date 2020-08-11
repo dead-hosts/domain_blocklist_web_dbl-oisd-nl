@@ -1714,6 +1714,11 @@
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
+    "022802bcfcb3dbcd1a224f29537f6ac0.host": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "022aifang.com": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
@@ -1997,6 +2002,11 @@
     "02billingupdates.com": {
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
+        "state": "future"
+    },
+    "02billingverification.com": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "02dinero.com": {
@@ -4947,6 +4957,11 @@
     "0d2.ru": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "0d20bff8143.com": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "0d3vx.com": {
@@ -9894,6 +9909,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "123didulich.xyz": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
     "123dietz.com": {
         "epoch": 1636070400.0,
         "expiration_date": "05-nov-2021",
@@ -11032,6 +11052,11 @@
     "12tk.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "12tribesacademy.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "12u.info": {
