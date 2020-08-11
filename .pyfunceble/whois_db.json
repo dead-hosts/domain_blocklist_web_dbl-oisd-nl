@@ -2269,6 +2269,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "0398tuan.com": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
     "039ad0897e6da.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -5580,8 +5585,8 @@
         "state": "future"
     },
     "0r4s5f-khx.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "0r9.ru": {
@@ -5689,9 +5694,19 @@
         "expiration_date": "22-nov-2020",
         "state": "future"
     },
+    "0tracker.com": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
+    },
     "0tw9re3.com": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "0twitter.com": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "0u48ltm1ok.ru": {
@@ -7703,6 +7718,11 @@
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
         "state": "past"
+    },
+    "108software.com": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
     },
     "108studija.lt": {
         "epoch": 1607472000.0,
@@ -14569,6 +14589,11 @@
         "expiration_date": "30-jul-2024",
         "state": "future"
     },
+    "18sucks.com": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
+    },
     "18teengirl.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
@@ -14637,6 +14662,11 @@
     "1918888.com": {
         "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
+        "state": "future"
+    },
+    "1919-1919.xyz": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "191gm.com": {
@@ -14745,8 +14775,8 @@
         "state": "future"
     },
     "19463331.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "194964.com": {
@@ -15804,6 +15834,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "1d1px.net": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "state": "future"
+    },
     "1d28ebfdae.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -16532,6 +16567,11 @@
     "1ive.net": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "1iwc.us": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "1j0.ru": {
@@ -17424,6 +17464,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "1q8.ru": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "1q8h.cn": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -17685,8 +17730,8 @@
         "state": "future"
     },
     "1se.ru": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "1search.biz": {
@@ -19279,6 +19324,11 @@
         "expiration_date": "24-dec-2021",
         "state": "future"
     },
+    "2008just.cn": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
+    },
     "2008penitentpropensity.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
@@ -19519,6 +19569,11 @@
         "expiration_date": "01-mar-2021",
         "state": "future"
     },
+    "2013newcheapcoachpurse.com": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
+    },
     "2013sh.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -19532,6 +19587,11 @@
     "201433.com": {
         "epoch": 1663545600.0,
         "expiration_date": "19-sep-2022",
+        "state": "future"
+    },
+    "2014cheapboots.net": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "state": "future"
     },
     "2014gameshack.com": {
@@ -19687,6 +19747,11 @@
     "2016ugg.top": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "2016yeezys.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "2017-nfr.com": {
@@ -20227,6 +20292,11 @@
     "20afcc1f257.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "20blog.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "20cheats.xyz": {
