@@ -28,11 +28,11 @@
 0.0.0.0 0.facebook.com
 0.0.0.0 0.facebook.com.webproxy.us.com
 0.0.0.0 0.fbsbx.com
-0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 00.fls.doubleclick.net
+0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 0.im.freebasics.com
 0.0.0.0 0.intern.freebasics.com
@@ -797,8 +797,8 @@
 0.0.0.0 0ffodsthpk.centade.com
 0.0.0.0 0fftrwotc6.centade.com
 0.0.0.0 0fg91h7z6i.centade.com
-0.0.0.0 0fgraph-0.accountkit.com
 0.0.0.0 0fgraph0.accountkit.com
+0.0.0.0 0fgraph-0.accountkit.com
 0.0.0.0 0fgraph1.accountkit.com
 0.0.0.0 0fgraph0-2.accountkit.com
 0.0.0.0 0fgraph04.accountkit.com
@@ -1079,6 +1079,7 @@
 0.0.0.0 0k8oesmwlq.centade.com
 0.0.0.0 0k9sftqlhe.centade.com
 0.0.0.0 0k94c7ugan.centade.com
+0.0.0.0 0k.click
 0.0.0.0 0k.ru
 0.0.0.0 0ka.com
 0.0.0.0 0kay6jbeqc.centade.com
@@ -1694,6 +1695,7 @@
 0.0.0.0 0ur9qqhysk.centade.com
 0.0.0.0 0urcfpywfg.centade.com
 0.0.0.0 0uso87.com
+0.0.0.0 0ut.click
 0.0.0.0 0uti.2track.info
 0.0.0.0 0utl00k.ml
 0.0.0.0 0utl00k.net
@@ -1973,8 +1975,8 @@
 0.0.0.0 001.0x1f4b0.com
 0.0.0.0 01.1d0sds5.co.cc
 0.0.0.0 1.01fy.cn
-0.0.0.0 1.2waky.com
 0.0.0.0 0001.2waky.com
+0.0.0.0 1.2waky.com
 0.0.0.0 01.4thfl-bw-printer.nyc2.appnexus.com
 0.0.0.0 01.4thfl-color-printer.nyc2.appnexus.com
 0.0.0.0 1.9.5.3823-alcohol.warez.full.download.crack.serial.ddl2.com
@@ -2018,8 +2020,8 @@
 0.0.0.0 01.affex.org
 0.0.0.0 1.affex.org
 0.0.0.0 1.afs.googleadservices.com
-0.0.0.0 1.aidata.io
 0.0.0.0 01.aidata.io
+0.0.0.0 1.aidata.io
 0.0.0.0 1.aili.com
 0.0.0.0 1.ajiyuming.com
 0.0.0.0 1.allow-video.com
@@ -2061,6 +2063,7 @@
 0.0.0.0 1.black-snake-oil.info
 0.0.0.0 001.bladespoon.cn
 0.0.0.0 1.bmon.site
+0.0.0.0 1.bodis.com
 0.0.0.0 1.bosspush.com
 0.0.0.0 1.bronto.com
 0.0.0.0 01.bsg-coupa-prod.nym2.appnexus.com
@@ -2076,8 +2079,8 @@
 0.0.0.0 1.clickpush.biz
 0.0.0.0 1.cn716.com
 0.0.0.0 1.codesdq.com
-0.0.0.0 1.coinlab.biz
 0.0.0.0 01.coinlab.biz
+0.0.0.0 1.coinlab.biz
 0.0.0.0 01.colour-printer.lhr1.appnexus.com
 0.0.0.0 01.conman.fra1.appnexus.net
 0.0.0.0 1.coolestmobi.com
@@ -2115,8 +2118,8 @@
 0.0.0.0 1.feihua.net.cn
 0.0.0.0 01.finance-printer.nyc2.appnexus.com
 0.0.0.0 01.flibusta.site.17274703.erileni.ru
-0.0.0.0 1.fls.doubleclick.net
 0.0.0.0 01.fls.doubleclick.net
+0.0.0.0 1.fls.doubleclick.net
 0.0.0.0 1.forward.freeresultsguide.com
 0.0.0.0 1.freecontent.bid
 0.0.0.0 1.fres-news.com
@@ -2212,8 +2215,8 @@
 0.0.0.0 01.mx-filter.nym2.appnexus.net
 0.0.0.0 1.n.adsco.re
 0.0.0.0 01.nakanohito.jp
-0.0.0.0 1.nanopool.org
 0.0.0.0 01.nanopool.org
+0.0.0.0 1.nanopool.org
 0.0.0.0 1.nanrenwo.net
 0.0.0.0 1.nbryb.com
 0.0.0.0 1.nextyourcontent.com
@@ -3801,8 +3804,8 @@
 0.0.0.0 1hacks.com
 0.0.0.0 1hae6dgusp.centade.com
 0.0.0.0 1hahnemann.lmayoneinsurance.com
-0.0.0.0 1han-rit-ten.com
 0.0.0.0 1hanritten.com
+0.0.0.0 1han-rit-ten.com
 0.0.0.0 1haosuo.com
 0.0.0.0 1hbacntvmf.centade.com
 0.0.0.0 1hbuortfa1h.bankofamericaslpemr.com
@@ -4765,6 +4768,7 @@
 0.0.0.0 1skss.trackvoluum.com
 0.0.0.0 1sldfe5ovf.centade.com
 0.0.0.0 1slo.pl
+0.0.0.0 1-slot.us
 0.0.0.0 1sm0.com
 0.0.0.0 1smart.nu
 0.0.0.0 1sms.de
@@ -5268,8 +5272,8 @@
 0.0.0.0 1xbahiscufw.com
 0.0.0.0 1xbahiseank.com
 0.0.0.0 1xbahisnuul.com
-0.0.0.0 1xbet.mobi
 0.0.0.0 1x-bet.mobi
+0.0.0.0 1xbet.mobi
 0.0.0.0 1x-bet.pro
 0.0.0.0 1xbet.ru.net
 0.0.0.0 1xbetasia.mobi
@@ -5320,8 +5324,8 @@
 0.0.0.0 1xrxqa95u1.centade.com
 0.0.0.0 1xs7muw.senandungmerana.org
 0.0.0.0 1xslot1.com
-0.0.0.0 1x-slot.site
 0.0.0.0 1xslot.site
+0.0.0.0 1x-slot.site
 0.0.0.0 1xslot-casino.online
 0.0.0.0 1xslot-casino.ru
 0.0.0.0 1xslot-casino.site
@@ -5410,6 +5414,7 @@
 0.0.0.0 1z.itsaol.com
 0.0.0.0 1z.moatads.com
 0.0.0.0 1zb2exp-5c6.com
+0.0.0.0 1zclompm6.myutilitydomain.com
 0.0.0.0 1zdorov.ru
 0.0.0.0 1ze6n2i0wn.centade.com
 0.0.0.0 1ze.net
@@ -5464,8 +5469,8 @@
 0.0.0.0 02.accountkit.com
 0.0.0.0 2.adatmentes.info
 0.0.0.0 2.adx1.com
-0.0.0.0 02.affex.org
 0.0.0.0 2.affex.org
+0.0.0.0 02.affex.org
 0.0.0.0 2.afs.googleadservices.com
 0.0.0.0 2.aili.com
 0.0.0.0 02.analytics.amakings.com
@@ -5495,8 +5500,8 @@
 0.0.0.0 2.chmato.me
 0.0.0.0 2.clickjump.biz
 0.0.0.0 2.clickpush.biz
-0.0.0.0 02.coinlab.biz
 0.0.0.0 2.coinlab.biz
+0.0.0.0 02.coinlab.biz
 0.0.0.0 02.compas-smtp.nym2.appnexus.com
 0.0.0.0 02.coreinfra.fra1.appnexus.net
 0.0.0.0 02.coreinfra.lax1.appnexus.net
@@ -5625,8 +5630,8 @@
 0.0.0.0 2.vsimg.com.cname3278.yjs-cdn.com
 0.0.0.0 02.weblogin.lax1.appnexus.com
 0.0.0.0 02.weblogin.nym2.appnexus.com
-0.0.0.0 2.webtrekk.net
 0.0.0.0 02.webtrekk.net
+0.0.0.0 2.webtrekk.net
 0.0.0.0 2.wee.co.il
 0.0.0.0 2.wholesalepbm.com
 0.0.0.0 02.wordpress.nym2.appnexus.net
@@ -7678,8 +7683,8 @@
 0.0.0.0 03.64764sd.co.cc
 0.0.0.0 3.aa686.net
 0.0.0.0 3.adatmentes.info
-0.0.0.0 3.affex.org
 0.0.0.0 03.affex.org
+0.0.0.0 3.affex.org
 0.0.0.0 3.afs.googleadservices.com
 0.0.0.0 03.analytics.amakings.com
 0.0.0.0 3.aqa.rs
@@ -7945,8 +7950,8 @@
 0.0.0.0 3bigtrees.com
 0.0.0.0 3-billing.info
 0.0.0.0 3billing.uk
-0.0.0.0 3billingupdate.com
 0.0.0.0 3billing-update.com
+0.0.0.0 3billingupdate.com
 0.0.0.0 3bjhwgfjhwrfgjerfj.cf
 0.0.0.0 3bktp.voluumtrk.com
 0.0.0.0 3blackshades.no-ip.biz
@@ -8222,8 +8227,8 @@
 0.0.0.0 3dsemudownload.com
 0.0.0.0 3dsemulation.com
 0.0.0.0 3dsemulator.info
-0.0.0.0 3dsemulator.org
 0.0.0.0 3ds-emulator.org
+0.0.0.0 3dsemulator.org
 0.0.0.0 3dsemulator.us
 0.0.0.0 3dsharpedge.com
 0.0.0.0 3dshomebrew.com
@@ -9495,8 +9500,8 @@
 0.0.0.0 4.backend-staging.services.adx1.com
 0.0.0.0 4.bigclicker.me
 0.0.0.0 4.cdntt.bidvertiser.com
-0.0.0.0 4.coinlab.biz
 0.0.0.0 04.coinlab.biz
+0.0.0.0 4.coinlab.biz
 0.0.0.0 04.console-ssl-proxy.prod.nym2.adnexus.net
 0.0.0.0 04.corp-backup.nym2.appnexus.com
 0.0.0.0 04.creativecdn.com
@@ -10394,6 +10399,7 @@
 0.0.0.0 11.adsina.allyes.com
 0.0.0.0 11.affex.org
 0.0.0.0 11.afs.googleadservices.com
+0.0.0.0 11.bodis.com
 0.0.0.0 11.coinlab.biz
 0.0.0.0 11.creativecdn.com
 0.0.0.0 011.duba.net
@@ -10566,8 +10572,8 @@
 0.0.0.0 12b99.com
 0.0.0.0 012bbbb.com
 0.0.0.0 012be7e1e1cac62890638e24121a8086.me-talk.ru
-0.0.0.0 12bet.com
 0.0.0.0 12-bet.com
+0.0.0.0 12bet.com
 0.0.0.0 12betid.com
 0.0.0.0 12betidr.com
 0.0.0.0 12bf7stczg4eeuf7euv3s83c6e.hop.clickbank.net
@@ -10607,6 +10613,7 @@
 0.0.0.0 12fou.com
 0.0.0.0 1-2-free.com
 0.0.0.0 12g4rcgbxc.centade.com
+0.0.0.0 12gate.site
 0.0.0.0 12gbfree.com
 0.0.0.0 12gebrauchtwagen.de.intellitxt.com
 0.0.0.0 12gf.gold
@@ -10680,6 +10687,7 @@
 0.0.0.0 12xhardcore.com
 0.0.0.0 12xkfddv6x.centade.com
 0.0.0.0 12xlgm0.edvfwlacluo.com
+0.0.0.0 12xlwin2.net
 0.0.0.0 12xrzgkxtl.centade.com
 0.0.0.0 12xtfu4i0j.centade.com
 0.0.0.0 12yeu6adne.centade.com
@@ -11256,6 +11264,7 @@
 0.0.0.0 17i8.org
 0.0.0.0 17inxsdh5j.centade.com
 0.0.0.0 17jop.com
+0.0.0.0 17kj.info
 0.0.0.0 17legion.org
 0.0.0.0 17lexing.com
 0.0.0.0 17leyi.com
@@ -11584,8 +11593,8 @@
 0.0.0.0 20gbhediniz.online
 0.0.0.0 20gbhediye.com
 0.0.0.0 20gbhediyeanindasende.com
-0.0.0.0 20gbinternetevdekal.com
 0.0.0.0 20-gbinternetevdekal.com
+0.0.0.0 20gbinternetevdekal.com
 0.0.0.0 20gb-internet-kullan.com
 0.0.0.0 20gbinternet-senevdekal.com
 0.0.0.0 20gbkazanma.com
@@ -12220,8 +12229,8 @@
 0.0.0.0 24-sklep.pl
 0.0.0.0 24smi.info
 0.0.0.0 24smi.net
-0.0.0.0 24-soft.checkernow.com
 0.0.0.0 24soft.checkernow.com
+0.0.0.0 24-soft.checkernow.com
 0.0.0.0 24soft.check-live.com
 0.0.0.0 24-soft.check-live.com
 0.0.0.0 24soft-online.check-live.com
@@ -12273,8 +12282,8 @@
 0.0.0.0 24x7customer-support.com
 0.0.0.0 24x7customersupport.info
 0.0.0.0 24x7customersupport.net
-0.0.0.0 24x7-customer-supports.com
 0.0.0.0 24x7customersupports.com
+0.0.0.0 24x7-customer-supports.com
 0.0.0.0 24x7drugstoreonline.com
 0.0.0.0 24x7friendlypharm.com
 0.0.0.0 24x7globalmed.com
@@ -14699,6 +14708,7 @@
 0.0.0.0 116-zup-827.mktoresp.com
 0.0.0.0 117.6.87.194.dynamic.dol.ru
 0.0.0.0 117.affex.org
+0.0.0.0 117.bodis.com
 0.0.0.0 117.hostedprebid.com
 0.0.0.0 117.me
 0.0.0.0 0117a32d.linkbucks.com
@@ -14837,7 +14847,9 @@
 0.0.0.0 123ch.cn
 0.0.0.0 123cha.com
 0.0.0.0 123clickcash.com
+0.0.0.0 123clk.com
 0.0.0.0 123clkinfo.cleverpush.com
+0.0.0.0 123cls.com
 0.0.0.0 123codes.info
 0.0.0.0 123compteur.com
 0.0.0.0 123content.com
@@ -14898,8 +14910,8 @@
 0.0.0.0 123hp-printer.xyz
 0.0.0.0 123hpprintersetupsupport.com
 0.0.0.0 123hpprintersetup-support.com
-0.0.0.0 123hp-printer-support.com
 0.0.0.0 123hpprintersupport.com
+0.0.0.0 123hp-printer-support.com
 0.0.0.0 123-hp-support.net
 0.0.0.0 123hpsupports.com
 0.0.0.0 123hyhy.com
@@ -15774,6 +15786,7 @@
 0.0.0.0 163ren.com
 0.0.0.0 163view.atdmt.com.801.8000.302br.net
 0.0.0.0 163vr7.etc.edmontonbrandpartnerevents.com
+0.0.0.0 163yun.com
 0.0.0.0 164.6.87.194.dynamic.dol.ru
 0.0.0.0 164.adsina.allyes.com
 0.0.0.0 164.celtra.com
@@ -15806,6 +15819,7 @@
 0.0.0.0 166e61.com
 0.0.0.0 166e-1861-6877-67c0.reporo.net
 0.0.0.0 166f.com
+0.0.0.0 166hdtv.com
 0.0.0.0 166kxy.cn.com
 0.0.0.0 166-nwg-325.mktoresp.com
 0.0.0.0 166-sum-744.mktoresp.com
@@ -16212,8 +16226,8 @@
 0.0.0.0 188products.com
 0.0.0.0 188promo188.com
 0.0.0.0 188san.net
-0.0.0.0 188sb.com
 0.0.0.0 188-sb.com
+0.0.0.0 188sb.com
 0.0.0.0 188server.com
 0.0.0.0 188shenbo.com
 0.0.0.0 188shengli.com
@@ -16407,6 +16421,8 @@
 0.0.0.0 201-xew-873.mktoresp.com
 0.0.0.0 202.6.87.194.dynamic.dol.ru
 0.0.0.0 202.90.190.35.bc.googleusercontent.com
+0.0.0.0 202.132.13.d4ade4.com
+0.0.0.0 202.132.13.f6iwje4az9.com
 0.0.0.0 202.212.65200bs.nakanohito.jp
 0.0.0.0 202.212.65200cs.nakanohito.jp
 0.0.0.0 202.213.30.69.in-addr.arpaexelate.rtb.adx1.com
@@ -16975,8 +16991,8 @@
 0.0.0.0 247-img.c3tag.com
 0.0.0.0 247-inc.ca.assist.wip.247-inc.net
 0.0.0.0 247-inc.com
-0.0.0.0 247-inc.net
 0.0.0.0 247inc.net
+0.0.0.0 247-inc.net
 0.0.0.0 247limocarservice.com
 0.0.0.0 247livebet.com
 0.0.0.0 247livechatsupport.wordpress.com
@@ -18029,10 +18045,10 @@
 0.0.0.0 365-api.com
 0.0.0.0 365architectsamui.com
 0.0.0.0 365bibi.com
-0.0.0.0 365boi-onlinerenew.com
 0.0.0.0 365boionlinerenew.com
-0.0.0.0 365boiupdates.com
+0.0.0.0 365boi-onlinerenew.com
 0.0.0.0 365-boiupdates.com
+0.0.0.0 365boiupdates.com
 0.0.0.0 365cams.com
 0.0.0.0 365cash.exchange
 0.0.0.0 365cash-money.ru
@@ -18880,8 +18896,8 @@
 0.0.0.0 494-ony-660.mktoresp.com
 0.0.0.0 494-skc-981.mktoresp.com
 0.0.0.0 494-vuc-482.mktoresp.com
-0.0.0.0 495.com
 0.0.0.0 000495.com
+0.0.0.0 495.com
 0.0.0.0 495d74868f22.cdn4.forter.com
 0.0.0.0 495-eqn-167.mktoresp.com
 0.0.0.0 495-hvd-345.mktoresp.com
@@ -19150,8 +19166,8 @@
 0.0.0.0 1000russianwomen.com
 0.0.0.0 1000rx.com
 0.0.0.0 1000s-of-torrents-swicki.eurekster.com
-0.0.0.0 1000stars.ru
 0.0.0.0 1000-stars.ru
+0.0.0.0 1000stars.ru
 0.0.0.0 1000su.com
 0.0.0.0 1000tlpandemibasvurusu.com
 0.0.0.0 1000tlpandemidestekevdekal.com
@@ -19179,6 +19195,7 @@
 0.0.0.0 1001sb.checkyourprojects.com
 0.0.0.0 1001solution.com
 0.0.0.0 1002.9007.302br.net
+0.0.0.0 1002.bodis.com
 0.0.0.0 1002.men
 0.0.0.0 1003.9007.302br.net
 0.0.0.0 1003.adnxs.com
@@ -19484,6 +19501,7 @@
 0.0.0.0 1175.xml.adx1.com
 0.0.0.0 1176.bitterstrawberry.com
 0.0.0.0 1177.bitterstrawberry.com
+0.0.0.0 1177.bodis.com
 0.0.0.0 1177c-5b324.api.pushwoosh.com
 0.0.0.0 1178.adnxs.com
 0.0.0.0 1178.bitterstrawberry.com
@@ -19603,6 +19621,7 @@
 0.0.0.0 1241.31cf4fdae.com
 0.0.0.0 1242.gsspcln.jp
 0.0.0.0 1243.9015.302br.net
+0.0.0.0 1244.chushoushijian.cn
 0.0.0.0 1244.hittail.com
 0.0.0.0 1249.9015.302br.net
 0.0.0.0 1249.adsina.allyes.com
@@ -19934,6 +19953,7 @@
 0.0.0.0 1593.ns1.above.com
 0.0.0.0 1593.ns2.above.com
 0.0.0.0 1595ajpl2r004dknpku5tlnt80.hop.clickbank.net
+0.0.0.0 1602.bodis.com
 0.0.0.0 1602media.icontact.com
 0.0.0.0 1619services.com
 0.0.0.0 01622f97.api.splkmobile.com
@@ -20205,6 +20225,7 @@
 0.0.0.0 1971.api.swrve.com
 0.0.0.0 1972.api.swrve.com
 0.0.0.0 1972.content.swrve.com
+0.0.0.0 1973.bodis.com
 0.0.0.0 1974.hopto.org
 0.0.0.0 1978.reformal.ru
 0.0.0.0 1978gt05655.16mb.com
@@ -20310,6 +20331,7 @@
 0.0.0.0 2013basketballshoes.webs.com
 0.0.0.0 2013canadagoosenorge.spacevilla.net
 0.0.0.0 2013coachclub.com
+0.0.0.0 2013download.com
 0.0.0.0 2013-hacks.net
 0.0.0.0 2013hk.go2cloud.org
 0.0.0.0 2013lactalisdisplay.solution.weborama.fr
@@ -20345,8 +20367,8 @@
 0.0.0.0 2015.tukangklambi.tk
 0.0.0.0 2015crossroadsredwood38gk.info
 0.0.0.0 2015flynitmaxshoes.com
-0.0.0.0 2015-genuinefiles.eu.com
 0.0.0.0 2015genuinefiles.eu.com
+0.0.0.0 2015-genuinefiles.eu.com
 0.0.0.0 2015handbagsmall.com
 0.0.0.0 2015pharmacy.com
 0.0.0.0 2015schuhe.de.com
@@ -21541,6 +21563,7 @@
 0.0.0.0 10198.9003.302br.net
 0.0.0.0 10201.9003.302br.net
 0.0.0.0 10201.adalert.hop.clickbank.net
+0.0.0.0 10202.bodis.com
 0.0.0.0 10213.9002.302br.net
 0.0.0.0 10216.9002.302br.net
 0.0.0.0 10217.9002.302br.net
@@ -21577,6 +21600,7 @@
 0.0.0.0 10330.engine.mobileapptracking.com
 0.0.0.0 10331.9027.302br.net
 0.0.0.0 10334.9027.302br.net
+0.0.0.0 10335.bodis.com
 0.0.0.0 10337.9027.302br.net
 0.0.0.0 10341.9005.302br.net
 0.0.0.0 10342.9005.302br.net
@@ -21590,6 +21614,7 @@
 0.0.0.0 10377.9023.302br.net
 0.0.0.0 10379.com
 0.0.0.0 10380.9023.302br.net
+0.0.0.0 10380.bodis.com
 0.0.0.0 10383.9023.302br.net
 0.0.0.0 10389.global.siteimproveanalytics.io
 0.0.0.0 010402.com
@@ -21692,6 +21717,7 @@
 0.0.0.0 10745.url.246546.com
 0.0.0.0 10749.url.7wkw.com
 0.0.0.0 10750.9029.302br.net
+0.0.0.0 10757.bodis.com
 0.0.0.0 10762.9029.302br.net
 0.0.0.0 10763.url.7wkw.com
 0.0.0.0 10768.url.9xiazaiqi.com
@@ -21713,6 +21739,7 @@
 0.0.0.0 10816.9029.302br.net
 0.0.0.0 10818.url.7wkw.com
 0.0.0.0 10822.url.9xiazaiqi.com
+0.0.0.0 10827.bodis.com
 0.0.0.0 10830.duckdns.org
 0.0.0.0 10838.url.7wkw.com
 0.0.0.0 10844.url.9xiazaiqi.com
@@ -21757,6 +21784,7 @@
 0.0.0.0 11157.url.9xiazaiqi.com
 0.0.0.0 11169.url.9xiazaiqi.com
 0.0.0.0 11173.url.9xiazaiqi.com
+0.0.0.0 11176.bodis.com
 0.0.0.0 11176.url.7wkw.com
 0.0.0.0 11179.url.7wkw.com
 0.0.0.0 11182.url.7wkw.com
@@ -21767,8 +21795,10 @@
 0.0.0.0 11197.url.246546.com
 0.0.0.0 11200.url.7wkw.com
 0.0.0.0 11200.url.9xiazaiqi.com
+0.0.0.0 11213.bodis.com
 0.0.0.0 11216.url.246546.com
 0.0.0.0 11217.url.9xiazaiqi.com
+0.0.0.0 11220.bodis.com
 0.0.0.0 11220.pakman00.hop.clickbank.net
 0.0.0.0 11225.url.7wkw.com
 0.0.0.0 11225.url.9xiazaiqi.com
@@ -21799,6 +21829,7 @@
 0.0.0.0 11296.url.9xiazaiqi.com
 0.0.0.0 11300.tctm.co
 0.0.0.0 11307.url.246546.com
+0.0.0.0 11313.bodis.com
 0.0.0.0 11315.url.7wkw.com
 0.0.0.0 11322.url.7wkw.com
 0.0.0.0 11322.url.246546.com
@@ -21824,9 +21855,12 @@
 0.0.0.0 11394.fls.doubleclick.net
 0.0.0.0 11396.9033.302br.net
 0.0.0.0 11400.tctm.co
+0.0.0.0 11413.bodis.com
 0.0.0.0 11422.engine.mobileapptracking.com
+0.0.0.0 11438.bodis.com
 0.0.0.0 11442c9a8a9f40ffabcb8064ea02acda.events.ubembed.com
 0.0.0.0 11442c9a8a9f40ffabcb8064ea02acda.pages.ubembed.com
+0.0.0.0 11463.bodis.com
 0.0.0.0 11468.com
 0.0.0.0 11483.kit.carpediem.fr
 0.0.0.0 11483.url.9xiazaiqi.com
@@ -21853,11 +21887,13 @@
 0.0.0.0 11615.collect.igodigital.com
 0.0.0.0 11630.tctm.co
 0.0.0.0 11638.engine.mobileapptracking.com
+0.0.0.0 11649.bodis.com
 0.0.0.0 11652.fls.doubleclick.net
 0.0.0.0 11660.tctm.co
 0.0.0.0 11701.comeadvertisewithus.com.abbp1.pw
 0.0.0.0 11704.9033.302br.net
 0.0.0.0 11711.comeadvertisewithus.com.abbp1.pw
+0.0.0.0 11716.bodis.com
 0.0.0.0 11719.9033.302br.net
 0.0.0.0 11722.9021.302br.net
 0.0.0.0 11724.9021.302br.net
@@ -21870,17 +21906,20 @@
 0.0.0.0 011732amp.fmwebs.hop.clickbank.net
 0.0.0.0 11734.9021.302br.net
 0.0.0.0 11736.9021.302br.net
+0.0.0.0 11740.bodis.com
 0.0.0.0 11746.url.246546.com
 0.0.0.0 11751.comeadvertisewithus.com.abbp1.pw
 0.0.0.0 11758.9021.302br.net
 0.0.0.0 11758.snapsteal.org
 0.0.0.0 11762.9021.302br.net
+0.0.0.0 11766.bodis.com
 0.0.0.0 11766a.com
 0.0.0.0 11768.9021.302br.net
 0.0.0.0 11770.9034.302br.net
 0.0.0.0 11773.9034.302br.net
 0.0.0.0 11774.9034.302br.net
 0.0.0.0 11776.9034.302br.net
+0.0.0.0 11776.bodis.com
 0.0.0.0 11778.global.siteimproveanalytics.io
 0.0.0.0 11779.9034.302br.net
 0.0.0.0 11780.9034.302br.net
@@ -21970,6 +22009,7 @@
 0.0.0.0 11938.9037.302br.net
 0.0.0.0 11941.9037.302br.net
 0.0.0.0 11944.9037.302br.net
+0.0.0.0 11945.bodis.com
 0.0.0.0 11950.9037.302br.net
 0.0.0.0 11950.applovin.com
 0.0.0.0 11953.9037.302br.net
@@ -22017,6 +22057,7 @@
 0.0.0.0 12041.9038.302br.net
 0.0.0.0 12041.url.tudown.com
 0.0.0.0 12050.9038.302br.net
+0.0.0.0 12065.bodis.com
 0.0.0.0 12083.9038.302br.net
 0.0.0.0 12086.9038.302br.net
 0.0.0.0 12086.net
@@ -22441,6 +22482,7 @@
 0.0.0.0 13214.ivillage.uk.intellitxt.com
 0.0.0.0 13218.deeplink.mobileapptracking.com
 0.0.0.0 13223.hittail.com
+0.0.0.0 13230.bodis.com
 0.0.0.0 13236.url.tudown.com
 0.0.0.0 13248.engine.mobileapptracking.com
 0.0.0.0 13263.ivillage.us.intellitxt.com
@@ -22482,6 +22524,7 @@
 0.0.0.0 13549.url.tudown.com
 0.0.0.0 13556.9009.302br.net
 0.0.0.0 13559.9050.302br.net
+0.0.0.0 13560.bodis.com
 0.0.0.0 13561.fls.doubleclick.net
 0.0.0.0 13562.9050.302br.net
 0.0.0.0 13563.url.9xiazaiqi.com
@@ -22522,6 +22565,7 @@
 0.0.0.0 13680.tctm.co
 0.0.0.0 13685b42-b427-4a77-96c5-249160eafabf.sync.upravel.com
 0.0.0.0 13696.engine.mobileapptracking.com
+0.0.0.0 13708.bodis.com
 0.0.0.0 13721.9055.302br.net
 0.0.0.0 13723.9055.302br.net
 0.0.0.0 13724.9055.302br.net
@@ -22571,10 +22615,12 @@
 0.0.0.0 14028.9048.302br.net
 0.0.0.0 14030.9048.302br.net
 0.0.0.0 14032.url.7wkw.com
+0.0.0.0 14034.bodis.com
 0.0.0.0 14034.url.7wkw.com14034.url.7wkw.com
 0.0.0.0 14043.9057.302br.net
 0.0.0.0 14046.9057.302br.net
 0.0.0.0 14047.tracking.markethero.io
+0.0.0.0 14060.bodis.com
 0.0.0.0 14062.deeplink.mobileapptracking.com
 0.0.0.0 14063.9059.302br.net
 0.0.0.0 14066.9059.302br.net
@@ -22616,6 +22662,7 @@
 0.0.0.0 14121.9059.302br.net
 0.0.0.0 14123.9059.302br.net
 0.0.0.0 14124.9059.302br.net
+0.0.0.0 14124.bodis.com
 0.0.0.0 14124.deeplink.mobileapptracking.com
 0.0.0.0 14124.engine.mobileapptracking.com
 0.0.0.0 14126.9059.302br.net
@@ -22694,8 +22741,10 @@
 0.0.0.0 14434.url.7wkw.com
 0.0.0.0 14434.url.246546.com
 0.0.0.0 14436.9053.302br.net
+0.0.0.0 14438.bodis.com
 0.0.0.0 14466.url.222bz.com
 0.0.0.0 14468.deeplink.mobileapptracking.com
+0.0.0.0 14474.bodis.com
 0.0.0.0 14475.9070.302br.net
 0.0.0.0 14477.9070.302br.net
 0.0.0.0 14478.tracking.markethero.io
@@ -22733,6 +22782,7 @@
 0.0.0.0 14521.9074.302br.net
 0.0.0.0 14523.9074.302br.net
 0.0.0.0 14525.url.7wkw.com
+0.0.0.0 14530.bodis.com
 0.0.0.0 14582.url.246546.com
 0.0.0.0 14590.tctm.co
 0.0.0.0 14590poll.com.s3-website.us-east-2.amazonaws.com
@@ -22752,8 +22802,10 @@
 0.0.0.0 014794b3c071ffae75a16e2e00242f7a.laulb.com
 0.0.0.0 14820.tctm.co
 0.0.0.0 014824-sales-enterprise.bpmonline.com
+0.0.0.0 14834.bodis.com
 0.0.0.0 14840.tctm.co
 0.0.0.0 14860.tctm.co
+0.0.0.0 14862.bodis.com
 0.0.0.0 14899p7.edvfwlacluo.com
 0.0.0.0 14900.tctm.co
 0.0.0.0 14901.tracking.markethero.io
@@ -22797,10 +22849,12 @@
 0.0.0.0 15070.tctm.co
 0.0.0.0 15086.url.246546.com
 0.0.0.0 15104.url.7wkw.com
+0.0.0.0 15111.bodis.com
 0.0.0.0 15111.url.246546.com
 0.0.0.0 15116.url.246546.com
 0.0.0.0 15118.url.222bz.com
 0.0.0.0 15130.tctm.co
+0.0.0.0 15135.bodis.com
 0.0.0.0 15141.hittail.com
 0.0.0.0 15141.url.246546.com
 0.0.0.0 15159.url.7wkw.com
@@ -22810,6 +22864,7 @@
 0.0.0.0 15201.url.7wkw.com
 0.0.0.0 15206.url.9xiazaiqi.com
 0.0.0.0 15222.tctm.co
+0.0.0.0 15223.bodis.com
 0.0.0.0 15230.tctm.co
 0.0.0.0 15230.url.7wkw.com
 0.0.0.0 15243.url.tudown.com
@@ -22827,10 +22882,12 @@
 0.0.0.0 15431.pushprofit.ru
 0.0.0.0 15438.xyz
 0.0.0.0 15440.tctm.co
+0.0.0.0 15451.bodis.com
 0.0.0.0 15486.engine.mobileapptracking.com
 0.0.0.0 15486.tlnk.io
 0.0.0.0 15500.fls.doubleclick.net
 0.0.0.0 15517.url.9xiazaiqi.com
+0.0.0.0 15520.bodis.com
 0.0.0.0 15520.tctm.co
 0.0.0.0 15522jq7t72oay8ft06z25jkbl.hop.clickbank.net
 0.0.0.0 15530.engine.mobileapptracking.com
@@ -22844,13 +22901,16 @@
 0.0.0.0 15624.engine.mobileapptracking.com
 0.0.0.0 15628.hittail.com
 0.0.0.0 15647.bodisparking.com
+0.0.0.0 15666.bodis.com
 0.0.0.0 15666.com
+0.0.0.0 15673.bodis.com
 0.0.0.0 15679.pushprofit.ru
 0.0.0.0 15680.tctm.co
 0.0.0.0 15688c.com
 0.0.0.0 15688win.com
 0.0.0.0 15694.hittail.com
 0.0.0.0 15710.engine.mobileapptracking.com
+0.0.0.0 15742.bodis.com
 0.0.0.0 15757.pushprofit.ru
 0.0.0.0 15780.url.7878j.com
 0.0.0.0 15800.tctm.co
@@ -22859,6 +22919,7 @@
 0.0.0.0 15851f6dcbdd47579a91bc49b150def4.events.ubembed.com
 0.0.0.0 15851f6dcbdd47579a91bc49b150def4.js.ubembed.com
 0.0.0.0 15851f6dcbdd47579a91bc49b150def4.pages.ubembed.com
+0.0.0.0 15859.bodis.com
 0.0.0.0 15863.url.7wkw.com
 0.0.0.0 15868.url.tudown.com
 0.0.0.0 15910.tctm.co
@@ -22885,6 +22946,7 @@
 0.0.0.0 16005.9088.302br.net
 0.0.0.0 16006.9088.302br.net
 0.0.0.0 16007.9088.302br.net
+0.0.0.0 16007.bodis.com
 0.0.0.0 16008.9088.302br.net
 0.0.0.0 16010.9088.302br.net
 0.0.0.0 16011.9088.302br.net
@@ -22934,6 +22996,7 @@
 0.0.0.0 16179.9090.302br.net
 0.0.0.0 16185.9090.302br.net
 0.0.0.0 16188.9090.302br.net
+0.0.0.0 16188.bodis.com
 0.0.0.0 16215.9090.302br.net
 0.0.0.0 16215.url.tudown.com
 0.0.0.0 16221.9090.302br.net
@@ -22961,6 +23024,7 @@
 0.0.0.0 16398.qiqiqi.info
 0.0.0.0 16400.deeplink.mobileapptracking.com
 0.0.0.0 16400.tctm.co
+0.0.0.0 16411.bodis.com
 0.0.0.0 16425.url.tudown.com
 0.0.0.0 16430.url.7wkw.com
 0.0.0.0 16440.tctm.co
@@ -22974,6 +23038,7 @@
 0.0.0.0 16503.9093.302br.net
 0.0.0.0 16506.9093.302br.net
 0.0.0.0 16508.9069.302br.net
+0.0.0.0 16509.bodis.com
 0.0.0.0 16510.9069.302br.net
 0.0.0.0 16512.url.789msw.com
 0.0.0.0 16514.9069.302br.net
@@ -23037,6 +23102,7 @@
 0.0.0.0 16950.tctm.co
 0.0.0.0 16951.9102.302br.net
 0.0.0.0 16954.9102.302br.net
+0.0.0.0 16956.bodis.com
 0.0.0.0 16957.9102.302br.net
 0.0.0.0 16960.9102.302br.net
 0.0.0.0 16960.tctm.co
@@ -23124,6 +23190,8 @@
 0.0.0.0 17339.9084.302br.net
 0.0.0.0 17342.9084.302br.net
 0.0.0.0 17347.dojnh.com
+0.0.0.0 17356.bodis.com
+0.0.0.0 17357.bodis.com
 0.0.0.0 17381.9085.302br.net
 0.0.0.0 17382.9085.302br.net
 0.0.0.0 17384.9085.302br.net
@@ -23252,6 +23320,7 @@
 0.0.0.0 17727.9085.302br.net
 0.0.0.0 017733.com
 0.0.0.0 17762.url.tudown.com
+0.0.0.0 17781.bodis.com
 0.0.0.0 17791ed1b206494da7af5d2bb396a0ba-07c0aec6173f.cdn.forter.com
 0.0.0.0 017799.com
 0.0.0.0 17818ea400.iok.la
@@ -23307,6 +23376,7 @@
 0.0.0.0 18190.8wix.com
 0.0.0.0 18190.hittail.com
 0.0.0.0 18190.tctm.co
+0.0.0.0 18198.bodis.com
 0.0.0.0 18203.9078.302br.net
 0.0.0.0 18204.9078.302br.net
 0.0.0.0 18205.voluumtrk.com
@@ -23413,8 +23483,10 @@
 0.0.0.0 18490.tctm.co
 0.0.0.0 018520.com
 0.0.0.0 18566.engine.mobileapptracking.com
+0.0.0.0 18577.bodis.com
 0.0.0.0 18590.tctm.co
 0.0.0.0 18592.qiqiqi.info
+0.0.0.0 18603.bodis.com
 0.0.0.0 18610.tctm.co
 0.0.0.0 18628.engine.mobileapptracking.com
 0.0.0.0 18650.info
@@ -23449,11 +23521,13 @@
 0.0.0.0 18737.9082.302br.net
 0.0.0.0 18744.com
 0.0.0.0 18754.9085.302br.net
+0.0.0.0 18756.bodis.com
 0.0.0.0 18757.9085.302br.net
 0.0.0.0 18758.9085.302br.net
 0.0.0.0 18760.9085.302br.net
 0.0.0.0 18761.9085.302br.net
 0.0.0.0 18763.9085.302br.net
+0.0.0.0 18763.bodis.com
 0.0.0.0 18764.9085.302br.net
 0.0.0.0 18769.9086.302br.net
 0.0.0.0 18770.9086.302br.net
@@ -23466,6 +23540,7 @@
 0.0.0.0 18779.9086.302br.net
 0.0.0.0 18781.9086.302br.net
 0.0.0.0 18782.9086.302br.net
+0.0.0.0 18782.bodis.com
 0.0.0.0 18783.9086.302br.net
 0.0.0.0 18784.9086.302br.net
 0.0.0.0 18785.9086.302br.net
@@ -23477,6 +23552,8 @@
 0.0.0.0 18800.9087.302br.net
 0.0.0.0 18802.9087.302br.net
 0.0.0.0 18803.9087.302br.net
+0.0.0.0 18815.bodis.com
+0.0.0.0 18877.bodis.com
 0.0.0.0 18895.redirect.appmetrica.yandex.com
 0.0.0.0 18898.com
 0.0.0.0 18937.uobf005.authorizeddns.net
@@ -23524,6 +23601,7 @@
 0.0.0.0 19249.fb.dbbsrv.com
 0.0.0.0 19270.tctm.co
 0.0.0.0 19276.tracking.markethero.io
+0.0.0.0 19284.bodis.com
 0.0.0.0 19298.global.siteimproveanalytics.io
 0.0.0.0 19300.tctm.co
 0.0.0.0 19354.tracking.markethero.io
@@ -23600,6 +23678,7 @@
 0.0.0.0 19540.tctm.co
 0.0.0.0 19580.tctm.co
 0.0.0.0 19598.com
+0.0.0.0 19600.bodis.com
 0.0.0.0 19618.demdex.net
 0.0.0.0 19725.psdzy.com
 0.0.0.0 19738.collect.igodigital.com
@@ -43813,8 +43892,8 @@
 0.0.0.0 216-237-10-184.orange.nextweb.net
 0.0.0.0 220-132-180-59.hinet-ip.hinet.net
 0.0.0.0 220-226-188-56.0.freebasics.com
-0.0.0.0 222-33544-999.pub.adfirmative.com
 0.0.0.0 222-33544999.pub.adfirmative.com
+0.0.0.0 222-33544-999.pub.adfirmative.com
 0.0.0.0 22471354427.keywordblocks.com
 0.0.0.0 23205523023daea6.com
 0.0.0.0 234501-19297.link.iwanttodeliver.com
