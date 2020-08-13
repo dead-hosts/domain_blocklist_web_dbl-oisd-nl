@@ -9949,6 +9949,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "123564.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "12356830.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -10092,6 +10097,11 @@
     "123counts.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "123cursors.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "123date.me": {
@@ -10344,6 +10354,11 @@
         "expiration_date": "14-may-2021",
         "state": "future"
     },
+    "123juhd.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "123juzi.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
@@ -10547,6 +10562,11 @@
     "123postit.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "123ppk.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "123printersupport.com": {
@@ -11544,6 +11564,16 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "133u.com": {
+        "epoch": 1692576000.0,
+        "expiration_date": "21-aug-2023",
+        "state": "future"
+    },
+    "133uu.com": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "1341evensong.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
@@ -12209,6 +12239,11 @@
         "expiration_date": "07-jun-2025",
         "state": "future"
     },
+    "1503.net": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
     "150365.net": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
@@ -12364,6 +12399,11 @@
         "expiration_date": "23-jan-2024",
         "state": "future"
     },
+    "1556666.cn": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "15593571.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -12372,6 +12412,11 @@
     "15598212.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "155game.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "155tk.com": {
@@ -12437,6 +12482,11 @@
     "157ita684j.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "158779.com": {
+        "epoch": 1682812800.0,
+        "expiration_date": "30-apr-2023",
         "state": "future"
     },
     "1588-2040.co.kr": {
@@ -12819,6 +12869,11 @@
         "expiration_date": "12-dec-2021",
         "state": "future"
     },
+    "166br.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "166e61.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
@@ -12842,6 +12897,11 @@
     "168-ora.info": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "1680660.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "16808869.com": {
@@ -13179,6 +13239,11 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "171hgvip.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "171msc.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
@@ -13402,6 +13467,11 @@
     "177tour.com.tw": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "177tvbxs.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "178-365.net": {
@@ -13644,6 +13714,11 @@
         "expiration_date": "03-aug-2022",
         "state": "future"
     },
+    "17un.com": {
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "state": "future"
+    },
     "17wanmei.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -13687,6 +13762,11 @@
     "17zz8.com": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
+        "state": "future"
+    },
+    "18-plus.net": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "18-teens.net": {
@@ -14759,6 +14839,11 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "18mad.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "18mob.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -14817,6 +14902,11 @@
     "18pure.info": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "18rm.com": {
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "18safari.com": {
@@ -15152,6 +15242,11 @@
     "1984coupedevilleproject.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "19869.com": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "1987324.com": {
@@ -16229,6 +16324,11 @@
         "expiration_date": "01-may-2021",
         "state": "future"
     },
+    "1drj.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
     "1drvmail.work": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -16312,6 +16412,11 @@
     "1elllwrite.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "1emn.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "1empiredirect.com": {
@@ -17164,6 +17269,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "1maode.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
+    },
     "1mapx2.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -17314,6 +17424,11 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "1mob.com": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
     "1mobile.com": {
         "epoch": 1642809600.0,
         "expiration_date": "22-jan-2022",
@@ -17337,6 +17452,11 @@
     "1mp.mobi": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "1mpi.com": {
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
         "state": "future"
     },
     "1mvank.ru": {
@@ -17672,6 +17792,11 @@
     "1plot.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "1plus1tv.tv": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "1plusx.com": {
@@ -19329,6 +19454,11 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "1ytao.com": {
+        "epoch": 1681171200.0,
+        "expiration_date": "11-apr-2023",
+        "state": "future"
+    },
     "1yyju.com": {
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
@@ -19574,6 +19704,11 @@
         "expiration_date": "02-may-2021",
         "state": "future"
     },
+    "2004seo.cn": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
     "2005-search.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
@@ -19582,6 +19717,11 @@
     "2005111.net": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "2005net.net": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "2006ooo.com": {
