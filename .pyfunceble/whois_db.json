@@ -10594,6 +10594,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "123netflix.moe": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
     "123netflix.net": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
@@ -11062,6 +11067,11 @@
     "129ade625701c.org": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
+    "129bp.cn": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "129ji7ymdw.com": {
@@ -11997,6 +12007,11 @@
     "13dzersnma6d03xm91.world": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "13e41915er3.xyz": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "13joycasino.com": {
@@ -13202,6 +13217,11 @@
     "16js.org": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "16julpdtr-moviesplsnetfflx.com": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "16k6.com": {
@@ -16532,6 +16552,11 @@
     "1edu.in": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "1ee-uk.com": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "1egy.com": {
