@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/domain_blocklist_web_dbl-oisd-nl/domains.list": {
         "base": {
-            "datetime_iso": "2020-08-17T14:03:04.996416",
-            "hash": "fff9385b8752ca9132df177b1d7257269005b063b30d2d5933aab8a8"
+            "datetime_iso": "2020-08-18T20:04:51.509777",
+            "hash": "b4ba33f6f3ad348a13ba5445d0ff9cc3f41c4ac6ff009267de818144"
         },
         "latest": {
-            "datetime_iso": "2020-08-17T14:03:04.996416",
-            "hash": "fff9385b8752ca9132df177b1d7257269005b063b30d2d5933aab8a8"
+            "datetime_iso": "2020-08-18T20:04:51.509777",
+            "hash": "b4ba33f6f3ad348a13ba5445d0ff9cc3f41c4ac6ff009267de818144"
         },
         "position": 0
     }
