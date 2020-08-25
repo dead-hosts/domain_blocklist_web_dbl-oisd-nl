@@ -12204,6 +12204,11 @@
         "expiration_date": "14-jun-2021",
         "state": "future"
     },
+    "140fire.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "140game.com": {
         "epoch": 1623369600.0,
         "expiration_date": "11-jun-2021",
@@ -12317,6 +12322,11 @@
     "148dfe140d0f3d5e.com": {
         "epoch": 1620777600.0,
         "expiration_date": "12-may-2021",
+        "state": "future"
+    },
+    "1492tapasbar.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "1493-security-dispatch.com": {
@@ -13124,6 +13134,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "168168.net": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "1688.se": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
@@ -13162,6 +13177,11 @@
     "16892.net": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "168ad.cc": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "168big.com.tw": {
@@ -13337,6 +13357,11 @@
     "16lib.org": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "16mb.com": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "16minutesaday.com": {
