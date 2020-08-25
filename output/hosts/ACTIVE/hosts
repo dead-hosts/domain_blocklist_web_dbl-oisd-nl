@@ -41,13 +41,13 @@
 0.0.0.0 0.facebook.com.webproxy.us.com
 0.0.0.0 0.fbsbx.com
 0.0.0.0 0.fecebook.com
-0.0.0.0 0000000.fls.doubleclick.net
+0.0.0.0 0.fls.doubleclick.net
+0.0.0.0 000.fls.doubleclick.net
 0.0.0.0 0000.fls.doubleclick.net
+0.0.0.0 0000000.fls.doubleclick.net
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 00.fls.doubleclick.net
-0.0.0.0 000.fls.doubleclick.net
 0.0.0.0 000000.fls.doubleclick.net
-0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 0.fres-news.com
 0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 0.gr8.com
@@ -193,8 +193,8 @@
 0.0.0.0 0ap3ulfqau.centade.com
 0.0.0.0 0aprcreditcard.live
 0.0.0.0 0aprcreditcard.rocks
-0.0.0.0 0apr-creditcard.sale
 0.0.0.0 0aprcreditcard.sale
+0.0.0.0 0apr-creditcard.sale
 0.0.0.0 0aprcreditcarddeal.market
 0.0.0.0 0aprcreditcard-deals.rocks
 0.0.0.0 0aprcreditcard-guide.rocks
@@ -305,6 +305,7 @@
 0.0.0.0 0bb43pu3fm1hx0-dv-n47k8ud9.hop.clickbank.net
 0.0.0.0 0bbb4c44-6cbe-11e9-bd05-406231002e7e.cdn.adx1.com
 0.0.0.0 0bbbda78.linkbucks.com
+0.0.0.0 0000bbffxzzzz900.000webhostapp.com
 0.0.0.0 0bc3r4pht3.centade.com
 0.0.0.0 0bc09bd2.linkbucks.com
 0.0.0.0 0bc045uz5wcsby6fnjo4hdo06k.hop.clickbank.net
@@ -844,8 +845,8 @@
 0.0.0.0 0ffodsthpk.centade.com
 0.0.0.0 0fftrwotc6.centade.com
 0.0.0.0 0fg91h7z6i.centade.com
-0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph-0.accountkit.com
+0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph1.accountkit.com
 0.0.0.0 0fgraph0-2.accountkit.com
 0.0.0.0 0fgraph04.accountkit.com
@@ -2166,11 +2167,11 @@
 0.0.0.0 1.ads555.com
 0.0.0.0 1.adspirit.de
 0.0.0.0 1.adspirit.net
-0.0.0.0 01.affex.org
 0.0.0.0 1.affex.org
+0.0.0.0 01.affex.org
 0.0.0.0 1.afs.googleadservices.com
-0.0.0.0 01.aidata.io
 0.0.0.0 1.aidata.io
+0.0.0.0 01.aidata.io
 0.0.0.0 1.aili.com
 0.0.0.0 1.ajiyuming.com
 0.0.0.0 1.allow-video.com
@@ -2233,8 +2234,8 @@
 0.0.0.0 1.clicktube7.com
 0.0.0.0 1.cn716.com
 0.0.0.0 1.codesdq.com
-0.0.0.0 1.coinlab.biz
 0.0.0.0 01.coinlab.biz
+0.0.0.0 1.coinlab.biz
 0.0.0.0 01.colour-printer.lhr1.appnexus.com
 0.0.0.0 01.config.parsely.com
 0.0.0.0 01.conman.fra1.appnexus.net
@@ -2435,8 +2436,8 @@
 0.0.0.0 01.print-server.nym2.appnexus.com
 0.0.0.0 1.proewildfire.cn
 0.0.0.0 1.psfree.pay.clickbank.net
-0.0.0.0 1.ptp22.com
 0.0.0.0 01.ptp22.com
+0.0.0.0 1.ptp22.com
 0.0.0.0 1.push2.eastmoney.com
 0.0.0.0 1.pushofferpro.com
 0.0.0.0 1.pushpushgo.com
@@ -2603,6 +2604,7 @@
 0.0.0.0 1a.e8.2bd0.ip4.static.sl-reverse.com
 0.0.0.0 1a.wearehearken.com
 0.0.0.0 01aa128176c1eae523f5f42505aadd34.clo.footprintdns.com
+0.0.0.0 1-aa.com
 0.0.0.0 001aabcirh-jun86lrrf28yhih.hop.clickbank.net
 0.0.0.0 1aabqlgmjo.centade.com
 0.0.0.0 1aadfce83cdb49a4f0059132f61376f8.nrb.footprintdns.com
@@ -5583,8 +5585,8 @@
 0.0.0.0 1xbahiscufw.com
 0.0.0.0 1xbahiseank.com
 0.0.0.0 1xbahisnuul.com
-0.0.0.0 1x-bet.mobi
 0.0.0.0 1xbet.mobi
+0.0.0.0 1x-bet.mobi
 0.0.0.0 1x-bet.pro
 0.0.0.0 1xbet.ru.net
 0.0.0.0 1xbetasia.mobi
@@ -5643,8 +5645,8 @@
 0.0.0.0 1xslot-casino.ru
 0.0.0.0 1xslot-casino.site
 0.0.0.0 1xslots.africa
-0.0.0.0 1x-slots.site
 0.0.0.0 1xslots.site
+0.0.0.0 1x-slots.site
 0.0.0.0 1xslots-africa.site
 0.0.0.0 1xslots-brasil.site
 0.0.0.0 1xslots-casino.site
@@ -5853,8 +5855,8 @@
 0.0.0.0 2.hidemyass.com
 0.0.0.0 002.hitgraph.jp
 0.0.0.0 2.hop.clickbank.net
-0.0.0.0 02.iad.appboy.com
 0.0.0.0 2.iad.appboy.com
+0.0.0.0 02.iad.appboy.com
 0.0.0.0 2.indexsinas.me
 0.0.0.0 2.iplogger.org
 0.0.0.0 02.jamf-dp.ams1.appnexus.com
@@ -5952,8 +5954,8 @@
 0.0.0.0 2.vsimg.com.cname3278.yjs-cdn.com
 0.0.0.0 02.weblogin.lax1.appnexus.com
 0.0.0.0 02.weblogin.nym2.appnexus.com
-0.0.0.0 2.webtrekk.net
 0.0.0.0 02.webtrekk.net
+0.0.0.0 2.webtrekk.net
 0.0.0.0 2.wee.co.il
 0.0.0.0 2.wholesalepbm.com
 0.0.0.0 02.wordpress.nym2.appnexus.net
@@ -6136,8 +6138,8 @@
 0.0.0.0 2ba6a024-46b4-4fd8-aea6-1af7a1a6324e.sync.upravel.com
 0.0.0.0 2ba8by0j9-ao7o22o9t4fo325v.hop.clickbank.net
 0.0.0.0 2bacxrtdog.centade.com
-0.0.0.0 2balert.app
 0.0.0.0 2b-alert.app
+0.0.0.0 2balert.app
 0.0.0.0 2baners.ero-advertising.com
 0.0.0.0 2barazi.com
 0.0.0.0 2bat3joznh.centade.com
@@ -6178,6 +6180,10 @@
 0.0.0.0 2bhi0yqj4r.centade.com
 0.0.0.0 2biao.com
 0.0.0.0 2bibi.voluumtrk.com
+0.0.0.0 02-biiling.com
+0.0.0.0 02-bill.ref-112.com
+0.0.0.0 02-billing.ref-102.com
+0.0.0.0 02-billing.update.ref-112.com
 0.0.0.0 02-billing.update.ref-290.com
 0.0.0.0 02billingupdates.com
 0.0.0.0 02billingverification.com
@@ -8051,8 +8057,8 @@
 0.0.0.0 03.64764sd.co.cc
 0.0.0.0 3.aa686.net
 0.0.0.0 3.adatmentes.info
-0.0.0.0 3.affex.org
 0.0.0.0 03.affex.org
+0.0.0.0 3.affex.org
 0.0.0.0 3.afs.googleadservices.com
 0.0.0.0 03.analytics.amakings.com
 0.0.0.0 3.aqa.rs
@@ -8106,8 +8112,8 @@
 0.0.0.0 3.passfixx.com
 0.0.0.0 3.pic.pc6.com
 0.0.0.0 03.pixel.parsely.com
-0.0.0.0 03.ptp22.com
 0.0.0.0 3.ptp22.com
+0.0.0.0 03.ptp22.com
 0.0.0.0 3.push2.eastmoney.com
 0.0.0.0 3.qddmz.com.cn
 0.0.0.0 3.redirect.appmetrica.yandex.com
@@ -10550,8 +10556,8 @@
 0.0.0.0 4rukel.cz.cc
 0.0.0.0 4runnerliftkits.com
 0.0.0.0 4rvfff.hbho.homebizhangout.com
-0.0.0.0 4-rx.com
 0.0.0.0 4rx.com
+0.0.0.0 4-rx.com
 0.0.0.0 4rxgu.voluumtrk.com
 0.0.0.0 4rxmed.org
 0.0.0.0 4rxstore.com
@@ -11441,11 +11447,11 @@
 0.0.0.0 6cg.adx1.com
 0.0.0.0 6-chat.tv
 0.0.0.0 6-chatcam.com
-0.0.0.0 6-chats.mobi
 0.0.0.0 6chats.mobi
+0.0.0.0 6-chats.mobi
 0.0.0.0 6chats.net
-0.0.0.0 6-chats.tv
 0.0.0.0 6chats.tv
+0.0.0.0 6-chats.tv
 0.0.0.0 6cl2q.voluumtrk.com
 0.0.0.0 6cn.tw
 0.0.0.0 6connectdev.com
@@ -11562,6 +11568,7 @@
 0.0.0.0 07cbd7ti8o0gzkwajfvbu1bc31.hop.clickbank.net
 0.0.0.0 07czjaxvwy.centade.com
 0.0.0.0 07d2abda32d26536ad6ed4d6f566b914.api.appsee.com
+0.0.0.0 07d4d907803091955.temporary.link
 0.0.0.0 07da-c5ab-7697-fc0d.reporo.net
 0.0.0.0 07dd44c444f88517e3fd0f716ee7017e.api.appsee.com
 0.0.0.0 07dd96.htmlcomponentservice.com
@@ -11626,6 +11633,7 @@
 0.0.0.0 008.net
 0.0.0.0 08.ptp22.com
 0.0.0.0 08.sharedsource.org
+0.0.0.0 08.sohui.top
 0.0.0.0 08.spylog.com
 0.0.0.0 08.view-testpages.sand-08.nym2.adnexus.net
 0.0.0.0 08a437uap6m9bw0zbdogh9ir6y.hop.clickbank.net
@@ -12009,6 +12017,7 @@
 0.0.0.0 10th4u.no-ip.biz
 0.0.0.0 10thcnn.com
 0.0.0.0 010-thk-506.mktoresp.com
+0.0.0.0 10thousandroses.com
 0.0.0.0 10tillcom.montgomerytech.com
 0.0.0.0 10tips.online
 0.0.0.0 10to8.tapfiliate.com
@@ -12253,8 +12262,8 @@
 0.0.0.0 12b99.com
 0.0.0.0 012bbbb.com
 0.0.0.0 012be7e1e1cac62890638e24121a8086.me-talk.ru
-0.0.0.0 12-bet.com
 0.0.0.0 12bet.com
+0.0.0.0 12-bet.com
 0.0.0.0 12betid.com
 0.0.0.0 12betidr.com
 0.0.0.0 12bf7stczg4eeuf7euv3s83c6e.hop.clickbank.net
@@ -12479,6 +12488,7 @@
 0.0.0.0 13slif0wghzxpahzmvsqb7xnzyncsdss4zn2oeap6ec40915cba71fb9am1.e.aa.online-metrix.net
 0.0.0.0 13slif0wnwfjax7ajhqgmbiqyxccl4ppdoq5ab4lf581a4b6141bd897am1.e.aa.online-metrix.net
 0.0.0.0 13stages.com
+0.0.0.0 13stromvergleich.totalh.net
 0.0.0.0 13suntrust4.7m.pl
 0.0.0.0 13tabs.com
 0.0.0.0 13ueqjm2.emltrk.com
@@ -13541,6 +13551,7 @@
 0.0.0.0 21fc7cbd-a9de-4c39-ad6d-55eca2b2b504.apac.u.fastly-insights.com
 0.0.0.0 21fiinmr.emltrk.com
 0.0.0.0 21find.com
+0.0.0.0 021garden.com.cn
 0.0.0.0 21gbdf82is.centade.com
 0.0.0.0 21gradi.com
 0.0.0.0 21grandcasino.com
@@ -13601,6 +13612,7 @@
 0.0.0.0 021-wld-815.mktoresp.com
 0.0.0.0 21xpnbcgaf.centade.com
 0.0.0.0 21xsk.com
+0.0.0.0 021ycjc.com
 0.0.0.0 021ye.com
 0.0.0.0 21yg9jjc.go.jetswap.com
 0.0.0.0 21yybuyukanadolu.com
@@ -14052,8 +14064,8 @@
 0.0.0.0 24smi.net
 0.0.0.0 24soft.checkernow.com
 0.0.0.0 24-soft.checkernow.com
-0.0.0.0 24soft.check-live.com
 0.0.0.0 24-soft.check-live.com
+0.0.0.0 24soft.check-live.com
 0.0.0.0 24soft-online.check-live.com
 0.0.0.0 24sovplzpowr.com
 0.0.0.0 24spaces.com
@@ -16641,8 +16653,8 @@
 0.0.0.0 69ba-95af-a923-8c02.reporo.net
 0.0.0.0 69boysex.com
 0.0.0.0 69cash.net
-0.0.0.0 69cashmobile.com
 0.0.0.0 69cash-mobile.com
+0.0.0.0 69cashmobile.com
 0.0.0.0 69content.com
 0.0.0.0 69er.de
 0.0.0.0 069f6242d3bc459ebad54478fb2eeaf1-adf0901f1861.cdn5.forter.com
@@ -17127,6 +17139,7 @@
 0.0.0.0 0102a1b34bd30caaaeb170441e3d0dec.api.appsee.com
 0.0.0.0 102bank.com
 0.0.0.0 102-dkr-624.mktoresp.com
+0.0.0.0 102notparkinsondises.us
 0.0.0.0 102qrl8v99.centade.com
 0.0.0.0 102region.online
 0.0.0.0 102-vui-754.mktoresp.com
@@ -17500,6 +17513,7 @@
 0.0.0.0 123-counter.de
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123counter.superstats.com
+0.0.0.0 123counts.com
 0.0.0.0 123cursors.com
 0.0.0.0 123date.me
 0.0.0.0 123davyd13.camp2001.hop.clickbank.net
@@ -17524,6 +17538,7 @@
 0.0.0.0 123europix.pro
 0.0.0.0 123evdenevenakliyat.com
 0.0.0.0 123ewqasdcxz.xicp.net
+0.0.0.0 123fbfree1szxx.000webhostapp.com
 0.0.0.0 123fhfh.com
 0.0.0.0 123fireblade.no-ip.biz
 0.0.0.0 123flits.nl
@@ -17557,6 +17572,7 @@
 0.0.0.0 123hpprintersetup-support.com
 0.0.0.0 123hpprintersupport.com
 0.0.0.0 123hp-printer-support.com
+0.0.0.0 123hp-support.com
 0.0.0.0 123-hp-support.net
 0.0.0.0 123hpsupports.com
 0.0.0.0 123hyhy.com
@@ -17574,6 +17590,7 @@
 0.0.0.0 123kia.free.fr
 0.0.0.0 0123kj.com
 0.0.0.0 0123kjz.com
+0.0.0.0 123kochi.com
 0.0.0.0 123kredyt.com
 0.0.0.0 123kuma.com
 0.0.0.0 123ky.online
@@ -17588,6 +17605,7 @@
 0.0.0.0 123maigrir.com
 0.0.0.0 123managerdina123.000webhostapp.com
 0.0.0.0 123mania.com
+0.0.0.0 123mdw.com
 0.0.0.0 123medianext.g2afse.com
 0.0.0.0 123meratol.com
 0.0.0.0 123metrics.com
@@ -18902,8 +18920,8 @@
 0.0.0.0 188products.com
 0.0.0.0 188promo188.com
 0.0.0.0 188san.net
-0.0.0.0 188sb.com
 0.0.0.0 188-sb.com
+0.0.0.0 188sb.com
 0.0.0.0 188server.com
 0.0.0.0 188shenbo.com
 0.0.0.0 188shengli.com
@@ -20799,11 +20817,11 @@
 0.0.0.0 365-api.com
 0.0.0.0 365architectsamui.com
 0.0.0.0 365bibi.com
-0.0.0.0 365boi-onlinerenew.com
 0.0.0.0 365boionlinerenew.com
+0.0.0.0 365boi-onlinerenew.com
 0.0.0.0 365-boipayeeupdate.com
-0.0.0.0 365boiupdates.com
 0.0.0.0 365-boiupdates.com
+0.0.0.0 365boiupdates.com
 0.0.0.0 365cams.com
 0.0.0.0 365cash.exchange
 0.0.0.0 365cash-money.ru
@@ -21680,8 +21698,8 @@
 0.0.0.0 494-ony-660.mktoresp.com
 0.0.0.0 494-skc-981.mktoresp.com
 0.0.0.0 494-vuc-482.mktoresp.com
-0.0.0.0 000495.com
 0.0.0.0 495.com
+0.0.0.0 000495.com
 0.0.0.0 495d74868f22.cdn4.forter.com
 0.0.0.0 495-eqn-167.mktoresp.com
 0.0.0.0 495-hvd-345.mktoresp.com
@@ -22330,6 +22348,7 @@
 0.0.0.0 0825aa17909aedd3a8b56c18a030b746.clo.footprintdns.com
 0.0.0.0 0827d159.linkbucks.com
 0.0.0.0 0830bbs.com
+0.0.0.0 0835t.cn
 0.0.0.0 0837cf34a76843cbb2d9360621b968d5-adf0901f1861.cdn5.forter.com
 0.0.0.0 0845daef19934a37937c01c7999d0747-53e1270541f5.cdn.forter.com
 0.0.0.0 0851gygb.com
@@ -22379,6 +22398,7 @@
 0.0.0.0 0931zybdf.com
 0.0.0.0 0937js.com
 0.0.0.0 0937jyg.com
+0.0.0.0 0937news.com
 0.0.0.0 0950eabb35c1474a8529d7f3e828a600.nrb.footprintdns.com
 0.0.0.0 0951fe0fa74cacacd7149d83141caf42.clo.footprintdns.com
 0.0.0.0 0959tg.dagestan.su
@@ -22444,6 +22464,7 @@
 0.0.0.0 1001frikadas.com
 0.0.0.0 1001golos.dxservice.ru
 0.0.0.0 1001like.com
+0.0.0.0 1001lingerie.com
 0.0.0.0 1001movies.com
 0.0.0.0 1001namen.com
 0.0.0.0 1001newsng.com
@@ -22979,6 +23000,7 @@
 0.0.0.0 1288afl9.akstat.io
 0.0.0.0 01289.com
 0.0.0.0 1289.ns1.above.com
+0.0.0.0 1290x2383.xyz
 0.0.0.0 1292owens.com
 0.0.0.0 1295.trkpnt.ongage.net
 0.0.0.0 1296.ns1.above.com
@@ -23778,8 +23800,8 @@
 0.0.0.0 2015.tukangklambi.tk
 0.0.0.0 2015crossroadsredwood38gk.info
 0.0.0.0 2015flynitmaxshoes.com
-0.0.0.0 2015genuinefiles.eu.com
 0.0.0.0 2015-genuinefiles.eu.com
+0.0.0.0 2015genuinefiles.eu.com
 0.0.0.0 2015handbagsmall.com
 0.0.0.0 2015pharmacy.com
 0.0.0.0 2015schuhe.de.com
@@ -30584,6 +30606,7 @@
 0.0.0.0 101187.gsspcln.jp
 0.0.0.0 101194.advision-adnw.jp
 0.0.0.0 101201.gsspcln.jp
+0.0.0.0 101232service.net
 0.0.0.0 101233.sprout-ad.com
 0.0.0.0 101290.sprout-ad.com
 0.0.0.0 101361.hittail.com
@@ -30642,6 +30665,7 @@
 0.0.0.0 102773.hittail.com
 0.0.0.0 102783.genieessp.com
 0.0.0.0 102788.gsspcln.jp
+0.0.0.0 102811.genieessp.com
 0.0.0.0 102820.adnico.jp
 0.0.0.0 102821.adnico.jp
 0.0.0.0 102870.genieessp.com
@@ -30696,6 +30720,7 @@
 0.0.0.0 104619.sprout-ad.com
 0.0.0.0 104638.adnico.jp
 0.0.0.0 104674.adresult.jp
+0.0.0.0 104679.genieessp.com
 0.0.0.0 104720.gsspcln.jp
 0.0.0.0 104733.sprout-ad.com
 0.0.0.0 104799.genieessp.com
@@ -30959,6 +30984,7 @@
 0.0.0.0 121270.tctm.co
 0.0.0.0 121365sb.com
 0.0.0.0 121-365sb.com
+0.0.0.0 121378.com
 0.0.0.0 121523.r.bat.bing.com
 0.0.0.0 121857.hittail.com
 0.0.0.0 122030.tctm.co
@@ -31070,6 +31096,7 @@
 0.0.0.0 132317.tctm.co
 0.0.0.0 132407.mainews.ru
 0.0.0.0 133050.tctm.co
+0.0.0.0 000133210.000webhostapp.com
 0.0.0.0 133350.tctm.co
 0.0.0.0 133446f3fa16c4a2f02e9f45a1d9d640705b7b62.cws.conviva.com
 0.0.0.0 133525.com
@@ -31532,8 +31559,8 @@
 0.0.0.0 188386.engine.mobileapptracking.com
 0.0.0.0 188445.jivosite.com
 0.0.0.0 188555.com
-0.0.0.0 188563.com
 0.0.0.0 188-563.com
+0.0.0.0 188563.com
 0.0.0.0 188617.measurementapi.com
 0.0.0.0 188640.engine.mobileapptracking.com
 0.0.0.0 188684.deeplink.mobileapptracking.com
@@ -31965,8 +31992,8 @@
 0.0.0.0 246546.com
 0.0.0.0 246905.net
 0.0.0.0 247-365.biz
-0.0.0.0 24-7-365.support
 0.0.0.0 247-365.support
+0.0.0.0 24-7-365.support
 0.0.0.0 247590.r.axf8.net
 0.0.0.0 247947.tctm.co
 0.0.0.0 248047-deutschland-verbraucher-angabe-kontoidentity.vorkehrung.tk
@@ -49543,8 +49570,8 @@
 0.0.0.0 216-237-10-184.orange.nextweb.net
 0.0.0.0 220-132-180-59.hinet-ip.hinet.net
 0.0.0.0 220-226-188-56.0.freebasics.com
-0.0.0.0 222-33544999.pub.adfirmative.com
 0.0.0.0 222-33544-999.pub.adfirmative.com
+0.0.0.0 222-33544999.pub.adfirmative.com
 0.0.0.0 22471354427.keywordblocks.com
 0.0.0.0 23205523023daea6.com
 0.0.0.0 234501-19297.link.iwanttodeliver.com
