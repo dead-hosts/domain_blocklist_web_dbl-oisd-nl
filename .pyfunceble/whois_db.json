@@ -39103,6 +39103,12 @@
         "expiration_date": "30-apr-2021",
         "state": "future"
     },
+    "3rgen.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "3riversconvergence.org": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -39444,8 +39450,9 @@
         "state": "future"
     },
     "3tcgroup.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3techweb.it": {
@@ -39628,6 +39635,12 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "3vlm.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "3vm.cl": {
         "epoch": 1640131200.0,
         "expiration_date": "22-dec-2021",
@@ -39766,6 +39779,12 @@
     "3x5y.com": {
         "epoch": 1669161600.0,
         "expiration_date": "23-nov-2022",
+        "state": "future"
+    },
+    "3xfetish.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3xfull.com": {
@@ -41298,6 +41317,12 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "440musichall.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "441-365.net": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -41391,6 +41416,12 @@
     "444-poker.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "444.biz.ua": {
+        "epoch": 1655769600.0,
+        "expiration_date": "21-jun-2022",
+        "server": "whois.ua",
         "state": "future"
     },
     "44403138.com": {
@@ -42361,6 +42392,12 @@
     "46thsymposium.info": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "46w46.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "47-zone.com": {
@@ -43361,6 +43398,12 @@
     "4covid19.com": {
         "epoch": 1647734400.0,
         "expiration_date": "20-mar-2022",
+        "state": "future"
+    },
+    "4cpatrimoine.com": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4cr447ewncl4.com": {
