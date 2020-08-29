@@ -97383,5 +97383,77 @@
         "expiration_date": "05-dec-2020",
         "server": "whois.nic.style",
         "state": "future"
+    },
+    "ad1.ru": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "ad1.si": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.register.si",
+        "state": "future"
+    },
+    "ad120.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad120m.com": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad123m.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad127m.com": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad131m.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad132m.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad159.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad1data.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad1game.ru": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "ad1px.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     }
 }
