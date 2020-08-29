@@ -71811,8 +71811,9 @@
         "state": "future"
     },
     "a-pagerank.net": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-pdf.com": {
@@ -71845,19 +71846,34 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "a-reality.co.uk": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
     "a-search.biz": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "a-searchpage.info": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "a-spring.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-static.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-tconsulting.co.uk": {
@@ -71901,8 +71917,15 @@
         "state": "future"
     },
     "a-work.info": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "a-writer.com": {
+        "epoch": 1744588800.0,
+        "expiration_date": "14-apr-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-zdorov.ru": {
@@ -71916,13 +71939,20 @@
         "state": "future"
     },
     "a-zo.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-zroute.com": {
         "epoch": 1661126400.0,
         "expiration_date": "22-aug-2022",
+        "state": "future"
+    },
+    "a.biz.ua": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "a013.com": {
