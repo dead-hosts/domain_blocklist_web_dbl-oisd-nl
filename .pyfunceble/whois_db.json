@@ -71956,13 +71956,21 @@
         "state": "future"
     },
     "a013.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a01660166.com": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a02d0adbca0.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a0675c1160de6c6.com": {
@@ -71971,8 +71979,45 @@
         "state": "future"
     },
     "a06bbd98194c252.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0a28d3c97a4e566.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0b11.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0b22.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0b33.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0c66.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0c77.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a0cd331a807820940068445a2591229.info": {
@@ -71980,9 +72025,34 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "a0ea8eqb32b0ulp5jvqtrqdzb7qynetflix.com": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a0usa.top": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "a0v.org": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "a0wda.work": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "server": "whois.nic.work",
+        "state": "future"
+    },
+    "a1-apex-plumbing.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a1-bulkemailhost.com": {
@@ -71990,9 +72060,27 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "a1-salvage.com": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a1-stays.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "a1-support.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a1-techsupport.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a1000suns.com": {
@@ -72030,14 +72118,21 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "a12c.top": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "a12lab.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "a13.me": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "a135.net": {
@@ -72046,8 +72141,39 @@
         "state": "future"
     },
     "a15256378569ec595.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a157ad075fcb34c.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a15c5009bcbe272.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a168iirjx7roy2u813.net": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a1714.com": {
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a188.ws": {
+        "epoch": 1720224000.0,
+        "expiration_date": "06-jul-2024",
+        "server": "whois.website.ws",
         "state": "future"
     },
     "a19.com": {
