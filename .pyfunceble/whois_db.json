@@ -97353,5 +97353,35 @@
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "future"
+    },
+    "ad.md": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "server": "whois.nic.md",
+        "state": "future"
+    },
+    "ad.mg": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.nic.mg",
+        "state": "future"
+    },
+    "ad.net": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ad.plus": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "server": "whois.nic.plus",
+        "state": "future"
+    },
+    "ad.style": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "server": "whois.nic.style",
+        "state": "future"
     }
 }
