@@ -64931,9 +64931,27 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "8club.org": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "8club.ru": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "8cnd.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8coins.net": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8coins.ru": {
@@ -64941,14 +64959,39 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "8d5hh.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "8d6lbsvg3qkl.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8d7h2.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
     "8ddddd.com": {
-        "epoch": 1569628800.0,
-        "expiration_date": "28-sep-2019",
-        "state": "past"
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "8design.com.br": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "8dfaa2dc76855.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8dice.com": {
@@ -64967,13 +65010,21 @@
         "state": "future"
     },
     "8dp.net": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8ds128.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8dulm.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8dx.com.br": {
@@ -64981,14 +65032,28 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "8e5fh.top": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "8e7iazfvf2.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8eapp.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8eenxxx.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8eiw4shadauuer5x.com": {
@@ -64996,9 +65061,21 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "8eub4hbh9pvnfft8.fit": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "server": "whois.nic.fit",
+        "state": "future"
+    },
     "8f6rhvyi.ru": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "8f71b.top": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "8febb549.com": {
@@ -65006,14 +65083,21 @@
         "expiration_date": "30-sep-2019",
         "state": "past"
     },
+    "8ff01bde37db289d5.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8ff5310a39d4.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "8fftyc.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8fgimzjw37tjszwv.com": {
@@ -65021,9 +65105,28 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "8fob.com": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8forum-bahis.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8fxnyzf.com": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8fzyhamgc9.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8g-up2vm.com": {
@@ -65032,8 +65135,9 @@
         "state": "future"
     },
     "8gcgcvqe7ncirnr7.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8gf-cjq7.social": {
@@ -65041,9 +65145,21 @@
         "expiration_date": "30-dec-2019",
         "state": "future"
     },
+    "8gfh.com": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8gold.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "8gzijqo4c85j.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8hah.com": {
@@ -65051,9 +65167,39 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "8hn.net": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "8hnc.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8hoursfromchicago.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "8hpay.cn": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "8hu.me": {
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
+    "8hyt.com": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8i06hx9dv-w41.com": {
@@ -65061,9 +65207,21 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "8i18.com": {
+        "epoch": 1655164800.0,
+        "expiration_date": "14-jun-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "8igjtoyhur.com": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "8ikr3dfn.ru": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "8isb.com": {
@@ -65074,6 +65232,12 @@
     "8ixrxa2tnr.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "8j24h.cn": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "8kegwpjw50.com": {
