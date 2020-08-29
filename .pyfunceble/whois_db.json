@@ -72847,9 +72847,16 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "a3cloud.net": {
+        "epoch": 1642982400.0,
+        "expiration_date": "24-jan-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a3crg.co.uk": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1659052800.0,
+        "expiration_date": "29-jul-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "a3ddns.com": {
@@ -72857,9 +72864,57 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "a3esseker.info": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "a3infra.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a3jenhkmqwnl.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a3logistics.com": {
+        "epoch": 1644796800.0,
+        "expiration_date": "14-feb-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a3m.io": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "a3p4.com": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
+    "a3p4.net": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a3q.ru": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "a3rab.net": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a3revenue.com": {
@@ -72867,9 +72922,51 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "a3yqjsrczwwp.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a4-1.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "a4.tl": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.nic.tl",
+        "state": "future"
+    },
+    "a40hd1mh5deq.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a418d4f43c3a32.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a41dx.top": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "a433.com": {
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a456a.top": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "a4643.com": {
@@ -72877,9 +72974,16 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "a46b257bc29b.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a4b-tracking.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a4dable.co.za": {
