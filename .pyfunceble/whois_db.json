@@ -51708,6 +51708,12 @@
         "expiration_date": "03-oct-2021",
         "state": "future"
     },
+    "6161h1.cn": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "616773.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -51768,6 +51774,12 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "619work.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "61b50f2b935cbb6.com": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -51786,6 +51798,12 @@
     "61paris.fr": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "61z39.cn": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "61zzz.com": {
