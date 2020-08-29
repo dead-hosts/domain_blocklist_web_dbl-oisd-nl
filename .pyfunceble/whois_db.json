@@ -73393,9 +73393,16 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "a8wills.site": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "a8ww.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a8ysmxbm6situtpe.com": {
@@ -73409,8 +73416,21 @@
         "state": "future"
     },
     "a907907.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a90yapi.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a911a1ed6c0.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a92k6ih.love": {
@@ -73423,6 +73443,18 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "a9388.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a940db0846408b2.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a948848111.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -73433,9 +73465,22 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "a97b4nxfkr0a.com": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a9897.com": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a99b.com": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a9a5.com": {
@@ -73444,13 +73489,15 @@
         "state": "future"
     },
     "a9d7c19f0282.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a9dt.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1654128000.0,
+        "expiration_date": "02-jun-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a9fn4j.com": {
@@ -73458,14 +73505,39 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "a9k.ru": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
     "a9nf3hg5c2.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a9rhiwa.cn": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "a9u5w2tffjcpznw5.fit": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "server": "whois.nic.fit",
         "state": "future"
     },
     "a9us.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "a9v8.cn": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "a9w.ru": {
@@ -73478,9 +73550,46 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "aa-financial.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aa-hq.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aa-hvacservices.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aa-ins.ru": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "aa-lawfirm.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aa-oc.org": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "aa-rf.com": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa-top.com": {
@@ -73494,28 +73603,44 @@
         "state": "future"
     },
     "aa02.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa03.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa04.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa05.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa08daf7e13b6345e09e92f771507fa5f4.com": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "aa1221.net": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aa13.cloud": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.nic.cloud",
         "state": "future"
     },
     "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
@@ -73543,14 +73668,21 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "aa399.com": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aa3f.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "aa53df329975c325.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa6123.com": {
@@ -73563,6 +73695,12 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "aa655.com": {
+        "epoch": 1653782400.0,
+        "expiration_date": "29-may-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aa6789.com": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
@@ -73573,9 +73711,22 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "aa7e.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aa7y.com": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aa81bf391151884adfa3dd677e41f94be1.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aa9bd78f328a6a41279d0fad0a88df1901.com": {
@@ -73588,14 +73739,34 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "aaa-id.energy": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.nic.energy",
+        "state": "future"
+    },
+    "aaa-louisvuitton.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaa-merchant-account.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aaa-payday.com": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaa-pharmtrust123.ru": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaa-sovereignty.com": {
@@ -73614,8 +73785,9 @@
         "state": "future"
     },
     "aaa258.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaa32.com": {
@@ -73629,8 +73801,15 @@
         "state": "future"
     },
     "aaa62.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aaaaaco.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaaaqp.com": {
@@ -73638,9 +73817,21 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "aaaaaz.info": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "aaaahi.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "aaaalimos.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaauto.cz": {
@@ -73651,6 +73842,18 @@
     "aaabao.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "aaabaseball.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aaabesthomepage.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaabill.com": {
@@ -73664,8 +73867,9 @@
         "state": "future"
     },
     "aaabodybuilding.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaca.co": {
@@ -73676,6 +73880,18 @@
     "aaacameras.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "aaacartierwatches.cn": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "aaacompany.net": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaad.pl": {
@@ -73689,8 +73905,9 @@
         "state": "future"
     },
     "aaadealstoday.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaadelhi.org": {
@@ -73703,9 +73920,33 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "aaaeieiiiofffpn.su": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "aaafc94b3a37b75ae9cb60afc42e86fe.org": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "aaafcjersey.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaag-maroc.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "aaagunsspokane.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaahct.org": {
@@ -73723,9 +73964,16 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "aaak7yes.com": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaakemegood24.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaalgroup.com": {
@@ -73743,44 +73991,57 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "aaanew.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaannuairex.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "aaaonlinecasino.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaphaglobal123.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaphaglobal365.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaphaglobal724.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaphar-line365.ru": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharm-discount.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharm-discount365.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharm-gate365.ru": {
@@ -73804,33 +74065,39 @@
         "state": "future"
     },
     "aaapharmacyonline724.ru": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmcenter.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmcenter123.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmcenter724.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmcenters365.ru": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmcenters724.ru": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmgate365.ru": {
@@ -73844,58 +74111,69 @@
         "state": "future"
     },
     "aaapharmmart.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmmart123.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmmart365.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmsale.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmsale123.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmsale365.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmsale724.ru": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmsite.ru": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmtrust.ru": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmtrust365.ru": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaapharmtrust724.ru": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaplating.com": {
@@ -73904,18 +74182,32 @@
         "state": "future"
     },
     "aaapriceonlineed.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaproductos.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaaprotectivesecurity.com": {
         "epoch": 1660953600.0,
         "expiration_date": "20-aug-2022",
+        "state": "future"
+    },
+    "aaareplicabags.nu": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "server": "whois.iis.nu",
+        "state": "future"
+    },
+    "aaareplicawatches.co": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "aaascreensavers.com": {
@@ -73949,8 +74241,15 @@
         "state": "future"
     },
     "aaasolution.co.th": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.thnic.co.th",
+        "state": "future"
+    },
+    "aaatarpsfleet.com": {
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaatechh.com": {
@@ -73973,6 +74272,12 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "aaawebfinder.com": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaawork365.ru": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -73984,13 +74289,15 @@
         "state": "future"
     },
     "aaaworkpower123.ru": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaworkpower365.ru": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "aaaworkpower724.ru": {
@@ -73999,8 +74306,15 @@
         "state": "future"
     },
     "aab-check.me": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
+    "aab94f698f36684c5a852a2ef272e031bb.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aabacustraining.com": {
@@ -74013,9 +74327,33 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "aabathlift.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aabbcc.co.uk": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "aabbccddeeffgg.cn": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "aabbcomunidade.com.br": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "aabbenefits.com": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aabbttuu.com": {
@@ -74031,6 +74369,12 @@
     "aabgina.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "aabmxezph.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aabolt.dk": {
@@ -74059,8 +74403,9 @@
         "state": "future"
     },
     "aacapitalsecurity.co.uk": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "aacc-houston.org": {
@@ -74068,9 +74413,16 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "aaccot.org": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "aaccount-security.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaccpp.org.ar": {
@@ -74078,9 +74430,16 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "aace.org.ng": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "server": "whois.nic.net.ng",
+        "state": "future"
+    },
     "aacihealthcare.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aacleanpctools.club": {
@@ -74128,6 +74487,12 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "aad73c550c.se": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
     "aadalsvej12.dk": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -74138,19 +74503,38 @@
         "expiration_date": "24-may-2020",
         "state": "future"
     },
+    "aadcom.com": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaddalaska.org": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "aaddcount.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaddzz.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aadesign.net": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "aadharacademy.com": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aadhat.com": {
@@ -74163,14 +74547,27 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "aadieinternational.com": {
+        "epoch": 1739404800.0,
+        "expiration_date": "13-feb-2025",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aadiholidays.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "aadillaptops.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aadils.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aadiproperties.co.in": {
@@ -74198,24 +74595,45 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "aadqetef.site": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "aadreezzcinemedia.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
         "state": "future"
     },
     "aadroid.net": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aaduio.work": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "server": "whois.nic.work",
         "state": "future"
     },
     "aadultwork.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aadvocatecloudsupport.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaedpills.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaeepu.com": {
@@ -74253,9 +74671,21 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "aaetnanavigator.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaets.org": {
         "epoch": 1666224000.0,
         "expiration_date": "20-oct-2022",
+        "state": "future"
+    },
+    "aafandis.net": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aafawards.com": {
@@ -74264,8 +74694,9 @@
         "state": "future"
     },
     "aafdcq.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aafdistrict7.com": {
@@ -74276,6 +74707,12 @@
     "aafees.com": {
         "epoch": 1692921600.0,
         "expiration_date": "25-aug-2023",
+        "state": "future"
+    },
+    "aafesfcu.org": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "aafgcvjyvxlosy.com": {
@@ -74289,8 +74726,15 @@
         "state": "future"
     },
     "aafinc.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aafiyaat.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaflt.org": {
@@ -74323,6 +74767,12 @@
         "expiration_date": "21-nov-2023",
         "state": "future"
     },
+    "aaganigudda.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aaganpost.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
@@ -74333,19 +74783,39 @@
         "expiration_date": "30-apr-2022",
         "state": "future"
     },
+    "aagmbroxruno.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aagor.com": {
+        "epoch": 1676764800.0,
+        "expiration_date": "19-feb-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aagpc.org.br": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "aagqrr.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aagraham.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aagumezuce.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aahaar.com": {
@@ -74379,13 +74849,26 @@
         "state": "future"
     },
     "aahvz.top": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "aai0.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaimac.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "aaintergroup.org": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "aaircool.best": {
@@ -74396,6 +74879,18 @@
     "aajassociates.com": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "aajcustoms.com": {
+        "epoch": 1695340800.0,
+        "expiration_date": "22-sep-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aajkikhabare.co.in": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "aakaii.com": {
@@ -74429,13 +74924,15 @@
         "state": "future"
     },
     "aakashdoot.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aakasupport.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aakda.gov.gh": {
@@ -74459,8 +74956,9 @@
         "state": "past"
     },
     "aakn.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aakritiartcreations.com": {
@@ -74478,6 +74976,18 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "aaktrade.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aakxh.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aal-ver.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -74486,6 +74996,18 @@
     "aalawnsmd.com": {
         "epoch": 1686700800.0,
         "expiration_date": "14-jun-2023",
+        "state": "future"
+    },
+    "aalbbh84.info": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "aalbertsiips.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aalborgfrivilligraad.dk": {
@@ -74513,10 +75035,17 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "aalldbet.work": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "server": "whois.nic.work",
+        "state": "future"
+    },
     "aallinclusivevacation.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "aalma.pt": {
         "epoch": 1593475200.0,
@@ -74539,14 +75068,16 @@
         "state": "future"
     },
     "aamaga.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1674000000.0,
+        "expiration_date": "18-jan-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aamail.us": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "aamapi.com": {
         "epoch": 1692144000.0,
@@ -74556,6 +75087,24 @@
     "aamar106fm.com": {
         "epoch": 1641081600.0,
         "expiration_date": "02-jan-2022",
+        "state": "future"
+    },
+    "aamazon-new-sale.online": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "aamazon.live": {
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
+    "aambeiengenezen.info": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "aambg.org": {
@@ -74568,9 +75117,16 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "aameetings.org": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "aamhi.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aamiac.fr": {
@@ -74583,15 +75139,22 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "aamirkhanfilmleri.info": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "aamirshahzad.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "aamks.com": {
-        "epoch": 1571184000.0,
-        "expiration_date": "16-oct-2019",
-        "state": "past"
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "aamonferrato.com": {
         "epoch": 1583280000.0,
@@ -74603,9 +75166,16 @@
         "expiration_date": "24-may-2020",
         "state": "future"
     },
+    "aampr.org": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "aamran.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aamrit.com": {
@@ -74613,9 +75183,27 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "aamsitecertifier.com": {
+        "epoch": 1725408000.0,
+        "expiration_date": "04-sep-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "aamsmqscyuycigcw.org": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "aamysysutils.live": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
+        "state": "future"
+    },
+    "aanaqa.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aanchalpk.com": {
@@ -74633,9 +75221,16 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "aandjcornucopia.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aandjlasvegas.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aandmenterprise.in": {
@@ -74654,8 +75249,9 @@
         "state": "future"
     },
     "aanganestate.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aanima.com.br": {
@@ -74664,8 +75260,9 @@
         "state": "future"
     },
     "aank.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aann.co.tz": {
@@ -74673,9 +75270,16 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "aanoit.com": {
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "aanqylta.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aanstaande.com": {
