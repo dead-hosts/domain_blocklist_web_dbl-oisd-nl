@@ -50532,8 +50532,9 @@
         "state": "future"
     },
     "5oozpi-dbv.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5oqgb1od6v.com": {
@@ -50659,6 +50660,12 @@
     "5q63n.cn": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "5q68n.cn": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "5qbb.com": {
