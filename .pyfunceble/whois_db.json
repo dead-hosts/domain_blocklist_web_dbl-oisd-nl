@@ -48192,6 +48192,12 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "555.biz.ua": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "server": "whois.ua",
+        "state": "future"
+    },
     "5550888.com": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
@@ -48425,6 +48431,12 @@
     "5577.com": {
         "epoch": 1646265600.0,
         "expiration_date": "03-mar-2022",
+        "state": "future"
+    },
+    "557777.com": {
+        "epoch": 1716595200.0,
+        "expiration_date": "25-may-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5577k.com": {
@@ -48672,6 +48684,12 @@
         "expiration_date": "07-feb-2023",
         "state": "future"
     },
+    "563j.com": {
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "563n.com": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
@@ -48823,8 +48841,15 @@
         "state": "future"
     },
     "5678l.com": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "5678uc.com": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "567apple.com": {
@@ -49163,8 +49188,9 @@
         "state": "future"
     },
     "58398.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5848.com": {
@@ -49295,6 +49321,12 @@
     "58cdn.com.cn": {
         "epoch": 1646352000.0,
         "expiration_date": "04-mar-2022",
+        "state": "future"
+    },
+    "58f7c1ff30eb.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "58fbw.com": {
