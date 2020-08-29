@@ -72842,8 +72842,9 @@
         "state": "future"
     },
     "a3761801a40c59b48.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a3crg.co.uk": {
