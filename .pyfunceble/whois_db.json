@@ -49679,6 +49679,12 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "5a8p12.cn": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "5aa8f31e2f5d.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -49872,6 +49878,12 @@
     "5cloudtech-vps.info": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "5cmc.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5co.com": {
