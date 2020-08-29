@@ -72812,9 +72812,33 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "a345a.top": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "a353364ec1bd19a.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "a3544.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "a3579.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "a35c92d96766745.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a3761801a40c59b48.com": {
