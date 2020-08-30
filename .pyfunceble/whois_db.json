@@ -108111,5 +108111,35 @@
         "expiration_date": "09-jan-2021",
         "server": "whois.registre.ma",
         "state": "future"
+    },
+    "ads.net": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads.net.id": {
+        "epoch": 1756684800.0,
+        "expiration_date": "01-sep-2025",
+        "server": "whois.id",
+        "state": "future"
+    },
+    "ads.net.pl": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "ads.org": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "ads.org.ma": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "server": "whois.registre.ma",
+        "state": "future"
     }
 }
