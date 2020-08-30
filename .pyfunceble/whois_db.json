@@ -119859,5 +119859,407 @@
         "expiration_date": "04-feb-2022",
         "server": "whois.nic.ai",
         "state": "future"
+    },
+    "affiliate.boutique": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "server": "whois.nic.boutique",
+        "state": "future"
+    },
+    "affiliate.business": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "server": "whois.nic.business",
+        "state": "future"
+    },
+    "affiliate.co.in": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
+    "affiliate.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliate.credit": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "server": "whois.nic.credit",
+        "state": "future"
+    },
+    "affiliate.cx": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "whois.nic.cx",
+        "state": "future"
+    },
+    "affiliate.exchange": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.nic.exchange",
+        "state": "future"
+    },
+    "affiliate.fish": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.nic.fish",
+        "state": "future"
+    },
+    "affiliate.gmbh": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "server": "whois.nic.gmbh",
+        "state": "future"
+    },
+    "affiliate.id": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "server": "whois.id",
+        "state": "future"
+    },
+    "affiliate.info": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "affiliate.ist": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "server": "whois.afilias-srs.net",
+        "state": "future"
+    },
+    "affiliate.link": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "server": "whois.uniregistry.net",
+        "state": "future"
+    },
+    "affiliate.live": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
+    "affiliate.net": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliate.nu": {
+        "epoch": 1697673600.0,
+        "expiration_date": "19-oct-2023",
+        "server": "whois.iis.nu",
+        "state": "future"
+    },
+    "affiliate.run": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "server": "whois.nic.run",
+        "state": "future"
+    },
+    "affiliate.ryukyu": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.nic.ryukyu",
+        "state": "future"
+    },
+    "affiliate.school": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.nic.school",
+        "state": "future"
+    },
+    "affiliate.show": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "server": "whois.nic.show",
+        "state": "future"
+    },
+    "affiliate.studio": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "server": "whois.nic.studio",
+        "state": "future"
+    },
+    "affiliate.tips": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "server": "whois.nic.tips",
+        "state": "future"
+    },
+    "affiliate.tl": {
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.nic.tl",
+        "state": "future"
+    },
+    "affiliate.travel": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.nic.travel",
+        "state": "future"
+    },
+    "affiliate.watch": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.nic.watch",
+        "state": "future"
+    },
+    "affiliate.works": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "server": "whois.nic.works",
+        "state": "future"
+    },
+    "affiliateall.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatebiz.ru": {
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "affiliatebrand.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateclick.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateclub.com": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatecop.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatecube.com": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatedave.com": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateedge.com": {
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateer.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatefind.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatefuel.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatefuture.co.uk": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "affiliategateways.co": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "affiliategroove.com": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateguide.com": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateharvest.com": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatejunktion.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatekeeper.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliateleader.com": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatelifestyle-system.com": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatelink.info": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "affiliatelink.website": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "server": "whois.nic.website",
+        "state": "future"
+    },
+    "affiliatemarketingrumors.live": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
+    "affiliatematch.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatemembership.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatemg.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatemoneytree.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatenetwork.co.za": {
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.registry.net.za",
+        "state": "future"
+    },
+    "affiliatenetwork.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatenetworkhq.com": {
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatepartners.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliatequality.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliater.pl": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "affiliates-leon.net": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates-network.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates-solutions.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates-spinit.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates-system.com": {
+        "epoch": 1713139200.0,
+        "expiration_date": "15-apr-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates.com": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "affiliates.cool": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.nic.cool",
+        "state": "future"
     }
 }
