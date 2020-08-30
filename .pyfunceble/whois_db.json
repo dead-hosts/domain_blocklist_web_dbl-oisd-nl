@@ -109281,5 +109281,161 @@
         "expiration_date": "05-jul-2021",
         "server": "whois.nic.mobi",
         "state": "future"
+    },
+    "adserver.mx": {
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
+        "server": "whois.mx",
+        "state": "future"
+    },
+    "adserver.network": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "server": "whois.nic.network",
+        "state": "future"
+    },
+    "adserver.one": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "server": "whois.nic.one",
+        "state": "past"
+    },
+    "adserver.online": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "adserver.org": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "adserver.pl": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "adserver.pm": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.nic.pm",
+        "state": "future"
+    },
+    "adserver.pro": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "adserver.pub": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.nic.pub",
+        "state": "future"
+    },
+    "adserver.pw": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
+    "adserver.red": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "adserver.ro": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "server": "whois.rotld.ro",
+        "state": "future"
+    },
+    "adserver.se": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "adserver.services": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.nic.services",
+        "state": "future"
+    },
+    "adserver.si": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "server": "whois.register.si",
+        "state": "future"
+    },
+    "adserver.so": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "server": "whois.nic.so",
+        "state": "future"
+    },
+    "adserver.solutions": {
+        "epoch": 1662508800.0,
+        "expiration_date": "07-sep-2022",
+        "server": "whois.nic.solutions",
+        "state": "future"
+    },
+    "adserver.su": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "adserver.support": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.support",
+        "state": "future"
+    },
+    "adserver.team": {
+        "epoch": 1642809600.0,
+        "expiration_date": "22-jan-2022",
+        "server": "whois.nic.team",
+        "state": "future"
+    },
+    "adserver.tech": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "server": "whois.nic.tech",
+        "state": "future"
+    },
+    "adserver.technology": {
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "server": "whois.nic.technology",
+        "state": "future"
+    },
+    "adserver.tel": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "server": "whois.nic.tel",
+        "state": "future"
+    },
+    "adserver.tips": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "server": "whois.nic.tips",
+        "state": "future"
+    },
+    "adserver.today": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.nic.today",
+        "state": "future"
+    },
+    "adserver.top": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.nic.top",
+        "state": "future"
     }
 }
