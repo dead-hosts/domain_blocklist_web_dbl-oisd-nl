@@ -148221,5 +148221,701 @@
         "expiration_date": "28-aug-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
+    },
+    "amazon-japane.com": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-jp.cn": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "amazon-jp.life": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.nic.life",
+        "state": "future"
+    },
+    "amazon-limitedaccount.com": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-loginx.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-mail.loan": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.nic.loan",
+        "state": "future"
+    },
+    "amazon-mail.net": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-my-account.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-onlineupdate.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-payments.cn": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "amazon-please-login.com": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-pro.co": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazon-recooverymaillockeed.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-refer.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-resolve.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-ro.co": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazon-secures-2019-12-5-co-jp.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-service.app": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.google",
+        "state": "future"
+    },
+    "amazon-service.link": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.uniregistry.net",
+        "state": "future"
+    },
+    "amazon-services-de.in": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
+    "amazon-services-de.ind.in": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
+    "amazon-services-it.ind.in": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
+    "amazon-step1-process.com": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-survey.biz": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.nic.biz",
+        "state": "future"
+    },
+    "amazon-uk.uk": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "amazon-unlocked-account.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-verificationno.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-verificationou.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-verificatixon.com": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-verifylockeedservicehttps.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon-webuser-webappssupporthaxor.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazon1780.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonaax.com": {
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonacaibrazil.co.uk": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "amazonaccountreopen.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonaccountverification.com": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonadda.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonappsec.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonas.cl": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "server": "whois.nic.cl",
+        "state": "future"
+    },
+    "amazonburger.com.br": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "amazonbusinesscenters.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonbyvip.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoncareers.co": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazoncash.co": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazoncash.org": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazoncl.online": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "amazonco-jp-loginmember.info": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "amazonco.uk": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "amazoncojp-security-support.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoncojpide.co": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazoncompany.net": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazondatajobs.org": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazondede.com": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonecenter.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonechosetup.com": {
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoneffect.net": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonetukoodi.net": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonetukoodit.net": {
+        "epoch": 1661558400.0,
+        "expiration_date": "27-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoneusc.buzz": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.buzz",
+        "state": "future"
+    },
+    "amazonfbacourse.ca": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.cira.ca",
+        "state": "future"
+    },
+    "amazonforex.com": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonfreshstore.app": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.google",
+        "state": "future"
+    },
+    "amazonfromhome.org": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazongift.online": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "amazongiftcardgenerator.org": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazongiftcardgiveaway.com": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazongiftcardscodes.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazongifts.org": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazongigs.org": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazongiveaway.info": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "amazongroup.se": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazongrupp.se": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazonhalo.club": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.club",
+        "state": "future"
+    },
+    "amazonhalo.vip": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "amazonhaloband.club": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.club",
+        "state": "future"
+    },
+    "amazonhaloband.vip": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "amazonhealthservices.info": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "amazonhealthservices.org": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazonhiring.org": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "amazonhjalpen.se": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazoni-verification.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoniamarcas.com.br": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "amazonianmushrooms.com": {
+        "epoch": 1661644800.0,
+        "expiration_date": "28-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonica-ita.com.br": {
+        "epoch": 1648598400.0,
+        "expiration_date": "30-mar-2022",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "amazonily.com": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoninformationprmie.net": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazoninfoupdateusers.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonintegration.se": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazonintegrationer.se": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazonintelligence.com": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonip.top": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "amazonjp-co.top": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "amazonjp.world": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.nic.world",
+        "state": "future"
+    },
+    "amazonjpco.co": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazonjpcodeip.co": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazonjpcokuns.co": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazonkindlesupport.xyz": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
+    "amazonknows.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonkopplingar.se": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.iis.se",
+        "state": "future"
+    },
+    "amazonlife.co": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazonlineshop.com": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonlogin.biz": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.nic.biz",
+        "state": "future"
+    },
+    "amazonm.net.cn": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "amazonmacros.com": {
+        "epoch": 1812672000.0,
+        "expiration_date": "11-jun-2027",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonmarketingacademy.com": {
+        "epoch": 1661644800.0,
+        "expiration_date": "28-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonmedicinalcannabis.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonmoney.co": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "amazonmultiplier.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonoffice.com.br": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "amazononlineusa.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazononverify.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonoverflow.info": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "amazonplaytoys.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonprimehelpdesk.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonprimesmarthome.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "amazonprincess.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     }
 }
