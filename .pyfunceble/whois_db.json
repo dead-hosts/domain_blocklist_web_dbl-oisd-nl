@@ -109107,5 +109107,101 @@
         "expiration_date": "16-jun-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
+    },
+    "adserver-pro.net": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "adserver-voice-online.co.uk": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
+    "adserver.ag": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "server": "whois.nic.ag",
+        "state": "future"
+    },
+    "adserver.ai": {
+        "epoch": 1648512000.0,
+        "expiration_date": "29-mar-2022",
+        "server": "whois.nic.ai",
+        "state": "future"
+    },
+    "adserver.asia": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.nic.asia",
+        "state": "future"
+    },
+    "adserver.blog": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.nic.blog",
+        "state": "future"
+    },
+    "adserver.blue": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "adserver.business": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "server": "whois.nic.business",
+        "state": "future"
+    },
+    "adserver.ca": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "server": "whois.cira.ca",
+        "state": "future"
+    },
+    "adserver.cc": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
+    "adserver.cloud": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.nic.cloud",
+        "state": "future"
+    },
+    "adserver.cn": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
+    "adserver.co": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "adserver.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "adserver.com.ar": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "server": "whois.nic.ar",
+        "state": "future"
+    },
+    "adserver.company": {
+        "epoch": 1657929600.0,
+        "expiration_date": "16-jul-2022",
+        "server": "whois.nic.company",
+        "state": "future"
     }
 }
