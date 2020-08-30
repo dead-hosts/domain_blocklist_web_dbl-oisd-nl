@@ -108153,5 +108153,41 @@
         "expiration_date": "23-apr-2022",
         "server": "whois.nic.us",
         "state": "future"
+    },
+    "ads01.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads1-adnow.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads1-adselo.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads180.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads2-adnow.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads234.com": {
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     }
 }
