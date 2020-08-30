@@ -107955,5 +107955,77 @@
         "expiration_date": "26-apr-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
+    },
+    "ads-software.net": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads-stats.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads-stream.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads-support-privacy-public.live": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
+    "ads-t.ru": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "ads-ti.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads-transfer.com": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads-twitter.com": {
+        "epoch": 1653523200.0,
+        "expiration_date": "26-may-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ads.aero": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "server": "whois.aero",
+        "state": "future"
+    },
+    "ads.bid": {
+        "epoch": 1867104000.0,
+        "expiration_date": "02-mar-2029",
+        "server": "whois.nic.bid",
+        "state": "future"
+    },
+    "ads.biz.tr": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.nic.tr",
+        "state": "future"
+    },
+    "ads.cc": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
     }
 }
