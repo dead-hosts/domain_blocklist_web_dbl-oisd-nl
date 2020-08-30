@@ -109203,5 +109203,83 @@
         "expiration_date": "16-jul-2022",
         "server": "whois.nic.company",
         "state": "future"
+    },
+    "adserver.directory": {
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.directory",
+        "state": "future"
+    },
+    "adserver.exchange": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.nic.exchange",
+        "state": "future"
+    },
+    "adserver.expert": {
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "server": "whois.nic.expert",
+        "state": "future"
+    },
+    "adserver.fun": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.nic.fun",
+        "state": "future"
+    },
+    "adserver.ga": {
+        "epoch": 1869782400.0,
+        "expiration_date": "02-apr-2029",
+        "server": "whois.my.ga",
+        "state": "future"
+    },
+    "adserver.group": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.nic.group",
+        "state": "future"
+    },
+    "adserver.guru": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.nic.guru",
+        "state": "future"
+    },
+    "adserver.info": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "adserver.io": {
+        "epoch": 1646006400.0,
+        "expiration_date": "28-feb-2022",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
+    "adserver.ma": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "server": "whois.registre.ma",
+        "state": "future"
+    },
+    "adserver.me": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
+    "adserver.mk": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "server": "whois.marnet.mk",
+        "state": "past"
+    },
+    "adserver.mobi": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.nic.mobi",
+        "state": "future"
     }
 }
