@@ -108141,5 +108141,17 @@
         "expiration_date": "09-jan-2021",
         "server": "whois.registre.ma",
         "state": "future"
+    },
+    "ads.srv.br": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
+    "ads.us": {
+        "epoch": 1650672000.0,
+        "expiration_date": "23-apr-2022",
+        "server": "whois.nic.us",
+        "state": "future"
     }
 }
