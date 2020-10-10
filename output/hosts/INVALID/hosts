@@ -2,6 +2,9 @@
 # Date of generation: 2020-06-15T13:54:28.705823
 
 0.0.0.0 aacenc.exe
+0.0.0.0 adserver.dotcommedide
+0.0.0.0 adserver.ip
+0.0.0.0 adserver.php
 0.0.0.0 adserver.snapads.com.home
 0.0.0.0 adserver.snapads.com.lan
 0.0.0.0 adservice.google.co.id.totolink
@@ -9,10 +12,14 @@
 0.0.0.0 adservice.google.com.hitronhub.home
 0.0.0.0 adservice.google.com.home
 0.0.0.0 adservice.google.com.lan
+0.0.0.0 adservice.google.com.local.lan
 0.0.0.0 adservice.google.com.ph.lan
 0.0.0.0 adservice.google.com.pk.home
 0.0.0.0 adservice.google.com.totolink
 0.0.0.0 adservice.google.com.vn.home
+0.0.0.0 adservice.google.comimportant
+0.0.0.0 adservice.google.fr.local.lan
+0.0.0.0 adtracker.inmobi.com3
 0.0.0.0 advertising.com.home
 0.0.0.0 advertising.com.lan
 0.0.0.0 awwblpdgxhpkovjhk.bit
