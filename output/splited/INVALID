@@ -20,6 +20,7 @@ aacenc.exe                                                                      
 adserver.dotcommedide                                                                                SYNTAX     XXX        2020-10-10T19:17:28.717553
 adserver.ip                                                                                          SYNTAX     XXX        2020-10-10T19:17:47.965571
 adserver.php                                                                                         SYNTAX     XXX        2020-10-10T19:18:12.331069
+adserver.snapads.com.getcacheddhcpresultsforcurrentconfig                                            SYNTAX     XXX        2020-10-11T18:14:52.505489
 adserver.snapads.com.home                                                                            SYNTAX     XXX        2020-09-30T18:14:51.226202
 adserver.snapads.com.lan                                                                             SYNTAX     XXX        2020-09-30T18:14:52.031016
 adservice.google.co.id.totolink                                                                      SYNTAX     XXX        2020-09-30T18:14:57.254463
