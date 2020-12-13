@@ -28,6 +28,7 @@ adserver.php                                                                    
 adserver.snapads.com.getcacheddhcpresultsforcurrentconfig                                            SYNTAX     XXX        2020-10-11T18:14:52.505489
 adserver.snapads.com.home                                                                            SYNTAX     XXX        2020-09-30T18:14:51.226202
 adserver.snapads.com.lan                                                                             SYNTAX     XXX        2020-09-30T18:14:52.031016
+adserver.unityads.unity3d.com.home                                                                   SYNTAX     XXX        2020-12-13T18:58:04.142922
 adservice.google.co.id.totolink                                                                      SYNTAX     XXX        2020-09-30T18:14:57.254463
 adservice.google.com.getcacheddhcpresultsforcurrentconfig                                            SYNTAX     XXX        2020-09-30T18:14:58.054005
 adservice.google.com.hitronhub.home                                                                  SYNTAX     XXX        2020-09-30T18:14:59.245836
@@ -36,13 +37,18 @@ adservice.google.com.lan                                                        
 adservice.google.com.local.lan                                                                       SYNTAX     XXX        2020-10-10T19:18:53.729031
 adservice.google.com.ph.lan                                                                          SYNTAX     XXX        2020-09-30T18:15:00.438687
 adservice.google.com.pk.home                                                                         SYNTAX     XXX        2020-09-30T18:15:00.832005
+adservice.google.com.realtek                                                                         SYNTAX     XXX        2020-12-13T18:58:08.657940
 adservice.google.com.totolink                                                                        SYNTAX     XXX        2020-09-30T18:15:01.230627
 adservice.google.com.vn.home                                                                         SYNTAX     XXX        2020-09-30T18:15:02.028401
 adservice.google.comimportant                                                                        SYNTAX     XXX        2020-10-10T19:18:54.542272
 adservice.google.fr.local.lan                                                                        SYNTAX     XXX        2020-10-10T19:18:54.944537
+adtech.advertising.com.bbrouter                                                                      SYNTAX     XXX        2020-12-13T18:58:10.549388
 adtracker.inmobi.com3                                                                                SYNTAX     XXX        2020-10-10T19:19:09.378498
+advertising.com.bbrouter                                                                             SYNTAX     XXX        2020-12-13T18:58:14.078111
 advertising.com.home                                                                                 SYNTAX     XXX        2020-09-30T18:15:17.380609
 advertising.com.lan                                                                                  SYNTAX     XXX        2020-09-30T18:15:17.765778
+advertising.com.totolink                                                                             SYNTAX     XXX        2020-12-13T18:58:14.983482
+advertising.comthird-party                                                                           SYNTAX     XXX        2020-12-13T18:58:15.887488
 aegijmaliijo.bazar                                                                                   SYNTAX     XXX        2020-11-16T01:02:27.164484
 afehjlamghjn.bazar                                                                                   SYNTAX     XXX        2020-11-16T01:02:44.891271
 afeiilamgiin.bazar                                                                                   SYNTAX     XXX        2020-11-16T01:02:45.121192

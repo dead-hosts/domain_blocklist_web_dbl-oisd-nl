@@ -12,6 +12,7 @@
 0.0.0.0 adserver.snapads.com.getcacheddhcpresultsforcurrentconfig
 0.0.0.0 adserver.snapads.com.home
 0.0.0.0 adserver.snapads.com.lan
+0.0.0.0 adserver.unityads.unity3d.com.home
 0.0.0.0 adservice.google.co.id.totolink
 0.0.0.0 adservice.google.com.getcacheddhcpresultsforcurrentconfig
 0.0.0.0 adservice.google.com.hitronhub.home
@@ -20,13 +21,18 @@
 0.0.0.0 adservice.google.com.local.lan
 0.0.0.0 adservice.google.com.ph.lan
 0.0.0.0 adservice.google.com.pk.home
+0.0.0.0 adservice.google.com.realtek
 0.0.0.0 adservice.google.com.totolink
 0.0.0.0 adservice.google.com.vn.home
 0.0.0.0 adservice.google.comimportant
 0.0.0.0 adservice.google.fr.local.lan
+0.0.0.0 adtech.advertising.com.bbrouter
 0.0.0.0 adtracker.inmobi.com3
+0.0.0.0 advertising.com.bbrouter
 0.0.0.0 advertising.com.home
 0.0.0.0 advertising.com.lan
+0.0.0.0 advertising.com.totolink
+0.0.0.0 advertising.comthird-party
 0.0.0.0 aegijmaliijo.bazar
 0.0.0.0 afehjlamghjn.bazar
 0.0.0.0 afeiilamgiin.bazar

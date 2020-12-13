@@ -27,6 +27,7 @@ adserver.php
 adserver.snapads.com.getcacheddhcpresultsforcurrentconfig
 adserver.snapads.com.home
 adserver.snapads.com.lan
+adserver.unityads.unity3d.com.home
 adservice.google.co.id.totolink
 adservice.google.com.getcacheddhcpresultsforcurrentconfig
 adservice.google.com.hitronhub.home
@@ -35,13 +36,18 @@ adservice.google.com.lan
 adservice.google.com.local.lan
 adservice.google.com.ph.lan
 adservice.google.com.pk.home
+adservice.google.com.realtek
 adservice.google.com.totolink
 adservice.google.com.vn.home
 adservice.google.comimportant
 adservice.google.fr.local.lan
+adtech.advertising.com.bbrouter
 adtracker.inmobi.com3
+advertising.com.bbrouter
 advertising.com.home
 advertising.com.lan
+advertising.com.totolink
+advertising.comthird-party
 aegijmaliijo.bazar
 afehjlamghjn.bazar
 afeiilamgiin.bazar
