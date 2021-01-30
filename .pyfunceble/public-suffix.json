@@ -194,7 +194,6 @@
     ],
     "arpa": [
         "in-addr.arpa",
-        "uri.arpa",
         "iris.arpa",
         "e164.arpa",
         "uri.arpa",
@@ -400,9 +399,6 @@
         "for-the.biz",
         "for-some.biz",
         "mmafan.biz",
-        "for-better.biz",
-        "myftp.biz",
-        "selfip.biz",
         "dscloud.biz",
         "for-better.biz"
     ],
@@ -1817,7 +1813,7 @@
     "gp": [
         "mobi.gp",
         "app.gp",
-        "asso.gp",
+        "org.gp",
         "net.gp",
         "edu.gp",
         "asso.gp",
@@ -4784,16 +4780,16 @@
         "net.mo"
     ],
     "mobi": [
-        "barsy.mobi",
-        "dscloud.mobi"
+        "dscloud.mobi",
+        "barsy.mobi"
     ],
     "mom": [
         "for.mom",
         "and.mom"
     ],
     "mr": [
-        "blogspot.mr",
-        "gov.mr"
+        "gov.mr",
+        "blogspot.mr"
     ],
     "ms": [
         "org.ms",
