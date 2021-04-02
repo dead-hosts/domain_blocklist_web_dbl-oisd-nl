@@ -13318,3 +13318,5 @@ idna_subject,checker_type,destination,source,tested_at,session_id
 13hq.pms.btc.top,AVAILABILITY,origin.list,origin.list,2001-04-02 00:27:58.872211,6f07148b20c92039c471f22d
 14-huobi.pms.btc.top,AVAILABILITY,origin.list,origin.list,2001-04-02 00:28:07.192855,6f07148b20c92039c471f22d
 141-145.btcc.com,AVAILABILITY,origin.list,origin.list,2001-04-02 00:28:26.407543,6f07148b20c92039c471f22d
+145-185.eu.api.binance.com,AVAILABILITY,origin.list,origin.list,2001-04-02 00:49:52.772513,6f07148b20c92039c471f22d
+147.api.bitcoin.com,AVAILABILITY,origin.list,origin.list,2001-04-02 00:50:12.841449,6f07148b20c92039c471f22d
