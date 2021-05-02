@@ -1,8 +1,8 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "b2f65ac5c6a5cc3010aba7f28ab75f450071b52033bccb09fae93927",
-    "line_number": 10358,
+    "hash": "3525f0df3de12d4a7207263f41c490ceff14974af5b470b8481e6dc9",
+    "line_number": 9773,
     "output_dir": "/home/runner/work/domain_blocklist_web_dbl-oisd-nl/domain_blocklist_web_dbl-oisd-nl/output/origin.list",
     "previous_hash": null,
     "session_id": "6f07148b20c92039c471f22d",
