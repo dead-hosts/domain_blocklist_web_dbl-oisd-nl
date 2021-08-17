@@ -5580,6 +5580,7 @@
         "name.na",
         "or.na",
         "org.na",
+        "pro.na",
         "school.na",
         "tv.na",
         "us.na",
@@ -5813,6 +5814,7 @@
     ],
     "ni": [
         "ac.ni",
+        "balat.no",
         "biz.ni",
         "co.ni",
         "com.ni",
@@ -6780,8 +6782,7 @@
         "gov.nr",
         "info.nr",
         "net.nr",
-        "org.nr",
-        "pro.na"
+        "org.nr"
     ],
     "nu": [
         "enterprisecloud.nu",
