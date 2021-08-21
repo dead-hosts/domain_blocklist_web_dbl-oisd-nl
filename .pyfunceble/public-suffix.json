@@ -1778,7 +1778,6 @@
         "chambagri.fr",
         "chirurgiens-dentistes-en-france.fr",
         "chirurgiens-dentistes.fr",
-        "code.run",
         "com.fr",
         "en-root.fr",
         "experts-comptables.fr",
@@ -2671,7 +2670,6 @@
         "xn--cesenaforl-i8a.it",
         "xn--forl-cesena-fcb.it",
         "xn--forlcesena-c8a.it",
-        "xn--od0alg.cn",
         "xn--sdtirol-n2a.it",
         "xn--trentin-sd-tirol-rzb.it",
         "xn--trentin-sdtirol-7vb.it",
@@ -7504,6 +7502,7 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "code.run",
         "development.run",
         "hs.run",
         "ravendb.run",
@@ -8404,6 +8403,7 @@
     ],
     "ve": [
         "arts.ve",
+        "bib.ve",
         "co.ve",
         "com.ve",
         "e12.ve",
@@ -8415,7 +8415,9 @@
         "int.ve",
         "mil.ve",
         "net.ve",
+        "nom.ve",
         "org.ve",
+        "rar.ve",
         "rec.ve",
         "store.ve",
         "tec.ve",
