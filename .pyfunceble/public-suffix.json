@@ -3095,7 +3095,6 @@
         "ichinomiya.aichi.jp",
         "ichinomiya.chiba.jp",
         "ichinoseki.iwate.jp",
-        "id.lv",
         "ide.kyoto.jp",
         "iheya.okinawa.jp",
         "iida.nagano.jp",
@@ -4785,6 +4784,7 @@
         "conf.lv",
         "edu.lv",
         "gov.lv",
+        "id.lv",
         "mil.lv",
         "net.lv",
         "org.lv"
@@ -5636,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -7914,6 +7913,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
