@@ -689,8 +689,7 @@
         "com.bt",
         "edu.bt",
         "gov.bt",
-        "net.bt",
-        "org.bt"
+        "net.bt"
     ],
     "builders": [
         "cloudsite.builders"
@@ -795,6 +794,7 @@
         "net.ci",
         "nl.ci",
         "or.ci",
+        "org.bt",
         "org.ci",
         "presse.ci",
         "xn--aroport-bya.ci"
