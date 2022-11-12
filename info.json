@@ -8,8 +8,8 @@
     "finish_timestamp": 0.0,
     "last_download_datetime": "2020-12-28T18:43:33.419366",
     "last_download_timestamp": 1609181013.419366,
-    "latest_part_finish_datetime": "2022-10-31T03:39:59.613274",
-    "latest_part_finish_timestamp": 1667187599.613274,
+    "latest_part_finish_datetime": "2022-11-12T19:46:33.979550",
+    "latest_part_finish_timestamp": 1668282393.97955,
     "latest_part_start_datetime": "2020-12-28T18:43:33.610528",
     "latest_part_start_timestamp": 1609181013.610528,
     "live_update": true,
@@ -19,6 +19,7 @@
         "@sjhgvr"
     ],
     "raw_link": "https://dbl.oisd.nl/",
+    "repo": "domain_blocklist_web_dbl-oisd-nl/domain_blocklist_web_dbl-oisd-nl",
     "start_datetime": "2019-11-22T19:17:46.436298",
     "start_timestamp": 1574450266.436298
 }
