@@ -1,8 +1,7 @@
-name: Dead Hosts Infrastructure Workflow
+name: Authorization Checker
 on:
-  push:
-    branches:
-      - "*"
+  schedule:
+    - cron: "0 5 * * *"
   workflow_dispatch: {}
 
 env:
@@ -18,8 +17,8 @@ env:
   PLATFORM_SCOPE: "${{ secrets.PLATFORM_SCOPE }}"
 
 jobs:
-  single:
-    name: Run the Dead Hosts launcher
+  trigger:
+    name: Trigger action
     runs-on: "${{ matrix.os }}"
 
     strategy:
@@ -31,7 +30,7 @@ jobs:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         name: Clone repository
         with:
           token: "${{ secrets.BOT_REPO_PAT }}"
@@ -56,4 +55,4 @@ jobs:
 
       - name: Run Launcher
         run: |
-          dead-hosts-launcher -d
+          dead-hosts-launcher --authorize -d
