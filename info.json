@@ -18,6 +18,11 @@
     "ping": [
         "@sjhgvr"
     ],
+    "platform_container_id": null,
+    "platform_container_name": "domain_blocklist_web_dbl-oisd-nl",
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
     "raw_link": "https://big.oisd.nl/",
     "repo": "dead-hosts/domain_blocklist_web_dbl-oisd-nl",
     "start_datetime": "2019-11-22T19:17:46.436298",
