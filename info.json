@@ -1,7 +1,7 @@
 {
     "currently_under_test": true,
     "custom_pyfunceble_config": {
-        "inactive_database": false
+        "cli_decoding.adblock": true
     },
     "days_until_next_test": 3.0,
     "finish_datetime": "1970-01-01T00:00:00",
@@ -18,7 +18,7 @@
     "ping": [
         "@sjhgvr"
     ],
-    "raw_link": "https://dbl.oisd.nl/",
+    "raw_link": "https://big.oisd.nl/",
     "repo": "dead-hosts/domain_blocklist_web_dbl-oisd-nl",
     "start_datetime": "2019-11-22T19:17:46.436298",
     "start_timestamp": 1574450266.436298
