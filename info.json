@@ -18,6 +18,7 @@
     "ping": [
         "@"
     ],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "domain_blocklist_web_dbl-oisd-nl",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
