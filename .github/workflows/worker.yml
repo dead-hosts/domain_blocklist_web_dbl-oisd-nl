@@ -1,7 +1,7 @@
 name: Platform Worker
 on:
   schedule:
-    - cron: "18 */1 * * *"
+    - cron: "46 */6 * * *"
   workflow_dispatch: {}
 
 env:

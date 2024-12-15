@@ -16,7 +16,7 @@
     "name": "domain_blocklist_web_dbl-oisd-nl",
     "own_management": false,
     "ping": [
-        ""
+        "@"
     ],
     "platform_container_id": null,
     "platform_container_name": "domain_blocklist_web_dbl-oisd-nl",
